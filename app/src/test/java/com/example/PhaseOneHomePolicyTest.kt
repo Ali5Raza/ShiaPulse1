@@ -81,7 +81,7 @@ class PhaseOneHomePolicyTest {
         val next = PrayerTimeCalculator.findNextEvent(
             today,
             tomorrow,
-            today.instant(PrayerTimeCalculator.PrayerEvent.ISHA) + 60_000L
+            today.instant(PrayerTimeCalculator.PrayerEvent.MIDNIGHT) + 60_000L
         )
         assertTrue(next.isTomorrow)
         assertEquals(PrayerTimeCalculator.PrayerEvent.FAJR, next.event)
