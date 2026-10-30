@@ -251,10 +251,16 @@ class AamalReminderRaceTest {
 
     @Test
     fun failedCommitReturnsFailureRestoresStateAndDoesNotChangeAlarms() {
+        assertTrue(AamalEventScheduler.setEnabled(context, true).persisted)
+        drainSchedulers()
         val previousToken = currentToken()
         installAlarm(previousToken)
+        drainSchedulers()
+
         val failingDisableContext = FailingCommitContext(context)
+        failingDisableContext.failNextCommit.set(true)
         val disableResult = AamalEventScheduler.setEnabled(failingDisableContext, false)
+        drainSchedulers()
 
         assertFalse(disableResult.persisted)
         assertNull(disableResult.token)
@@ -263,7 +269,10 @@ class AamalReminderRaceTest {
         assertEquals(1, scheduledAlarmCount())
 
         assertTrue(AamalEventScheduler.setEnabled(context, false).persisted)
+        drainSchedulers()
+
         val failingEnableContext = FailingCommitContext(context)
+        failingEnableContext.failNextCommit.set(true)
         val enableResult = AamalEventScheduler.setEnabled(failingEnableContext, true)
         drainSchedulers()
 
@@ -402,7 +411,6 @@ class AamalReminderRaceTest {
     ) : SharedPreferences.Editor by delegate {
         override fun commit(): Boolean {
             if (failNextCommit.compareAndSet(true, false)) {
-                delegate.apply()
                 return false
             }
             return delegate.commit()

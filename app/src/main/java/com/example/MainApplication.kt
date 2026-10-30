@@ -11,13 +11,13 @@ class MainApplication : Application() {
             FirebaseApp.initializeApp(this)
             // Enable offline persistence for Firebase Realtime Database
             val database = FirebaseDatabase.getInstance("https://shiapulse-pk-default-rtdb.asia-southeast1.firebasedatabase.app")
-            database.setPersistenceEnabled(true)
+            runCatching { database.setPersistenceEnabled(true) }
             
             // Keep remote config and calendar events synced automatically
-            database.reference.child("remote_config").keepSynced(true)
-            database.reference.child("events_json_string").keepSynced(true)
-            database.reference.child("events_version").keepSynced(true)
-            database.reference.child("events_version_last_updated").keepSynced(true)
+            runCatching { database.reference.child("remote_config").keepSynced(true) }
+            runCatching { database.reference.child("events_json_string").keepSynced(true) }
+            runCatching { database.reference.child("events_version").keepSynced(true) }
+            runCatching { database.reference.child("events_version_last_updated").keepSynced(true) }
 
             // Keep calendar content live for the whole process, not only while an
             // Activity is visible. Every applied update emits an eventsRevision.

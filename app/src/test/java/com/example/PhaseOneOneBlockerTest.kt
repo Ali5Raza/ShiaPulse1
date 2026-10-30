@@ -138,7 +138,7 @@ class PhaseOneOneBlockerTest {
         assertEquals("2026-10-28", AamalReminderPolicy.dateKey(midnightInstant, TimeZone.getTimeZone("UTC")))
 
         val newYork = TimeZone.getTimeZone("America/New_York")
-        val beforeSpringDst = localMillis(newYork, 2026, 3, 7, 1, 30)
+        val beforeSpringDst = localMillis(newYork, 2026, 3, 8, 1, 30)
         val nextSpring = AamalReminderPolicy.nextTriggerMillis(beforeSpringDst, 1, 30, newYork)
         assertEquals(23L * 60L * 60L * 1000L, nextSpring - beforeSpringDst)
         val beforeFallDst = localMillis(newYork, 2026, 10, 31, 3, 30)
