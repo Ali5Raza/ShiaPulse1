@@ -1,0 +1,144 @@
+{
+  "id": "tawassul",
+  "title": "Dua Tawassul",
+  "titleUr": "دعا توسل",
+  "titleAr": "دعاء التوسل",
+  "category": "Famed Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "A highly esteemed supplication seeking intercession through the Fourteen Infallibles (Ahlul Bayt a.s.) to ask Allah for quick relief from difficulties.",
+  "descriptionUr": "چودہ معصومین اہل بیت (ع) کا واسطہ دے کر اللہ سے مشکلات کے جلد حل کی التجا کرنے والی باعظمت دعا۔",
+  "descriptionAr": "دعاء جليل يُتوسل فيه بالمعصومين الأربعة عشر من أهل البيت (ع) لطلب الفرج العاجل من الله.",
+  "relevance": "Particularly recommended on Tuesday nights for wishes.",
+  "relevanceUr": "حاجات کے لیے خصوصاً منگل کی رات پڑھنا مستحب ہے۔",
+  "relevanceAr": "يستحب خصوصاً ليلة الأربعاء لقضاء الحوائج.",
+  "audioUrl": "https://mp3.duas.org/Misc%20Duas/2_Tawassul.mp3",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "Bismillahir-rahmarir-rahim",
+      "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "بسم الله الرحمن الرحیم"
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ وَأَتَوَجَّهُ إِلَيْكَ بِنَبِيِّكَ نَبِيِّ الرَّحْمَةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ",
+      "translation": "O Allah, indeed I ask You and turn toward You through Your Prophet, the Prophet of Mercy, Muhammad (s.a.w.s.)",
+      "transliteration": "Allahumma inni as'aluka wa atawajjahu ilayka bi-nabiyyika nabiyyir-rahmah Muhammadin sallallahu 'alayhi wa alihi",
+      "urduTranslation": "اے اللہ! میں تجھ سے مانگتا ہوں اور تیری طرف متوجہ ہوتا ہوں تیرے نبی، جو رحمت کے نبی ہیں محمد مصطفیؐ کے واسطے سے۔",
+      "farsiTranslation": "خدایا از تو می خواهم و به واسطه پیامبرت، پیامبر رحمت، محمد صلی الله علیه و آله و سلم به تو روی می آورم."
+    },
+    {
+      "arabic": "يَا أَبَا الْقَاسِمِ يَا رَسُولَ اللَّهِ يَا إِمَامَ الرَّحْمَةِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Abu'l-Qasim, O Messenger of Allah, O Imam of Mercy! O our chief and master, indeed we turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Qasim ya Rasulallah ya Imamar-rahmah, ya sayyidana wa mawlana inna tawajjahna wastashfa'na wa tawassalna bika ilallah, wa qaddamnake bayna yaday hajatina ya wajihan 'indallah ishfa' lana 'indallah",
+      "urduTranslation": "اے ابو القاسم! اے رسول خدا! اے رحمت کے امام! اے ہمارے آقا و مولا! بے شک ہم متوجہ ہوئے، شفاعت کے طلبگار ہوئے، اور خدا کی طرف وسیلہ بنایا آپ کو، اور آپ کو اپنی حاجتوں کے آگے پیش کیا، اے خدا کے ہاں معزز و آبرومند! ہماری شفاعت کیجیے خدا کے پاس!",
+      "farsiTranslation": "اى ابوالقاسم، اى رسول خدا، اى امام رحمت، اى سرور و سرور ما، همانا ما توبه كرديم و از تو شفاعت كرديم و به وسيله تو از خدا خواستيم. ما تو را پیش از حاجت خود عرضه داشتیم، ای بزرگوار نزد خدا، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا الْحَسَنِ يَا أَمِيرَ الْمُؤْمِنِينَ يَا عَلِيَّ بْنَ أَبِي طَالِبٍ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Hassan, O Commander of the Faithful, O Ali son of Abu Talib! O proof of Allah over His creation, O our chief and master! We turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Hasan ya Amir al-Mu'minin ya 'Aliyya bna Abi Talib, ya hujjata-llahi 'ala khalqihi ya sayyidana wa mawlana...",
+      "urduTranslation": "اے ابو الحسن! اے امیر المومنین! اے علی ابن ابی طالبؑ! اے بندوں پر اللہ کی حجت! اے ہمارے سردار اور آقا! ہم نے آپ کے ذریعہ اللہ کی طرف توجہ کی، شفاعت چاہی اور وسیلہ بنایا۔ اے اللہ کے حضور سر بلند! اللہ کے ہاں ہماری شفاعت کیجیے!",
+      "farsiTranslation": "اى ابوالحسن اى اميرالمؤمنين، اى على بن ابى طالب، اى حجت خدا بر خلقش، اى سرور و مولاى ما، همانا ما راهنماى ما هستيم. و ما شفاعت تو را طلبیدیم و با خدا استغاثه کردیم و تو را بر حاجت خود عرضه داشتیم، ای شایسته خدا، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا فَاطِمَةُ الزَّهْرَاءُ يَا بِنْتَ مُحَمَّدٍ، يَا قُرَّةَ عَيْنِ الرَّسُولِ، يَا سَيِّدَتَنَا وَمَوْلاتَنَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكِ إِلَى اللَّهِ، وَقَدَّمْنَاكِ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهَةً عِنْدَ اللَّهِ اشْفَعِي لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Fatima the Radiant, O daughter of Muhammad! O comfort of the Messenger's eyes, O our chieftess and mistress! We turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+      "transliteration": "Ya Fatimatu-z-Zahra' ya binta Muhammad, ya qurrata 'ayni-r-rasul, ya sayyidatana wa mawlatana...",
+      "urduTranslation": "اے فاطمہ زہراؑ! اے دخترِ محمدؐ! اے رسولؐ کی چشم و چراغ! اے ہماری سیدہ و خاتونِ جنت! ہم نے آپ کے وسیلے سے اللہ کے پاس شفاعت چاہی، اے آبرو مندِ خدا! خدا کے حضور ہماری شفاعت فرمائیے!",
+      "farsiTranslation": "ای فاطمه الزهرا، ای دختر محمد، ای نور چشم رسول، ای بانو و بانوی ما، ما به سوی ما توبه کردیم و شفاعت خود را خواستیم و تو را به درگاه خدا خواهش کردیم و تو را بر حاجت خود عرضه داشتیم، ای شایسته در پیشگاه خداوند، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا مُحَمَّدٍ يَا حَسَنَ بْنَ عَلِيٍّ أَيُّهَا الْمُجْتَبَى، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Muhammad, O Hassan son of Ali! O Chosen One, O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+      "transliteration": "Ya Aba Muhammad ya Hasana-bna 'Aliyyin ayyuha-l-Mujtaba, yabna Rasulillah...",
+      "urduTranslation": "اے ابو محمد! اے حسن ابن علیؑ! اے مجتبٰی! اے فرزندِ رسولؐ! اے مخلوقِ خدا پر خدا کی حجت! اے ہمارے سید و سردار! خدا کے ہاں ہماری شفاعت فرمائیے!",
+      "farsiTranslation": "اى ابومحمد، اى حسن بن على، اى برگزیده، اى فرزند رسول خدا، اى حجت خدا بر خلق او، اى سرور و سرپرست ما، همانا ما راهنماى ما هستیم. و ما شفاعت تو را طلبیدیم و با خدا استغاثه کردیم و تو را بر حاجت خود عرضه داشتیم، ای شایسته خدا، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا عَبْدِ اللَّهِ يَا حُسَيْنَ بْنَ عَلِيٍّ أَيُّهَا الشَّهِيدُ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Abdullah, O Hussain son of Ali! O Martyr, O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+      "transliteration": "Ya Aba 'Abdillah ya Husayna-bna 'Aliyyin ayyuha-sh-Shahidu, yabna Rasulillah...",
+      "urduTranslation": "اے ابا عبداللہ! اے حسین ابن علیؑ! اے شہیدِ کربلا! اے فرزندِ رسولؐ! اے مخلوق پر اللہ کی حجت! اے ہمارے مولا و سردار! اللہ کے حضور ہماری شفاعت فرمائیے!",
+      "farsiTranslation": "اى اباعبدالله، اى حسين بن على، اى شهيد، اى فرزند رسول خدا، اى حجت خدا بر خلق او، اى سرور و سرپرست ما. ما روی آوردیم و شفاعت تو را طلبیدیم و به وسیله تو با خدا دعا کردیم و تو را بر حاجت خود عرضه داشتیم. ای شایسته خدا، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ الْحُسَيْنِ يَا زَيْنَ الْعَابِدِينَ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Hassan, O Ali son of Hussain! O Ornament of the Worshippers, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna al-Husayn ya Zayna al-'Abidin...",
+      "urduTranslation": "اے ابو الحسن! اے علی ابن الحسینؑ! اے زین العابدینؑ! اے سجادؑ! اے مخلوقات پر اللہ کی حجت! اے ہمارے مولا و سردار! اللہ کے ہاں ہماری شفاعت کیجیے!",
+      "farsiTranslation": "اى ابوالحسن، اى على بن الحسین، اى زین العابدین، اى حجت خدا بر خلقش، اى سرور و سرور ما، همانا ما به سوى خود باز مى گردیم و شفاعت مى جوییم. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا جَعْفَرٍ يَا مُحَمَّدَ بْنَ عَلِيٍّ أَيُّهَا الْبَاقِرُ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Ja'far, O Muhammad son of Ali! O Splitter of Knowledge (al-Baqir), O son of the Messenger of Allah! Intercede for us with Allah!",
+      "transliteration": "Ya Aba Ja'far ya Muhammada-bna 'Aliyyin ayyuha-l-Baqir...",
+      "urduTranslation": "اے ابو جعفر! اے محمد ابن علیؑ! اے باقر العلومؑ! اے رسول خدا کے فرزند و محبوب! اے ہمارے سید و مقتدا! اللہ کے حضور ہماری سفارش فرمائیے!",
+      "farsiTranslation": "اى ابوجعفر، اى محمد بن على، اى باقر، اى فرزند رسول خدا، اى حجت خدا بر خلقش، اى مولاي و سرور ما، همانا ما هدايت كننده ما هستيم. و تو را شفاعت كرديم و به درگاه خدا خواهش كرديم، اي بزرگوار نزد خدا، ما را نزد خدا شفاعت كن."
+    },
+    {
+      "arabic": "يَا أَبَا عَبْدِ اللَّهِ يَا جَعْفَرَ بْنَ مُحَمَّدٍ أَيُّهَا الصَّادِقُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا Sَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Abdullah, O Ja'far son of Muhammad! O Truthful One (as-Sadiq), O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+      "transliteration": "Ya Aba 'Abdillah ya Ja'fara-bna Muhammadin ayyuha-s-Sadiq...",
+      "urduTranslation": "اے ابا عبداللہ! اے جعفر ابن محمدؑ! اے جعفرِ صادقؑ! اے مخلوق پر اللہ کی واضع حجت! اے ہمارے سردار! اللہ کے پاس ہماری سفارش و شفاعت کیجیے!",
+      "farsiTranslation": "اى اباعبدالله، اى جعفر بن محمد، اى راستگو، اى حجت خدا بر خلقش، اى سرور و سرور ما، به راستى به سوى ما توبه كن و از ما شفاعت بخواه. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا الْحَسَنِ يَا مُوسَى بْنَ جَعْفَرٍ أَيُّهَا الْكَاظِمُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Hassan, O Musa son of Ja'far! O Restrainer of Anger (al-Kadhim), O Proof of Allah over His creation! Intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Hasan ya Musa-bna Ja'farin ayyuha-l-Kadhim...",
+      "urduTranslation": "اے ابو الحسن! اے موسیٰ ابن جعفرؑ! اے کاظمِ آلِ محمدؑ! اے زمین پر خدا کے برحق خلیفہ! اے ہمارے ممدوح آقا! اللہ کے ہاں ہماری شفاعت کیجیے!",
+      "farsiTranslation": "اى ابوالحسن، اى موسى بن جعفر، اى الکاظم، اى حجت خدا بر خلقش، اى سرور و سرور ما، همانا ما به تو روى مى‏آوریم و شفاعت مى‏کنیم. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ مُوسَى أَيُّهَا الرِّضَا، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Hassan, O Ali son of Musa! O Pleased One (ar-Reza), O Proof of Allah over His creation! Intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna Musa ayyuha-r-Rida...",
+      "urduTranslation": "اے ابو الحسن! اے علی ابن موسیٰؑ! اے امام رضاؑ! اے ضامنِ غریباں! اے اللہ کی مخلوق پر حجتِ الہیٰ! اے ہمارے امامِ رؤف! اللہ کے حضور ہماری شفاعت کیجیے!",
+      "farsiTranslation": "اى ابوالحسن، اى على بن موسى، اى خشنودی، اى حجت خدا بر خلقش، اى سرور و سرور ما، همانا ما به سوى ما روى آوردیم، شفاعت کردیم و خواهش کردیم. با تو به درگاه خداوند، ای بزرگوار نزد خداوند، ما را نزد خداوند شفاعت کن"
+    },
+    {
+      "arabic": "يَا أَبَا جَعْفَرٍ يَا مُحَمَّدَ بْنَ عَلِيٍّ أَيُّهَا التَّقِيُّ الْجَوَادُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Ja'far, O Muhammad son of Ali! O Pious Generous One (al-Jawad), O Proof of Allah over His creation! Intercede for us with Allah!",
+      "transliteration": "Ya Aba Ja'far ya Muhammada-bna 'Aliyyin ayyuha-t-Taqiyyu-l-Jawad...",
+      "urduTranslation": "اے ابو جعفر! اے محمد ابن علیؑ! اے محمد تقیؑ الجوادؑ! اے فرزندِ رسولؐ! اے اللہ کے بندوں پر واضح حجت! اے ہمارے پیارے آقا! اللہ کے پاس ہماری شفاعت فرمائیے!",
+      "farsiTranslation": "اى ابوجعفر، اى محمد بن على، اى پرهیزگار و سخاوتمند، اى حجت خدا بر خلقش، اى سرور و سرپرست ما، به راستى که به سوى ما توبه کن و از ما شفاعت بخواه. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ مُحَمَّدٍ أَيُّهَا الْهَادِي النَّقِيُّ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Hassan, O Ali son of Muhammad! O Guide Pure One (al-Hadi), O Proof of Allah over His creation! Intercede for us with Allah!",
+      "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna Muhammadin ayyuha-l-Hadiyyu-n-Naqiyy...",
+      "urduTranslation": "اے ابو الحسن! اے علی ابن محمدؑ! اے علی نقیؑ النقی الہادیؑ! اے اللہ کی مخلوق پر عظیم حجت! اے ہمارے پاکباز سردار! اللہ کے ہاں ہماری شفاعت کیجیے!",
+      "farsiTranslation": "اى ابوالحسن، اى على بن محمد، اى رهنماى خالص، اى حجت خدا بر خلقش، اى سرور و سرپرست ما، همانا ما به تو روى مى‏آوريم و شفاعت مى‏كنيم. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا أَبَا مُحَمَّدٍ يَا حَسَنَ بْنَ عَلِيٍّ أَيُّهَا الْعَسْكَرِيُّ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Father of Muhammad, O Hassan son of Ali! O Soldierly One (al-Askari), O Proof of Allah over His creation! Intercede for us with Allah!",
+      "transliteration": "Ya Aba Muhammad ya Hasana-bna 'Aliyyin ayyuha-l-'Askariyy...",
+      "urduTranslation": "اے ابو محمد! اے حسن ابن علیؑ! اے حسن عسکریؑ! اے مخلوق پر کائنات کے مالک کی روشن حجت! اے ہمارے مولا! ہمارے لیے اللہ سے رحمت اور بخشش کی سفارش کیجیے!",
+      "farsiTranslation": "اى ابومحمد، اى حسن بن على، اى نظامى، اى حجت خدا بر خلقت، اى سرور و سرپرست ما، همانا ما به تو روى مى‏آوريم و شفاعت مى‏كنيم. تو را به درگاه خدا خواهش کردیم، ای بزرگوار در پیشگاه خداوند، ما را نزد خداوند شفاعت کن."
+    },
+    {
+      "arabic": "يَا وَصِيَّ الْحَسَنِ وَالْخَلَفَ الْحُجَّةَ أَيُّهَا الْقَائِمُ الْمُنْتَظَرُ الْمَهْدِيُّ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+      "translation": "O Successor of Hassan, O Rightful Proof, O Awaited Savior, the Mahdi! O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+      "transliteration": "Ya wasiyya-l-Hasani wal-khalafa-l-hujjata ayyuha-l-Qa'imu-l-Muntadharu-l-Mahdiyyu yabna Rasulillah...",
+      "urduTranslation": "اے حسنؑ عسکری کے سچے جانشین اور خلفِ صالح! اے قائمِ آلِ محمدؑ! اے امامِ مہدیؑ منتظر! اے رسولِ خدا کے پیارے فرزند! اے مخلوقِ خدا پر خدا کی غائب حجت! اے ہمارے غائب مولا! خدا کے حضور جلد ظہور کے لیے شفاعت کیجیے!",
+      "farsiTranslation": "ای ولی امر خیر و جانشین حجت، ای ایستاده، مهدی منتظر، ای فرزند رسول خدا، ای حجت خدا بر خلقش، ای مولای و سرپرست ما. به درگاه خدا روی آوردیم و شفاعت تو را طلبیدیم و از خدا خواستیم، ای بزرگوار در نزد خداوند، ما را نزد خدا شفاعت کن."
+    },
+    {
+      "arabic": "يَا سَادَتِي وَمَوَالِيَّ، إِنِّي تَوَجَّهْتُ بِكُمْ أَئِمَّتِي وَعُدَّتِي لِيَوْمِ فَقْرِي وَحَاجَتِي إِلَى اللَّهِ، وَتَوَسَّلْتُ بِكُمْ إِلَى اللَّهِ، وَاسْتَشْفَعْتُ بِكُمْ إِلَى اللَّهِ، فَاشْفَعُوا لِي عِنْدَ اللَّهِ، وَاسْتَنْقِذُونِي مِنْ ذُنُوبِي عِنْدَ اللَّهِ، فَإِنَّكُمْ وَسِيلَتِي إِلَى اللَّهِ",
+      "translation": "O my masters and leaders, indeed I turn towards you, my Imams and my preparation for the day of my poverty and need. I depend on you and seek intercession with Allah. Intercede for me, and rescue me from my sins. For indeed you are my means of reaching Allah!",
+      "transliteration": "Ya sadati wa mawaliyya, inni tawajjahru bikum a'immati wa 'uddati li-yawmi faqri wa hajati...",
+      "urduTranslation": "اے میرے معزز آقاؤں اور سرداروں! میں نے آپ سب کے وسیلے سے اللہ کی طرف رخ کیا، آپ میرے ائمہ ہیں اور میرے عسرت کے دن کا سرمایہ ہیں! پس خدا کے حضور میری سفارش کیجیے، اور مجھے میرے گناہوں سے بچائیے! سچ مچ آپ سب خدا کے حضور میرے وسیلہ نجات ہیں!",
+      "farsiTranslation": "اى سروران و مولاي من، من به شما به عنوان امامان خود متوسل شدم و خود را براى روز فقر و نيازم به خدا آماده كردم و به وسيله شما از خدا درخواست كردم و شفاعت خواستم. تو را نزد خدا بیاور، پس نزد خدا از جانب من شفاعت کن و مرا از گناهانم در پیشگاه خدا نجات ده که تو وسیله من به سوی خدا هستی."
+    },
+    {
+      "arabic": "وَبِحُبِّكُمْ وَبِقُرْبِكُمْ أَرْجُو نَجَاةً مِنَ اللَّهِ، فَكُونُوا عِنْدَ اللَّهِ رَجَائِي، يَا سَادَتِي يَا أَوْلِيَاءَ اللَّهِ، صَلَّى اللَّهُ عَلَيْكُمْ أَجْمَعِينَ، وَلَعَنَ اللَّهُ أَعْدَاءَ اللَّهِ ظَالِمِيكُمْ مِنَ الْأَوَّلِينَ وَالْآخِرِينَ، آمِينَ رَبَّ الْعَالَمِينَ.",
+      "translation": "And through my love for you and nearness to you, I hope for salvation from Allah. So be my hope with Allah, O my masters, O friends of Allah. May Allah bless you all, and may Allah curse the enemies of Allah who oppressed you, from the first to the last. Amen, Lord of the worlds.",
+      "transliteration": "Wa bi-hubbikum wa bi-qurbikum arju najatan min-allah, fakunu 'inda-llahi raja'i, ya sadati ya awliya'a-llah, sall-allahu 'alaykum ajma'in, wa la'an-allahu a'da'a-llahi dhalimikum min-al-awwalina wal-akhirin, amin rabba-l-'alamin.",
+      "urduTranslation": "اور آپ کی محبت اور آپ کے قرب کے ذریعے میں اللہ سے نجات کی امید رکھتا ہوں، پس آپ اللہ کے حضور میری امید بنیں، اے میرے سردارو، اے اللہ کے ولیو! اللہ آپ سب پر درود بھیجے، اور اللہ کے دشمنوں پر جو آپ کے ظالم ہیں، اولین سے لے کر آخرین تک، اللہ کی لعنت ہو۔ آمین، اے رب العالمین۔",
+      "farsiTranslation": "و به محبت شما و قرب شما به نجات از خدا امید دارم، پس امید من با خدا باشید، ای سرورانم، ای دوستان خدا، درود خدا بر همه شما و درود خدا بر همه شما باد. دشمنان خدا ستمگران شما هستند از پیشینیان تا آخرت، آمین رب العالمین."
+    }
+  ]
+}

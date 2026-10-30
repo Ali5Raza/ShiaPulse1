@@ -1,0 +1,119 @@
+name: Android validation
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: android-validation-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-and-build:
+    name: JVM tests and debug APK
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Validate Quran data integrity
+        run: python3 scripts/validate_quran_data.py
+
+      # Robolectric's Android 36 (Baklava) test runtime requires Java 21.
+      - name: Set up JDK 21
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: "21"
+
+      - name: Set up Gradle 9.3.1
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 9.3.1
+
+      # This repository expects local Firebase/signing files which are not committed.
+      # CI uses non-secret placeholders only to validate compilation and JVM tests.
+      - name: Create CI-only local configuration
+        run: |
+          cat > app/google-services.json <<'JSON'
+          {
+            "project_info": {
+              "project_number": "100000000000",
+              "project_id": "shiapulse-ci-placeholder",
+              "storage_bucket": "shiapulse-ci-placeholder.appspot.com"
+            },
+            "client": [
+              {
+                "client_info": {
+                  "mobilesdk_app_id": "1:100000000000:android:0000000000000000000000",
+                  "android_client_info": {
+                    "package_name": "com.mojedarya.shiapulse"
+                  }
+                },
+                "oauth_client": [],
+                "api_key": [
+                  {
+                    "current_key": "AIzaSyCI-Placeholder-Not-A-Real-Secret-000"
+                  }
+                ],
+                "services": {
+                  "appinvite_service": {
+                    "other_platform_oauth_client": []
+                  }
+                }
+              }
+            ],
+            "configuration_version": "1"
+          }
+          JSON
+          keytool -genkeypair \
+            -keystore debug.keystore \
+            -storepass android \
+            -alias androiddebugkey \
+            -keypass android \
+            -keyalg RSA \
+            -keysize 2048 \
+            -validity 1 \
+            -dname "CN=CI Debug,O=ShiaPulse,C=US" \
+            -noprompt
+
+      - name: Run JVM tests and assemble debug APK
+        run: gradle :app:testDebugUnitTest :app:assembleDebug --stacktrace --no-daemon
+
+      - name: Print failed JVM test details
+        if: ${{ !cancelled() }}
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          failures = []
+          for report in sorted(Path("app/build/test-results/testDebugUnitTest").glob("TEST-*.xml")):
+              root = ET.parse(report).getroot()
+              for case in root.iter("testcase"):
+                  for kind in ("failure", "error"):
+                      for detail in case.findall(kind):
+                          failures.append((case.get("classname"), case.get("name"), kind, detail))
+          if not failures:
+              print("No failed JVM test cases found in the XML reports.")
+          for class_name, test_name, kind, detail in failures:
+              print(f"\n{kind.upper()}: {class_name} > {test_name}")
+              print(detail.get("message", "No failure message"))
+              if detail.text:
+                  print(detail.text)
+          PY
+
+      - name: Upload JVM test results
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: jvm-test-results
+          path: |
+            app/build/test-results/testDebugUnitTest/
+            app/build/reports/tests/testDebugUnitTest/
+          if-no-files-found: ignore

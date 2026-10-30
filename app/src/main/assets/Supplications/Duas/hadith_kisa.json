@@ -1,0 +1,816 @@
+{
+  "id": "hadith_kisa",
+  "title": "Hadith al-Kisa (Tradition of the Cloak)",
+  "titleUr": "حدیث کساء (چادر والی حدیث)",
+  "titleAr": "حديث الكساء (حديث العباءة)",
+  "category": "Hadith / Dua",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "The famous tradition describing the purity and high status of the Ahl al-Bayt (as) under the Cloak.",
+  "descriptionUr": "چادر کے سائے میں اہل بیت (ع) کی پاکیزگی اور بلند مقام بیان کرنے والی مشہور روایت۔",
+  "descriptionAr": "رواية مشهورة تبين طهارة أهل البيت (ع) ومنزلتهم الرفيعة تحت الكساء.",
+  "relevance": "Highly recommended to recite for gatherings, blessings, seeking help, and resolving problems.",
+  "relevanceUr": "مجالس، برکتوں کے حصول، مدد اور مشکلات کے حل کے لیے پڑھنا بہت مستحب ہے۔",
+  "relevanceAr": "يستحب في المجالس ولطلب البركات والعون وحل المشكلات.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "transliteration": "allahumma salli ala muhammadin wa ali muhammad",
+      "translation": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "urduTranslation": "اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ ٱللَّـهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "transliteration": "bismi allahi alrrahmini alrrahimi",
+      "translation": "In the Name of Allāh,the All-beneficent, the All-merciful.",
+      "urduTranslation": "بِسْمِ اللّٰہِ الرَّحْمٰنِ الرَّحِیْمِ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَنْ فاطِمَةَ الزَّهْراءِ عَلَيْهَا اَلسلام بِنْتِ رَسُول ِاللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ أَنَّها قالَتْ :",
+      "transliteration": "an faat'imataz-zah-raaa-i (alayhas-salaam) binti rasoolil-laahi (S) qaalat :",
+      "translation": "Fatimatuz-Zahra, the daughter of the Prophet (s), peace be on them, is to have thus related ( an event ) :",
+      "urduTranslation": "حضرت فاطمۃ الزہراء سلام اللہ علیہا بنتِ رسول اللہ صلی اللہ علیہ وآلہ وسلم سے مروی ہے کہ آپ نے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "دَخَلَ عَلَيَّ أَبِي رَسُولُ اللّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ فِي بَعْضِ الاْيَّامِ فَقالَ:",
+      "transliteration": "dakhala a'lay-ya abee rasoolul-laahi (S) fee baa'-z'il ay-yaami faqaala :",
+      "translation": "My father, the Prophet (s) of Allah, came to my house one day and said to me:",
+      "urduTranslation": "ایک دن میرے والدِ گرامی رسول اللہ صلی اللہ علیہ وآلہ وسلم میرے گھر تشریف لائے اور مجھ سے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلامُ عَلَيْكِ يَا فاطِمَةُ",
+      "transliteration": "as-salaamu a'lay-ki yaa faat'imah",
+      "translation": "\"Peace be on you, Fatimah\"",
+      "urduTranslation": "تم پر سلام ہو اے فاطمہ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: عَلَيْكَ السَّلامُ",
+      "transliteration": "faqul-tu : a'lay-kas-salaam",
+      "translation": "I replied : \"And upon you be peace\"",
+      "urduTranslation": "میں نے عرض کی: آپ پر بھی سلام ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قالَ: إِنِّي أَجِدُ فِي بَدَنِي ضُعْفا",
+      "transliteration": "qaala : in-neee ajidu fee badanee z'ua'-faan'",
+      "translation": "Then he said : \"I feel weakness in my body\"",
+      "urduTranslation": "آپ نے فرمایا: میں اپنے جسم میں کچھ کمزوری محسوس کر رہا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ لَهُ: أُعِيذُكَ بِاللّهِ يَا أَبَتاهُ مِنَ الضُّعْفِ",
+      "transliteration": "faqul-tu lahooo : ue'ed'uka bil-laahi yaa abataahoo manaz'-z'ua'fi",
+      "translation": "I said : \"May Allah protect you from weakness, father\"",
+      "urduTranslation": "میں نے عرض کی: اے میرے بابا جان! میں اللہ کی پناہ مانگتی ہوں آپ کی اس کمزوری سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقَالَ: ”يَا فَاطِمَةُ! ٱئْتِينِي بِٱلْكِسَاءِ ٱلْيَمَانِيِّ فَغَطِّينِي بِهِ.",
+      "transliteration": "faqaala : yaa faat'imatu ee-teenee bil-kasaaa-il-yamaanee faghat-teenee bihi",
+      "translation": "He said : \"Fatimah, please bring the Yemeni cloak and cover me with it\"",
+      "urduTranslation": "آپ نے فرمایا: اے فاطمہ! میرے پاس یمنی چادر لاؤ اور مجھے اس سے ڈھانپ دو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَأَتَيْتُهُ بالْكِساءِ الْـيَمانِي فَغَطَّيْتُهُ بِهِ",
+      "transliteration": "fa atay-tuhoo bil-kisaaa-il-yamaanee faghat-tay-tuhoo bihi",
+      "translation": "So, I brought the Yemeni cloak and covered him with it.",
+      "urduTranslation": "چنانچہ میں نے یمنی چادر لا کر آپ کو اس سے ڈھانپ دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصرْتُ أَنْظُرُ إِلَيْهِ وَإِذا وَجْهُهُ يَتَلَأَلَؤُ",
+      "transliteration": "wa s'ur-tu anz'uru ilay-hee wa id'aa waj-hahoo yatal-lau",
+      "translation": "Then, I looked at him and saw that his face was shining",
+      "urduTranslation": "پھر میں آپ کی طرف دیکھنے لگی تو کیا دیکھتی ہوں کہ آپ کا چہرہ چمک رہا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَأَنَّهُ الْبَدْرُ فِي لَيْلَة تَمامِهِ وَكَمالِهِ",
+      "transliteration": "kaan-nahul-bad-ru fee lay-lati tamaamihee wa kamaalih",
+      "translation": "like a full moon with its glory and splendor",
+      "urduTranslation": "جیسے چودہویں رات کا چاند اپنی تابانی اور کمال کے ساتھ چمکتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَا كانَتْ إِلاّ ساعَةً وَإِذا بِوَلَدِيَ الْحَسَنِ عليه السلام قَدْ أَقْبَلَ",
+      "transliteration": "famaa kaanat il-laa saaa'taw-wa id'aa biwaladiyal-h'asani (alayhis-salaam) qad aq-bala",
+      "translation": "After a while, my son Hasan came in",
+      "urduTranslation": "کچھ ہی دیر گزری تھی کہ میرے فرزند حسن علیہ السلام تشریف لائے اور کہنے لگے:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقالَ: السَّلامُ عَلَيْكِ يَا أُمَّاهُ",
+      "transliteration": "wa qaala : as-salaamu a'lay-ki yaaa um-maah",
+      "translation": "and said : \"Peace be on you, mother\"",
+      "urduTranslation": "السلام علیک یا اماہ (آپ پر سلام ہو اے میری ماں)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلتُ: وَعَلَيْكَ السَّلامُ يَا قُرَّةَ عَيْنِي وَثَمَرَةَ فُؤَادِي",
+      "transliteration": "faqul-tu : wa a'lay-kas-salaamu yaa qur-rata a'y-nee wa thamarata fuaadee",
+      "translation": "I replied : \"And upon you be peace, O light of my eyes, and the delight of my heart\"",
+      "urduTranslation": "میں نے کہا: وعلیک السلام یا قرۃ عینی و ثمرۃ فؤادی (اور تم پر بھی سلام ہو اے میری آنکھوں کی ٹھنڈک اور میرے دل کے پھل)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقَالَ: يَا أُمَّاهُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+      "transliteration": "faqaala : yaa um-maahoo in-nee ashum-mu i'ndaki raaa-ih'atin tay-yibatin",
+      "translation": "He then said : \"O Mother! I smell a fragrance so sweet",
+      "urduTranslation": "آپ نے کہا: اے میری ماں! میں آپ کے پاس ایک ایسی پاکیزہ خوشبو محسوس کر رہا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَأَنَّها رائِحَةُ جَدِّي رَسُولِ اللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "kaan-nahaa raaa-ih'atu jad-dee rasoolil-laah",
+      "translation": "and so pure as that of my grandfather, the Prophet (s) of Allah\"",
+      "urduTranslation": "جیسے میرے نانا رسول اللہ صلی اللہ علیہ وآلہ وسلم کی خوشبو ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: نَعَمْ إِنَّ جَدَّكَ تَحْتَ الْكِساءِ",
+      "transliteration": "faqul-tu : naa'm in-na jad-daka tah'-tal-kisaaa",
+      "translation": "I replied : \"Yes. Your grandfather is underneath the cloak\"",
+      "urduTranslation": "میں نے کہا: جی ہاں، آپ کے نانا اس چادر کے نیچے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَأَقْبَلَ الْحَسَنُ نَحْوَ الْكِساءِ وَقالَ: السَّلامُ عَلَيْكَ يَا جَدَّاهُ يَا رَسُولَ اللّهِ",
+      "transliteration": "fa aq-balal-h'asanu nah'-wal-kisaaa-i wa qaala : as-salaamu a'lay-ka yaa jad-daahoo yaa rasoolal-laahi",
+      "translation": "Hasan went near the cloak and said : \"Peace be on you, my grandfather, the Prophet (s) of Allah;",
+      "urduTranslation": "پھر حسن چادر کی طرف بڑھے اور کہا: السلام علیک یا جدّاہ یا رسول اللہ (آپ پر سلام ہو اے میرے نانا، اے رسول اللہ)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَتَأْذَنُ لِي أَنْ أَدْخُلَ مَعَكَ تَحْتَ الْكِساءِ",
+      "transliteration": "ata-d'anu leee an ad-khula maa'ka tah'-tal-kisaaa",
+      "translation": "May I enter the cloak with you?\"",
+      "urduTranslation": "کیا آپ مجھے اجازت دیتے ہیں کہ میں آپ کے ساتھ چادر میں آ جاؤں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي وَيَا صاحِبَ حَوْضِي",
+      "transliteration": "qaala : wa a'lay-kas-salaamu yaa waladee wa yaa s'aah'iba h'awz'ee",
+      "translation": "He replied : \"And upon you be peace, my son and the master of my fountain (Kauthar),",
+      "urduTranslation": "آپ نے فرمایا: وعلیک السلام یا ولدی و یا صاحب حوضی (اور تم پر بھی سلام ہو اے میرے بیٹے اور میرے حوض کے مالک)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قَدْ أَذِنْتُ لَكَ ِ",
+      "transliteration": "qad ad'intu laka",
+      "translation": "you are given the permission to enter\"",
+      "urduTranslation": "میں نے تمہیں اجازت دے دی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَخَلَ مَعَهُ تَحْتَ الْكِساء",
+      "transliteration": "fa dakhala maa'hoo tah'-tal-kisaaa",
+      "translation": "So, Hasan entered the cloak with him",
+      "urduTranslation": "پس وہ ان کے ساتھ چادر میں داخل ہو گئے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَا كانَتْ إِلاَّ ساعَةً وَإِذا بِوَلَدِيَ الْحُسَيْنِ قَدْ أَقْبَلَ وَقالَ",
+      "transliteration": "famaa kaanat il-laa saaa'taw-wa id'aa biwaladial-h'usay-ni qad aq-bala wa qaala :",
+      "translation": "After a while, my Husain came in and said :",
+      "urduTranslation": "ابھی کچھ ہی وقت گزرا تھا کہ میرے فرزند حسین آئے اور کہا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلامُ عَلَيْكِ يَا أُمَّاهُ.",
+      "transliteration": "as-salaamu a'lay-ki yaa um-maah",
+      "translation": "\"Peace be on you, mother\"",
+      "urduTranslation": "السلام علیک یا اماہ (آپ پر سلام ہو اے میری ماں)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي وَيَا قُرَّةَ عَيْنِي وَثَمَرَةَ فُؤَادِي.",
+      "transliteration": "faqul-tu : wa a'lay-kas-salaamu yaa waladee wa yaa qur-rata a'y-nee wa thamarata fuaadee",
+      "translation": "I replied : \"And upon you be peace, O light of my eyes, and the delight of my heart\"",
+      "urduTranslation": "میں نے کہا: وعلیک السلام یا ولدی و یا قرۃ عینی و ثمرۃ فؤادی (اور تم پر بھی سلام ہو اے میرے بیٹے اور میری آنکھوں کی ٹھنڈک اور میرے دل کے ٹکڑے)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقَالَ لِي: يَا أُمَّاهُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+      "transliteration": "faqaala lee : yaaa um-maahoo in-nee shummu i'ndaki raaa-ih'atin tay-yibatan",
+      "translation": "He then said : \"O Mother! I smell a fragrance so sweet",
+      "urduTranslation": "انہوں نے مجھ سے کہا: اے میری ماں! میں آپ کے پاس ایک ایسی پاکیزہ خوشبو محسوس کر رہا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَأَنَّها رائِحَةُ جَدِّي رَسُولِ اللّهُ صَلَّى اللهُ عَلَيْهِ وَآلِهِ.",
+      "transliteration": "kaan-nahaa raaa-ih'atu jad-dee rasoolil-laah",
+      "translation": "and so pure as that of my grandfather, the Prophet (s) of Allah\"",
+      "urduTranslation": "جیسے میرے نانا رسول اللہ صلی اللہ علیہ وآلہ وسلم کی خوشبو ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: نَعَمْ إِنَّ جَدَّكَ وَأَخاكَ تَحْتَ الْكِساءِ.",
+      "transliteration": "faqul-tu : naa'm in-na jad-daka wa akhaaka tah'-tal-kisaaa",
+      "translation": "I replied : \"Yes. Your grandfather and your brother are underneath the cloak\"",
+      "urduTranslation": "میں نے کہا: جی ہاں، آپ کے نانا اور آپ کے بھائی اس چادر کے نیچے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَنَا الْحُسَيْنُ نَحْوَ الْكِساءِ",
+      "transliteration": "fadanal-h'usay-nu nah'-wal-kisaaa-i",
+      "translation": "Husain stepped towards the cloak",
+      "urduTranslation": "پھر حسین چادر کی طرف بڑھے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقالَ: السَّلامُ عَلَيْكَ يَا جَدَّاهُ السَّلامُ عَلَيْكَ يَا مَنِ اخْتارَهُ اللّهُ",
+      "transliteration": "wa qaala : as-salaamu a'lay-ka yaa jad-dahoos-salaamu a'lay-ka yaa manikh-taarahul-lahoo",
+      "translation": "and said : \"Peace be on you, my grandfather, the Chosen of Allah;",
+      "urduTranslation": "اور کہا: السلام علیک یا جدّاہ، السلام علیک یا من اختارہ اللہ (آپ پر سلام ہو اے میرے نانا، آپ پر سلام ہو اے وہ جنہیں اللہ نے منتخب کیا)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُما تَحْتَ الْكِساءِ",
+      "transliteration": "ata-d'anu leee an ad-khula maa'kumaa tah'-tal-kisaaa",
+      "translation": "May I enter the cloak with you?\"",
+      "urduTranslation": "کیا آپ مجھے اجازت دیتے ہیں کہ میں آپ دونوں کے ساتھ چادر میں آ جاؤں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ: وَعَلَيْكَ السَّلامُ يَا وَلَدِي",
+      "transliteration": "faqaala : wa a'lay-kas-salaamu yaa waladee",
+      "translation": "He replied : \"And upon you be  peace, my son",
+      "urduTranslation": "آپ نے فرمایا: وعلیک السلام یا ولدی (اور تم پر بھی سلام ہو اے میرے بیٹے)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَا شافِعَ أُمَّتِي قَدْ أَذِنْتُ لَكَ.",
+      "transliteration": "wa yaa shaafia'a um-matee qad ad'-intu lak",
+      "translation": "and interceder of my followers, you are given the permission to enter\"",
+      "urduTranslation": "اور میری امت کے شفاعت کرنے والے! میں نے تمہیں اجازت دے دی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَخَلَ مَعَهُما تَحْتَ الْكِساء",
+      "transliteration": "fadakhala maa'humaa tah'-tal-kisaaa",
+      "translation": "So, Husain entered the cloak with them.",
+      "urduTranslation": "چنانچہ وہ ان دونوں کے ساتھ چادر میں داخل ہو گئے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَأَ قْبَلَ عِنْدَ ذلِكَ أَبُو الْحَسَنِ عَلِيُّ بْنُ أَبِي طالِبٍ",
+      "transliteration": "faaq-bala i'nda d'aalika abul-h'asani a'lee-yub-nu abee t'aalibiw-",
+      "translation": "After a while, Abul Hasan, Ali bin Abi Talib came in",
+      "urduTranslation": "تب ابو الحسن علی بن ابی طالب تشریف لائے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقالَ: السَّلامُ عَلَيْكِ يَا بِنْتَ رَسُولِ اللّهِ.",
+      "transliteration": "wa qaala : as-salaamu a'lay-ki yaa binta rasoolil-laah",
+      "translation": "and said : \"Peace be on you, O daughter of the Prophet (s) of Allah\"",
+      "urduTranslation": "اور کہا: السلام علیک یا بنت رسول اللہ (آپ پر سلام ہو اے رسول اللہ کی بیٹی)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: وَعَلَيْكَ السَّلامُ يَا أَبَا الْحَسَنِ وَيَا أَمِيرَ الْمُؤْمِنِينَ.",
+      "transliteration": "faqul-tu wa a'lay-kas-salaamu yaa abal-h'asani wa yaaa ameeral-mumineen",
+      "translation": "I replied : \"And upon you be peace, O father of Hasan, and the Commander of the faithful\"",
+      "urduTranslation": "میں نے کہا: وعلیک السلام یا ابا الحسن و یا امیر المؤمنین (آپ پر بھی سلام ہو اے ابا الحسن، اے امیر المومنین)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ: يَا فاطِمَةُ إِنِّي أَشَمُّ عِنْدَكِ رائِحَةً طَيِّبَةً",
+      "transliteration": "faqaala yaa faat'imatu in-nee ashum-mu i'ndaki raaa-ih'atan tay-yibatan",
+      "translation": "He then said : \"O Fatima! I smell a fragrance so sweet and so pure",
+      "urduTranslation": "آپ نے فرمایا: اے فاطمہ! میں آپ کے پاس ایک ایسی پاکیزہ خوشبو محسوس کر رہا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَانَّهَا رائِحَةُ أَخِي وَابْنِ عَمِّي رَسُولِ اللّه صَلَّى اللهُ عَلَيْهِ وَآلِهِ.",
+      "transliteration": "kaan-nahaa raaa-ih'atu akhee wab-ni a'm-mee rasoolil-laah sallallahu alaihi wa alihi wasallam",
+      "translation": "as that of my brother and my cousin, the Prophet (s) of Allah\"",
+      "urduTranslation": "جیسے میرے بھائی اور میرے چچا زاد رسول اللہ صلی اللہ علیہ وآلہ وسلم کی خوشبو ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقُلْتُ: نَعَمْ هَا هُوَ مَعَ وَلَدَيْكَ تَحْتَ الْكِساءِ",
+      "transliteration": "faqul-tu naa'm haa hooa maa' waladay-ka tah'-tal-kisaaa",
+      "translation": "I replied: \"Yes. He is underneath the cloak with your two sons\"",
+      "urduTranslation": "میں نے عرض کیا: جی ہاں، وہ آپ کے دونوں بیٹوں کے ساتھ چادر کے نیچے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَأَقْبَلَ عَلِيٌّ نَحْوَ الْكِساءِ",
+      "transliteration": "faaq-bala a'lee-yun nah'-wal-kisaaa-i",
+      "translation": "So, Ali went near the cloak",
+      "urduTranslation": "چنانچہ علی (ع) چادر کے نزدیک آئے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقالَ: السَّلامُ عَلَيْكَ يَا رَسُولَ اللّهِ",
+      "transliteration": "wa qaala : assalaamu a'lay-ka yaa rasoolal-laahi",
+      "translation": "and said : \"Peace be on you, Prophet (s) of Allah;",
+      "urduTranslation": "اور کہا: اے اللہ کے رسول، آپ پر سلام ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وأَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُمْ تَحْتَ الْكِساءِ",
+      "transliteration": "ata-d'anu leee an akoo-na maa'kum tah'-tal-kisaaa",
+      "translation": "May I enter the cloak with you?\"",
+      "urduTranslation": "کیا آپ مجھے اجازت دیتے ہیں کہ میں بھی آپ کے ساتھ چادر کے نیچے آ جاؤں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قالَ لَهُ: وَعَلَيْكَ السَّلامُ يَا أَخِي ويَا وَصِيِّي",
+      "transliteration": "qaala lahu : wa a'lay-kas-salaamu yaaa akhee wa yaa was'ee",
+      "translation": "He replied : \"And upon you be peace, my brother, my successor,",
+      "urduTranslation": "رسول اللہ (ص) نے فرمایا: اور تم پر بھی سلام ہو اے میرے بھائی اور میرے وصی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلِيفَتِي وَصاحِبَ لِوَائِي قَدْ أَذِنْتُ لَكَ",
+      "transliteration": "wa khalee-fatee wa s'aah'iba liwaaa-ee qad ad'intu lak",
+      "translation": "my successor, and my standard bearer, you are given the permission to enter\"",
+      "urduTranslation": "اور میرے خلیفہ اور میرے علمبردار، میں نے تمہیں اجازت دے دی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَخَلَ عَلِيٌّ تَحْتَ الْكِساءِ",
+      "transliteration": "fadakhala a'lee-yun tah'-tal-kisaaa",
+      "translation": "So, Ali entered the cloak with them.",
+      "urduTranslation": "چنانچہ علی (ع) چادر کے نیچے داخل ہو گئے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ثُمَّ أَتَيْتُ نَحْوَ الْكِساءِ",
+      "transliteration": "thum-ma atay-tu nah'-wal-kisaaa-i",
+      "translation": "Then I stepped forward",
+      "urduTranslation": "پھر میں چادر کے نزدیک آئی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقُلْتُ: السَّلامُ عَلَيْكَ يَا أَبَتاهُ يَا رَسُولَ اللّهِ",
+      "transliteration": "wa qul-tu : as-salaamu a'lay-ka yaaa abataah yaa rasoolal-laahi",
+      "translation": "and said : \"Peace be on you, my father, O Prophet (s) of Allah;",
+      "urduTranslation": "اور میں نے کہا: اے میرے ابا جان، اے اللہ کے رسول، آپ پر سلام ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَتَأْذَنُ لِي أَنْ أَكُونَ مَعَكُمْ تَحْتَ الْكِساءِ",
+      "transliteration": "ata-d'anu leee an akoo-na maa'kum tah'-tal-kisaaa",
+      "translation": "May I enter the cloak with you?\"",
+      "urduTranslation": "کیا آپ مجھے اجازت دیتے ہیں کہ میں بھی آپ کے ساتھ چادر کے نیچے آ جاؤں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قالَ: وَعَلَيْكِ السَّلامُ يَا بِنْتِي وَيَا بِضْعَتِي قَدْ أَذِنْتُ لَكِ",
+      "transliteration": "qaala : wa a'lay-kis-salaamu yaa bintee yaa baz'-atee qad ad'intu laki",
+      "translation": "He replied : \"And upon you be peace, my daughter, O part of myself; you are given the permission to enter\"",
+      "urduTranslation": "آپ نے فرمایا: اور تم پر بھی سلام ہو اے میری بیٹی اور میرے جگر کے ٹکڑے، میں نے تمہیں اجازت دے دی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَخَلْتُ تَحْتَ الْكِساءِ",
+      "transliteration": "fadakhal-tu tah'-tal-kisaaa",
+      "translation": "So, I entered the cloak with them.",
+      "urduTranslation": "چنانچہ میں بھی چادر کے نیچے داخل ہو گئی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَلَمَّا اكْتَمَلْنا جَمِيعاً تَحْتَ الْكِساءِ أَخَذَ أَبِي رَسُولُ اللّه بِطَرَفَي الْكِساءِ",
+      "transliteration": "fal-lamak-tamal-naa jamee-a'n tah'-tal-kisaaa-i akhad'a abee rasoolul-laahi bitarafayil-kisaaa-i",
+      "translation": "Getting together underneath the cloak, my father, the Prophet (s) of Allah, held the two ends of the cloak",
+      "urduTranslation": "پھر جب ہم سب چادر کے نیچے اکٹھے ہو گئے تو میرے والد اللہ کے رسول (ص) نے چادر کے دونوں کونے پکڑے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَوْمَأَ بِيَدِهِ ٱلْيُمْـنٰى إِلَى السَّماءِ وَقالَ:",
+      "transliteration": "wa aw-maa biyadihil-yum-naa ilas-samaaa-i wa qaala :",
+      "translation": "and raised his right hand towards the heavens and prayed :",
+      "urduTranslation": "اور اپنا دایاں ہاتھ آسمان کی طرف بلند کیا اور دعا کی:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللّهُمَّ إِنَّ هَؤُلاءِ أَهْلُ بَيْتِي وَخاصَّتِي وَحامَّتِي",
+      "transliteration": "al-laahum-ma in-na haa-ulaaa-i ah-lu bay-tee wa khaaas'-s'atee wa h'aaam-matee",
+      "translation": "\"O Allah, these are the people of my Household (Ahlul-Bayt). They are my confidants and my supporters.",
+      "urduTranslation": "اے اللہ! یہ میرے اہل بیت (ع) ہیں، میرے خاص لوگ اور میرے مددگار۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لَحْمُهُمْ لَحْمِي وَدَمُهُمْ دَمِي",
+      "transliteration": "lah'-muhum lah'-mee wa damuhum damee",
+      "translation": "Their flesh is my flesh and their blood is my blood.",
+      "urduTranslation": "ان کا گوشت میرا گوشت ہے اور ان کا خون میرا خون ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يُؤْلِمُنِي مَا يُؤْلِمُهُمْ",
+      "transliteration": "yu-limunee maa yu-limuhum",
+      "translation": "Whoever hurts them, hurts me too.",
+      "urduTranslation": "جو انہیں دکھ پہنچاتا ہے، وہ مجھے بھی دکھ پہنچاتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَحْزُنُنِي مَا يَحْزُنُهُمْ",
+      "transliteration": "wa yah'-zununee maa yah'-zunuhum",
+      "translation": "Whoever displeases them, displeases me too.",
+      "urduTranslation": "اور جو انہیں غمزدہ کرتا ہے، وہ مجھے بھی غمزدہ کرتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَنَا حَرْبٌ لِمَنْ حارَبَهُمْ",
+      "transliteration": "ana h'ar-bul-liman h'aarabahum",
+      "translation": "I am at war with those who are at war with them.",
+      "urduTranslation": "میں اس سے حالتِ جنگ میں ہوں جو ان سے جنگ کرے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسِلْمٌ لِمَنْ سالَمَهُمْ",
+      "transliteration": "wa sil-mul-liman saalamahum",
+      "translation": "I am at peace with those who are at peace with them.",
+      "urduTranslation": "اور اس سے حالتِ صلح میں ہوں جو ان سے صلح کرے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَدُوٌّ لِمَنْ عَاداهُمْ",
+      "transliteration": "wa a'doo-wul-liman a'adaahum",
+      "translation": "I am the enemy of their enemies",
+      "urduTranslation": "اور میں اس کا دشمن ہوں جو ان کا دشمن ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمُحِبٌّ لِمَنْ أَحَبَّهُمْ",
+      "transliteration": "wa muh'ib-bul-liman ah'ab-bahum",
+      "translation": "and I am the friend of their friends.",
+      "urduTranslation": "اور میں اس کا دوست ہوں جو ان سے محبت کرے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّهُمْ مِنِّي وَأَنَا مِنْهُمْ",
+      "transliteration": "in-nahum-min-nee wa ana min-hum",
+      "translation": "They are from me and I am from them.",
+      "urduTranslation": "بے شک یہ مجھ سے ہیں اور میں ان سے ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَاجْعَلْ صَلَواتِكَ وَبَرَكاتِكَ وَرَحْمَتَكَ",
+      "transliteration": "faj-a'l s'alawaatika wa barakaatika wa rah'-matika",
+      "translation": "O Allah! Bestow Your Blessings, Benevolence,",
+      "urduTranslation": "پس تو اپنی رحمتیں، برکتیں اور درود،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَغُفْرانَكَ وَرِضْوانَكَ عَلَيَّ",
+      "transliteration": "wa ghuf-raanika wa riz'-waanika a'lay-ya",
+      "translation": "Forgiveness and Your pleasure upon me and upon them.",
+      "urduTranslation": "اپنی مغفرت اور اپنی رضا مجھ پر اور ان پر نازل فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَيْهِمْ وَأَذْهِبْ عَنْهُمُ الرِّجْسَ وَطَهِّرْهُمْ تَطْهِيراً.",
+      "transliteration": "wa a'lay-him wa ad'-hib a'n-humur-rij-sa wa tah-hiruhum tat-heera",
+      "translation": "And keep them away from impurity (and flaws) and keep them thoroughly purified\"",
+      "urduTranslation": "اور ان سے ہر قسم کی گندگی دور رکھ اور انہیں مکمل طور پر پاک و صاف کر دے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ اللّهُ عَزَّ وَجَلَّ:",
+      "transliteration": "faqaalal-laahoo az'-za wa jal-la :",
+      "translation": "Then the Lord, Almighty Allah said :",
+      "urduTranslation": "تب اللہ عز و جل نے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَلائِكَتِي وَيَا سُكَّانَ سَمَاواتِي",
+      "transliteration": "yaa malaaa-ikatee wa yaa suk-kaana samaawaateee",
+      "translation": "\"O My angels! O Residents of My Heavens,",
+      "urduTranslation": "اے میرے فرشتو! اور اے میرے آسمانوں کے مکینوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنِّي إمَا خَلَقْتُ سَماءً مَبْنِيَّةً وَلاَ أَرْضاً مَدْحِيَّةً وَلاَ قَمَراً مُنِيراً",
+      "transliteration": "in-nee maa khalaq-tu samaa-am-mab-nee-yataw-wa laa ar-z'am-mad-h'ee-yataw-wa laa qamaram-muneeraw-",
+      "translation": "verily, I have not created the erected Sky, the stretched earth, the illuminated moon,",
+      "urduTranslation": "بے شک میں نے جو بھی آسمان بنایا، زمین بچھائی، چاند کو روشن کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ شَمْساً مُضِيئَةً وَلاَ فَلَكاً يَدُورُ وَلاَ بَحْراً يَجْرِي وَلاَ فُلْكاً يَسْرِي",
+      "transliteration": "wa laa sham-sam-muz'eee-ataw-wa laa falakay-yadoo-ru wa laa bah'-ray-yaj-reee wa laa fulkal yasree",
+      "translation": "the bright sun, the rotating planets, the flowing seas and the sailing ships,",
+      "urduTranslation": "سورج کو چمکایا، ستاروں کو گردش دی، سمندروں کو رواں کیا اور کشتیوں کو چلایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلاَّ فِي مَحَبَّةِ هَؤلاءِ الْخَمْسَةِ الَّذِينَ هُمْ تَحْتَ الْكِساءِ.",
+      "transliteration": "il-laa fee mah'ab-bati haa-ulaaa-il-kham-satil-lad'ee-na hum tah'-tal-kisaaa",
+      "translation": "but for the love of these Five underneath the cloak\"",
+      "urduTranslation": "وہ سب کچھ صرف ان پانچ ہستیوں کی محبت کی خاطر کیا جو اس چادر کے نیچے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ الاْمِينُ جَبْرائِيلُ: يَارَبِّ وَمَنْ تَحْتَ الْكِساءِ",
+      "transliteration": "faqaalal-ameenu jib-raaa-ee-lu : yaa rab-bi wa man tah'-tal-kisaaa",
+      "translation": "Gabriel, the trusted angel, asked : \"Who are under the cloak?\"",
+      "urduTranslation": "امین جبرائیل (ع) نے عرض کیا: اے پروردگار! چادر کے نیچے کون ہیں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ عَزَّ وَجَلَّ:",
+      "transliteration": "faqaala a'z-za wa jal-la :",
+      "translation": "The Almighty answered :",
+      "urduTranslation": "اللہ عز و جل نے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هُمْ أَهْلُ بَيْتِ النُّبُوَّةِ وَمَعْدِنُ الرِّسالَةِ",
+      "transliteration": "hum ah-la bay-tin-nuboow-wati wa maa'-dinur-risaalati",
+      "translation": "\"They are the Household of the Prophet (s) and the assets of Prophet hood.",
+      "urduTranslation": "وہ نبوت کا گھرانہ اور رسالت کا منبع ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هُمْ فاطِمَةُ وَأَبُوها وَبَعْلُها وَبَنُوها.",
+      "transliteration": "hum : faat'imatu wa aboohaa wa baa'-luhaa wa banoo-haa",
+      "translation": "They are : Fatimah, her father, her husband and her two sons\"",
+      "urduTranslation": "وہ فاطمہ (س) ہیں، ان کے والد ہیں، ان کے شوہر ہیں اور ان کے دونوں بیٹے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ جَبْرائِيلُ: يَارَبِّ أَتَأْذَنُ لِي أَنْ أَهْبِطَ إِلَى الاْرْضِ",
+      "transliteration": "faqaala jib-raaa-ee-lu : yaa rab-bi ata-d'anu leee an ah-bita ilal-ar-z'i",
+      "translation": "Gabriel said : \"O Lord, May I fly to earth",
+      "urduTranslation": "جبرائیل (ع) نے عرض کیا: اے پروردگار! کیا آپ مجھے اجازت دیتے ہیں کہ میں زمین پر اتروں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لأِكُونَ مَعَهُمْ سادِساً",
+      "transliteration": "li-akoo-na maa'hum saadisaa",
+      "translation": "to be the sixth of them?\"",
+      "urduTranslation": "تاکہ میں ان کے ساتھ چھٹا فرد بن سکوں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ اللّهُ: نَعَمْ قَدْ أَذِنْتُ لَكَ.",
+      "transliteration": "faqaala-laahu : naa'm qad ad'intu lak",
+      "translation": "Allah replied: \"Yes. You are given the permission\"",
+      "urduTranslation": "اللہ نے فرمایا: ہاں، میں نے تمہیں اجازت دے دی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَهَبَطَ الاْمِينُ جَبْرائِيلُ وَقالَ: السَّلامُ عَلَيْكَ يَا رَسُولَ اللّهِ",
+      "transliteration": "fahabatalameenu jib-raaa-ee-lu wa qaala : as-salaamu a'lay-ka yaa rasoolal-laahil-",
+      "translation": "Gabriel, the trusted, landed near them and said : \"Peace be on you, O Prophet (s) of Allah.",
+      "urduTranslation": "چنانچہ امین جبرائیل (ع) نازل ہوئے اور کہا: اے اللہ کے رسول، آپ پر سلام ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "الْعَلِيُّ الاْعْلى يُقْرِئُكَ السَّلام َوَيَخُصُّكَ بِالتَّحِيَّةِ وَالاْكْرامِ",
+      "transliteration": "a'lee-yul-aa'-laa yuq-riukas-salaamu wa yakhus'-s'uka bil-tah'eey-yati wa lik-raam",
+      "translation": "The All-Highest conveys His peace on you and His greetings",
+      "urduTranslation": "خداوندِ بلند و بالا آپ کو سلام بھیجتا ہے اور آپ کے لیے خصوصی تحیت و اکرام کا پیغام لایا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَقُوْلُ لَكَ :وَعِزَّتِي وَجَلالِي",
+      "transliteration": "wa yaqoo-lu laka : wa iz'-zatee wa jalaalee",
+      "translation": "and says: \"By My Honor and Glory, O My angels! O Residents of My Heavens,",
+      "urduTranslation": "اور فرماتا ہے: میری عزت و جلال کی قسم، اے میرے فرشتو! اے میرے آسمانوں کے مکینو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنِّي مَا خَلَقْتُ سَماءً مَبْنِيَّةً",
+      "transliteration": "in-nee maa khalaq-tu samaaam-mab-nee- yataw-",
+      "translation": "verily, I have not created the erected Sky,",
+      "urduTranslation": "میں نے کوئی مضبوط آسمان نہیں بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ أَرْضاً مَدْحِيَّةً وَلاَ قَمَراً مُنِيراً وَلاَ شَمْساً مُضِيئَةً",
+      "transliteration": "wa laa ar-z'am-mad-h'ee-yataw-wa laa qamaram-muneeran wa laa sham-sam-muz'eeeataw-",
+      "translation": "the stretched earth, the illuminated moon, the bright sun,",
+      "urduTranslation": "اور نہ کوئی پھیلی ہوئی زمین، نہ چمکتا ہوا چاند، اور نہ روشن سورج،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ فَلَكاً يَدُورُ وَلاَ بَحْراً يَجْرِي وَلاَ فُلْكاً يَسْرِي",
+      "transliteration": "wa laa falkal yadur wa laa bah'-ray-yaj-ree wa laa ful-kay-yas-reee",
+      "translation": "the rotating planets, the flowing seas and the sailing ships,",
+      "urduTranslation": "اور نہ گھومتے ہوئے سیارے، نہ جاری سمندر، اور نہ چلتی ہوئی کشتیاں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلاَّ لاِجْلِكُمْ وَمَحَبَّتِكُمْ",
+      "transliteration": "il-laa li-ajlikum wa mah'ab-batikum",
+      "translation": "but for your sake and love\"",
+      "urduTranslation": "سوائے تمھاری خاطر اور تمھاری محبت کے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَدْ أَذِنَ لِي أَنْ أَدْخُلَ مَعَكُمْ",
+      "transliteration": "wa qad ad'ina leee an ad-khula maa'kum",
+      "translation": "and Allah has given me permission to enter the cloak with you.",
+      "urduTranslation": "اور اللہ نے مجھے اجازت دی ہے کہ میں تمھارے ساتھ داخل ہو جاؤں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَهَلْ تَأْذَنُ لِي يَا رَسُولَ اللّه",
+      "transliteration": "fahal ta-d'anu lee yaa rasoolal-laahi",
+      "translation": "May I join you, O Prophet (s) of Allah?\"",
+      "urduTranslation": "تو کیا آپ مجھے اجازت دیتے ہیں، اے اللہ کے رسول؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ رَسُولُ اللّه: وَعَلَيْكَ السَّلامُ يَا أَمِينَ وَحْي اللّهِ",
+      "transliteration": "faqaala rasoolul-laahi : wa a'lay-kas-salaamu yaa amee-na wah'-yil-laahi",
+      "translation": "The Prophet (s) replied : \"And peace be on you, O trusted bearer of Allah's Revelations!",
+      "urduTranslation": "رسول اللہ نے فرمایا: اور تجھ پر بھی سلام ہو، اے اللہ کی وحی کے امین!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فإِنَّهُ نَعَمْ قَدْ أَذِنْتُ لَكَ.",
+      "transliteration": "naa'm qad ad'intu lak",
+      "translation": "you are granted the permission\"",
+      "urduTranslation": "ہاں، میں نے تجھے اجازت دے دی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَدَخَلَ جَبْرائِيلُ مَعَنا تَحْتَ الْكِساءِ",
+      "transliteration": "fadakhala jib-raaa-ee-lu maa'naa tah'-tal-kisaaa-i",
+      "translation": "So, Gabriel entered the cloak with us",
+      "urduTranslation": "پس جبرائیل ہمارے ساتھ چادر کے نیچے داخل ہو گئے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ لاِبِي: إِنَّ اللّهَ قَدْ أَوْحَى إِلَيْكُمْ يَقُولُ:",
+      "transliteration": "faqaala li-abee : in-nal-laaha qad aw-h'aaa ilay-kum yaqoolu :",
+      "translation": "and said to my father :  Allah sends His Revelations to you;",
+      "urduTranslation": "اور میرے والد سے کہا: بلاشبہ اللہ نے تمھاری طرف وحی بھیجی ہے اور فرماتا ہے:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّمَا يُرِيدُ اللّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ",
+      "transliteration": "in-namaa yuree-dul-laahoo li-yud'-hiba a'nkumur-rij-sa",
+      "translation": "\"Verily Allah's desire is to keep you away from impurity (and flaws),",
+      "urduTranslation": "اللہ کا ارادہ صرف یہ ہے کہ تم سے ہر قسم کی ناپاکی دور رکھے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَهْلَ الْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيراً.",
+      "transliteration": "ah-lal-bay-ti wa yutah-hirakum tat-heera",
+      "translation": "O People of Household (Ahlul-Bayt) and keep you thoroughly purified\"",
+      "urduTranslation": "اے اہل بیت اور تمہیں کماحقہ پاک و صاف کر دے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ عَلِيٌّ لاِبِي: يَا رَسُولَ اللّه أَخْبِرْنِي مَا لِجُلُوسِنا",
+      "transliteration": "faqaala a'lee-yul li-abee : yaa rasoolal-laahi akh-bir-nee maa lijuloosinaa",
+      "translation": "Then Ali said to my father : \"O Prophet (s) of Allah, tell me",
+      "urduTranslation": "پھر علی نے میرے والد سے کہا: اے اللہ کے رسول! مجھے بتائیے کہ اس چادر کے نیچے ہمارے بیٹھنے کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هذَا تَحْتَ الْكِساءِ مِنَ الْفَضْلِ عِنْدَ اللّهُ",
+      "transliteration": "haad'aa tah'-tal-kisaaa-i minal-faz'-li i'ndal-laah",
+      "translation": "what significance has Allah given for getting together underneath this cloak ?\"",
+      "urduTranslation": "اللہ کے نزدیک کیا فضیلت ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:",
+      "transliteration": "faqaalan-nabee-yu s'al-lal-laaho a'lay-hi wa aaalihi:",
+      "translation": "The Prophet (s) replied :",
+      "urduTranslation": "نبی صلی اللہ علیہ وآلہ وسلم نے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالَّذِي بَعَثَنِي بِالْحَقِّ نَبِيَّاً",
+      "transliteration": "wal-lad'ee baa'thanee bi-h'aq-qi nabee-",
+      "translation": "\"By Him who rightfully appointed me a Prophet (s)",
+      "urduTranslation": "اس ذات کی قسم جس نے مجھے حق کے ساتھ نبی بنا کر بھیجا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاصْطَفانِي بِالرِّسالَةِ نَجِيّاً",
+      "transliteration": "yaw-was'-tafaanee bir-risaalati naj-jeea",
+      "translation": "and chose me a Messenger for the salvation of the mankind.",
+      "urduTranslation": "اور رسالت کے لیے اپنا رازدار چنا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَا ذُكِرَ خَبَرُنا هذَا فِي مَحْفِلٍ مِنْ مَحافِلِ",
+      "transliteration": "maa d'ukira khabarunaa haad'aa fee mah'-falim-mim-mah'aafili",
+      "translation": "whenever and wherever an assembly",
+      "urduTranslation": "کہ زمین والوں کی کسی بھی محفل میں ہمارا یہ واقعہ بیان نہیں کیا گیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَهْلِ الاْرْضِ وَفِيهِ جَمْعٌ مِنْ شِيعَتِنا وَمُحِّبِينا",
+      "transliteration": "ah-lil-ar-z'i wa fee-hi jam-u'm-min shee-a'tinaa wa muh'-ib-bee-naa",
+      "translation": "of our followers and friends mention this event,",
+      "urduTranslation": "جس میں ہمارے چاہنے والوں اور پیروکاروں کا مجمع ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلاَّ وَنَزَلَتْ عَلَيْهِمُ الرَّحْمَةُ",
+      "transliteration": "il-laa wa nazalat a'lay-himur-rah'-mah",
+      "translation": "Allah will bestow on them His Blessings and Mercy;",
+      "urduTranslation": "مگر یہ کہ ان پر رحمت نازل ہوئی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَحَفَّتْ بِهِمُ الْمَلائِكَةُ وَاسْتَغْفَرَتْ لَهُمْ إِلى أَنْ يَتَفَرَّقُوا.",
+      "transliteration": "wa h'af-fat bihimu lamalaaa-ikah was-tagh-farat lahum ilaaa ay-yatafar-raqoo",
+      "translation": "angels will encircle them asking Allah the remission of their sins until the assembly disperses",
+      "urduTranslation": "اور فرشتے ان کے گرد جمع ہو گئے اور ان کے متفرق ہونے تک ان کے لیے مغفرت طلب کرتے رہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ عَلِيٌّ عَلَيْهِ السَّلامُ: إِذنْ وَاللّهِ فُزْنَا وَفازَ شِيعَتُنا وَرَبِّ الْكَعْبَةِ.",
+      "transliteration": "faqaala a'lee-yun a'lay-his-salaamu : id'aw-wal-laahi fuz-naa wa faaza shee-a'tunaa wa rab-bil-kaa'-bah",
+      "translation": "So Ali said : \"Verily, by the Lord of Kabaa! we and our followers are the winners\"",
+      "urduTranslation": "پھر علی علیہ السلام نے کہا: تو پھر رب کعبہ کی قسم، ہم کامیاب ہو گئے اور ہمارے شیعہ بھی کامیاب ہو گئے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ أَبِي رَسُولُ اللّهِ صَلَّى اللهُ عَلَيْهِ وَآلِهِ:",
+      "transliteration": "faqaala abee rasoolul-laahi s'al-lal-laaho a'lay-hi wa aaalihi:",
+      "translation": "Then my father replied :",
+      "urduTranslation": "تب میرے والد رسول اللہ صلی اللہ علیہ وآلہ وسلم نے فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَلِيُّ وَالَّذِي بَعَثَنِي بِالْحَقِّ نَبِيّاً",
+      "transliteration": "yaa a'lee-yu wal-lad'ee baa'thanee bil-h'aq-qi nabee-yaw",
+      "translation": "\"By Him who rightfully appointed me a Prophet",
+      "urduTranslation": "اے علی! اس ذات کی قسم جس نے مجھے حق کے ساتھ نبی بنا کر بھیجا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاصْطَفَانِي بِالرِّسالَةِ نَجِيّاً",
+      "transliteration": "was'-tafaanee bir-risaalati najee-ya",
+      "translation": "and chose me a Messenger for the salvation of the mankind,",
+      "urduTranslation": "اور رسالت کے لیے اپنا رازدار چنا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَا ذُكِرَ خَبَرُنا هذَا فِي مَحْفِلٍ مِنْ مَحَافِلِ أَهْلِ الاْرْضِ",
+      "transliteration": "ma d'ukira khabarunaa haad'aa fee mah'-falim-mim-mah'aafili ah-lil ar-z'i",
+      "translation": "whenever and wherever an assembly",
+      "urduTranslation": "کہ زمین والوں کی کسی بھی محفل میں ہمارا یہ واقعہ بیان نہیں کیا گیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَفِيهِ جَمْعٌ مِنْ شِيعَتِنا وَمُحِبِّينا",
+      "transliteration": "wa fee-hi jam-u'm-min shee-a'tinaa wa muh'ib-bee-naa",
+      "translation": "our followers and friends mentions this event,",
+      "urduTranslation": "جس میں ہمارے چاہنے والوں اور پیروکاروں کا مجمع ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَفِيهِمْ مَهْمُومٌ إِلاَّ وَفَرَّجَ اللّهُ هَمَّهُ",
+      "transliteration": "wa fee-him mah-moo-mun il-laa wa far-rajal-laaho ham-mahoo",
+      "translation": "there shall remain none grieved but Allah will remove his grief,",
+      "urduTranslation": "اور ان میں کوئی غمگین ہو مگر یہ کہ اللہ اس کا غم دور نہ کر دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ مَغْمُومٌ إِلاَّ وَكَشَفَ اللّهُ غَمَّهُ",
+      "transliteration": "walaa magh-moo-mun il-laa wa kashafal-laaho gham-mahoo",
+      "translation": "there shall remain none distressed but Allah will dispel his distress,",
+      "urduTranslation": "اور کوئی پریشان حال ہو مگر یہ کہ اللہ اس کی پریشانی ختم نہ کر دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ طالِبُ حاجَةٍ إِلاَّ وَقَضَى اللّهُ حاجَتَهُ.",
+      "transliteration": "wa laa t'aalibu h'aajatin il-laa wa qaz'al-laaho h'aajatah",
+      "translation": "there shall remain none wish-seeker but Allah will grant his wish.\"",
+      "urduTranslation": "اور کوئی حاجت مند ہو مگر یہ کہ اللہ اس کی حاجت پوری نہ کر دے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقالَ عَلِيٌّ عَلَيْهِ السَّلامُ: إِذن وَاللّه فُزْنا وَسُعِدْنا وَكَذلِكَ شِيعَتُنا",
+      "transliteration": "faqaala a'lee-yun a'lay-his-salaamu id'aaw-wal-laahi fuz-naa wa sui'd-naa wa kad'aalika shee-atunaa",
+      "translation": "`Ali, peace be upon him, said, \"Then, we have won and attained pleasure. I swear it by Allah. So have our adherents;",
+      "urduTranslation": "علی علیہ السلام نے کہا: پھر خدا کی قسم، ہم کامیاب ہو گئے اور سعادت مند ہوئے، اور اسی طرح ہمارے شیعہ بھی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فازُوا وَسُعِدُوا فِي الدُّنْيا وَالاْخِرَةِ وَرَبِّ الْكَعْبَةِ.",
+      "transliteration": "faazoo wa sui'doo fid-dunyaa wal aaakhirati wa rab-bil-kaa'-bah",
+      "translation": "they have won and attained pleasure in this world and in the Hereafter. I swear it by the Lord of the Ka`bah.\"",
+      "urduTranslation": "وہ دنیا و آخرت میں کامیاب اور سعادت مند ہوئے، رب کعبہ کی قسم۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "allahumma salli ala muhammadin wa ali muhammad",
+      "translation": "O' Allāh send Your blessings on Muhammad and the family of Muhammad.",
+      "urduTranslation": "اے اللہ! محمد اور آلِ محمد پر رحمت نازل فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

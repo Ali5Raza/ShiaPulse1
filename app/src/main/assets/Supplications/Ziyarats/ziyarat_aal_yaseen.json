@@ -1,0 +1,354 @@
+{
+  "id": "ziyarat_aal_yaseen",
+  "title": "Ziyarat Aal-e-Yaseen",
+  "titleUr": "زیارت آل یاسین",
+  "titleAr": "زيارة آل ياسين",
+  "category": "Ziyarat",
+  "categoryUr": "زیارتیں",
+  "categoryAr": "الزيارات",
+  "description": "A famous Ziyarat of Imam Mahdi (atfs) originating from the Imam himself.",
+  "descriptionUr": "امام مہدی (عج) کی جانب سے صادر شدہ مشہور زیارت۔",
+  "descriptionAr": "زيارة مشهورة صادرة عن الإمام المهدي (عج).",
+  "relevance": "Highly recommended for addressing the Imam of our time and renewing allegiance to him.",
+  "relevanceUr": "امام زمان (عج) کو سلام پیش کرنے اور اپنی بیعت کی تجدید کے لیے بہت مستحب۔",
+  "relevanceAr": "مستحبة جداً لمخاطبة إمام الزمان (عج) وتجديد البيعة له.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "Bismillahir-rahmanir-rahim",
+      "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "سَلَامٌ عَلَى آلِ يس",
+      "translation": "Peace be upon the progeny of Yaseen.",
+      "transliteration": "Salaamun 'alaa aali Yaaseen",
+      "urduTranslation": "سلام ہو آلِ یاسین پر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا دَاعِيَ اللَّهِ وَرَبَّانِيَّ آيَاتِهِ",
+      "translation": "Peace be upon you, O caller to Allah and the divine guide of His signs.",
+      "transliteration": "Assalaamu 'alayka yaa daa'iyallaahi wa rabbaaniyya aayaatih",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کی طرف بلانے والے اور اس کی نشانیوں کے ربانی جاننے والے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا بَابَ اللَّهِ وَدَيَّانَ دِينِهِ",
+      "translation": "Peace be upon you, O the gate of Allah and the administrator of His religion.",
+      "transliteration": "Assalaamu 'alayka yaa baaballaahi wa dayyaana deenih",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کے دروازے اور اس کے دین کے محافظ۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا خَلِيفَةَ اللَّهِ وَنَاصِرَ حَقِّهِ",
+      "translation": "Peace be upon you, O the vicegerent of Allah and the helper of His right.",
+      "transliteration": "Assalaamu 'alayka yaa khaleefatallaahi wa naasira haqqih",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کے خلیفہ اور اس کے حق کے مددگار۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا حُجَّةَ اللَّهِ وَدَلِيلَ إِرَادَتِهِ",
+      "translation": "Peace be upon you, O the proof of Allah and the guide to His will.",
+      "transliteration": "Assalaamu 'alayka yaa hujjatallaahi wa daleela iraadatih",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کی حجت اور اس کے ارادے کی دلیل۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا تَالِيَ كِتَابِ اللَّهِ وَتَرْجُمَانَهُ",
+      "translation": "Peace be upon you, O the reciter of the Book of Allah and its interpreter.",
+      "transliteration": "Assalaamu 'alayka yaa taaliya kitaabillaahi wa tarjumaanah",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کی کتاب کی تلاوت کرنے والے اور اس کے ترجمان۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ فِي آنَاءِ لَيْلِكَ وَأَطْرَافِ نَهَارِكَ",
+      "translation": "Peace be upon you in the hours of your night and the ends of your day.",
+      "transliteration": "Assalaamu 'alayka fee aanaa'i laylika wa atraafi nahaarik",
+      "urduTranslation": "سلام ہو آپ پر آپ کی رات کی گھڑیوں اور دن کے کناروں میں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا بَقِيَّةَ اللَّهِ فِي أَرْضِهِ",
+      "translation": "Peace be upon you, O the remnant of Allah on His earth.",
+      "transliteration": "Assalaamu 'alayka yaa baqiyyatallaahi fee ardih",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کی زمین میں اس کے بقیہ (آخری حجت)۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا مِيثَاقَ اللَّهِ الَّذِي أَخَذَهُ وَوَكَّدَهُ",
+      "translation": "Peace be upon you, O the covenant of Allah which He took and confirmed.",
+      "transliteration": "Assalaamu 'alayka yaa meethaaqallaahil ladhee akhadhahu wa wakkadah",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کے اس عہد پر جسے اس نے لیا اور پختہ کیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ يَا وَعْدَ اللَّهِ الَّذِي ضَمِنَهُ",
+      "translation": "Peace be upon you, O the promise of Allah which He guaranteed.",
+      "transliteration": "Assalaamu 'alayka yaa wa'dallaahil ladhee daminah",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کے اس وعدے پر جس کی اس نے ضمانت لی ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الْعَلَمُ الْمَنْصُوبُ وَالْعِلْمُ الْمَصْبُوبُ",
+      "translation": "Peace be upon you, O the raised flag and the poured knowledge,",
+      "transliteration": "Assalaamu 'alayka ayyuhal 'alamul mansoobu wal 'ilmul masboob",
+      "urduTranslation": "سلام ہو آپ پر اے نصب کیے گئے علم (پرچم) اور انڈیلے گئے علم،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْغَوْثُ وَالرَّحْمَةُ الْوَاسِعَةُ وَعْداً غَيْرَ مَكْذُوبٍ",
+      "translation": "And the succor and the expansive mercy, a promise not belied.",
+      "transliteration": "Wal ghawthu war-rahmatul waasi'atu wa'dan ghayra makdhoob",
+      "urduTranslation": "اور فریاد رس اور وسیع رحمت، ایسا وعدہ جو جھوٹا نہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تَقُومُ السَّلَامُ عَلَيْكَ حِينَ تَقْعُدُ",
+      "translation": "Peace be upon you when you stand. Peace be upon you when you sit.",
+      "transliteration": "Assalaamu 'alayka heena taqoom, Assalaamu 'alayka heena taq'ud",
+      "urduTranslation": "سلام ہو آپ پر جب آپ کھڑے ہوں، سلام ہو آپ پر جب آپ بیٹھے ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تَقْرَأُ وَتُبَيِّنُ",
+      "translation": "Peace be upon you when you read and explain.",
+      "transliteration": "Assalaamu 'alayka heena taqra'u wa tubayyin",
+      "urduTranslation": "سلام ہو آپ پر جب آپ پڑھیں اور بیان کریں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تُصَلِّي وَتَقْنُتُ",
+      "translation": "Peace be upon you when you pray and supplicate (Qunut).",
+      "transliteration": "Assalaamu 'alayka heena tusallee wa taqnut",
+      "urduTranslation": "سلام ہو آپ پر جب آپ نماز پڑھیں اور قنوت پڑھیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تَرْكَعُ وَتَسْجُدُ",
+      "translation": "Peace be upon you when you bow (Ruku) and prostrate (Sujud).",
+      "transliteration": "Assalaamu 'alayka heena tarka'u wa tasjud",
+      "urduTranslation": "سلام ہو آپ پر جب آپ رکوع کریں اور سجدہ کریں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ",
+      "translation": "Peace be upon you when you declare 'There is no god but Allah' and 'Allah is the Greatest'.",
+      "transliteration": "Assalaamu 'alayka heena tuhallilu wa tukabbir",
+      "urduTranslation": "سلام ہو آپ پر جب آپ لا الہ الا اللہ اور اللہ اکبر کہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تَحْمَدُ وَتَسْتَغْفِرُ",
+      "translation": "Peace be upon you when you praise and seek forgiveness.",
+      "transliteration": "Assalaamu 'alayka heena tahmadu wa tastaghfir",
+      "urduTranslation": "سلام ہو آپ پر جب آپ الحمد للہ کہیں اور استغفار کریں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ حِينَ تُصْبِحُ وَتُمْسِي",
+      "translation": "Peace be upon you when you enter the morning and the evening.",
+      "transliteration": "Assalaamu 'alayka heena tusbihu wa tumsee",
+      "urduTranslation": "سلام ہو آپ پر جب آپ صبح کریں اور شام کریں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ فِي اللَّيْلِ إِذَا يَغْشَى وَالنَّهَارِ إِذَا تَجَلَّى",
+      "translation": "Peace be upon you in the night when it covers and the day when it shines.",
+      "transliteration": "Assalaamu 'alayka fil-layli idhaa yaghshaa wan-nahaari idhaa tajallaa",
+      "urduTranslation": "سلام ہو آپ پر رات میں جب وہ چھا جائے اور دن میں جب وہ روشن ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الْإِمَامُ الْمَأْمُونُ",
+      "translation": "Peace be upon you, O the trusted Imam.",
+      "transliteration": "Assalaamu 'alayka ayyuhal imaamul ma'moon",
+      "urduTranslation": "سلام ہو آپ پر اے امانت دار امام۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الْمُقَدَّمُ الْمَأْمُولُ",
+      "translation": "Peace be upon you, O the forwarded hope.",
+      "transliteration": "Assalaamu 'alayka ayyuhal muqaddamul ma'mool",
+      "urduTranslation": "سلام ہو آپ پر اے وہ مقدم ہستی جس سے امیدیں وابستہ ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ بِجَوَامِعِ السَّلَامِ",
+      "translation": "Peace be upon you with all comprehensive salutations.",
+      "transliteration": "Assalaamu 'alayka bijawaami'is-salaam",
+      "urduTranslation": "سلام ہو آپ پر تمام جامع سلاموں کے ساتھ۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أُشْهِدُكَ يَا مَوْلَايَ أَنِّي أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+      "translation": "I make you a witness, O my Master, that I bear witness that there is no god but Allah, alone without any partner,",
+      "transliteration": "Ushhiduka yaa mawlaaya annee ashhadu al-laa ilaaha illallaahu wahdahu laa shareeka lah",
+      "urduTranslation": "اے میرے آقا، میں آپ کو گواہ بناتا ہوں کہ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے اس کا کوئی شریک نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ لَا حَبِيبَ إِلَّا هُوَ وَأَهْلُهُ",
+      "translation": "And that Muhammad is His servant and His messenger; there is no beloved except him and his household.",
+      "transliteration": "Wa anna Muhammadan 'abduhu wa rasooluhu, laa habeeba illaa huwa wa ahluh",
+      "urduTranslation": "اور بے شک محمد (ص) اس کے بندے اور رسول ہیں، ان کے اور ان کی آل کے سوا کوئی حبیب نہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأُشْهِدُكَ يَا مَوْلَايَ أَنَّ عَلِيّاً أَمِيرَ الْمُؤْمِنِينَ حُجَّتُهُ",
+      "translation": "And I make you a witness, O my Master, that Ali, the Commander of the Faithful, is His proof,",
+      "transliteration": "Wa ushhiduka yaa mawlaaya anna 'Aliyyan Ameeral mu'mineena hujjatuh",
+      "urduTranslation": "اور اے میرے آقا، میں آپ کو گواہ بناتا ہوں کہ بے شک علی امیر المومنین اس کی حجت ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْحَسَنَ حُجَّتُهُ وَالْحُسَيْنَ حُجَّتُهُ وَعَلِيَّ بْنَ الْحُسَيْنِ حُجَّتُهُ",
+      "translation": "And Hasan is His proof, and Husain is His proof, and Ali son of Husain is His proof,",
+      "transliteration": "Wal Hasana hujjatuh, wal Husayna hujjatuh, wa 'Aliyyabnal Husayni hujjatuh",
+      "urduTranslation": "اور حسن اس کی حجت ہیں، اور حسین اس کی حجت ہیں، اور علی بن حسین اس کی حجت ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ وَجَعْفَرَ بْنَ مُحَمَّدٍ حُجَّتُهُ",
+      "translation": "And Muhammad son of Ali is His proof, and Ja'far son of Muhammad is His proof,",
+      "transliteration": "Wa Muhammadabna 'Aliyyin hujjatuh, wa Ja'farabna Muhammadin hujjatuh",
+      "urduTranslation": "اور محمد بن علی اس کی حجت ہیں، اور جعفر بن محمد اس کی حجت ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمُوسَى بْنَ جَعْفَرٍ حُجَّتُهُ وَعَلِيَّ بْنَ مُوسَى حُجَّتُهُ",
+      "translation": "And Musa son of Ja'far is His proof, and Ali son of Musa is His proof,",
+      "transliteration": "Wa Moosabna Ja'farin hujjatuh, wa 'Aliyyabna Moosa hujjatuh",
+      "urduTranslation": "اور موسیٰ بن جعفر اس کی حجت ہیں، اور علی بن موسیٰ اس کی حجت ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ وَعَلِيَّ بْنَ مُحَمَّدٍ حُجَّتُهُ",
+      "translation": "And Muhammad son of Ali is His proof, and Ali son of Muhammad is His proof,",
+      "transliteration": "Wa Muhammadabna 'Aliyyin hujjatuh, wa 'Aliyyabna Muhammadin hujjatuh",
+      "urduTranslation": "اور محمد بن علی اس کی حجت ہیں، اور علی بن محمد اس کی حجت ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْحَسَنَ بْنَ عَلِيٍّ حُجَّتُهُ وَأَشْهَدُ أَنَّكَ حُجَّةُ اللَّهِ",
+      "translation": "And Hasan son of Ali is His proof, and I bear witness that you are the proof of Allah.",
+      "transliteration": "Wal Hasanabna 'Aliyyin hujjatuh, wa ashhadu annaka hujjatullaah",
+      "urduTranslation": "اور حسن بن علی اس کی حجت ہیں، اور میں گواہی دیتا ہوں کہ آپ اللہ کی حجت ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَنْتُمُ الْأَوَّلُ وَالْآخِرُ",
+      "translation": "You (all) are the first and the last.",
+      "transliteration": "Antumul awwalu wal aakhir",
+      "urduTranslation": "آپ ہی اول اور آخر ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنَّ رَجْعَتَكُمْ حَقٌّ لَا رَيْبَ فِيهَا",
+      "translation": "And that your return is a truth in which there is no doubt,",
+      "transliteration": "Wa anna raj'atakum haqqun laa rayba feehaa",
+      "urduTranslation": "اور بے شک آپ کی رجعت حق ہے جس میں کوئی شک نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَوْمَ لاَ يَنْفَعُ نَفْساً إِِيمَانُهَا لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ أَوْ كَسَبَتْ فِي إِِيمَانِهَا خَيْراً",
+      "translation": "On the day when belief will not benefit a soul that did not believe before or earn good through its belief.",
+      "transliteration": "Yawma laa yanfa'u nafsan eemaanuhaa lam takun aamanat min qablu aw kasabat fee eemaanihaa khayraa",
+      "urduTranslation": "اس دن کسی ایسے شخص کو اس کا ایمان فائدہ نہ دے گا جو پہلے ایمان نہ لایا ہو یا اپنے ایمان میں کوئی نیکی نہ کمائی ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنَّ الْمَوْتَ حَقٌّ وَأَنَّ نَاكِراً وَنَكِيراً حَقٌّ",
+      "translation": "And that death is a truth, and that Nakir and Munkar are a truth,",
+      "transliteration": "Wa annal mawta haqqun wa anna naakiran wa nakeeran haqq",
+      "urduTranslation": "اور بے شک موت برحق ہے، اور منکر و نکیر برحق ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَشْهَدُ أَنَّ النَّشْرَ حَقٌّ وَالْبَعْثَ حَقٌّ",
+      "translation": "And I bear witness that the resurrection is a truth, and the raising (from graves) is a truth,",
+      "transliteration": "Wa ashhadu an-nan-nashra haqqun wal ba'tha haqq",
+      "urduTranslation": "اور میں گواہی دیتا ہوں کہ اٹھایا جانا برحق ہے اور مبعوث ہونا برحق ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنَّ الصِّرَاطَ حَقٌّ وَالْمِرْصَادَ حَقٌّ",
+      "translation": "And that the bridge (Sirat) is a truth, and the watchtower is a truth,",
+      "transliteration": "Wa annas-siraata haqqun wal mirsaada haqq",
+      "urduTranslation": "اور پل صراط برحق ہے اور مرصاد برحق ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْمِيزَانَ حَقٌّ وَالْحَشْرَ حَقٌّ",
+      "translation": "And the scale is a truth, and the gathering is a truth,",
+      "transliteration": "Wal meezaana haqqun wal hashra haqq",
+      "urduTranslation": "اور میزان برحق ہے اور حشر برحق ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْحِسَابَ حَقٌّ وَالْجَنَّةَ وَالنَّارَ حَقٌّ",
+      "translation": "And the reckoning is a truth, and Paradise and Hell are a truth,",
+      "transliteration": "Wal hisaaba haqqun wal jannata wan-naara haqq",
+      "urduTranslation": "اور حساب برحق ہے، اور جنت و دوزخ برحق ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْوَعْدَ وَالْوَعِيدَ بِهِمَا حَقٌّ",
+      "translation": "And the promise and the threat regarding them are a truth.",
+      "transliteration": "Wal wa'da wal wa'eeda bihimaa haqq",
+      "urduTranslation": "اور ان دونوں کے بارے میں وعدہ اور وعید برحق ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَوْلَايَ شَقِيَ مَنْ خَالَفَكُمْ وَسَعِدَ مَنْ أَطَاعَكُمْ",
+      "translation": "O my Master! He who opposed you is wretched, and he who obeyed you is fortunate.",
+      "transliteration": "Yaa mawlaaya shaqiya man khaalafakum wa sa'ida man ata'akum",
+      "urduTranslation": "اے میرے آقا! بدبخت ہوا وہ جس نے آپ کی مخالفت کی اور نیک بخت ہوا وہ جس نے آپ کی اطاعت کی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَاشْهَدْ عَلَى مَا أَشْهَدْتُكَ عَلَيْهِ",
+      "translation": "So bear witness to what I have made you witness over.",
+      "transliteration": "Fash-had 'alaa maa ash-hadtuka 'alayh",
+      "urduTranslation": "پس گواہ رہیں اس پر جس کا میں نے آپ کو گواہ بنایا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنَا وَلِيٌّ لَكَ بَرِيءٌ مِنْ عَدُوِّكَ",
+      "translation": "And I am a friend to you, free from your enemy.",
+      "transliteration": "Wa anaa waliyyun laka baree'un min 'aduwwik",
+      "urduTranslation": "اور میں آپ کا دوست ہوں، آپ کے دشمنوں سے بیزار ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَالْحَقُّ مَا رَضِيتُمُوهُ وَالْبَاطِلُ مَا أَسْخَطْتُمُوهُ",
+      "translation": "So the truth is what you are pleased with, and falsehood is what angers you.",
+      "transliteration": "Fal haqqu maa radeetumoohu wal baatilu maa askhattumooh",
+      "urduTranslation": "پس حق وہ ہے جس سے آپ راضی ہوں اور باطل وہ ہے جس پر آپ ناراض ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَالْمَعْرُوفُ مَا أَمَرْتُمْ بِهِ وَالْمُنْكَرُ مَا نَهَيْتُمْ عَنْهُ",
+      "translation": "And the good is what you commanded, and the evil is what you forbade.",
+      "transliteration": "Wal ma'roofu maa amartum bihi wal munkaru maa nahaytum 'anh",
+      "urduTranslation": "اور نیکی وہ ہے جس کا آپ حکم دیں اور برائی وہ ہے جس سے آپ منع کریں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَنَفْسِي مُؤْمِنَةٌ بِاللَّهِ وَحْدَهُ لَا شَرِيكَ لَهُ وَبِرَسُولِهِ وَبِأَمِيرِ الْمُؤْمِنِينَ وَبِكُمْ يَا مَوْلَايَ",
+      "translation": "So my soul is believing in Allah, alone without any partner, and in His Messenger, and in the Commander of the Faithful, and in you all, O my Master.",
+      "transliteration": "Fanafsee mu'minatun billaahi wahdahu laa shareeka lahu wa birasoolihi wa bi'ameeril mu'mineena wa bikum yaa mawlaay",
+      "urduTranslation": "پس میرا نفس ایمان لایا ہے اکیلے اللہ پر جس کا کوئی شریک نہیں، اور اس کے رسول پر، اور امیر المومنین پر، اور آپ سب پر اے میرے آقا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَوَّلِكُمْ وَآخِرِكُمْ وَنُصْرَتِي مُعَدَّةٌ لَكُمْ وَمَوَدَّتِي خَالِصَةٌ لَكُمْ آمِينَ آمِينَ",
+      "translation": "From the first of you to the last of you, and my help is prepared for you, and my love is pure for you. Amen, Amen.",
+      "transliteration": "Awwalikum wa aakhirikum wa nusratee mu'addatun lakum wa mawaddatee khaalisatun lakum aameen aameen",
+      "urduTranslation": "آپ کے اول سے لے کر آخر تک، اور میری مدد آپ کے لیے تیار ہے اور میری محبت آپ کے لیے خالص ہے۔ آمین، آمین۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

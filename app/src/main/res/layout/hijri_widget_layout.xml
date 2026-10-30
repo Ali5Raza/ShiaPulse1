@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/widget_bg"
+    android:padding="12dp">
+
+    <!-- Header Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="6dp">
+        
+        <TextView
+            android:id="@+id/widget_app_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="SHIAPULSE HIJRI"
+            android:textColor="#FF00BFA5"
+            android:textSize="9sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/widget_gregorian_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="July 10, 2026"
+            android:textColor="#8F8FA6"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <!-- Main Hijri Date Display -->
+    <TextView
+        android:id="@+id/widget_hijri_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="13 Rajab 1447 AH"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Upcoming Events Section -->
+    <TextView
+        android:id="@+id/widget_event_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AHEM SHIA EVENTS:"
+        android:textColor="#8F8FA6"
+        android:textSize="8sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="2dp" />
+
+    <!-- Event Title & Info -->
+    <TextView
+        android:id="@+id/widget_event_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Loading upcoming Shia events..."
+        android:textColor="#FFFFFF"
+        android:textSize="11sp"
+        android:ellipsize="end"
+        android:maxLines="2" />
+
+</LinearLayout>

@@ -1,0 +1,52 @@
+{
+  "id": "aamal_zilhajj",
+  "title": "Aamal of Dhu al-Hijjah",
+  "titleUr": "ماہ ذوالحجہ کے اعمال",
+  "titleAr": "أعمال شهر ذي الحجة",
+  "category": "Monthly",
+  "categoryUr": "ماہانہ",
+  "categoryAr": "شهري",
+  "description": "Highly recommended acts for the first ten days of Dhu al-Hijjah.",
+  "descriptionUr": "ماہ ذوالحجہ کے پہلے دس دنوں کے انتہائی مستحب اعمال۔",
+  "descriptionAr": "الأعمال المستحبة في العشر الأوائل من شهر ذي الحجة.",
+  "relevance": "First 10 days of Dhu al-Hijjah",
+  "relevanceUr": "ذوالحجہ کے پہلے 10 دن",
+  "relevanceAr": "الأيام العشر الأولى من ذي الحجة",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Fasting",
+      "titleUr": "روزہ رکھنا",
+      "titleAr": "الصيام",
+      "description": "Fasting in the first nine days of Dhu al-Hijjah carries the reward of fasting for a lifetime.",
+      "descriptionUr": "ذوالحجہ کے پہلے نو دنوں میں روزہ رکھنے کا ثواب زندگی بھر کے روزوں کے برابر ہے۔",
+      "descriptionAr": "صيام الأيام التسعة الأولى من شهر ذي الحجة يعادل صيام العمر كله."
+    },
+    {
+      "actNumber": 2,
+      "title": "Prayer Between Maghrib and Isha",
+      "titleUr": "مغرب اور عشاء کے درمیان نماز",
+      "titleAr": "الصلاة بين العشائين",
+      "description": "During the first ten nights, perform a 2 Rak'at prayer between Maghrib and Isha. In each Rak'at, after Surah al-Fatihah and Surah al-Ikhlas, recite verse 142 of Surah al-A'raf.",
+      "descriptionUr": "پہلی دس راتوں میں مغرب اور عشاء کے درمیان دو رکعت نماز پڑھیں۔ ہر رکعت میں سورہ فاتحہ اور سورہ اخلاص کے بعد سورہ اعراف کی آیت 142 پڑھیں۔",
+      "descriptionAr": "أن يصلي بين فريضتي المغرب والعشاء في كل ليلة من ليالي العشر الأوائل ركعتين يقرأ في كل ركعة الفاتحة والتوحيد وهذه الآية:",
+      "arabicRecitation": "وَوَاعَدْنَا مُوسَىٰ ثَلَاثِينَ لَيْلَةً وَأَتْمَمْنَاهَا بِعَشْرٍ فَتَمَّ مِيقَاتُ رَبِّهِ أَرْبَعِينَ لَيْلَةً...",
+      "translation": "And We made an appointment with Moses for thirty nights and perfected them by [the addition of] ten; so the term of his Lord was completed as forty nights...",
+      "urduTranslation": "اور ہم نے موسیٰ سے تیس راتوں کا وعدہ کیا اور دس کے ذریعے سے انہیں پورا کیا، پس ان کے رب کا مقررہ وقت چالیس راتوں میں مکمل ہوا...",
+      "transliteration": "Wa wa'adna musa thalathina laylatan wa atmamnaha bi-'ashrin fatamma miqatu rabbihi arba'ina laylatan..."
+    },
+    {
+      "actNumber": 3,
+      "title": "Reciting Tahlil",
+      "titleUr": "تہلیل پڑھنا",
+      "titleAr": "التهليل",
+      "description": "Recite the special Tahlil (La ilaha illallah...) taught by Imam Ali (AS) ten times daily.",
+      "descriptionUr": "امام علی (ع) کی سکھائی ہوئی مخصوص تہلیل روزانہ دس مرتبہ پڑھیں۔",
+      "descriptionAr": "قراءة التهليلات المروية عن أمير المؤمنين (ع) في كل يوم من هذه العشر عشر مرات.",
+      "arabicRecitation": "لَا إِلٰهَ إِلَّا اللّٰهُ عَدَدَ اللَّيَالِي وَالدُّهُورِ...",
+      "translation": "There is no god but Allah, corresponding to the number of nights and eras...",
+      "urduTranslation": "اللہ کے سوا کوئی معبود نہیں، راتوں اور زمانوں کی تعداد کے برابر...",
+      "transliteration": "La ilaha illallahu 'adadal-layali wad-duhoor..."
+    }
+  ]
+}

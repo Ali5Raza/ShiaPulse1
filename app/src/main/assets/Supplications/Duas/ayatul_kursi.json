@@ -1,0 +1,80 @@
+{
+  "id": "ayatul_kursi",
+  "title": "Ayatul Kursi",
+  "titleUr": "آیت الکرسی",
+  "titleAr": "آية الكرسي",
+  "arabicTitle": "آية الكرسي",
+  "lines": [
+    {
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+      "translation": "In the Name of Allah, the Beneficent, the Merciful.",
+      "urduTranslation": "اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔",
+      "farsiTranslation": "به نام خداوند بخشنده مهربان",
+      "transliteration": "Bismillahir-rahmanir-rahim"
+    },
+    {
+      "arabic": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ",
+      "translation": "Allah! There is no god but He, the Living, the Self-subsisting, Supporter of all.",
+      "urduTranslation": "اللہ، اس کے سوا کوئی معبود نہیں، جو زندہ اور سب کو سنبھالنے والا ہے۔",
+      "farsiTranslation": "خداست که معبودی جز او نیست؛ زنده و برپادارنده است.",
+      "transliteration": "Allahu laa ilaaha illaa Huwal Hayyul Qayyum"
+    },
+    {
+      "arabic": "لَا تَأْخُذُهُۥ سِنَةٌۭ وَلَا نَوْمٌۭ ۚ",
+      "translation": "No slumber can seize Him nor sleep.",
+      "urduTranslation": "نہ اسے اونگھ آتی ہے اور نہ نیند۔",
+      "farsiTranslation": "نه خوابی سبک او را فرا می‌گیرد و نه خوابی سنگین.",
+      "transliteration": "Laa ta'khuzuhu sinatun wa laa nawm"
+    },
+    {
+      "arabic": "لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ",
+      "translation": "His are all things in the heavens and on earth.",
+      "urduTranslation": "جو کچھ آسمانوں میں اور جو کچھ زمین میں ہے سب اسی کا ہے۔",
+      "farsiTranslation": "آنچه در آسمان‌ها و آنچه در زمین است، از آنِ اوست.",
+      "transliteration": "Lahu maa fis-samaawaati wa maa fil-ard"
+    },
+    {
+      "arabic": "مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ",
+      "translation": "Who is there can intercede in His presence except as He permitteth?",
+      "urduTranslation": "کون ہے جو اس کی اجازت کے بغیر اس کے ہاں سفارش کر سکے؟",
+      "farsiTranslation": "کیست که در پیشگاه او، جز به فرمانش شفاعت کند؟",
+      "transliteration": "Man zal-lazi yashfa'u 'indahu illaa bi-iznih"
+    },
+    {
+      "arabic": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ",
+      "translation": "He knoweth what (appeareth to His creatures as) before or after or behind them.",
+      "urduTranslation": "وہ جانتا ہے جو کچھ ان کے سامنے ہے اور جو کچھ ان کے پیچھے ہے۔",
+      "farsiTranslation": "آنچه در پیش روی آنان و آنچه در پشت سرشان است می‌داند.",
+      "transliteration": "Ya'lamu maa bayna aydihim wa maa khalfahum"
+    },
+    {
+      "arabic": "وَلَا يُحِيطُونَ بِشَىْءٍۢ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ",
+      "translation": "Nor shall they compass aught of His knowledge except as He willeth.",
+      "urduTranslation": "اور وہ اس کے علم میں سے کسی چیز کا احاطہ نہیں کر سکتے سوائے اس کے جتنا وہ چاہے۔",
+      "farsiTranslation": "و به چیزی از علم او، جز به آنچه بخواهد، احاطه نمی‌یابند.",
+      "transliteration": "Wa laa yuhiitoona bi shay'in min 'ilmihi illaa bimaa shaa'"
+    },
+    {
+      "arabic": "وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ",
+      "translation": "His Throne doth extend over the heavens and the earth,",
+      "urduTranslation": "اس کی کرسی آسمانوں اور زمین کو گھیرے ہوئے ہے،",
+      "farsiTranslation": "کرسی او آسمان‌ها و زمین را دربر گرفته است.",
+      "transliteration": "Wasi'a kursiyyuhus-samaawaati wal-ard"
+    },
+    {
+      "arabic": "وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+      "translation": "and He feeleth no fatigue in guarding and preserving them for He is the Most High, the Supreme (in glory).",
+      "urduTranslation": "اور اسے ان دونوں کی حفاظت نہیں تھکاتی، اور وہ بہت بلند، بہت عظمت والا ہے۔",
+      "farsiTranslation": "و نگهداری آن دو بر او سنگین نیست؛ و اوست بلندمرتبه و بزرگ.",
+      "transliteration": "Wa laa ya'uuduhu hifzuhumaa wa Huwal 'Aliyyul 'Azeem"
+    }
+  ],
+  "category": "Quranic",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "Verse of the Throne",
+  "descriptionUr": "عرش والی آیت، آیت الکرسی۔",
+  "descriptionAr": "آية العرش، آية الكرسي.",
+  "relevanceUr": "کسی بھی وقت",
+  "relevanceAr": "في أي وقت"
+}

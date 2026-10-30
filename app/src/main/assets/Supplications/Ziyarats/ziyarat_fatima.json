@@ -1,0 +1,52 @@
+{
+  "id": "ziyarat_fatima",
+  "title": "Ziyarat Fatima Zahra (sa)",
+  "titleUr": "زیارت فاطمہ زہرا (س)",
+  "titleAr": "زيارة فاطمة الزهراء (ع)",
+  "arabicTitle": "زيارة فاطمة الزهراء (ع)",
+  "category": "Ziyarat",
+  "categoryUr": "زیارتیں",
+  "categoryAr": "الزيارات",
+  "description": "Ziyarat of Sayyida Fatima al-Zahra (sa).",
+  "descriptionUr": "سیدہ فاطمہ الزہراء (س) کی زیارت۔",
+  "descriptionAr": "زيارة السيدة فاطمة الزهراء (ع).",
+  "relevanceUr": "کسی بھی وقت",
+  "relevanceAr": "في أي وقت",
+  "lines": [
+    {
+      "arabic": "يَا مُمْتَحَنَةُ امْتَحَنَكِ اللَّهُ الَّذِي خَلَقَكِ قَبْلَ أَنْ يَخْلُقَكِ",
+      "transliteration": "Yaa mumtahanatum tahanakillaahul-ladhii khalaqaki qabla an yakhluqaki",
+      "translation": "O you who were tested! Allah, Who created you, tested you before He created you,",
+      "urduTranslation": "اے وہ جن کا امتحان لیا گیا! اللہ نے جس نے آپ کو پیدا کیا، آپ کی پیدائش سے پہلے آپ کا امتحان لیا،",
+      "farsiTranslation": "ای آزموده شده! خدایی که تو را آفرید، پیش از آفرینشت تو را آزمود،"
+    },
+    {
+      "arabic": "فَوَجَدَكِ لِمَا امْتَحَنَكِ صَابِرَةً",
+      "transliteration": "Fawajadaki limam-tahanaki saabirah",
+      "translation": "And He found you patient and steadfast in that which He tested you.",
+      "urduTranslation": "پس اس نے آپ کو اس امتحان میں صبر کرنے والی اور ثابت قدم پایا۔",
+      "farsiTranslation": "و تو را در آنچه آزمود شکیبا یافت."
+    },
+    {
+      "arabic": "وَزَعَمْنَا أَنَّا لَكِ أَوْلِيَاءُ وَمُصَدِّقُونَ",
+      "transliteration": "Wa za'amnaa annaa laki awliyaa'u wa musaddiquun",
+      "translation": "And we claim that we are your friends, and believers (in you),",
+      "urduTranslation": "اور ہم یہ دعویٰ کرتے ہیں کہ ہم آپ کے دوست اور آپ کی تصدیق کرنے والے ہیں،",
+      "farsiTranslation": "و ما ادعا می‌کنیم که دوستان و تصدیق‌کنندگان تو هستیم،"
+    },
+    {
+      "arabic": "وَصَابِرُونَ لِكُلِّ مَا أَتَانَا بِهِ أَبُوكِ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "Wa saabiruuna likulli maa ataanaa bihi abuuki sallallaahu 'alayhi wa aalih",
+      "translation": "And we are patient bearing all that your father (peace be upon him and his family) has brought us.",
+      "urduTranslation": "اور ہم ان تمام چیزوں پر صبر کرنے والے ہیں جو آپ کے والد (ان پر اور ان کی آل پر اللہ کی رحمت ہو) ہمارے پاس لائے ہیں۔",
+      "farsiTranslation": "و بر هر آنچه پدرت (که درود خدا بر او و خاندانش باد) برای ما آورده شکیباییم."
+    },
+    {
+      "arabic": "وَأَتَى بِهِ وَصِيُّهُ",
+      "transliteration": "Wa ataa bihi wasiyyuh",
+      "translation": "And all that his successor brought.",
+      "urduTranslation": "اور جو ان کے جانشین لائے ہیں۔",
+      "farsiTranslation": "و آنچه جانشین او آورده است."
+    }
+  ]
+}

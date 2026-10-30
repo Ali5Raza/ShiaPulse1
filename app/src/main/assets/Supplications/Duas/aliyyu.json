@@ -1,0 +1,81 @@
+{
+  "id": "aliyyu",
+  "title": "Dua Ya Aliyyu Ya Azeem",
+  "titleUr": "دعا یا علیّ یا عظیم",
+  "titleAr": "دعاء يا عليّ يا عظيم",
+  "category": "Daily Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "A highly recommended short supplication recited after every obligatory prayer during the Holy Month of Ramadhan.",
+  "descriptionUr": "ماہ مبارک رمضان میں ہر واجب نماز کے بعد پڑھی جانے والی بہت مستحب مختصر دعا۔",
+  "descriptionAr": "دعاء قصير مستحب جداً يُقرأ بعد كل صلاة واجبة في شهر رمضان المبارك.",
+  "relevance": "Seeks forgiveness, liberation from the Hellfire, and entry into Paradise through the blessings of the holy month.",
+  "relevanceUr": "رمضان المبارک کے برکتوں سے مغفرت، جہنم سے نجات اور جنت میں داخلے کی دعا۔",
+  "relevanceAr": "طلب المغفرة والنجاة من النار ودخول الجنة ببركات شهر رمضان.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "Bismillahir-rahmanir-rahim",
+      "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَلِيُّ يَا عَظِيمُ يَا غَفُورُ يَا رَحِيمُ",
+      "translation": "O High, O Mighty, O Forgiving, O Merciful,",
+      "transliteration": "Ya ‘aliyyu ya ‘adhim, ya ghafuru ya rahim",
+      "urduTranslation": "اے بلند مرتبہ، اے عظمت والے، اے بخشنے والے، اے رحم کرنے والے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَنْتَ الرَّبُّ الْعَظِيمُ الَّذِي لَيْسَ كَمِثْلِهِ شَيْءٌ وَهُوَ السَّمِيعُ الْبَصِيرُ",
+      "translation": "You are the Great Lord, Whom nothing can resemble, and He is the All-hearing, the All-seeing.",
+      "transliteration": "Antar-rabbul-‘adhim, alladhi laysa kamithlihi shay’un wa-huwas-sami‘ul-basir",
+      "urduTranslation": "تو وہ عظیم رب ہے جس کی مانند کوئی چیز نہیں ہے، اور وہ سب کچھ سننے اور دیکھنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَهَذَا شَهْرٌ عَظَّمْتَهُ وَكَرَّمْتَهُ وَشَرَّفْتَهُ وَفَضَّلْتَهُ عَلَى الشُّهُورِ",
+      "translation": "And this is a month which You have made great, exalted, honored, and excelled over other months.",
+      "transliteration": "Wa hadha shahrun ‘adh-dhamtahu wa karramtahu wa sharraftahu wa faddaltahu ‘alash-shuhur",
+      "urduTranslation": "اور یہ وہ مہینہ ہے جسے تو نے دوسرے مہینوں پر عظمت، کرامت، شرافت اور فضیلت عطا کی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَهُوَ الشَّهْرُ الَّذِي فَرَضْتَ صِيَامَهُ عَلَيَّ وَهُوَ شَهْرُ رَمَضَانَ",
+      "translation": "It is the month which You have made obligatory for me to fast, and it is the month of Ramadhan,",
+      "transliteration": "Wa huwash-shahrul-ladhi faradta siyamehu ‘alayy, wa huwa shahru ramadan",
+      "urduTranslation": "اور یہ وہ مہینہ ہے جس کے روزے تو نے مجھ پر فرض کیے ہیں اور یہ ماہِ رمضان ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "الَّذِي أَنْزَلْتَ فِيهِ الْقُرْآنَ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَى وَالْفُرْقَانِ",
+      "translation": "in which You revealed the Qur'an, a guidance for mankind and clear proofs of guidance and distinction.",
+      "transliteration": "Alladhi anzalta fihil-qur’ana hudal-linnasi wa bayyinatim-minal-huda wal-furqan",
+      "urduTranslation": "جس میں تو نے قرآن نازل فرمایا جو لوگوں کے لیے سراسر ہدایت ہے اور اس میں ہدایت اور حق و باطل کی تمیز کی کھلی نشانیاں ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ فِيهِ لَيْلَةَ الْقَدْرِ وَجَعَلْتَهَا خَيْراً مِنْ أَلْفِ شَهْرٍ",
+      "translation": "You have placed the Night of Qadr in it, and made it better than a thousand months.",
+      "transliteration": "Wa ja‘alta fihi laylatal-qadri wa ja‘altaha khayram-min alfi shahr",
+      "urduTranslation": "اور تو نے اس میں شبِ قدر قرار دی اور اسے ہزار مہینوں سے بہتر بنایا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَيَا ذَا الْمَنِّ وَلَا يُمَنُّ عَلَيْكَ مُنَّ عَلَيَّ بِفَكَاكِ رَقَبَتِي مِنَ النَّارِ",
+      "translation": "O One Who bestows favors and none can bestow favors on Him, favor me by freeing my neck from the Fire,",
+      "transliteration": "Fa-ya dhal-manni wa la yumannu ‘alayk, munna ‘alayya bifakaki raqabeti minan-nar",
+      "urduTranslation": "پس اے صاحبِ احسان جس پر کوئی احسان نہیں کر سکتا، مجھ پر یہ احسان فرما کہ میری گردن کو جہنم کی آگ سے آزاد کر دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي مَنْ تَمُنُّ عَلَيْهِ وَأَدْخِلْنِي الْجَنَّةَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
+      "translation": "among those on whom You bestow favors, and admit me into Paradise, by Your mercy, O most Merciful of the merciful.",
+      "transliteration": "Fi man tamunnu ‘alayhi wa adkhilnil-jannata birahmatika ya arhamar-rahimin",
+      "urduTranslation": "ان لوگوں کے ساتھ جن پر تو نے احسان کیا ہے، اور مجھے اپنی رحمت کے صدقے جنت میں داخل فرما، اے سب سے زیادہ رحم کرنے والے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

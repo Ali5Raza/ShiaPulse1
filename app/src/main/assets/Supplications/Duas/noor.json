@@ -1,0 +1,130 @@
+{
+  "id": "noor",
+  "title": "Dua-e-Noor",
+  "titleUr": "دعا نور",
+  "titleAr": "دعاء النور",
+  "category": "Daily Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "A beautiful supplication taught by Lady Fatima Zahra (sa) for protection and seeking light.",
+  "descriptionUr": "بی بی فاطمہ زہرا (س) کی سکھائی ہوئی خوبصورت دعا، جو حفاظت اور نور کے حصول کے لیے ہے۔",
+  "descriptionAr": "دعاء جميل علّمته السيدة فاطمة الزهراء (ع) لطلب الحفظ والنور.",
+  "relevance": "Highly recommended for protection against fever and seeking spiritual light.",
+  "relevanceUr": "بخار سے حفاظت اور روحانی نور کے لیے بہت مستحب۔",
+  "relevanceAr": "مستحب للحفظ من الحمى وطلب النور الروحي.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+      "translation": "In the name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "Bismillahir-rahmanir-rahim",
+      "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ النُّورِ",
+      "translation": "In the Name of Allah, the Light.",
+      "transliteration": "Bismillahin-noor",
+      "urduTranslation": "اللہ کے نام سے جو نور ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ نُورِ النُّورِ",
+      "translation": "In the Name of Allah, the Light of Light.",
+      "transliteration": "Bismillahi noorin-noor",
+      "urduTranslation": "اللہ کے نام سے جو نور کا بھی نور ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ نُورٌ عَلَى نُورٍ",
+      "translation": "In the Name of Allah, Light over Light.",
+      "transliteration": "Bismillahi noorun 'alaa noor",
+      "urduTranslation": "اللہ کے نام سے جو نور پر نور ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ الَّذِي هُوَ مُدَبِّرُ الْأُمُورِ",
+      "translation": "In the Name of Allah, Who is the Planner of affairs.",
+      "transliteration": "Bismillahil-ladhee huwa mudabbirul umoor",
+      "urduTranslation": "اللہ کے نام سے جو تمام کاموں کا تدبیر کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ الَّذِي خَلَقَ النُّورَ مِنَ النُّورِ",
+      "translation": "In the Name of Allah, Who created light from Light.",
+      "transliteration": "Bismillahil-ladhee khalaqan-noora minan-noor",
+      "urduTranslation": "اللہ کے نام سے جس نے نور کو نور سے پیدا کیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ النُّورَ مِنَ النُّورِ",
+      "translation": "Praise be to Allah, Who created light from Light.",
+      "transliteration": "Alhamdu lillahil-ladhee khalaqan-noora minan-noor",
+      "urduTranslation": "تمام تعریفیں اس اللہ کے لیے ہیں جس نے نور کو نور سے پیدا کیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَنْزَلَ النُّورَ عَلَى الطُّورِ",
+      "translation": "And sent down the Light on the Mount (Sinai),",
+      "transliteration": "Wa anzalan-noora 'alat-toor",
+      "urduTranslation": "اور کوہ طور پر نور نازل کیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي كِتَابٍ مَسْطُورٍ",
+      "translation": "In a Book inscribed,",
+      "transliteration": "Fee kitaabim masatoor",
+      "urduTranslation": "لکھی ہوئی کتاب میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي رَقٍّ مَنْشُورٍ",
+      "translation": "On fine parchment unrolled,",
+      "transliteration": "Fee raqqim manshoor",
+      "urduTranslation": "کھلے ہوئے اوراق میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِقَدَرٍ مَقْدُورٍ",
+      "translation": "In a measure predetermined,",
+      "transliteration": "Biqadarim maqdoor",
+      "urduTranslation": "ایک مقررہ اندازے کے ساتھ،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَلَى نَبِيٍّ مَحْبُورٍ",
+      "translation": "Upon a joyful Prophet.",
+      "transliteration": "'Alaa nabiyyim mahboor",
+      "urduTranslation": "ایک مسرور پیغمبر پر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي هُوَ بِالْعِزِّ مَذْكُورٌ",
+      "translation": "Praise be to Allah, Who is remembered with honor,",
+      "transliteration": "Alhamdu lillahil-ladhee huwa bil-'izzi madhkoor",
+      "urduTranslation": "تمام تعریفیں اس اللہ کے لیے ہیں جو عزت کے ساتھ یاد کیا جاتا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِالْفَخْرِ مَشْهُورٌ",
+      "translation": "And is renowned for pride,",
+      "transliteration": "Wa bil-fakhri mashhoor",
+      "urduTranslation": "اور فخر کے ساتھ مشہور ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَى السَّرَّاءِ وَالضَّرَّاءِ مَشْكُورٌ",
+      "translation": "And is thanked in joy and sorrow.",
+      "transliteration": "Wa 'alas-sarraaa'i wad-darraaa'i mashkoor",
+      "urduTranslation": "اور خوشی و غمی ہر حال میں جس کا شکر ادا کیا جاتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ وَآلِهِ الطَّاهِرِينَ",
+      "translation": "And may Allah bless our master Muhammad and his pure progeny.",
+      "transliteration": "Wa sallallaahu 'alaa sayyidinaa Muhammadin wa aalihit-tahireen",
+      "urduTranslation": "اور اللہ کی رحمت ہو ہمارے سردار محمد (ص) اور ان کی پاکیزہ آل پر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "aamal_umme_dawood",
+  "title": "Aamal-e-Umme Dawood",
+  "titleUr": "اعمال ام داؤد",
+  "titleAr": "أعمال أم داوود",
+  "category": "Rajab",
+  "categoryUr": "رجب",
+  "categoryAr": "رجب",
+  "description": "Very significant Aamal for fulfilling desires and relieving difficulties, usually performed on the 15th of Rajab.",
+  "descriptionUr": "حاجات کی تکمیل اور مشکلات دور کرنے کے لیے انتہائی اہم اعمال، جو عام طور پر 15 رجب کو کیے جاتے ہیں۔",
+  "descriptionAr": "أعمال عظيمة الشأن لقضاء الحوائج وكشف الكرب، وتؤدى في النصف من رجب.",
+  "relevance": "15th of Rajab",
+  "relevanceUr": "15 رجب",
+  "relevanceAr": "15 رجب",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Fasting",
+      "titleUr": "روزہ",
+      "titleAr": "الصيام",
+      "description": "Fast on the 13th, 14th, and 15th of Rajab (Ayyam al-Bid).",
+      "descriptionUr": "13، 14 اور 15 رجب کو روزہ رکھیں۔",
+      "descriptionAr": "صيام الأيام البيض: الثالث عشر والرابع عشر والخامس عشر من رجب."
+    },
+    {
+      "actNumber": 2,
+      "title": "Ghusl",
+      "titleUr": "غسل",
+      "titleAr": "الغسل",
+      "description": "Perform Ghusl (ritual bath) around noon on the 15th of Rajab.",
+      "descriptionUr": "15 رجب کو دوپہر کے قریب غسل کریں۔",
+      "descriptionAr": "الاغتسال عند زوال الشمس يوم الخامس عشر من رجب."
+    },
+    {
+      "actNumber": 3,
+      "title": "Recitation of Quran",
+      "titleUr": "تلاوت قرآن",
+      "titleAr": "تلاوة القرآن",
+      "description": "After Zuhr and Asr prayers, recite Surah al-Fatihah, Surah Ikhlas, Ayatul Kursi, and several other specific Surahs like Surah Yaseen, Surah al-Rahman, Surah al-Mulk, etc.",
+      "descriptionUr": "ظہر اور عصر کی نماز کے بعد سورہ فاتحہ، سورہ اخلاص، آیت الکرسی، اور دیگر مخصوص سورتیں جیسے سورہ یٰسین، سورہ رحمٰن، اور سورہ ملک وغیرہ پڑھیں۔",
+      "descriptionAr": "بعد صلاة الظهر والعصر تقرأ سورة الحمد والتوحيد وآية الكرسي وعدة سور أخرى مثل يس، والرحمن، والملك، وغيرها."
+    },
+    {
+      "actNumber": 4,
+      "title": "Dua Umme Dawood",
+      "titleUr": "دعا ام داؤد",
+      "titleAr": "دعاء أم داوود",
+      "description": "Recite the specific Dua known as Dua Umme Dawood after the Quranic recitations.",
+      "descriptionUr": "قرآن کی تلاوت کے بعد دعا ام داؤد پڑھیں۔",
+      "descriptionAr": "قراءة دعاء أم داوود المعروف بعد الانتهاء من تلاوة السور.",
+      "arabicRecitation": "صَدَقَ اللّٰهُ الْعَظِيمُ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
+      "translation": "Allah the Almighty has spoken the truth, there is no god but He, the Ever-Living, the Self-Subsisting...",
+      "urduTranslation": "عظیم اللہ نے سچ فرمایا ہے، جس کے سوا کوئی معبود نہیں، وہ ہمیشہ زندہ اور قائم رہنے والا ہے...",
+      "transliteration": "Sadaqallahul-'aliyyul-'azeemul-ladhi la ilaha illa huwal-hayyul-qayyum..."
+    }
+  ]
+}

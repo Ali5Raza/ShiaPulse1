@@ -1,0 +1,46 @@
+{
+  "id": "nade_ali",
+  "title": "Nade Ali (Saghir)",
+  "titleUr": "ناد علی (صغیر)",
+  "titleAr": "نادِ علياً (صغير)",
+  "category": "Daily Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "A very powerful and famous supplication invoking the name of Imam Ali (as) for help in difficulties.",
+  "descriptionUr": "مشکلات میں امام علی (ع) کا واسطہ دے کر مدد مانگنے والی بہت مشہور اور مؤثر دعا۔",
+  "descriptionAr": "دعاء مشهور ومؤثر يُطلب فيه العون في الشدائد بالتوسل بالإمام علي (ع).",
+  "relevance": "Recited for seeking help in desperate times, protection from enemies, and fulfillment of legitimate desires.",
+  "relevanceUr": "مشکل وقت میں مدد، دشمنوں سے حفاظت اور جائز حاجات کے حصول کے لیے پڑھی جاتی ہے۔",
+  "relevanceAr": "تُقرأ لطلب العون عند الشدائد والحفظ من الأعداء وقضاء الحاجات المشروعة.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "نَادِ عَلِيًّا مَظْهَرَ الْعَجَائِبِ",
+      "transliteration": "Nadi Aliyyan mazharal aja'ib",
+      "translation": "Call Ali, who is the manifestor of wonders",
+      "urduTranslation": "علی (علیہ السلام) کو پکارو جو عجائبات کے مظہر ہیں",
+      "farsiTranslation": "علی (ع) را بخوان که مظهر عجایب است"
+    },
+    {
+      "arabic": "تَجِدْهُ عَوْنًا لَكَ فِي النَّوَائِبِ",
+      "transliteration": "Tajidhu awnan laka fin-nawa'ib",
+      "translation": "You will find him a helper to you in difficulties",
+      "urduTranslation": "تم انہیں مشکلات میں اپنا مددگار پاؤ گے",
+      "farsiTranslation": "او را در سختی‌ها یاور خود خواهی یافت"
+    },
+    {
+      "arabic": "كُلُّ هَمٍّ وَغَمٍّ سَيَنْجَلِي",
+      "transliteration": "Kullu hammin wa ghammin sayajali",
+      "translation": "Every worry and grief will vanish",
+      "urduTranslation": "ہر غم اور پریشانی دور ہو جائے گی",
+      "farsiTranslation": "هر هم و غمی برطرف خواهد شد"
+    },
+    {
+      "arabic": "بِوَلَايَتِكَ يَا عَلِيُّ يَا عَلِيُّ يَا عَلِيُّ",
+      "transliteration": "Bi-wilayatika ya Ali, ya Ali, ya Ali",
+      "translation": "By your Wilayah (authority/love), O Ali, O Ali, O Ali",
+      "urduTranslation": "آپ کی ولایت کے صدقے، یا علی، یا علی، یا علی",
+      "farsiTranslation": "به حق ولایت تو ای علی، ای علی، ای علی"
+    }
+  ]
+}

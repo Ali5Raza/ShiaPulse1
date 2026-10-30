@@ -1,0 +1,704 @@
+{
+  "id": "sabah",
+  "title": "Dua Sabah",
+  "titleUr": "دعا صباح",
+  "titleAr": "دعاء الصباح",
+  "category": "Daily Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "The beautiful morning supplication of Amir al-Mu'minin (a.s.), composed with gorgeous high eloquence, praising Allah's dawn light and pleading for forgiveness.",
+  "descriptionUr": "امیر المؤمنین (ع) کی بلند فصاحت والی صبح کی دعا، جس میں اللہ کی حمد، صبح کے نور کا ذکر اور مغفرت کی التجا ہے۔",
+  "descriptionAr": "دعاء الصباح لأمير المؤمنين (ع)، بأسلوب بليغ، فيه حمد الله والتذكير بنور الصباح وطلب المغفرة.",
+  "relevance": "Recited as morning prayers for deep tranquility.",
+  "relevanceUr": "صبح کے وقت سکونِ قلب کے لیے پڑھی جاتی ہے۔",
+  "relevanceAr": "تُقرأ صباحاً لطلب الطمأنينة.",
+  "audioUrl": "https://mp3.duas.org/sabah%20ali%20bouhamad.mp3",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِِ",
+      "translation": "In the Name of Allah, the Beneficent, the Merciful.",
+      "transliteration": "In the Name of Allah, the Beneficent, the Merciful.",
+      "urduTranslation": "اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "أَللَّهُمَّ صَلِّ عَلى مُحَمَّدٍ وَّ آلِ مُحَمَّد",
+      "translation": "O Allah! Bless Muhammad and his progeny.",
+      "transliteration": "O Allah! Bless Muhammad and his progeny.",
+      "urduTranslation": "اے اللہ! محمد اور ان کی آل پر درود نازل فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللّـهُمَّ يا مَنْ دَلَعَ لِسانَ الصَّباحِ بِنُطْقِ تَبَلُّجِهِ",
+      "translation": "Oh God, Oh He who extended the morning's tongue in the speech of its dawning",
+      "transliteration": "Oh God, Oh He who extended the morning's tongue in the speech of its dawning",
+      "urduTranslation": "اے اللہ، اے وہ جس نے صبح کی زبان کو اس کے طلوع ہونے کی گفتگو میں لمبا کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ سَرَّحَ قِطَعَ الّلَيْلِ الْمُظْلِمِ بِغَياهِبِ تَلَجْلُجِهِ",
+      "translation": "And dispatched the fragments of the dark night into the gloom of its stammering",
+      "transliteration": "And dispatched the fragments of the dark night into the gloom of its stammering",
+      "urduTranslation": "اور تاریک رات کے ٹکڑوں کو اس کی ہچکچاہٹ کی گھٹاؤں میں بکھیر دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَتْقَنَ صُنْعَ الْفَلَكِ الدَّوّارِ في مَقاديرِ تَبَرُّجِهِ",
+      "translation": "And made firm the structure of the turning spheres in the measures of its display",
+      "transliteration": "And made firm the structure of the turning spheres in the measures of its display",
+      "urduTranslation": "اور گردش کرنے والے فلک کی ساخت کو اس کے جلوہ گر ہونے کی مقداروں میں مستحکم کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ شَعْشَعَ ضِياءَ الشَّمْسِ بِنُورِ تَاَجُّجِهِ",
+      "translation": "And beamed forth the brightness of the sun through the light of its blazing!",
+      "transliteration": "And beamed forth the brightness of the sun through the light of its blazing!",
+      "urduTranslation": "اور سورج کی روشنی کو اس کی تپش کے نور سے چمکایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا مَنْ دَلَّ عَلى ذاتِهِ بِذاتِهِ",
+      "translation": "Oh He who demonstrates His Essence by His Essence",
+      "transliteration": "Oh He who demonstrates His Essence by His Essence",
+      "urduTranslation": "اے وہ جو اپنی ذات کو اپنی ہی ذات سے ثابت کرتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ تَنَزَّهَ عَنْ مُجانَسَةِ مَخْلُوقاتِهِ",
+      "translation": "And transcends congeneity with His creatures",
+      "transliteration": "And transcends congeneity with His creatures",
+      "urduTranslation": "اور وہ اپنی مخلوقات کی ہم جنسیت سے پاک ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ جَلَّ عَنْ مُلاءَمَةِ كَيْفِيّاتِهِ",
+      "translation": "And is exalted beyond conformity with His qualities!",
+      "transliteration": "And is exalted beyond conformity with His qualities!",
+      "urduTranslation": "اور وہ اپنی کیفیات کے مطابق ہونے سے بلند و برتر ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا مَنْ قَرُبَ مِنْ خَطَراتِ الظُّنُونِ",
+      "translation": "Oh He who is near to the passing thoughts of opinions",
+      "transliteration": "Oh He who is near to the passing thoughts of opinions",
+      "urduTranslation": "اے وہ جو خیالات کے گزرتے ہوئے افکار کے بھی قریب ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ بَعُدَ عَنْ لَحَظاتِ الْعُيُونِ",
+      "translation": "And far from the regards of eyes",
+      "transliteration": "And far from the regards of eyes",
+      "urduTranslation": "اور وہ آنکھوں کی بصارتوں سے بہت دور ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ عَلِمَ بِما كانَ قَبْلَ اَنْ يَكُونَ",
+      "translation": "And knows what will be before it comes to be!",
+      "transliteration": "And knows what will be before it comes to be!",
+      "urduTranslation": "اور وہ اس چیز کو بھی جانتا ہے جو ہونے سے پہلے موجود تھی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا مَنْ اَرْقَدَني في مِهادِ اَمْنِهِ وَ اَمانِهِ",
+      "translation": "Oh He who has put me at ease in the cradle of His security and sanctuary",
+      "transliteration": "Oh He who has put me at ease in the cradle of His security and sanctuary",
+      "urduTranslation": "اے وہ جس نے مجھے اپنے امن اور پناہ گاہ کے گہوارے میں سکون دیا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَيْقَظَني إلى ما مَنَحَني بِهِ مِنْ مِنَنِهِ وَ اِحْسانِهِ",
+      "translation": "And awakened me to the favors and kindness that He has bestowed upon me",
+      "transliteration": "And awakened me to the favors and kindness that He has bestowed upon me",
+      "urduTranslation": "اور اس نے مجھے ان انعامات اور احسانات کی طرف بیدار کیا جو اس نے مجھے عطا کیے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ كَفَّ اَكُفَّ السُّوءِ عَنّي بِيَدِهِ وَ سُلْطانِهِ",
+      "translation": "And held me from the claws of evil with His hand and His force!",
+      "transliteration": "And held me from the claws of evil with His hand and His force!",
+      "urduTranslation": "اور اس نے اپنے ہاتھ اور طاقت سے مجھے برائی کے پنجوں سے محفوظ رکھا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "صَلِّ اللّـهُمَّ عَلَى الدَّليلِ اِلَيْكَ فِي اللَّيْلِ الأَلْيَلِ",
+      "translation": "Bless, oh God, the guide to Thee in the darkest night",
+      "transliteration": "Bless, oh God, the guide to Thee in the darkest night",
+      "urduTranslation": "رحمت نازل فرما، اے اللہ، تاریک ترین رات میں تیری طرف رہنمائی کرنے والے پر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ الْماسِكِ مِنْ اَسْبَابِكَ بِحَبْلِ الشَّرَفِ الأَطْوَلِ",
+      "translation": "And him who, of Thy ropes, clings to the cord of the longest nobility",
+      "transliteration": "And him who, of Thy ropes, clings to the cord of the longest nobility",
+      "urduTranslation": "اور وہ جو تیری رسیوں میں سے شرف کی طویل ترین رسی کو تھامے ہوئے ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ النّاصِعِ الْحَسَبِ في ذِرْوَةِ الْكاهِلِ الأَعْبَلِ",
+      "translation": "And him whose glory is evident at the summit of stout shoulders",
+      "transliteration": "And him whose glory is evident at the summit of stout shoulders",
+      "urduTranslation": "اور وہ جس کا حسب و نسب مضبوط کندھوں کی بلندی پر واضح ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ الثّابِتِ الْقَدَمِ عَلى زَحاليفِها فِي الزَّمَنِ الأَوَّلِ",
+      "translation": "And whose feet were entrenched in spite of slippery places in ancient time",
+      "transliteration": "And whose feet were entrenched in spite of slippery places in ancient time",
+      "urduTranslation": "اور جس کے قدم قدیم زمانے کی پھسلن والی جگہوں پر بھی ثابت رہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ عَلى آلِهِ الأَخْيارِ الْمُصْطَفِيْنَ الأَبْرارِ",
+      "translation": "And [bless] his household, the good, the chosen, the pious",
+      "transliteration": "And [bless] his household, the good, the chosen, the pious",
+      "urduTranslation": "اور اس کی آل پر جو نیک، برگزیدہ اور پاکیزہ ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ افْتَحِ اللّـهُمَّ لَنا مَصاريعَ الصَّباحِ",
+      "translation": "And open for us, oh God, the leaves of morning's door",
+      "transliteration": "And open for us, oh God, the leaves of morning's door",
+      "urduTranslation": "اور ہمارے لیے کھول دے، اے اللہ، صبح کے دروازے کے پٹ،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِمَفاتيحِ الرَّحْمَةِ وَ الْفَلاحِ",
+      "translation": "With the keys of mercy and prosperity!",
+      "transliteration": "With the keys of mercy and prosperity!",
+      "urduTranslation": "رحمت اور کامیابی کی کنجیوں کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَلْبِسْنِي اللّـهُمَّ مِنْ اَفْضَلِ خِلَعِ الْهِدايَةِ وَ الصَّلاحِ",
+      "translation": "And clothe me, oh God, with the most excellent robes of guidance and righteousness!",
+      "transliteration": "And clothe me, oh God, with the most excellent robes of guidance and righteousness!",
+      "urduTranslation": "اور اے اللہ! مجھے ہدایت اور نیکی کے بہترین لباس پہنا دے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَغْرِسِ اللّـهُمَّ بِعَظَمَتِكَ في شِرْبِ جَناني يَنابيعَ الخُشُوعِ",
+      "translation": "And plant, oh God, through Thy tremendousness, the springs of humility in the watering place of my heart!",
+      "transliteration": "And plant, oh God, through Thy tremendousness, the springs of humility in the watering place of my heart!",
+      "urduTranslation": "اور اے اللہ! اپنی عظمت کے صدقے، میرے دل کی سیراب گاہ میں عاجزی کے چشمے لگا دے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَجْرِ اللّـهُمَّ لِهَيْبَتِكَ مِنْ آماقي زَفَراتِ الدُّمُوعِ",
+      "translation": "And cause to flow, oh God, because of Thy awesomeness, tears of moaning from the corner of my eyes!",
+      "transliteration": "And cause to flow, oh God, because of Thy awesomeness, tears of moaning from the corner of my eyes!",
+      "urduTranslation": "اور اے اللہ، اپنی ہیبت کی وجہ سے، میری آنکھوں کے گوشوں سے گریہ و زاری کے آنسو بہا دے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ أَدِّبِ اللّـهُمَّ نَزَقَ الْخُرْقِ مِنّي بِاَزِمَّةِ الْقُنُوعِ",
+      "translation": "And chastise, oh God, the recklessness of my clumsiness with the reins of contentment!",
+      "transliteration": "And chastise, oh God, the recklessness of my clumsiness with the reins of contentment!",
+      "urduTranslation": "اور اے اللہ! میری لاپرواہی اور بے باکی کو قناعت کی لگام سے سزا دے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلـهي اِنْ لَمْ تَبْتَدِئنِي الرَّحْمَةُ مِنْكَ بِحُسْنِ التَّوْفيقِ",
+      "translation": "My God, if mercy from Thee does not begin with fair success for me",
+      "transliteration": "My God, if mercy from Thee does not begin with fair success for me",
+      "urduTranslation": "میرے اللہ، اگر تیری رحمت میرے لیے اچھی کامیابی سے شروع نہ ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَنِ السّالِكُ بي اِلَيْكَ في واضِحِ الطَّريقِ",
+      "translation": "Then who can take me to Thee upon the evident path?",
+      "transliteration": "Then who can take me to Thee upon the evident path?",
+      "urduTranslation": "تو پھر کون ہے جو مجھے تیری طرف سیدھے راستے پر لے جائے گا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اِنْ اَسْلَمَتْني اَناتُكَ لِقائِدِ الأَمَلِ وَالْمُنى",
+      "translation": "If Thy deligerateness would turn me over to the guide of hope and wishes",
+      "transliteration": "If Thy deligerateness would turn me over to the guide of hope and wishes",
+      "urduTranslation": "اگر تیری مہلت مجھے امید اور تمناؤں کے رہنما کے حوالے کر دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَنِ الْمُقيلُ عَثَراتي مِنْ كَبَواتِ الْهَوى",
+      "translation": "Then who will annul my slips from the stumbles of caprice?",
+      "transliteration": "Then who will annul my slips from the stumbles of caprice?",
+      "urduTranslation": "تو پھر کون ہے جو خواہشات کی ٹھوکروں سے میری لغزشوں کو معاف کرے گا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اِنْ خَذَلَني نَصْرُكَ عِنْدَ مُحارَبَةِ النَّفْسِ وَ الشَّيْطانِ",
+      "translation": "If Thy help should forsake me in the battle with the soul and Satan",
+      "transliteration": "If Thy help should forsake me in the battle with the soul and Satan",
+      "urduTranslation": "اور اگر تیری مدد نفس اور شیطان کے مقابلے میں میرا ساتھ چھوڑ دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَقَدْ وَكَلَني خِذْلانُكَ إلى حَيْثُ النَّصَبُ وَ الْحِرْمانُ",
+      "translation": "Then Thy forsaking will have entrusted me to where there is hardship and deprivation",
+      "transliteration": "Then Thy forsaking will have entrusted me to where there is hardship and deprivation",
+      "urduTranslation": "تو پھر تیری بے بسی مجھے وہاں پہنچا دے گی جہاں مصیبت اور محرومی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلـهي اَتَراني ما اَتَيْتُكَ إلاّ مِنْ حَيْثُ الآمالِ",
+      "translation": "My God, dost Thou see that I have only come to Thee from the direction of hopes",
+      "transliteration": "My God, dost Thou see that I have only come to Thee from the direction of hopes",
+      "urduTranslation": "میرے اللہ، کیا تو دیکھتا ہے کہ میں صرف امیدوں کی سمت سے تیرے پاس آیا ہوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَلِقْتُ بِاَطْرافِ حِبالِكَ إلاّ حينَ باعَدَتْني ذُنُوبي عَنْ دارِ الْوِصالِ",
+      "translation": "Or clung to the ends of Thy cords when my sins have driven me from the house of union?",
+      "transliteration": "Or clung to the ends of Thy cords when my sins have driven me from the house of union?",
+      "urduTranslation": "کیا میں نے تیری رسیوں کے سروں کو تھاما ہے جبکہ میرے گناہوں نے مجھے تیرے وصال کے گھر سے دور کر دیا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَبِئْسَ الْمَطِيَّةُ الَّتي امْتَطَتْ نَفْسي مِنْ هَواهـا",
+      "translation": "So what an evil mount upon which my soul has mounted - its caprice!",
+      "transliteration": "So what an evil mount upon which my soul has mounted - its caprice!",
+      "urduTranslation": "پس کتنی بری سواری ہے جس پر میرے نفس نے اپنی خواہشات کی وجہ سے سواری کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَواهاً لَها لِما سَوَّلَتْ لَها ظُنُونُها وَ مُناها",
+      "translation": "Woe upon it for being seduced by its own opinions and wishes!",
+      "transliteration": "Woe upon it for being seduced by its own opinions and wishes!",
+      "urduTranslation": "تو افسوس اس پر کہ اس کے گمانوں اور تمناؤں نے اسے دھوکا دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ تَبّاً لَها لِجُرْاَتِها عَلى سَيِّدِها وَ مَوْلاها",
+      "translation": "And destruction be upon it for its audacity toward its Master and Protector!",
+      "transliteration": "And destruction be upon it for its audacity toward its Master and Protector!",
+      "urduTranslation": "اور اس پر ہلاکت ہو کہ اس نے اپنے آقا اور سرپرست کے سامنے گستاخی کی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلـهي قَرَعْتُ بابَ رَحْمَتِكَ بِيَدِ رَجائي",
+      "translation": "My God, I have knocked upon the door of Thy mercy with the hand of my hope",
+      "transliteration": "My God, I have knocked upon the door of Thy mercy with the hand of my hope",
+      "urduTranslation": "میرے اللہ، میں نے اپنی امید کے ہاتھ سے تیری رحمت کے دروازے پر دستک دی ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ هَرَبْتُ اِلَيْكَ لاجِئاً مِنْ فَرْطِ اَهْوائي",
+      "translation": "And fled to Thee seeking refuge from my excessive caprice",
+      "transliteration": "And fled to Thee seeking refuge from my excessive caprice",
+      "urduTranslation": "اور میں اپنی حد سے زیادہ خواہشات سے پناہ مانگتے ہوئے تیری طرف بھاگا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ عَلَّقْتُ بِاَطْرافِ حِبالِكَ اَنامِلَ وَلائي",
+      "translation": "And fixed the fingers of my love to the ends of Thy cords",
+      "transliteration": "And fixed the fingers of my love to the ends of Thy cords",
+      "urduTranslation": "اور میں نے اپنی عقیدت کی انگلیوں کو تیری رسیوں کے کناروں سے باندھ رکھا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَاْصْفَحِ اللّـهُمَّ عَمّا كُنْتُ اَجْرَمْتُهُ مِنْ زَلَلي وَ خَطائي",
+      "translation": "So pardon, oh God, the slips and errors I have committed",
+      "transliteration": "So pardon, oh God, the slips and errors I have committed",
+      "urduTranslation": "پس اے اللہ، ان لغزشوں اور خطاؤں کو معاف فرما جو میں نے کی ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَقِلْني مِنْ صَرْعَةِ رِدائي",
+      "translation": "And release me from the foot-tangling of my robe",
+      "transliteration": "And release me from the foot-tangling of my robe",
+      "urduTranslation": "اور مجھے میرے لباس میں الجھنے سے نجات عطا فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَاِنَّكَ سَيِّدي وَ مَوْلاي وَ مُعْتَمَدي وَ رَجائي",
+      "translation": "For Thou art my Master, my Protector, my Support and my Hope",
+      "transliteration": "For Thou art my Master, my Protector, my Support and my Hope",
+      "urduTranslation": "کیونکہ تو ہی میرا آقا، میرا سرپرست، میرا سہارا اور میری امید ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنْتَ غايَةُ مَطْلُوبي وَ مُناي في مُنْقَلَبي وَ مَثْواىَ",
+      "translation": "And Thou art the object of my search and my desire in my ultimate end and stable abode",
+      "transliteration": "And Thou art the object of my search and my desire in my ultimate end and stable abode",
+      "urduTranslation": "اور تو ہی میری منزل اور میری خواہش ہے میرے پلٹنے کے مقام اور میرے ٹھکانے میں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلـهي كَيْفَ تَطْرُدُ مِسْكيناً الْتَجَأَ اِلَيْكَ مِنَ الذُّنُوبِ هارِباً",
+      "translation": "My God, how couldst Thou drive away a poor beggar who seeks refuge in Thee from sins, fleeing?",
+      "transliteration": "My God, how couldst Thou drive away a poor beggar who seeks refuge in Thee from sins, fleeing?",
+      "urduTranslation": "میرے اللہ، تو اس غریب بھکاری کو کیسے دھتکار سکتا ہے جو گناہوں سے بھاگ کر تیری پناہ مانگتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَمْ كَيْفَ تُخَيِّبُ مُسْتَرْشِداً قَصَدَ إلى جَنابِكَ ساعِياً",
+      "translation": "Or how couldst Thou disappoint one seeking guidance who repairs to Thy threshold, running?",
+      "transliteration": "Or how couldst Thou disappoint one seeking guidance who repairs to Thy threshold, running?",
+      "urduTranslation": "یا پھر تو ہدایت کے متلاشی کو کیسے مایوس کر سکتا ہے جو تیری بارگاہ کی طرف دوڑتا ہوا آیا ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَمْ كَيْفَ تَرُدُّ ظَمآناً وَرَدَ إلى حِياضِكَ شارِباً",
+      "translation": "Or how could You reject a thirsty man who comes to Your wells to drink?",
+      "transliteration": "Or how could You reject a thirsty man who comes to Your wells to drink?",
+      "urduTranslation": "یا پھر تو پیاسے کو کیسے لوٹا سکتا ہے جو تیری نہروں پر سیراب ہونے آیا ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَلاّ وَحِياضُكَ مُتْرَعَةٌ في ضَنْكِ الُْمُحُولِ",
+      "translation": "Never! For Thy pools are full in the hardship of drought",
+      "transliteration": "Never! For Thy pools are full in the hardship of drought",
+      "urduTranslation": "ہرگز نہیں! جبکہ تیری نہریں قحط کی تنگی میں بھی لبریز رہتی ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ بابُكَ مَفْتُوحٌ لِلطَّلَبِ وَ الْوُغُولِ",
+      "translation": "Thy door is open for seeking and penetration",
+      "transliteration": "Thy door is open for seeking and penetration",
+      "urduTranslation": "اور تیرا دروازہ طلب کرنے والوں اور داخل ہونے والوں کے لیے کھلا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنْتَ غايَةُ الْمَسْؤولِ وَ نِهايَةُ الْمَأمُولِ",
+      "translation": "And Thou art the goal of requests and the object of hopes",
+      "transliteration": "And Thou art the goal of requests and the object of hopes",
+      "urduTranslation": "اور تو ہی تمام مانگنے والوں کی غایت اور امیدوں کی انتہا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلـهي هذِهِ اَزِمَّةُ نَفْسي عَقَلْتُها بِعِقالِ مَشِيَّتِكَ",
+      "translation": "My God, these are the reins of my soul I have bound them with the ties of Thy will",
+      "transliteration": "My God, these are the reins of my soul I have bound them with the ties of Thy will",
+      "urduTranslation": "میرے اللہ، یہ میری جان کی لگامیں ہیں، میں نے انہیں تیری مرضی کے رشتوں سے باندھ دیا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ هذِهِ اَعْباءُ ذُنُوبي دَرَأتُها بِعَفْوِكَ وَ رَحْمَتِكَ",
+      "translation": "These are the burdens of my sins I have averted them with Thy pardon and mercy",
+      "transliteration": "These are the burdens of my sins I have averted them with Thy pardon and mercy",
+      "urduTranslation": "اور یہ میرے گناہوں کا بوجھ ہے جسے میں نے تیرے عفو و کرم سے ہٹا دیا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ هذِهِ اَهْوائِي الْمُضِلَّةُ وَكَلْتُها إلى جَنابِ لُطْفِكَ وَ رَأفَتِكَ",
+      "translation": "these are my caprices that lead astray - I have entrusted them to the threshold of Thy gentleness and kindliness",
+      "transliteration": "these are my caprices that lead astray - I have entrusted them to the threshold of Thy gentleness and kindliness",
+      "urduTranslation": "اور یہ میری گمراہ کن خواہشات ہیں جنہیں میں نے تیری نرمی اور مہربانی کی بارگاہ کے سپرد کر دیا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَاجْعَلِ اللّـهُمَّ صَباحي هذا ناِزلاً عَلَي بِضِياءِ الْهُدى",
+      "translation": "So make this morning of mine, oh God, descend upon me with the radiance of guidance",
+      "transliteration": "So make this morning of mine, oh God, descend upon me with the radiance of guidance",
+      "urduTranslation": "پس میری اس صبح کو، اے اللہ، مجھ پر ہدایت کی روشنی کے ساتھ نازل فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ بِالسَّلامَة فِي الدّينِ وَ الدُّنْيا",
+      "translation": "and with safety in religion and this world!",
+      "transliteration": "and with safety in religion and this world!",
+      "urduTranslation": "اور دین اور دنیا کی سلامتی کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ مَسائي جُنَّةً مِنْ كَيْدِ الْعِدى",
+      "translation": "And [make] my evening a shield against the deception of enemies",
+      "transliteration": "And [make] my evening a shield against the deception of enemies",
+      "urduTranslation": "اور میری شام کو دشمنوں کے مکر سے ڈھال بنا دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ وِقايَهً مِنْ مُرْدِياتِ الْهَوى",
+      "translation": "And a protection against the destructive blows of caprice!",
+      "transliteration": "And a protection against the destructive blows of caprice!",
+      "urduTranslation": "اور خواہشات کی ہلاکت خیز ضربوں سے بچاؤ بنا دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِنَكَ قادِرٌ عَلى ما تَشاءُ",
+      "translation": "Thou art able over what Thou wilt!",
+      "transliteration": "Thou art able over what Thou wilt!",
+      "urduTranslation": "بے شک تو ہر اس چیز پر قادر ہے جو تو چاہتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "تُؤتِي الْمُلْكَ مَنْ تَشاءُ ، وَ تَنْزِعُ الْمُلْكَ مِمَّنْ تَشاءُ",
+      "translation": "Thou givest the kingdom to whom Thou wilt, and Thou seizest the kingdom from whom Thou wilt",
+      "transliteration": "Thou givest the kingdom to whom Thou wilt, and Thou seizest the kingdom from whom Thou wilt",
+      "urduTranslation": "تو جسے چاہتا ہے بادشاہی دیتا ہے، اور جس سے چاہتا ہے بادشاہی چھین لیتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ تُعِزُّ مَنْ تَشاءُ ، وَ تُذِلُّ مَنْ تَشاءُ",
+      "translation": "Thou exaltest whom Thou wilt, and Thou abasest whom Thou wilt",
+      "transliteration": "Thou exaltest whom Thou wilt, and Thou abasest whom Thou wilt",
+      "urduTranslation": "اور تو جسے چاہتا ہے عزت دیتا ہے، اور جسے چاہتا ہے ذلت دیتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِيَدِكَ الْخَيْرُ اِنَّـكَ عَلى كُلِّ شَيْء قَديرٌ",
+      "translation": "In Thy hand is the good, Thou art powerful over all things",
+      "transliteration": "In Thy hand is the good, Thou art powerful over all things",
+      "urduTranslation": "تیرے ہاتھ میں سب بھلائی ہے، بے شک تو ہر چیز پر قادر ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "تُولِجُ اللَيْلَ في النَّهارِ ، وَ تُولِجُ النَّهارَ فِي اللَّيْلِ",
+      "translation": "Thou makest the night to enter into the day, and Thou makest the day to enter into the night",
+      "transliteration": "Thou makest the night to enter into the day, and Thou makest the day to enter into the night",
+      "urduTranslation": "آپ ہی رات کو دن میں داخل کرتے ہیں اور آپ ہی دن کو رات میں داخل کرتے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ تُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ ، وَ تُخْرِجُ الْمَيِّتَ مِنَ الْحَي",
+      "translation": "Thou bringest forth the living from the dead, and Thou bringest forth dead from the living",
+      "transliteration": "Thou bringest forth the living from the dead, and Thou bringest forth dead from the living",
+      "urduTranslation": "آپ ہی زندہ کو مردہ سے نکالتے ہیں اور مردہ کو زندہ سے نکالتے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ تَرْزُقُ مَنْ تَشاءُ بِغَيْرِ حِساب",
+      "translation": "and Thou providest whomsoever Thou wilt without reckoning",
+      "transliteration": "and Thou providest whomsoever Thou wilt without reckoning",
+      "urduTranslation": "اور آپ جسے چاہتے ہیں بے حساب رزق عطا کرتے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لا اِلـهَ إلاّ اَنْتَ سُبْحانَكَ اللّـهُمَّ وَ بِحَمْدِكَ",
+      "translation": "There is no god but Thou! Glory be to Thee, oh God, and Thine is the praise!",
+      "transliteration": "There is no god but Thou! Glory be to Thee, oh God, and Thine is the praise!",
+      "urduTranslation": "تیرے سوا کوئی معبود نہیں! اے اللہ تیری ذات پاک ہے، اور تمام تعریفیں تیرے لیے ہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَنْ ذا يَعْرِفُ قَدْرَكَ فَلا يَخافُكَ",
+      "translation": "Who knows Thy measure without fearing Thee?",
+      "transliteration": "Who knows Thy measure without fearing Thee?",
+      "urduTranslation": "کون ہے جو تیری قدر و منزلت کو جانے اور تجھ سے نہ ڈرے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ مَن ذا يَعْلَمُ ما اَنْتَ فَلا يَهابُكَ",
+      "translation": "Who knows what Thou art without awe of Thee?",
+      "transliteration": "Who knows what Thou art without awe of Thee?",
+      "urduTranslation": "اور کون ہے جو تیری حقیقت کو جانے اور تیری ہیبت سے نہ لرزے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَلَّفْتَ بِقُدْرَتِكَ الْفِرَقَ",
+      "translation": "Through Thy power Thou hast joined disparate things",
+      "transliteration": "Through Thy power Thou hast joined disparate things",
+      "urduTranslation": "تو نے اپنی قدرت سے بکھری ہوئی چیزوں میں الفت پیدا کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ فَلَقْتَ بِلُطْفِكَ الْفَلَقَ",
+      "translation": "And through Thy gentleness Thou hast cleaved apart the daybreak",
+      "transliteration": "And through Thy gentleness Thou hast cleaved apart the daybreak",
+      "urduTranslation": "اور اپنے لطف و کرم سے صبح کے اجالے کو چیر کر نکالا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنَرْتَ بِكَرَمِكَ دَياجِي الْغَسَقِ",
+      "translation": "And through Thy generosity Thou hast illumined the dark shrouds of night",
+      "transliteration": "And through Thy generosity Thou hast illumined the dark shrouds of night",
+      "urduTranslation": "اور اپنی سخاوت سے رات کی تاریکیوں کو منور کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنْهَرْتَ الْمِياهَ مِنَ الصُّمِّ الصَّياخيدِ عَذْباً وَ اُجاجاً",
+      "translation": "Thou hast made waters, sweet and salt, flow forth from hard shining stones",
+      "transliteration": "Thou hast made waters, sweet and salt, flow forth from hard shining stones",
+      "urduTranslation": "اور تو نے سخت اور چمکدار پتھروں سے میٹھا اور کھارا پانی جاری کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنْزَلْتَ مِنَ الْمُعْصِراتِ ماءً ثَجّاجاً",
+      "translation": "And sent down out of rain-clouds water cascading",
+      "transliteration": "And sent down out of rain-clouds water cascading",
+      "urduTranslation": "اور بادلوں سے موسلا دھار پانی برسایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ جَعَلْتَ الشَّمْسَ وَ الْقَمَرَ لِلْبَرِيَّةِ سِراجاً وَهّاجاً",
+      "translation": "And appointed the sun and moon a blazing lamp for the creatures",
+      "transliteration": "And appointed the sun and moon a blazing lamp for the creatures",
+      "urduTranslation": "اور سورج اور چاند کو تمام مخلوقات کے لیے روشن چراغ بنایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مِنْ غَيْرِ اَنْ تُمارِسَ فيما ابْتَدَأتَ بِهِ لُغُوباً وَ لا عِلاجاً",
+      "translation": "Without experiencing in that which Thou originated either weariness or effort",
+      "transliteration": "Without experiencing in that which Thou originated either weariness or effort",
+      "urduTranslation": "بغیر اس کے کہ اپنی تخلیق کے کام میں تو کسی تھکن یا مشقت سے دوچار ہوا ہو",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَيا مَنْ تَوَحَّدَ بِالْعِزِّ وَ الْبَقاءِ",
+      "translation": "So, oh He who is alone in might and subsistence",
+      "transliteration": "So, oh He who is alone in might and subsistence",
+      "urduTranslation": "پس اے وہ ذات جو عزت اور بقا میں یکتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قَهَرَ عِبادَهُ بِالْمَوْتِ وَ الْفَناءِ",
+      "translation": "And dominates His slaves with death and annihilation",
+      "transliteration": "And dominates His slaves with death and annihilation",
+      "urduTranslation": "اور وہ اپنے بندوں پر موت اور فنا کے ساتھ غالب ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "صَلِّ عَلى مُحَمَّد وَ آلِهِ الاَْتْقِياءِ",
+      "translation": "Bless Muhammad and his household, the godfearing",
+      "transliteration": "Bless Muhammad and his household, the godfearing",
+      "urduTranslation": "محمد اور ان کی پرہیزگار آل پر درود بھیج",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اسْمَعْ نِدائي ، وَ اسْتَجِبْ دُعائي",
+      "translation": "And answer my supplication hear my call",
+      "transliteration": "And answer my supplication hear my call",
+      "urduTranslation": "میری پکار سن لے اور میری دعا قبول فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ حَقِّقْ بِفَضْلِكَ اَمَلي وَ رَجائي",
+      "translation": "And actualize through Thy bounty my hope and desire",
+      "transliteration": "And actualize through Thy bounty my hope and desire",
+      "urduTranslation": "اور اپنے فضل و کرم سے میری امید اور آرزو کو پورا کر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا خَيْرَ مَنْ دُعِي لِكَشْفِ الضُّرِّ",
+      "translation": "Oh best of those who is called to remove affliction",
+      "transliteration": "Oh best of those who is called to remove affliction",
+      "urduTranslation": "اے مصیبت دور کرنے کے لیے پکارے جانے والوں میں سب سے بہترین",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ الْمَأمُولِ لِكُلِّ عُسْر وَ يُسْر",
+      "translation": "And object of hope in every difficulty and ease!",
+      "transliteration": "And object of hope in every difficulty and ease!",
+      "urduTranslation": "اے ہر تنگی اور آسانی میں امیدوں کا مرکز",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِكَ اَنْزَلْتُ حاجَتي فَلا تَرُدَّني مِنْ سَنِيِّ مَواهِبِكَ خائِباً",
+      "translation": "I have stated my need, so do not reject me, oh my master, despairing of Thy exalted gifts",
+      "transliteration": "I have stated my need, so do not reject me, oh my master, despairing of Thy exalted gifts",
+      "urduTranslation": "میں نے اپنی حاجت تیرے سامنے رکھی ہے، پس اے میرے آقا! اپنے بلند و بالا عطیات سے مجھے محروم اور مایوس نہ لوٹا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا كَريمُ ، يا كَريمُ ، يا كَريمُ",
+      "translation": "Oh All-generous! Oh All-generous! Oh All-generous!",
+      "transliteration": "Oh All-generous! Oh All-generous! Oh All-generous!",
+      "urduTranslation": "اے بے حد کرم کرنے والے! اے بے حد کرم کرنے والے! اے بے حد کرم کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِرَحْمَتِكَ يا اَرْحَمَ الرّاحِمينَ",
+      "translation": "By Thy mercy, oh Most Merciful of the merciful!",
+      "transliteration": "By Thy mercy, oh Most Merciful of the merciful!",
+      "urduTranslation": "اپنی رحمت کے واسطے، اے سب سے زیادہ رحم کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ صَلَّى اللهُ عَلى خَيْرِ خَلْقِهِ مُحَمَّد وَ آلِهِ اَجْمَعينَ",
+      "translation": "And God bless the best of His creatures, Muhammad, and all his household!",
+      "transliteration": "And God bless the best of His creatures, Muhammad, and all his household!",
+      "urduTranslation": "اور اللہ کی رحمت ہو اس کی بہترین مخلوق محمد اور ان کی تمام آل پر!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ثمّ اسجد و قل : اِلـهي قَلْبي مَحْجُوبٌ",
+      "translation": "Then prostrate and say: My God, my heart is veiled",
+      "transliteration": "Then prostrate and say: My God, my heart is veiled",
+      "urduTranslation": "پھر سجدہ کرو اور کہو: میرے اللہ، میرا دل پردے میں ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ نَفْسي مَعْيُوبٌ",
+      "translation": "My soul is deficient",
+      "transliteration": "My soul is deficient",
+      "urduTranslation": "میرا نفس عیوب سے بھرا ہوا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ عَقْلي مَغْلُوبٌ",
+      "translation": "My intelligence is defeated",
+      "transliteration": "My intelligence is defeated",
+      "urduTranslation": "اور میری عقل مغلوب ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ هَوائي غالِبٌ",
+      "translation": "My caprice is triumphant",
+      "transliteration": "My caprice is triumphant",
+      "urduTranslation": "اور میری خواہشات مجھ پر غالب ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ طاعَتي قَليلٌ",
+      "translation": "My obedience is little",
+      "transliteration": "My obedience is little",
+      "urduTranslation": "میری اطاعت بہت قلیل ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ مَعْصِيَتي كَثيرٌ",
+      "translation": "My disobedience is much",
+      "transliteration": "My disobedience is much",
+      "urduTranslation": "اور میری نافرمانی بہت زیادہ ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ لِساني مُقِرٌّ بِالذُّنُوبِ",
+      "translation": "And my tongue acknowledges sins",
+      "transliteration": "And my tongue acknowledges sins",
+      "urduTranslation": "اور میری زبان گناہوں کا اقرار کرتی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَكَيْفَ حيلَتي يا سَتّارَ الْعُيُوبِ",
+      "translation": "So what am I to do? Oh He who covers defects!",
+      "transliteration": "So what am I to do? Oh He who covers defects!",
+      "urduTranslation": "پس میں کیا کروں؟ اے عیبوں کو چھپانے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ يا عَلاّمَ الْغُيُوبِ",
+      "translation": "Oh He who knows the unseen things!",
+      "transliteration": "Oh He who knows the unseen things!",
+      "urduTranslation": "اے غیب کی باتوں کو جاننے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ يا كاشِفَ الْكُرُوبِ",
+      "translation": "Oh He who removes troubles",
+      "transliteration": "Oh He who removes troubles",
+      "urduTranslation": "اے مصیبتوں کو دور کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِغْفِرْ ذُنُوبي كُلَّها بِحُرْمَةِ مُحَمَّد وَ آلِ مُحَمَّد",
+      "translation": "Forgive my sins, all of them, by the sacredness of Muhammad and the household of Muhammad!",
+      "transliteration": "Forgive my sins, all of them, by the sacredness of Muhammad and the household of Muhammad!",
+      "urduTranslation": "محمد اور آلِ محمد کے احترام کے صدقے میرے تمام گناہ معاف فرما دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا غَفّارُ ، يا غَفّارُ ، يا غَفّارُ",
+      "translation": "Oh All-forgiver! Oh All-forgiver! Oh All-forgiver!",
+      "transliteration": "Oh All-forgiver! Oh All-forgiver! Oh All-forgiver!",
+      "urduTranslation": "اے سب کچھ بخشنے والے! اے سب کچھ بخشنے والے! اے سب کچھ بخشنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِرَحْمَتِكَ يا اَرْحَمَ الرّاحِمينَ",
+      "translation": "By Thy mercy, oh Most Merciful of the mercifull!",
+      "transliteration": "By Thy mercy, oh Most Merciful of the mercifull!",
+      "urduTranslation": "اپنی رحمت کے واسطے، اے سب سے زیادہ رحم کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

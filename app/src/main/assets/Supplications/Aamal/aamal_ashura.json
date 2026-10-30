@@ -1,0 +1,66 @@
+{
+  "id": "aamal_ashura",
+  "title": "Aamal of Ashura (10th Muharram)",
+  "titleUr": "عاشورہ کے اعمال (10 محرم)",
+  "titleAr": "أعمال يوم عاشوراء",
+  "category": "Muharram",
+  "categoryUr": "محرم",
+  "categoryAr": "محرم",
+  "description": "Acts and rituals for the day of Ashura, the day of mourning for Imam Husayn (AS).",
+  "descriptionUr": "عاشورہ کے دن کے اعمال و رسومات، امام حسین (ع) کا سوگ منانے کا دن۔",
+  "descriptionAr": "أعمال ومراسم يوم عاشوراء، يوم العزاء للإمام الحسين (ع).",
+  "relevance": "10th of Muharram",
+  "relevanceUr": "10 محرم",
+  "relevanceAr": "10 محرم",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Mourning and Expressing Grief",
+      "titleUr": "عزاداری اور غم کا اظہار",
+      "titleAr": "إقامة العزاء وإظهار الحزن",
+      "description": "It is the day of immense grief for the Ahl al-Bayt. One should abandon worldly tasks, mourn, and weep for Imam Husayn (AS).",
+      "descriptionUr": "یہ اہل بیت کے لیے شدید غم کا دن ہے۔ انسان کو دنیاوی کام ترک کر کے امام حسین (ع) پر رونا اور عزاداری کرنی چاہیے۔",
+      "descriptionAr": "إنه يوم حزن شديد لأهل البيت. ينبغي ترك الأعمال الدنيوية وإقامة العزاء والبكاء على الإمام الحسين (ع)."
+    },
+    {
+      "actNumber": 2,
+      "title": "Condoling One Another",
+      "titleUr": "ایک دوسرے کو تعزیت پیش کرنا",
+      "titleAr": "تعزية المؤمنين لبعضهم البعض",
+      "description": "Condole other believers upon meeting them.",
+      "descriptionUr": "ملاقات کے وقت دوسرے مومنین کو تعزیت پیش کریں۔",
+      "descriptionAr": "أن يعزي المؤمنون بعضهم بعضاً عند اللقاء.",
+      "arabicRecitation": "عَظَّمَ اللّٰهُ أُجُورَنَا بِمُصَابِنَا بِالْحُسَيْنِ عَلَيْهِ السَّلَامُ",
+      "translation": "May Allah make our reward great for our grief for Husayn (AS).",
+      "urduTranslation": "اللہ ہمارے اجر کو زیادہ کرے، اس مصیبت پر جو ہمیں حسین (ع) کی وجہ سے پہنچی ہے۔",
+      "transliteration": "A'zzamallahu ujoorana bimusabina bil-Husayni 'alayhis-salam."
+    },
+    {
+      "actNumber": 3,
+      "title": "Ziyarat Ashura",
+      "titleUr": "زیارت عاشورہ",
+      "titleAr": "زيارة عاشوراء",
+      "description": "Recite Ziyarat Ashura with its 100 curses and 100 salutations.",
+      "descriptionUr": "زیارت عاشورہ کو اس کی 100 لعنتوں اور 100 سلاموں کے ساتھ پڑھیں۔",
+      "descriptionAr": "قراءة زيارة عاشوراء المشهورة مع اللعن والسلام مائة مرة."
+    },
+    {
+      "actNumber": 4,
+      "title": "Fasting (Imsak) until Asr",
+      "titleUr": "عصر تک فاقہ (امساک)",
+      "titleAr": "الإمساك إلى العصر",
+      "description": "It is disliked to fast completely, but one should abstain from food and drink until the time of Asr, and then break it with simple food.",
+      "descriptionUr": "مکمل روزہ رکھنا مکروہ ہے، لیکن عصر کے وقت تک کھانے پینے سے پرہیز کرنا چاہیے اور پھر سادہ کھانے سے اسے توڑنا چاہیے۔",
+      "descriptionAr": "يكره الصوم الكامل، ولكن ينبغي الإمساك عن الطعام والشراب إلى وقت العصر ثم الإفطار بطعام بسيط كطعام أهل المصائب."
+    },
+    {
+      "actNumber": 5,
+      "title": "Reciting Surah al-Ikhlas 1000 times",
+      "titleUr": "1000 مرتبہ سورہ اخلاص پڑھنا",
+      "titleAr": "قراءة سورة التوحيد ألف مرة",
+      "description": "Reciting Surah al-Ikhlas 1000 times carries great reward.",
+      "descriptionUr": "1000 مرتبہ سورہ اخلاص پڑھنے کا بہت بڑا ثواب ہے۔",
+      "descriptionAr": "قراءة سورة التوحيد ألف مرة لها ثواب عظيم."
+    }
+  ]
+}

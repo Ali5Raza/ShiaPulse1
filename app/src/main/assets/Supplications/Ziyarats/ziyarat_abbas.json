@@ -1,0 +1,80 @@
+{
+  "id": "ziyarat_abbas",
+  "title": "Ziyarat Hazrat Abbas (as)",
+  "titleUr": "زیارت حضرت عباس (ع)",
+  "titleAr": "زيارة أبي الفضل العباس (ع)",
+  "arabicTitle": "زيارة أبي الفضل العباس",
+  "category": "Ziyarat",
+  "categoryUr": "زیارتیں",
+  "categoryAr": "الزيارات",
+  "description": "Ziyarat of Hazrat Abul Fazl al-Abbas (as).",
+  "descriptionUr": "حضرت ابوالفضل العباس (ع) کی زیارت۔",
+  "descriptionAr": "زيارة أبي الفضل العباس (ع).",
+  "relevanceUr": "کسی بھی وقت",
+  "relevanceAr": "في أي وقت",
+  "lines": [
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الْعَبْدُ الصَّالِحُ الْمُطِيعُ لِلَّهِ وَلِرَسُولِهِ",
+      "transliteration": "As-salaamu 'alayka ayyuhal 'abdus-saalihul mutii'u lillaahi wa lirasuulih",
+      "translation": "Peace be upon you, O righteous servant, obedient to Allah and His Messenger,",
+      "urduTranslation": "سلام ہو آپ پر اے اللہ کے نیک بندے، جو اللہ اور اس کے رسول کا فرمانبردار ہے،",
+      "farsiTranslation": "سلام بر تو ای بنده شایسته و فرمانبردار خدا و پیامبرش،"
+    },
+    {
+      "arabic": "وَلِأَمِيرِ الْمُؤْمِنِينَ وَالْحَسَنِ وَالْحُسَيْنِ صَلَّى اللَّهُ عَلَيْهِمْ وَسَلَّمَ",
+      "transliteration": "Wa li amiiril mu'miniina wal hasani wal husayni sallallaahu 'alayhim wa sallam",
+      "translation": "and to the Commander of the Faithful, and Hasan and Husayn (peace and blessings of Allah be upon them).",
+      "urduTranslation": "اور امیر المومنین اور حسن و حسین (ان پر اللہ کی رحمت اور سلامتی ہو) کا فرمانبردار۔",
+      "farsiTranslation": "و امیر مؤمنان و حسن و حسین که درود و سلام خدا بر آنان باد."
+    },
+    {
+      "arabic": "السَّلَامُ عَلَيْكَ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ وَمَغْفِرَتُهُ وَرِضْوَانُهُ",
+      "transliteration": "As-salaamu 'alayka wa rahmatullaahi wa barakaatuhu wa maghfiratuhu wa ridwaanuh",
+      "translation": "Peace be upon you, and the mercy of Allah, His blessings, His forgiveness, and His pleasure,",
+      "urduTranslation": "سلام ہو آپ پر اور اللہ کی رحمت، اس کی برکتیں، اس کی مغفرت اور اس کی خوشنودی ہو،",
+      "farsiTranslation": "سلام بر تو و رحمت خدا و برکاتش و آمرزش و خشنودی‌اش،"
+    },
+    {
+      "arabic": "عَلَى رُوحِكَ وَبَدَنِكَ",
+      "transliteration": "'Alaa ruuhika wa badanik",
+      "translation": "upon your soul and your body.",
+      "urduTranslation": "آپ کی روح اور آپ کے جسم پر۔",
+      "farsiTranslation": "بر روح و جسم تو باد."
+    },
+    {
+      "arabic": "أَشْهَدُ وَأُشْهِدُ اللَّهَ أَنَّكَ مَضَيْتَ عَلَى مَا مَضَى بِهِ الْبَدْرِيُّونَ",
+      "transliteration": "Ash-hadu wa ushhidullaaha annaka madayta 'alaa maa madaa bihil badriyyuun",
+      "translation": "I bear witness, and I call Allah to witness, that you proceeded on the same path as the martyrs of Badr,",
+      "urduTranslation": "میں گواہی دیتا ہوں اور اللہ کو گواہ بناتا ہوں کہ آپ اسی راستے پر چلے جس پر شہدائے بدر چلے،",
+      "farsiTranslation": "گواهی می‌دهم و خدا را گواه می‌گیرم که تو در راهی قدم گذاشتی که شهدای بدر در آن گام نهادند،"
+    },
+    {
+      "arabic": "الْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ، الْمُنَاصِحُونَ لَهُ فِي جِهَادِ أَعْدَائِهِ",
+      "transliteration": "Al-mujaahiduuna fii sabiilillaah, al-munaasihuuna lahu fii jihaadi a'daa'ih",
+      "translation": "those who fought in the way of Allah, those who were sincere to Him in the struggle against His enemies,",
+      "urduTranslation": "جو اللہ کی راہ میں جہاد کرنے والے، اس کے دشمنوں کے خلاف جہاد میں اس کے مخلص تھے،",
+      "farsiTranslation": "مجاهدان در راه خدا، و خیرخواهان او در جهاد با دشمنانش،"
+    },
+    {
+      "arabic": "الْمُبَالِغُونَ فِي نُصْرَةِ أَوْلِيَائِهِ، الذَّابُّونَ عَنْ أَحِبَّائِهِ",
+      "transliteration": "Al-mubaalighuuna fii nusrati awliyaa'ih, az-zaabbuuna 'an ahibbaa'ih",
+      "translation": "who went to great lengths in assisting His friends, and who defended His beloved ones.",
+      "urduTranslation": "جنہوں نے اس کے دوستوں کی مدد میں بھرپور کوشش کی، اور اس کے پیاروں کا دفاع کیا۔",
+      "farsiTranslation": "کوشایان در یاری دوستانش، و مدافعان از محبانش."
+    },
+    {
+      "arabic": "فَجَزَاكَ اللَّهُ أَفْضَلَ الْجَزَاءِ وَأَكْثَرَ الْجَزَاءِ وَأَوْفَرَ الْجَزَاءِ",
+      "transliteration": "Fajazaakallaahu afdalal jazaa' wa aktharal jazaa' wa awfaral jazaa'",
+      "translation": "So may Allah reward you with the best reward, the most abundant reward, the most plentiful reward,",
+      "urduTranslation": "پس اللہ آپ کو بہترین، سب سے زیادہ، اور بے پناہ اجر عطا فرمائے،",
+      "farsiTranslation": "پس خداوند به تو بهترین پاداش، و بیشترین پاداش، و فراوان‌ترین پاداش را عطا فرماید،"
+    },
+    {
+      "arabic": "وَأَوْفَى جَزَاءِ أَحَدٍ مِمَّنْ وَفَى بِبَيْعَتِهِ وَاسْتَجَابَ لَهُ دَعْوَتَهُ وَأَطَاعَ وُلَاةَ أَمْرِهِ",
+      "transliteration": "Wa awfaa jazaa'i ahadin mimman wafaa bibay'atihi was-tajaaba lahu da'watahu wa ataa'a wulaata amrih",
+      "translation": "and the most complete reward given to anyone who fulfilled his pledge of allegiance, answered His call, and obeyed the guardians of His affairs.",
+      "urduTranslation": "اور اس شخص سے بھی زیادہ کامل اجر جس نے اس کی بیعت پوری کی، اس کی پکار پر لبیک کہا اور اس کے اولیائے امر کی اطاعت کی۔",
+      "farsiTranslation": "و کامل‌ترین پاداشی که به هر کس که به بیعت او وفا کرد، و دعوت او را پاسخ داد، و ولی امر او را اطاعت کرد، داده می‌شود."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Shia Pulse",
+  "description": "Shia Islamic prayer companion featuring astronomical Shia prayer times, a dynamic Qibla compass, cyclic Tasbeeh clicker, live Gemini AI Shia quotes, and 14 Masoomeen lunar calendar events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

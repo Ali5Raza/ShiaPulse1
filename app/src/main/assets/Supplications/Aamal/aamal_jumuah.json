@@ -1,0 +1,66 @@
+{
+  "id": "aamal_jumuah",
+  "title": "Aamal of Friday (Jumu'ah)",
+  "titleUr": "جمعہ کے اعمال",
+  "titleAr": "أعمال يوم الجمعة",
+  "category": "Weekly",
+  "categoryUr": "ہفتہ وار",
+  "categoryAr": "أسبوعي",
+  "description": "Recommended acts to be performed on the day of Friday.",
+  "descriptionUr": "جمعہ کے دن انجام دیے جانے والے مستحب اعمال۔",
+  "descriptionAr": "الأعمال المستحبة في يوم الجمعة.",
+  "relevance": "Every Friday",
+  "relevanceUr": "ہر جمعہ",
+  "relevanceAr": "كل جمعة",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Ghusl of Friday",
+      "titleUr": "غسل جمعہ",
+      "titleAr": "غسل الجمعة",
+      "description": "It is highly recommended to perform Ghusl on Friday. The time is from dawn to noon.",
+      "descriptionUr": "جمعہ کا غسل کرنا بہت مستحب ہے۔ اس کا وقت فجر سے ظہر تک ہے۔",
+      "descriptionAr": "يستحب استحباباً مؤكداً غسل الجمعة ووقته من طلوع الفجر إلى الزوال."
+    },
+    {
+      "actNumber": 2,
+      "title": "Clipping Nails and Trimming Moustache",
+      "titleUr": "ناخن اور مونچھیں تراشنا",
+      "titleAr": "تقليم الأظافر وأخذ الشارب",
+      "description": "It increases sustenance and prevents many diseases.",
+      "descriptionUr": "یہ رزق میں اضافہ کرتا ہے اور کئی بیماریوں سے بچاتا ہے۔",
+      "descriptionAr": "يزيد في الرزق ويأمن من أمراض كثيرة."
+    },
+    {
+      "actNumber": 3,
+      "title": "Applying Perfume (Itr)",
+      "titleUr": "خوشبو (عطر) لگانا",
+      "titleAr": "التطيب",
+      "description": "It is recommended to wear clean clothes and apply perfume.",
+      "descriptionUr": "صاف کپڑے پہننا اور خوشبو لگانا مستحب ہے۔",
+      "descriptionAr": "يستحب لبس الثياب النظيفة والتطيب."
+    },
+    {
+      "actNumber": 4,
+      "title": "Reciting Salawat",
+      "titleUr": "صلوات پڑھنا",
+      "titleAr": "الصلاة على محمد وآل محمد",
+      "description": "Send blessings on Prophet Muhammad (PBUH) and his progeny as much as possible, at least 100 times.",
+      "descriptionUr": "نبی اکرم (ص) اور ان کی آل پر زیادہ سے زیادہ صلوات بھیجیں، کم از کم 100 مرتبہ۔",
+      "descriptionAr": "الإكثار من الصلاة على محمد وآله، وأقله مائة مرة.",
+      "arabicRecitation": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَعَجِّلْ فَرَجَهُمْ",
+      "translation": "O Allah, send blessings on Muhammad and the family of Muhammad and hasten their relief.",
+      "urduTranslation": "اے اللہ، محمد اور آل محمد پر درود بھیج اور ان کے ظہور میں جلدی فرما۔",
+      "transliteration": "Allahumma salli 'ala Muhammadin wa Aali Muhammad wa 'ajjil farajahum"
+    },
+    {
+      "actNumber": 5,
+      "title": "Ziyarat of Imam al-Mahdi (ATFS)",
+      "titleUr": "امام مہدی (عج) کی زیارت",
+      "titleAr": "زيارة الإمام المهدي (عج)",
+      "description": "Friday is the day of Imam al-Mahdi (ATFS), and it is the day his reappearance is expected. Recite his Ziyarat.",
+      "descriptionUr": "جمعہ کا دن امام مہدی (عج) کا دن ہے اور اسی دن ان کے ظہور کی توقع ہے۔ ان کی زیارت پڑھیں۔",
+      "descriptionAr": "يوم الجمعة هو يوم الإمام المهدي (عج) وفيه يتوقع ظهوره. تقرأ زيارته."
+    }
+  ]
+}

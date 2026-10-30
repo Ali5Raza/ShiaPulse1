@@ -1,0 +1,75 @@
+{
+  "id": "aamal_shabe_qadr",
+  "title": "Aamal of Shab-e-Qadr (Laylatul Qadr)",
+  "titleUr": "شب قدر کے اعمال",
+  "titleAr": "أعمال ليلة القدر",
+  "category": "Ramadan",
+  "categoryUr": "رمضان",
+  "categoryAr": "رمضان",
+  "description": "Common acts for the 19th, 21st, and 23rd nights of Ramadan.",
+  "descriptionUr": "رمضان کی 19ویں، 21ویں اور 23ویں راتوں کے مشترکہ اعمال۔",
+  "descriptionAr": "الأعمال المشتركة لليالي 19 و 21 و 23 من شهر رمضان.",
+  "relevance": "19th, 21st, and 23rd of Ramadan",
+  "relevanceUr": "رمضان کی 19، 21 اور 23 تاریخ",
+  "relevanceAr": "19 و21 و23 من رمضان",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Ghusl",
+      "titleUr": "غسل",
+      "titleAr": "الغسل",
+      "description": "Perform Ghusl, preferably at sunset so one can pray Maghrib and Isha with Ghusl.",
+      "descriptionUr": "غسل کریں، بہتر ہے کہ غروب آفتاب کے وقت کریں تاکہ مغرب اور عشاء کی نماز غسل کے ساتھ پڑھی جا سکے۔",
+      "descriptionAr": "الغسل، والأفضل أن يكون عند غروب الشمس ليصلي العشائين به."
+    },
+    {
+      "actNumber": 2,
+      "title": "Two Rak'at Prayer",
+      "titleUr": "دو رکعت نماز",
+      "titleAr": "صلاة ركعتين",
+      "description": "Pray a 2 Rak'at prayer. In each Rak'at, after Surah al-Fatihah, recite Surah al-Ikhlas 7 times. After finishing the prayer, recite 'Astaghfirullaaha wa atoobu ilayh' 70 times.",
+      "descriptionUr": "دو رکعت نماز پڑھیں۔ ہر رکعت میں سورہ فاتحہ کے بعد 7 مرتبہ سورہ اخلاص پڑھیں۔ نماز ختم کرنے کے بعد 70 مرتبہ 'استغفراللہ ربی و اتوب الیہ' پڑھیں۔",
+      "descriptionAr": "صلاة ركعتين، يقرأ في كل ركعة بعد الحمد التوحيد سبع مرات، ويقول بعد الفراغ سبعين مرة: أستغفر الله وأتوب إليه."
+    },
+    {
+      "actNumber": 3,
+      "title": "Opening the Quran",
+      "titleUr": "قرآن مجید کھول کر دعا",
+      "titleAr": "فتح المصحف",
+      "description": "Open the Holy Quran, place it in front of you, and recite the specific Dua for it.",
+      "descriptionUr": "قرآن مجید کھولیں، اسے اپنے سامنے رکھیں اور اس کے لیے مخصوص دعا پڑھیں۔",
+      "descriptionAr": "تأخذ المصحف وتنشره وتضعه بين يديك وتقول الدعاء المخصوص.",
+      "arabicRecitation": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِكِتَابِكَ الْمُنْزَلِ وَمَا فِيهِ...",
+      "translation": "O Allah, I ask You by Your revealed Book and what is in it...",
+      "urduTranslation": "اے اللہ! میں تجھ سے سوال کرتا ہوں تیری نازل کردہ کتاب کے واسطے سے اور جو کچھ اس میں ہے...",
+      "transliteration": "Allahumma inni as'aluka bikitabikal-munzali wa ma fihi..."
+    },
+    {
+      "actNumber": 4,
+      "title": "Placing the Quran on the Head",
+      "titleUr": "قرآن سر پر رکھنا",
+      "titleAr": "وضع المصحف على الرأس",
+      "description": "Place the Holy Quran on your head and recite the prescribed Dua, invoking Allah by the names of the 14 Infallibles (AS).",
+      "descriptionUr": "قرآن مجید اپنے سر پر رکھیں اور 14 معصومین (ع) کے ناموں کا واسطہ دے کر مخصوص دعا پڑھیں۔",
+      "descriptionAr": "تأخذ المصحف وتدعه على رأسك وتقول الدعاء المخصوص بالتوسل بأسماء المعصومين (ع)."
+    },
+    {
+      "actNumber": 5,
+      "title": "Ziyarat of Imam Husayn (AS)",
+      "titleUr": "امام حسین (ع) کی زیارت",
+      "titleAr": "زيارة الإمام الحسين (ع)",
+      "description": "Recite the specific Ziyarat of Imam Husayn (AS) for Laylatul Qadr.",
+      "descriptionUr": "شب قدر کے لیے امام حسین (ع) کی مخصوص زیارت پڑھیں۔",
+      "descriptionAr": "زيارة الإمام الحسين (ع) المخصوصة بليلة القدر."
+    },
+    {
+      "actNumber": 6,
+      "title": "Supplication of Jawshan Kabir",
+      "titleUr": "دعا جوشن کبیر",
+      "titleAr": "دعاء الجوشن الكبير",
+      "description": "It is highly recommended to recite Dua Jawshan Kabir on these nights.",
+      "descriptionUr": "ان راتوں میں دعا جوشن کبیر کا پڑھنا بہت مستحب ہے۔",
+      "descriptionAr": "يستحب قراءة دعاء الجوشن الكبير في هذه الليالي."
+    }
+  ]
+}

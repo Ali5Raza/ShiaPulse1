@@ -1,0 +1,280 @@
+{
+  "timeline": [
+    {
+      "id": "medina_dep",
+      "date": "28 Rajab 60 AH",
+      "eventEn": "Departure from Medina",
+      "eventUr": "مدینہ سے روانگی",
+      "eventAr": "الخروج من المدينة",
+      "descEn": "Imam Hussain (as) left Medina, refusing allegiance to Yazid.",
+      "descUr": "امام حسین (ع) نے یزید کی بیعت سے انکار کرتے ہوئے مدینہ چھوڑ دیا۔",
+      "descAr": "خرج الإمام الحسين (ع) من المدينة رافضاً بيعة يزيد.",
+      "lat": 24.467,
+      "lon": 39.6111,
+      "dateUr": "۲۸ رجب ۶۰ھ",
+      "dateAr": "28 رجب 60هـ",
+      "sourceLabel": "WikiShia — Uprising of Imam al-Husayn (a)",
+      "sourceUrl": "https://en.wikishia.net/view/Uprising_of_Imam_al-Husayn_(a)"
+    },
+    {
+      "id": "mecca_arr",
+      "date": "3 Shaban 60 AH",
+      "eventEn": "Arrival in Mecca",
+      "eventUr": "مکہ مکرمہ میں آمد",
+      "eventAr": "الوصول إلى مكة",
+      "descEn": "Imam Hussain (as) arrived in Mecca and stayed for a few months.",
+      "descUr": "امام حسین (ع) مکہ پہنچے اور کچھ ماہ قیام کیا۔",
+      "descAr": "وصل الإمام الحسين (ع) إلى مكة وبقي فيها بضعة أشهر.",
+      "lat": 21.3891,
+      "lon": 39.8579,
+      "dateUr": "۳ شعبان ۶۰ھ",
+      "dateAr": "3 شعبان 60هـ",
+      "sourceLabel": "WikiShia — Uprising of Imam al-Husayn (a)",
+      "sourceUrl": "https://en.wikishia.net/view/Uprising_of_Imam_al-Husayn_(a)"
+    },
+    {
+      "id": "mecca_dep",
+      "date": "8 Dhul-Hijjah 60 AH",
+      "eventEn": "Departure from Mecca",
+      "eventUr": "مکہ سے روانگی",
+      "eventAr": "الخروج من مكة",
+      "descEn": "Imam Hussain (as) left Mecca after learning of a plot against him, preserving the sanctity of the Kaaba and continuing toward Iraq.",
+      "descUr": "امام حسین (ع) اپنے خلاف سازش کی خبر ملنے پر حرمِ کعبہ کی حرمت قائم رکھتے ہوئے مکہ سے عراق کی طرف روانہ ہوئے۔",
+      "descAr": "خرج الإمام الحسين (ع) من مكة بعد علمه بمخطط ضده، حفاظاً على حرمة الكعبة، متجهاً نحو العراق.",
+      "lat": 21.4225,
+      "lon": 39.8262,
+      "dateUr": "۸ ذوالحجہ ۶۰ھ",
+      "dateAr": "8 ذو الحجة 60هـ",
+      "sourceLabel": "WikiShia — Uprising of Imam al-Husayn (a)",
+      "sourceUrl": "https://en.wikishia.net/view/Uprising_of_Imam_al-Husayn_(a)"
+    },
+    {
+      "id": "karbala_arr",
+      "date": "2 Muharram 61 AH",
+      "eventEn": "Arrival in Karbala",
+      "eventUr": "کربلا میں آمد",
+      "eventAr": "الوصول إلى كربلاء",
+      "descEn": "Imam Hussain's (as) caravan was forced to camp in Karbala.",
+      "descUr": "امام حسین (ع) کا قافلہ کربلا کے میدان میں رکنے پر مجبور ہوا۔",
+      "descAr": "أُجبر ركب الإمام الحسين (ع) على النزول في كربلاء.",
+      "lat": 32.616,
+      "lon": 44.0249,
+      "dateUr": "۲ محرم ۶۱ھ",
+      "dateAr": "2 محرم 61هـ",
+      "sourceLabel": "WikiShia — Battle of Karbala",
+      "sourceUrl": "https://en.wikishia.net/view/Battle_of_Karbala"
+    },
+    {
+      "id": "karbala_water",
+      "date": "7 Muharram 61 AH",
+      "eventEn": "Water supply cut off",
+      "eventUr": "پانی کی بندش",
+      "eventAr": "منع الماء",
+      "descEn": "Yazid's army blocked access to the Euphrates river.",
+      "descUr": "یزیدی فوج نے فرات کے پانی پر پابندی لگا دی۔",
+      "descAr": "منع جيش يزيد الماء عن مخيم الإمام الحسين (ع).",
+      "lat": 32.617,
+      "lon": 44.0259,
+      "dateUr": "۷ محرم ۶۱ھ",
+      "dateAr": "7 محرم 61هـ",
+      "sourceLabel": "WikiShia — Battle of Karbala",
+      "sourceUrl": "https://en.wikishia.net/view/Battle_of_Karbala"
+    },
+    {
+      "id": "karbala_ashura",
+      "date": "10 Muharram 61 AH",
+      "eventEn": "Ashura (Day of Martyrdom)",
+      "eventUr": "یوم عاشورہ",
+      "eventAr": "يوم عاشوراء",
+      "descEn": "Imam Hussain (as) and his 72 companions were martyred.",
+      "descUr": "امام حسین (ع) اور ان کے 72 باوفا ساتھی شہید کر دیے گئے۔",
+      "descAr": "استشهاد الإمام الحسين (ع) وأصحابه الـ 72.",
+      "lat": 32.618,
+      "lon": 44.0269,
+      "dateUr": "۱۰ محرم ۶۱ھ",
+      "dateAr": "10 محرم 61هـ",
+      "sourceLabel": "WikiShia — Battle of Karbala",
+      "sourceUrl": "https://en.wikishia.net/view/Battle_of_Karbala"
+    }
+  ],
+  "companions": [
+    {
+      "nameEn": "Hazrat Abbas ibn Ali (as)",
+      "nameUr": "حضرت عباس ابن علی (ع)",
+      "nameAr": "أبو الفضل العباس (ع)",
+      "roleEn": "Standard Bearer & Commander",
+      "descEn": "The loyal brother of Imam Hussain (as), known for his bravery and bringing water to the camp.",
+      "descUr": "امام حسین (ع) کے وفادار بھائی اور علمبردار، جو خیموں کے لیے پانی لانے کی کوشش میں شہید ہوئے۔",
+      "roleUr": "علمبردار اور کمانڈر",
+      "roleAr": "حامل اللواء والقائد",
+      "descAr": "الأخ الوفي للإمام الحسين (ع) وحامل لوائه، استشهد أثناء سعيه لجلب الماء إلى المخيم.",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    },
+    {
+      "nameEn": "Hazrat Ali Akbar (as)",
+      "nameUr": "حضرت علی اکبر (ع)",
+      "nameAr": "علي الأكبر (ع)",
+      "roleEn": "Son of Imam Hussain (as)",
+      "descEn": "Resembled the Prophet (saws) in looks and character. Fought bravely and was martyred.",
+      "descUr": "شکل و سیرت میں رسول اللہ (ص) سے شباہت رکھنے والے فرزندِ امام، جو شجاعت کے ساتھ شہید ہوئے۔",
+      "roleUr": "امام حسین (ع) کے فرزند",
+      "roleAr": "نجل الإمام الحسين (ع)",
+      "descAr": "كان يشبه النبي (ص) في الخِلقة والخُلقة، واستشهد بشجاعة.",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    },
+    {
+      "nameEn": "Hazrat Ali Asghar (as)",
+      "nameUr": "حضرت علی اصغر (ع)",
+      "nameAr": "علي الأصغر / عبد الله الرضيع (ع)",
+      "roleEn": "6-month-old infant",
+      "descEn": "The youngest martyr of Karbala, martyred by an arrow while in the arms of Imam Hussain (as).",
+      "descUr": "کربلا کے کمسن شہید، جو امام حسین (ع) کی آغوش میں تیر سے شہید ہوئے۔",
+      "roleUr": "چھ ماہ کے شیرخوار",
+      "roleAr": "رضيع في السادسة من عمره",
+      "descAr": "أصغر شهداء كربلاء، استشهد بسهم وهو بين يدي الإمام الحسين (ع).",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    },
+    {
+      "nameEn": "Hazrat Qasim ibn Hasan (as)",
+      "nameUr": "حضرت قاسم ابن حسن (ع)",
+      "nameAr": "القاسم بن الحسن (ع)",
+      "roleEn": "Nephew of Imam Hussain (as)",
+      "descEn": "The young son of Imam Hasan (as) who considered death in the way of Allah 'sweeter than honey'.",
+      "descUr": "امام حسن (ع) کے نوجوان فرزند اور امام حسین (ع) کے وفادار ساتھی۔",
+      "roleUr": "امام حسین (ع) کے بھتیجے",
+      "roleAr": "ابن أخي الإمام الحسين (ع)",
+      "descAr": "الابن الشاب للإمام الحسن (ع)، ومن أفراد أهل بيت الإمام الحسين (ع) الذين استشهدوا في كربلاء.",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    },
+    {
+      "nameEn": "Hazrat Habib ibn Mazahir (as)",
+      "nameUr": "حضرت حبیب ابن مظاہر (ع)",
+      "nameAr": "حبيب بن مظاهر الأسدي (ع)",
+      "roleEn": "Commander of the Left Wing",
+      "descEn": "A childhood friend of Imam Hussain (as) and an elderly, devoted companion.",
+      "descUr": "امام حسین (ع) کے پرانے، باوفا اور مخلص ساتھی۔",
+      "roleUr": "بائیں دستے کے کمانڈر",
+      "roleAr": "قائد الجناح الأيسر",
+      "descAr": "من أقدم أصحاب الإمام الحسين (ع) وأوفاهم، ومن قادة معسكره.",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    },
+    {
+      "nameEn": "Hazrat Hurr ibn Yazid al-Riyahi (as)",
+      "nameUr": "حضرت حر ابن یزید ریاحی (ع)",
+      "nameAr": "الحر بن يزيد الرياحي (ع)",
+      "roleEn": "Penitent Commander",
+      "descEn": "Initially a commander in the enemy army, he repented and joined Imam Hussain (as) on Ashura.",
+      "descUr": "پہلے مخالف لشکر کے کمانڈر تھے، پھر توبہ کر کے عاشورہ کو امام حسین (ع) سے جا ملے۔",
+      "roleUr": "توبہ کرنے والے کمانڈر",
+      "roleAr": "قائد تائب",
+      "descAr": "كان قائداً في الجيش المقابل، ثم تاب وانضم إلى الإمام الحسين (ع) يوم عاشوراء.",
+      "sourceUrl": "https://en.wikishia.net/view/Martyrs_of_Karbala"
+    }
+  ],
+  "arbaeen_route": [
+    {
+      "nameEn": "Najaf - Imam Ali Shrine",
+      "nameUr": "نجف - روضہ امام علی (ع)",
+      "descEn": "The starting point of the Arbaeen walk, Pole #1.",
+      "lat": 31.9959,
+      "lon": 44.3146
+    },
+    {
+      "nameEn": "Haydariyah - Pole #500",
+      "nameUr": "حیدریہ",
+      "descEn": "Midway on the Ya Hussain Route.",
+      "lat": 32.25,
+      "lon": 44.15
+    },
+    {
+      "nameEn": "Karbala - Pole #1452",
+      "nameUr": "کربلا",
+      "descEn": "Arrival at the shrines of Imam Hussain (as) and Hazrat Abbas (as).",
+      "lat": 32.616,
+      "lon": 44.0249
+    }
+  ],
+  "ziyarat_guide": [
+    {
+      "titleEn": "Ziyarat Ashura",
+      "titleUr": "زیارت عاشورہ",
+      "descEn": "The famous Ziyarat recited for Imam Hussain (as), narrated by Imam Muhammad al-Baqir (as)."
+    },
+    {
+      "titleEn": "Ziyarat Warith",
+      "titleUr": "زیارت وارث",
+      "descEn": "A Ziyarat highlighting the spiritual inheritance of the Prophets by Imam Hussain (as)."
+    },
+    {
+      "titleEn": "Ziyarat Arbaeen",
+      "titleUr": "زیارت اربعین",
+      "descEn": "Recited specifically on the 20th of Safar, marking 40 days after Ashura."
+    }
+  ],
+  "historical_places": [
+    {
+      "nameEn": "Tal al-Zainabia",
+      "nameUr": "تل زینبیہ",
+      "descEn": "The hill where Lady Zainab (sa) stood to witness the battlefield."
+    },
+    {
+      "nameEn": "Khaimagah (Campsite)",
+      "nameUr": "خیمہ گاہ",
+      "descEn": "The location where the tents of Imam Hussain's (as) family were pitched."
+    },
+    {
+      "nameEn": "Maqam of Hazrat Ali Akbar (as)",
+      "nameUr": "مقام حضرت علی اکبر (ع)",
+      "descEn": "The place where Hazrat Ali Akbar (as) was martyred."
+    },
+    {
+      "nameEn": "Maqam of Hazrat Ali Asghar (as)",
+      "nameUr": "مقام حضرت علی اصغر (ع)",
+      "descEn": "The place where the 6-month-old infant was martyred."
+    },
+    {
+      "nameEn": "Alqamah River / Euphrates branch",
+      "nameUr": "نہر علقمہ",
+      "descEn": "The branch of the Euphrates river where Hazrat Abbas (as) was martyred fetching water."
+    }
+  ],
+  "family_tree": [
+    {
+      "nameEn": "Imam Ali (as) & Lady Fatima (sa)",
+      "relationEn": "Parents of Imam Hussain (as)"
+    },
+    {
+      "nameEn": "Imam Hasan (as)",
+      "relationEn": "Brother of Imam Hussain (as)"
+    },
+    {
+      "nameEn": "Lady Zainab (sa) & Lady Umm Kulthum (sa)",
+      "relationEn": "Sisters of Imam Hussain (as)"
+    },
+    {
+      "nameEn": "Hazrat Abbas (as)",
+      "relationEn": "Half-brother of Imam Hussain (as) & Standard Bearer"
+    },
+    {
+      "nameEn": "Imam Sajjad (as)",
+      "relationEn": "Son & 4th Imam, Survivor of Karbala"
+    },
+    {
+      "nameEn": "Hazrat Ali Akbar (as)",
+      "relationEn": "Eldest Son, martyred"
+    },
+    {
+      "nameEn": "Hazrat Ali Asghar (as)",
+      "relationEn": "Infant Son, martyred"
+    },
+    {
+      "nameEn": "Hazrat Qasim (as)",
+      "relationEn": "Nephew, Son of Imam Hasan (as), martyred"
+    },
+    {
+      "nameEn": "Lady Sakina / Ruqayya (sa)",
+      "relationEn": "Daughter, passed away in Damascus"
+    }
+  ],
+  "shuhada": []
+}

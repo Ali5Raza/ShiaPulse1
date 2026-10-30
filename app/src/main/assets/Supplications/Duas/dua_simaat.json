@@ -1,0 +1,1271 @@
+{
+  "id": "dua_simaat",
+  "title": "Dua Simaat",
+  "titleUr": "دعا سمات",
+  "titleAr": "دعاء السمات",
+  "category": "Dua",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "Recommended to be recited in the last hour of Friday before sunset.",
+  "descriptionUr": "جمعہ کو غروبِ آفتاب سے پہلے کے آخری حصے میں پڑھنا مستحب ہے۔",
+  "descriptionAr": "يستحب في الساعة الأخيرة من يوم الجمعة قبل الغروب.",
+  "relevance": "Highly emphasized to be recited on Fridays. Contains the greatest name of Allah (Ism al-A'zam).",
+  "relevanceUr": "جمعہ کے دن پڑھنے کی خاص تاکید ہے؛ اس میں اسمِ اعظم کا ذکر ہے۔",
+  "relevanceAr": "ورد التأكيد على قراءته يوم الجمعة، وفيه ذكر اسم الله الأعظم.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "ِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+      "transliteration": "bismi allahi allrahmani alrrahimi",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "urduTranslation": "اللہ کے نام سے شروع جو بڑا مہربان اور نہایت رحم والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي اسْالُكَ بِٱسْمِكَ ٱلْعَظِيمِ ٱلاعْظَمِ",
+      "transliteration": "allahumma inni as'aluka bismika al`azimi ala`zami",
+      "translation": "O Allah, I beseech You by Your Name, the most great, most majestic,",
+      "urduTranslation": "اے اللہ میں سوال کرتا ہوں تجھ سے تیرے عظیم اور سب سے بڑے نام کے وسیلے سے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلاعَزِّ ٱلاجَلِّ ٱلاكْرَمِ",
+      "transliteration": "ala`azzi al-ajalli al-akrami",
+      "translation": "most magnificent, and most noble;",
+      "urduTranslation": "جو سب سے زیادہ بلند، نہایت بزرگ اور انتہائی کریم ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّذِي إِذَا دُعِيتَ بِهِ عَلَىٰ مَغَاِلقِ ابْوَابِ ٱلسَّمَاء لِلْفَتْحِ بِٱلرَّحْمَةِ ٱنْفَتَحَتْ",
+      "transliteration": "alladhi idha du`ita bihi `ala maghaliqi abwabi alssama'i lilfathi bilrrahmati infatahat",
+      "translation": "if You are besought thereby to open the closed doors of the sky, they will be opened with Your mercy,",
+      "urduTranslation": "وہ نام کہ جب اس کے ذریعے آسمان کے بند دروازوں کو رحمت کے ساتھ کھولنے کے لیے پکارا جائے تو وہ کھل جاتے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِذَا دُعِيتَ بِهِ عَلَىٰ مَضَائقِ ابْوَابِ ٱلسَّمَاء مَضَائقِ ابْوَابِ ٱلارْضِ لِلْفَرَجِ ٱنْفَرَجَتْ",
+      "transliteration": "wa idha du`ita bihi `ala mada'iqi abwabi al-ardi lilfaraji infarajat",
+      "translation": "if You are besought thereby to remove the narrow doors of the heavens for relief, they will be opened wide,",
+      "urduTranslation": "اور جب اس کے ذریعے کشادگی کے لیے آسمان و زمین کے تنگ دروازوں کو پکارا جائے تو وہ کشادہ ہو جاتے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِذَا دُعِيتَ بِهِ عَلىٰ ٱلْعُسْرِ لِلْيُسْرِ تَيَسَّرَتْ",
+      "transliteration": "wa idha du`ita bihi `ala al`usri lilyusri tayassarat",
+      "translation": "if You are besought thereby to make easy the difficulty, it will be easy,",
+      "urduTranslation": "اور جب اس کے ذریعے مشکل کو آسانی میں بدلنے کے لیے پکارا جائے تو وہ آسان ہو جاتی ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِذَا دُعِيتَ بِهِ عَلىٰ ٱلامْوَاتِ لِلنُّشُورِ ٱنتَشَرَتْ",
+      "transliteration": "wa idha du`ita bihi `ala al-amwati lilnnushuri intasharat",
+      "translation": "if You are besought thereby to restore the dead to life, they will rise from their graves,",
+      "urduTranslation": "اور جب اس کے ذریعے مردوں کو جی اٹھنے کے لیے پکارا جائے تو وہ قبروں سے نکل آتے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِذَا دُعِيتَ بِهِ عَلَىٰ كَشْفِ ٱلْبَاسَاء وَٱلضَّرَّاء ٱنْكَشَفَتْ",
+      "transliteration": "wa idha du`ita bihi `ala kashfi alba'sa'i walddarra'i inkashafat",
+      "translation": "if You are besought thereby to remove misery and adversity, they will be removed.",
+      "urduTranslation": "اور جب اس کے ذریعے رنج و غم اور سختیوں کو دور کرنے کے لیے پکارا جائے تو وہ دور ہو جاتی ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِجَلاَلِ وَجْهِكَ ٱلْكَرِيمِ",
+      "transliteration": "wa bijalali wajhika alkarimi",
+      "translation": "I also beseech You in the name of the Majesty of Your Noble Face;",
+      "urduTranslation": "اور تیرے کریم چہرے کے جلال کے وسیلے سے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اكْرَمِ ٱلْوُجُوهِ وَاعَزِّ ٱلْوُجُوهِ",
+      "transliteration": "akrami alwujuhi wa a`azzi alwujuhi",
+      "translation": "the Noblest and most Honored of all faces",
+      "urduTranslation": "جو تمام چہروں میں سب سے زیادہ معزز اور سب سے زیادہ بلند ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّذِي عَنَتْ لَهُ ٱلْوُجُوهُ",
+      "transliteration": "alladhi `anat lahu alwujuhu",
+      "translation": "before Whom all faces bow down in submission,",
+      "urduTranslation": "وہ چہرہ کہ جس کے سامنے تمام چہرے عاجزی کرتے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَضَعَتْ لَهُ ٱلرِّقَابُ",
+      "transliteration": "wa khada`at lahu alrriqabu",
+      "translation": "all necks bend down in reverence,",
+      "urduTranslation": "اور جس کے سامنے تمام گردنیں جھک جاتی ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَشَعَتْ لَهُ ٱلاصْوَاتُ",
+      "transliteration": "wa khasha`at lahu al-aswatu",
+      "translation": "all sounds yield,",
+      "urduTranslation": "اور جس کے سامنے تمام آوازیں دب جاتی ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَوَجِلَتْ لَهُ ٱلْقُلُوبُ مِنْ مَخَافَتِكَ",
+      "transliteration": "wa wajilat lahu alqulubu min makhafatika",
+      "translation": "and all hearts tremble out of fear of You.",
+      "urduTranslation": "اور جس کے خوف سے تمام دل لرز اٹھتے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِقُوَّتِكَ ٱلَّتِي بِهَا",
+      "transliteration": "wa biquwwatika allati biha",
+      "translation": "I also beseech You by Your Might",
+      "urduTranslation": "اور تیری اس قوت کے وسیلے سے جس کے ذریعے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "تُمْسِكُ ٱلسَّمَاء ان تَقَعَ عَلىٰ ٱلارْضِ إِلاَّ بِإِذْنِكَ",
+      "transliteration": "tumsiku alssama'a an taqa`a `ala al-ardi illa bi'idhnika",
+      "translation": "by which You prevent the sky from falling on the earth except with Your permission,",
+      "urduTranslation": "تو آسمان کو تھامے ہوئے ہے کہ وہ تیری اجازت کے بغیر زمین پر نہ گرے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَتُمْسِكُ ٱلسَّمَاوَاتِ وَٱلارْضَ ان تَزُولاَ",
+      "transliteration": "wa tumsiku alssamawati wal-arda an tazula",
+      "translation": "and control the heavens and the earth so closely that they cannot move away from their positions,",
+      "urduTranslation": "اور آسمانوں اور زمین کو تھامے ہوئے ہے کہ وہ اپنی جگہ سے نہ ہٹ جائیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَشِيئَتِكَ ٱلَّتِي دَان لَهَا ٱلْعَالَمُونَ",
+      "transliteration": "wa bimashi'atika allati dana laha al`alamuna",
+      "translation": "by Your Will, which the whole world obeys,",
+      "urduTranslation": "اور تیری اس مشیت (ارادے) کے وسیلے سے جس کے سامنے تمام جہان جھکے ہوئے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِكَلِمَتِكَ ٱلَّتِي خَلَقْتَ بِهَا ٱلسَّمَاوَاتِ وَٱلارْضَ",
+      "transliteration": "wa bikalimatika allati khalaqta biha alssamawati wal-arda",
+      "translation": "by Your Word by which You have created the heavens and the earth,",
+      "urduTranslation": "اور تیرے اس کلمے کے وسیلے سے جس کے ذریعے تو نے آسمانوں اور زمین کو پیدا کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِحِكْمَتِكَ ٱلَّتِي صَنَعْتَ بِهَا ٱلْعَجَائبَ",
+      "transliteration": "wa bihikmatika allati sana`ta biha al`aja'iba",
+      "translation": "by Your Wisdom with which You have created the wonderful things,",
+      "urduTranslation": "اور تیری اس حکمت کے وسیلے سے جس کے ذریعے تو نے عجائبات تخلیق کیے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلَقْتَ بِهَا ٱلظُّلْمَةَ وَجَعَلْتَهَا لَيْلاً",
+      "transliteration": "wa khalaqta biha alzzulmata wa ja`altaha laylan",
+      "translation": "created darkness, made it night,",
+      "urduTranslation": "اور جس سے تو نے تاریکی پیدا کی اور اسے رات بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ ٱللَّيْلَ سَكَناً",
+      "transliteration": "wa ja`alta allayla sakanan",
+      "translation": "made night the time of quiet and rest,",
+      "urduTranslation": "اور تو نے رات کو سکون و آرام کا وقت بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلَقْتَ بِهَا ٱلنُّورَ وَجَعَلْتَهُ نَهَاراً",
+      "transliteration": "wa khalaqta biha alnnura wa ja`altahu naharan",
+      "translation": "created light, made it daylight,",
+      "urduTranslation": "اور جس سے تو نے روشنی پیدا کی اور اسے دن بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ ٱلنَّهَارَ نُشُوراً مُبْصِراً",
+      "transliteration": "wa ja`alta alnnahara nushuran mubsiran",
+      "translation": "made day the time of movement and observation,",
+      "urduTranslation": "اور تو نے دن کو حرکت اور بصیرت کا وقت بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلَقْتَ بِهَا ٱلشَّمْسَ وَجَعَلْتَ ٱلشَّمْسَ ضِيَاءاً",
+      "transliteration": "wa khalaqta biha alshshamsa wa ja`lta alshshamsa diya'an",
+      "translation": "created the sun, made the sun light,",
+      "urduTranslation": "اور جس سے تو نے سورج کو پیدا کیا اور اسے ضیاء (روشنی) بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلَقْتَ بِهَا ٱلقَمَرَ وَجَعَلْتَ ٱلقَمَرَ نُوراً",
+      "transliteration": "wa khalaqta biha alqamara wa ja`alta alqamara nuran",
+      "translation": "created the moon, made the moon of light,",
+      "urduTranslation": "اور جس سے تو نے چاند کو پیدا کیا اور اسے نور بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَلَقْتَ بِهَا ٱلْكَوَاكِبَ",
+      "transliteration": "wa khalaqta biha alkawakiba",
+      "translation": "created heavenly bodies,",
+      "urduTranslation": "اور جس سے تو نے ستاروں کو پیدا کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَهَا نُجُوماً وبُرُوجاً وَمَصَابِيحَ وَزِينَةً وَرُجُوماً",
+      "transliteration": "wa ja`ltaha nujuman wa burujan wa masabiha wa zinatan wa rujuman",
+      "translation": "made them fixed stars, planets, lamps for guidance at night, means of decoration, and missiles,",
+      "urduTranslation": "اور انہیں سیارے، برج، رات کے چراغ، زینت اور شیطانوں کو مارنے والے آلات بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ لَهَا مَشَارِقَ وَمَغَارِبَ",
+      "transliteration": "wa ja`alta laha mashariqa wa maghariba",
+      "translation": "created for them east and west,",
+      "urduTranslation": "اور تو نے ان کے لیے مشرق اور مغرب بنائے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ لَهَا مَطَاِلعَ وَمَجَارِيَ",
+      "transliteration": "wa ja`alta laha matali`a wa majariya",
+      "translation": "created for them places of ascendancy and orbits,",
+      "urduTranslation": "اور تو نے ان کے لیے نکلنے کی جگہیں اور راستے بنائے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ لَهَا فَلَكاً وَمَسَابِحَ",
+      "transliteration": "wa ja`alta laha falakan wa masabiha",
+      "translation": "created for them a firmament and spheres,",
+      "urduTranslation": "اور تو نے ان کے لیے آسمان اور مدار بنائے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَدَّرْتَهَا فِي ٱلسَّمَاء مَنَازِلَ فَاحْسَنتَ تَقْدِيرَهَا",
+      "transliteration": "wa qaddartaha fi alssama'i manazila fa-ahsanta taqdiraha",
+      "translation": "fixed for them stages in the heaven with excellent fixing,",
+      "urduTranslation": "اور تو نے آسمان میں ان کے لیے منزلیں مقرر کیں اور ان کی پیمائش کو بہترین بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَوَّرْتَهَا فَاحْسَنتَ تَصْوِيرَهَا",
+      "transliteration": "wa sawwartaha fa-ahsanta taswiraha",
+      "translation": "shaped the stars with excellent shaping,",
+      "urduTranslation": "اور تو نے انہیں صورت دی اور ان کی صورت گری کو بہترین بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاحْصَيْتَهَا بِاسْمَائكَ إِحْصَاءاً",
+      "transliteration": "wa ahsaytaha bi-asma'ika ihsa'an",
+      "translation": "measured them through Your Names with exact measurement,",
+      "urduTranslation": "اور تو نے اپنے ناموں کے ذریعے ان کا مکمل شمار کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَدَبَّرْتَهَا بِحِكْمَتِكَ تَدْبِيراً وَاحْسَنتَ تَدْبِيرَهَا",
+      "transliteration": "wa dabbartaha bihikmatika tadbiran fa-ahsanta tadbiraha",
+      "translation": "designed through Your wisdom a system for them with excellent design,",
+      "urduTranslation": "اور اپنی حکمت سے ان کا نظام بنایا اور ان کی تدبیر کو بہترین کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسَخَّرْتَهَا بِسُلْطَانِ ٱللَّيْلِ وَسُلْطَانِ ٱلنَّهَارِ",
+      "transliteration": "wa sakhkhartaha bisultani allayli wa sultani alnnahari",
+      "translation": "controlled the heavenly bodies through the influence of night and the influence of day,",
+      "urduTranslation": "اور انہیں رات کے اقتدار اور دن کے اقتدار کے تابع کر دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱلسَّاعَاتِ وَعَدَدِ ٱلسِّنِينَ وَٱلْحِسَابِ",
+      "transliteration": "walssa`ati wa `adada alssinina walhisabi",
+      "translation": "and through hours, making them a means for the reckoning of years and counting,",
+      "urduTranslation": "اور گھڑیوں، سالوں کی گنتی اور حساب کا ذریعہ بنایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلْتَ رُؤْيَتَهَا لِجَمِيعِ النَّاسِ مَرْأىً وَاحِداً",
+      "transliteration": "wa ja`alta ru'yataha lijami`i alnnasi mar'an wahidan",
+      "translation": "and made all people see them alike.",
+      "urduTranslation": "اور ان کا مشاہدہ تمام لوگوں کے لیے یکساں بنا دیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاسْالُكَ ٱللَّهُمَّ بِمَجْدِكَ",
+      "transliteration": "wa as'aluka allahumma bimajdika",
+      "translation": "I beseech You, O Allah, in the name of Your glory",
+      "urduTranslation": "اور اے اللہ میں تجھ سے تیرے اس مجد (بزرگی) کے وسیلے سے مانگتا ہوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّذِي كَلَّمْتَ بِهِ عَبْدَكَ وَرَسُولَكَ مُوسَىٰ بْنَ عِمْرَانَ عَلَيْهِ ٱلسَّلاَمُ فِي ٱلْمُقَدَّسِينَ",
+      "transliteration": "alladhi kallamta bihi `abdaka wa rasulaka musa ibna `imrana `alayhi alssalamu fi almuqaddasina",
+      "translation": "with which You addressed Your servant and Messenger, Moses the son of `Imran (`a) while he was in the company of angels;",
+      "urduTranslation": "جس کے ساتھ تو نے اپنے بندے اور رسول موسیٰ ابن عمران علیہ السلام سے مقدسین کے درمیان کلام کیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَوْقَ إِحْسَاسِ ٱلكَرُوبِيِّينَ",
+      "transliteration": "fawqa ihsasi alkarubiyyina",
+      "translation": "an address even the favorite cherubim could not ever hear,",
+      "urduTranslation": "مقرّب فرشتوں کے احساس سے بھی بلند تر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَوْقَ غَمَائمِ ٱلنُّورِ",
+      "transliteration": "fawqa ghama'imi alnnuri",
+      "translation": "above the clouds of light,",
+      "urduTranslation": "نور کے بادلوں کے اوپر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَوْقَ تَابُوتِ ٱلشَّهَادَةِ",
+      "transliteration": "fawqa tabuti alshshahadati",
+      "translation": "above the box of evidence,",
+      "urduTranslation": "تابوتِ شہادت (صندوقِ سکینہ) کے اوپر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي عَمُودِ ٱلنَّارِ وَفِي طُورِ سَيْنَاء",
+      "transliteration": "fi `amudi alnnari wa fi turi sayna'a",
+      "translation": "within the pillar of fire on Mount Sinai",
+      "urduTranslation": "کوہِ سینا پر آگ کے ستون کے اندر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَفِي جَبَلِ حُورِيثَ",
+      "transliteration": "wa fi jabali huritha",
+      "translation": "and on Mount Hurith",
+      "urduTranslation": "اور کوہِ حوریث پر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي ٱلْوَادِي ٱلْمُقَدَّسِ",
+      "transliteration": "fi alwadi almuqaddasi",
+      "translation": "in the Holy Vale",
+      "urduTranslation": "وادیِ مقدس میں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي ٱلْبُقْعَةِ ٱلْمُبَارَكَةِ",
+      "transliteration": "fi albuq`ati almubarakati",
+      "translation": "in the sacred tract of land",
+      "urduTranslation": "مبارک سرزمین میں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مِن جَانِبِ ٱلطُّورِ ٱلايْمَنِ مِنَ ٱلشَّجَرَةِ",
+      "transliteration": "min janibi altturi alaymani mina alshshajarati",
+      "translation": "to the right of Taurus Mountain through a tree,",
+      "urduTranslation": "کوہِ طور کی داہنی جانب ایک درخت کے ذریعے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَفِي ارْضِ مِصْرَ بِتِسْعِ آيَاتٍ بَيِّنَاتٍ",
+      "transliteration": "wa fi ardi misra bitis`i ayatin bayyinatin",
+      "translation": "[and again addressed him] on the land of Egypt, after showing nine clear signs,",
+      "urduTranslation": "اور مصر کی سرزمین پر نو واضح نشانیاں دکھانے کے بعد",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَوْمَ فَرَقْتَ لِبَنِي إِسْرَائيلَ ٱلْبَحْرَ",
+      "transliteration": "wa yawma faraqta libani isra'ila albahra",
+      "translation": "and on the day You split the sea for the children of Israel,",
+      "urduTranslation": "اور اس دن جب تو نے بنی اسرائیل کے لیے سمندر کو پھاڑا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَفِي ٱلْمُنْبَجِسَاتِ ٱلَّتِي صَنَعْتَ بِهَا ٱلْعَجَائبَ فِي بَحْرِ سُوفٍ",
+      "transliteration": "wa fi almunbajisati allati sana`ta biha al`aja'iba fi bahri sufin",
+      "translation": "and caused springs to flow from a stone, thereby displaying wonders of Your might in a deep sea,",
+      "urduTranslation": "اور ان چشموں میں جن کے ذریعے تو نے گہرے سمندر میں اپنی قدرت کے عجائب دکھائے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَقَدْتَ مَاء ٱلْبَحْرِ فِي قَلْبِ ٱلْغَمْرِ كَٱلْحِجَارَةِ",
+      "transliteration": "wa `aqadta ma'a albahri fi qalbi alghamri kalhijarati",
+      "translation": "on the day when You solidified the water of the sea in the midst of the storm,",
+      "urduTranslation": "اس دن جب تو نے طوفان کے درمیان سمندر کے پانی کو پتھر کی طرح جما دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَاوَزْتَ بِبَنِي إِسْرَائيلَ ٱلْبَحْرَ",
+      "transliteration": "wa jawazta bibani isra'ila albahra",
+      "translation": "caused the children of Israel to pass by the sea,",
+      "urduTranslation": "اور بنی اسرائیل کو سمندر سے پار گزارا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَتَمَّتْ كَلِمَتُكَ ٱلْحُسْنَىٰ عَلَيْهِم بِمَا صَبرُوٱ",
+      "transliteration": "wa tammat kalimatuka alhusna `alayhim bima sabaru",
+      "translation": "and fulfilled Your excellent promises made to them because of their calm endurance,",
+      "urduTranslation": "اور ان کے صبر کی وجہ سے ان پر اپنے نیک وعدوں کو پورا کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاوْرَثْتَهُم مَشَارِقَ ٱلارْضِ وَمَغَارِبَهَا ٱلَّتِي بَارَكْتَ فِيهَا لِلْعَالَمِينَ",
+      "transliteration": "wa awrathtahum mashariqa al-ardi wa magharibaha allati barakta fiha lil`alamina",
+      "translation": "made them the master of the East and the West in the earth wherein there are blessings for all the worlds,",
+      "urduTranslation": "اور انہیں زمین کے مشرق و مغرب کا وارث بنایا جن میں تو نے جہانوں کے لیے برکت رکھی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاغْرَقْتَ فِرْعَوْنَ وَجُنُودَهُ وَمَرَاكِبَهُ فِي ٱليَمِّ",
+      "transliteration": "wa aghraqta fir`awna wa junudahu wa marakibahu fi alyammi",
+      "translation": "drowned Pharaoh, his armies, and boats in the water.",
+      "urduTranslation": "اور فرعون، اس کے لشکر اور اس کی کشتیوں کو سمندر میں غرق کر دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِٱسْمِكَ ٱلْعَظِيمِ ٱلاعْظَمِ",
+      "transliteration": "wa bismika al`azimi al-a`zami",
+      "translation": "[I beseech You] by Your Name, the great, the Most Great,",
+      "urduTranslation": "اور تیرے عظیم اور سب سے زیادہ عظیم نام کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلاعَزِّ ٱلاجَلِّ ٱلاكْرَمِ",
+      "transliteration": "al-a`azzi al-ajalli al-akrami",
+      "translation": "the Most Honorable, Most Majestic, and Most Noble,",
+      "urduTranslation": "جو سب سے زیادہ عزت والا، جلیل القدر اور باعظمت ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَجْدِكَ ٱلَّذِي تَجَلَّيْتَ بِهِ لِمُوسَىٰ كَلِيمِكَ عَلَيْهِ ٱلسَّلاَمُ فِي طُورِ سَيْنَاء",
+      "transliteration": "wa bimajdika alladhi tajallayta bihi limusa kalimika `alayhi alssalamu fi turi sayna'a",
+      "translation": "and by Your Glory with which You revealed  Yourself as light to Moses, Your addressee, peace be on him, on Mount Sinai,",
+      "urduTranslation": "اور تیری اس تجلی کے وسیلے سے جو تو نے کوہِ سینا پر اپنے کلیم حضرت موسیٰ علیہ السلام پر فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِبْرَاهِيمَ عَلَيْهِ ٱلسَّلاَمُ خَلِيلِكَ مِنْ قَبْلُ فِي مَسْجِدِ ٱلْخِيفِ",
+      "transliteration": "wa li'ibrahima `alayhi alssalamu khalilika min qablu fi masjidi alkhayfi",
+      "translation": "and earlier radiated the light for Abraham, Your sincere friend peace be on him, in the Mosque of al-Khif,",
+      "urduTranslation": "اور اس سے پہلے اپنے خلیل حضرت ابراہیم علیہ السلام پر مسجدِ خیف میں فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِسْحَاقَ صَفِيِّكَ عَلَيْهِ ٱلسَّلاَمُ فِي بِئْرِ شِيعٍ",
+      "transliteration": "wa li'ishaqa safiyyika `alayhi alssalamu fi bi'ri shi`in",
+      "translation": "and for Isaac, Your chosen Prophet, peace be on him, in Shi` Well,",
+      "urduTranslation": "اور حضرت اسحاق علیہ السلام پر چاہِ شیع (کنویں) کے مقام پر فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلِيَعْقُوبَ نَبِيِّكَ عَلَيْهِ ٱلسَّلاَمُ فِي بَيْتِ إِيلٍ",
+      "transliteration": "wa liya`quba nabiyyika `alayhi alssalamu fi bayti ilin",
+      "translation": "and for Your Prophet Jacob, peace be on him, in Bayt «l,",
+      "urduTranslation": "اور اپنے نبی حضرت یعقوب علیہ السلام پر بیتِ ایل میں فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاوْفَيْتَ إِبْرِاهِيمَ عَلَيْهِ ٱلسَّلاَمُ بِمِيثَاقِكَ",
+      "transliteration": "wa awfayta li'ibrahima `alayhi alssalamu bimithaqika",
+      "translation": "and You fulfilled Your promise to Abraham, peace be on him,",
+      "urduTranslation": "اور تو نے حضرت ابراہیم علیہ السلام کے ساتھ اپنا عہد وفا کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِسْحَاقَ بِحِلْفِكَ",
+      "transliteration": "wa li'ishaqa bihalfika",
+      "translation": "Your oath in favor of Isaac,",
+      "urduTranslation": "اور حضرت اسحاق علیہ السلام کے حق میں اپنی قسم پوری کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلِيَعْقُوبَ بِشَهَادَتِكَ",
+      "transliteration": "wa liya`quba bishahadatika",
+      "translation": "Your witnessing favoring Jacob,",
+      "urduTranslation": "اور حضرت یعقوب علیہ السلام کے حق میں اپنی گواہی کو پورا کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلِلْمُؤْمِنِينَ بِوَعْدِكَ",
+      "transliteration": "wa lilmu'minina biwa`dika",
+      "translation": "the fulfillments of Your promise to the faithful believers,",
+      "urduTranslation": "اور مومنین کے لیے اپنے وعدوں کو پورا کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلِلدَّاعِينَ بِاسْمَائكَ فَاجَبْتَ",
+      "transliteration": "wa lildda`ina bi-asma'ika fa-ajabta",
+      "translation": "and Your Names with which You accepted the prayers of supplicants,",
+      "urduTranslation": "اور ان دعا کرنے والوں کے حق میں جن کی دعائیں تو نے اپنے ناموں کے وسیلے سے قبول کیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَجْدِكَ ٱلَّذِي ظَهَرَ لِمُوسَىٰ بْنِ عِمْرَانَ عَلَيْهِ ٱلسَّلاَمُ عَلَىٰ قُبَّةِ ٱلرُّمَّانِ",
+      "transliteration": "wa bimajdika alladhi zahara limusa ibni `imrana `alayhi alssalamu `ala qubbati alrrummani",
+      "translation": "and by Your Glory, which appeared to Moses, the son of `Imran, in al-Rumman Dome,",
+      "urduTranslation": "اور تیری اس تجلی کے وسیلے سے جو حضرت موسیٰ بن عمران علیہ السلام پر 'قبۃ الرمان' میں ظاہر ہوئی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِآيَاتِكَ ٱلَّتِي وَقَعَتْ عَلَىٰ ارْضِ مِصْرَ",
+      "transliteration": "wa bi-ayatika allati waqa`at `ala ardi misra",
+      "translation": "and by Your Signs, which appeared in the land of Egypt",
+      "urduTranslation": "اور تیری ان نشانیوں کے وسیلے سے جو سرزمینِ مصر پر ظاہر ہوئیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِمَجْدِ ٱلْعِزَّةِ وَٱلْغَلَبَةِ",
+      "transliteration": "bimajdi al`izzati walghalabati",
+      "translation": "with great might and victory,",
+      "urduTranslation": "عزت اور غلبے کی شان کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِآيَاتٍ عَزِيزَةٍ",
+      "transliteration": "bi-ayatin `azizatin",
+      "translation": "with powerful signs,",
+      "urduTranslation": "طاقتور نشانیوں کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِسُلْطَانِ ٱلْقُوَّةِ",
+      "transliteration": "wa bisultani alquwwati",
+      "translation": "with the display of full command,",
+      "urduTranslation": "اور مکمل قدرت و اختیار کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِعِزَّةِ ٱلْقُدْرَةِ",
+      "transliteration": "wa bi`izzati alqudrati",
+      "translation": "great power,",
+      "urduTranslation": "اور بزرگی و کمالِ قدرت کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِشَاْنِ ٱلْكَلِمَةِ ٱلتَّامَّةِ",
+      "transliteration": "wa bisha'ni alkalimati alttammati",
+      "translation": "the affair of the perfect word,",
+      "urduTranslation": "اور مکمل کلمے (حکم) کی شان کے ساتھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِكَلِمَاتِكَ ٱلَّتِي تَفَضَّلْتَ بِهَا عَلَىٰ اهْلِ ٱلسَّمَاوَاتِ وَٱلارْضِ",
+      "transliteration": "wa bikalimatika allati tafaddalta biha `ala ahli alssamawati wal-ardi",
+      "translation": "and by Your words with which You do a favor to the inhabitants of the skies and the earth",
+      "urduTranslation": "اور ان کلمات کے وسیلے سے جن کے ذریعے تو نے آسمان و زمین کے باسیوں پر احسان فرمایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاهْلِ ٱلدُّنْيَا وَاهْلِ ٱلآخِرَةِ",
+      "transliteration": "wa ahli alddunya wa ahli al-akhirati",
+      "translation": "and the people of this world and the Next World,",
+      "urduTranslation": "اور دنیا اور آخرت کے تمام لوگوں پر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِرَحْمَتِكَ ٱلَّتِي مَنَنتَ بِهَا عَلَىٰ جَمِيعِ خَلْقِكَ",
+      "transliteration": "wa birahmatika allati mananta biha `ala jami`i khalqika",
+      "translation": "and by Your Mercy with which You bestow graces upon all Your creatures,",
+      "urduTranslation": "اور تیری اس رحمت کے وسیلے سے جس کے ذریعے تو نے اپنی تمام مخلوقات پر نوازش فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِٱسْتِطَاعَتِكَ الَّتِي اقَمْتَ بِهَا عَلىٰ ٱلْعَالَمِينَ",
+      "transliteration": "wa bistita`atika allati aqamta biha `ala al`alamina",
+      "translation": "and by Your Power with which You dominate the worlds,",
+      "urduTranslation": "اور تیری اس قدرت کے وسیلے سے جس سے تو نے تمام عالمین کو قائم رکھا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِنُورِكَ ٱلَّذِي قَدْ خَرَّ مِنْ فَزَعِهِ طُورُ سَيْنَاء",
+      "transliteration": "wa binurika alladhi qad kharra min faza`ihi turu sayna'a",
+      "translation": "and by Your Light through fear of which Mount Sinai collapsed,",
+      "urduTranslation": "اور تیرے اس نور کے وسیلے سے جس کی ہیبت سے کوہِ سینا ریزہ ریزہ ہو گیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِعِلْمِكَ وَجَلاَلِكَ وَكِبْرِيَائكَ وَعِزَّتِكَ",
+      "transliteration": "wa bi`ilmika wa jalalika wa kibriya'ika wa `izzatika",
+      "translation": "and by Your Knowledge, Majesty, Greatness, Honor,",
+      "urduTranslation": "اور تیرے علم، جلال، کبریائی اور عزت کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَبرُوتِكَ ٱلَّتِي لَمْ تَسْتَقِلَّهَا ٱلارَضُ",
+      "transliteration": "wa jabarutika allati lam tastaqillaha al-ardu",
+      "translation": "and Might, which the earth could not bear,",
+      "urduTranslation": "اور آپ کی وہ جبروت جس کا زمین تحمل نہ کر سکی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱنْخَفَضَتْ لَهَا ٱلسَّمَاوَاتُ",
+      "transliteration": "wankhafadat laha alssamawatu",
+      "translation": "the heavens bent down,",
+      "urduTranslation": "جس کے سامنے آسمان جھک گئے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱنْزَجَرَ لَهَا ٱلْعُمْقُ ٱلاكْبرُ",
+      "transliteration": "wanzajara laha al`umqu al-akbaru",
+      "translation": "the great depths restrained themselves,",
+      "urduTranslation": "جس کے سامنے گہری تہیں دب گئیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَرَكَدَتْ لَهَا ٱلْبِحَارُ وَٱلانْهَارُ",
+      "transliteration": "wa rakadat laha albiharu wal-anharu",
+      "translation": "oceans and rivers became stable,",
+      "urduTranslation": "جس کے سامنے سمندر اور دریا ٹھہر گئے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَضَعَتْ لَهَا ٱلْجِبَالُ",
+      "transliteration": "wa khada`at laha aljibalu",
+      "translation": "mountains yielded,",
+      "urduTranslation": "جس کے سامنے پہاڑ جھک گئے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسَكَنَتْ لَهَا ٱلارْضُ بِمَنَاكِبِهَا",
+      "transliteration": "wa sakanat laha al-ardu bimanakibiha",
+      "translation": "the earth became firm on its shoulders,",
+      "urduTranslation": "جس کے سامنے زمین اپنے دوش پر ساکت ہو گئی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱسْتَسْلَمَتْ لَهَا ٱلْخَلائقُ كُلُّهَا",
+      "transliteration": "wastaslamat laha alkhala'iqu kulluha",
+      "translation": "all creatures surrendered,",
+      "urduTranslation": "جس کے سامنے تمام مخلوقات نے سر تسلیم خم کر دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَفَقَتْ لَهَا ٱلرِّيَاحُ فِي جَرَيَانِهَا",
+      "transliteration": "wa khafaqat laha alrriyahu fi jarayaniha",
+      "translation": "the winds breathed in their flow,",
+      "urduTranslation": "جس کے سامنے ہوائیں اپنی رفتار میں تھم گئیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخَمَدَتْ لَهَا ٱلنِّيـرَانُ فِي اوْطَانِهَا",
+      "transliteration": "wa khamadat laha alnniranu fi awtaniha",
+      "translation": "and the flaming fires were extinguished in their places,",
+      "urduTranslation": "اور جس کے سامنے شعلہ زن آگ اپنے ٹھکانوں پر ٹھنڈی پڑ گئی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِسُلْطَانِكَ ٱلَّذِي عُرِفَتْ لَكَ بِهِ ٱلْغَلَبَةُ دَهْرَ ٱلدُّهُورِ",
+      "transliteration": "wa bisultanika alladhi `urifat laka bihi alghalabatu dahra aldduhuri",
+      "translation": "and by Your authority through which You are acknowledged to have All-powerfulness all the times",
+      "urduTranslation": "اور آپ کے اس غلبے کے واسطے جس سے زمانہ دراز تک آپ کا غلبہ پہچانا گیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَحُمِدْتَ بِهِ فِي ٱلسَّمَاوَاتِ وَٱلارَضِينَ",
+      "transliteration": "wa humidta bihi fi alssamawati wal-aradina",
+      "translation": "and for which You are praised in the heavens and the earth,",
+      "urduTranslation": "اور جس کی وجہ سے آسمانوں اور زمینوں میں آپ کی حمد کی گئی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِكَلِمَتِكَ كَلِمَةِ ٱلصِّدْقِ ٱلَّتِي سَبَقَتْ لابِينَا آدَمَ عَلَيْهِ ٱلسَّلاَمُ وَذُرِّيَّتِهِ بٱلرَّحْمَةِ",
+      "transliteration": "wa bikalimatika kalimati alssidqi allati sabaqat li-abina adama `alayhi alssalamu wa dhurriyyatihi bilrrahmati",
+      "translation": "and by Your word, the Word of Truth, which had became mercy for our father Adam and his offspring,",
+      "urduTranslation": "اور آپ کے کلمہ یعنی کلمہ صدق کے واسطے، جو ہمارے جد امجد حضرت آدم علیہ السلام اور ان کی اولاد کے حق میں رحمت کے طور پر پہلے سے طے پا چکا تھا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاسْالُكَ بِكَلِمَتِكَ ٱلَّتِي غَلَبَتْ كُلَّ شَيْءٍ",
+      "transliteration": "wa as'aluka bikalimatika allati ghalabat kulla shay'in",
+      "translation": "and by Your word that overcame everything,",
+      "urduTranslation": "میں آپ سے سوال کرتا ہوں آپ کے اس کلمے کے واسطے جس نے ہر چیز پر غلبہ پا لیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِنُورِ وَجْهِكَ ٱلَّذِي تَجَلَّيْتَ بِهِ لِلْجَبَلِ",
+      "transliteration": "wa binuri wajhika alladhi tajallayta bihi liljabali",
+      "translation": "and by the light of Your Face, which when You showed to the Mount,",
+      "urduTranslation": "اور آپ کے چہرے کے اس نور کے واسطے جس کا آپ نے پہاڑ پر جلوہ فرمایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَجَعَلْتَهُ دَكّاً وَخَرَّ مُوسَىٰ صَعِقاً",
+      "transliteration": "faja`altahu dakkan wa kharra musa sa`iqan",
+      "translation": "You caused it to crush into pieces, whereby Moses fainted and fell down,",
+      "urduTranslation": "پس آپ نے اسے ریزہ ریزہ کر دیا اور موسیٰ بے ہوش ہو کر گر پڑے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَجْدِكَ ٱلَّذِي ظَهَرَ عَلَىٰ طُورِ سَينْاءَ",
+      "transliteration": "wa bimajdika alladhi zahara `ala turi sayna'a",
+      "translation": "and by Your Glory, which appeared on Mount Sinai,",
+      "urduTranslation": "اور آپ کی اس بزرگی کے واسطے جو کوہِ طور پر ظاہر ہوئی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَكَلَّمْتَ بِهِ عَبْدَكَ وَرَسُولَكَ مُوسَىٰ بْنَ عِمْرَانَ",
+      "transliteration": "fakallamta bihi `abdaka wa rasulaka musa ibna `imrana",
+      "translation": "and through which You addressed Your servant and Messenger, Moses, the son of `Imran,",
+      "urduTranslation": "پس آپ نے اس کے ذریعے اپنے بندے اور اپنے رسول موسیٰ بن عمران سے کلام فرمایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِطَلْعَتِكَ فِي سَاعِيرَ",
+      "transliteration": "wa bital`atika fi sa`ira",
+      "translation": "and by Your appearance in Sa`ir,",
+      "urduTranslation": "اور کوہِ ساعیر میں آپ کے ظہور کے واسطے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَظُهُورِكَ فِي جَبَلِ فَارَانَ بِرَبَوَاتِ ٱلْمُقَدَّسِينَ",
+      "transliteration": "wa zuhurika fi jabali farana birabawati almuqaddasina",
+      "translation": "and by Your appearance on Mount Faran on the heights of the holy ones,",
+      "urduTranslation": "اور کوہِ فاران پر مقدس ہستیوں کی بلندیوں کے درمیان آپ کے ظاہر ہونے کے واسطے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجُنُودِ ٱلْمَلائكَةِ ٱلصَّافِّينَ",
+      "transliteration": "wa junudi almala'ikati alssaffina",
+      "translation": "When the troops of angels were in rows,",
+      "urduTranslation": "اور فرشتوں کے ان لشکروں کے واسطے جو صف بستہ کھڑے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَخُشُوعِ ٱلْمَلائكَةِ ٱلْمُسَبِّحِينَ",
+      "transliteration": "wa khushu`i almala'ikati almusabbihina",
+      "translation": "and with the submissiveness of the angels glorifying You,",
+      "urduTranslation": "اور تسبیح کرنے والے فرشتوں کے خشوع کے واسطے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِبَرَكَاتِكَ ٱلَّتِي بَارَكْتَ فِيهَا عَلَىٰ إِبْرَاهِيمَ خَلِيلِكَ عَلَيْهِ ٱلسَّلاَمُ",
+      "transliteration": "wa bibarakatika allati barakta fiha `ala ibrahima khalilika `alayhi alssalamu",
+      "translation": "and by Your blessings by which You honored Abraham, Your sincere friend (`a)",
+      "urduTranslation": "اور ان برکتوں کے واسطے جو آپ نے اپنے خلیل حضرت ابراہیم علیہ السلام پر نازل کیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي امَّةِ مُحَمَّدٍ صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "fi ummati muhammadin salla allahu `alayhi wa alihi",
+      "translation": "among the people of Muhammad, Your blessings be upon him and his household,",
+      "urduTranslation": "محمد (صلی اللہ علیہ وآلہ وسلم) کی امت میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبَارَكْتَ لإِسْحَاقَ صَفِيِّكَ",
+      "transliteration": "wa barakta li-ishaqa safiyyika",
+      "translation": "and You blessed Isaac, Your chosen prophet,",
+      "urduTranslation": "اور جس طرح آپ نے اپنے چنیدہ حضرت اسحاق کو برکت دی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي امَّةِ عِيسَىٰ عَلَيْهِمَا ٱلسَّلاَمُ",
+      "transliteration": "fi ummati `isa `alayhima alssalamu",
+      "translation": "among the followers of Jesus, peace be on them both,",
+      "urduTranslation": "حضرت عیسیٰ (علیہم السلام) کی امت میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبَارَكْتَ لِيَعْقُوبَ إِسْرَائيلِكَ",
+      "transliteration": "wa barakta liya`quba isra'ilika",
+      "translation": "and You blessed Jacob, Your favored servant,",
+      "urduTranslation": "اور جس طرح آپ نے اپنے پسندیدہ حضرت یعقوب کو برکت دی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي امَّةِ مُوسَىٰ عَلَيْهِمَا ٱلسَّلاَمُ",
+      "transliteration": "fi ummati musa `alayhima alssalamu",
+      "translation": "by including him among the followers of Moses, peace be on them both,",
+      "urduTranslation": "حضرت موسیٰ (علیہم السلام) کی امت میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبَارَكْتَ لِحَبِيبِكَ مُحَمَّدٍ صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "wa barakta lihabibika muhammadin salla allahu `alayhi wa alihi",
+      "translation": "and blessed Your intimate beloved, Muhammad, may the blessings of Allah be upon him and his Household,",
+      "urduTranslation": "اور جس طرح آپ نے اپنے حبیب حضرت محمد مصطفیٰ (صلی اللہ علیہ وآلہ وسلم) کو برکت دی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فِي عِتْرَتِهِ وَذُرِّيَّتِهِ وَامَّتِهِ",
+      "transliteration": "fi `itratihi wa dhurriyyatihi wa ummatihi",
+      "translation": "in his offspring, offspring, and people.",
+      "urduTranslation": "ان کی آل، ان کی اولاد اور ان کی امت میں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللَّهُمَّ وَكَمَا غِبْنَا عَنْ ذٰلِكَ وَلَمْ نَشْهَدْهُ وَآمَنَّا بِهِ وَلَمْ نَرَهُ صِدْقاً وَعَدْلاً",
+      "transliteration": "allahumma wa kama ghibna `an dhalika wa lam nash-had-hu wa amanna bihi wa lam narahu sidqan wa `adlan",
+      "translation": "O Allah! Just as we were absent from that but we believe in it honestly and truly,",
+      "urduTranslation": "اے اللہ! جیسے ہم اس وقت موجود نہ تھے اور ہم نے اسے اپنی آنکھوں سے نہیں دیکھا مگر ہم اس پر سچے دل سے ایمان لائے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ان تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "an tusalliya `ala muhammadin wa ali muhammadin",
+      "translation": "So we beseech You to send Your benedictions upon Muhammad and the Household of Muhammad,",
+      "urduTranslation": "پس ہم دعا کرتے ہیں کہ آپ محمد اور آلِ محمد پر درود بھیجیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَان تُبَارِكَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "wa an tubarika `ala muhammadin wa ali muhammadin",
+      "translation": "to bless Muhammad and the household of Muhammad,",
+      "urduTranslation": "اور محمد اور آلِ محمد پر برکت نازل فرمائیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَتَرَحَّمْ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "wa tarahham `ala muhammadin wa ali muhammadin",
+      "translation": "and to have mercy on Muhammad and the Household of Muhammad",
+      "urduTranslation": "اور محمد اور آلِ محمد پر اپنی رحمت نازل فرمائیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَافْضَلِ مَا صَلَّيْتَ وَبَارَكْتَ وَتَرَحَّمْتَ عَلَىٰ إِبْرَاهِيمَ وَآلِ إِبْرَاهِيمَ",
+      "transliteration": "ka-afdali ma sallayta wa barakta wa tarahhamta `ala ibrahima wa ali ibrahima",
+      "translation": "with the most auspicious benedictions, blessings, and mercy that You sent to Abraham and the posterity of Abraham.",
+      "urduTranslation": "بہترین درود، برکت اور رحمت کے ساتھ جو آپ نے ابراہیم اور آلِ ابراہیم پر بھیجی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "transliteration": "innaka hamidun majidun",
+      "translation": "Surely, You are Praiseworthy, Glorious,",
+      "urduTranslation": "بلاشبہ آپ قابلِ تعریف اور بزرگ ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَعَّالٌ لِمَا تُرِيدُ",
+      "transliteration": "fa``alun lima turidu",
+      "translation": "and Doer of what You will.",
+      "urduTranslation": "آپ جو چاہیں کر گزرنے والے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَانتَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "wa anta `ala kulli shay'in qadirun",
+      "translation": "You are Powerful over all things.",
+      "urduTranslation": "اور آپ ہر چیز پر قادر ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "You may now beseech Almighty Allah to grant you your personal requests. Then, say the following:",
+      "transliteration": "You may now beseech Almighty Allah to grant you your personal requests. Then, say the following:",
+      "translation": "You may now beseech Almighty Allah to grant you your personal requests. Then, say the following:",
+      "urduTranslation": "اب آپ اللہ تعالیٰ سے اپنی حاجات مانگیں، پھر کہیں:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللَّهُمَّ بِحَقِّ هٰذَا ٱلدُّعَاءِ",
+      "transliteration": "allahumma bihaqqi hadha alddu`a'i",
+      "translation": "O Allah, in the name of this prayer",
+      "urduTranslation": "اے اللہ! اس دعا کے حق کے واسطے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِحَقِّ هٰذِهِ ٱلاسْمَاءِ",
+      "transliteration": "wa bihaqqi hadhihi al-asma'i",
+      "translation": "and in the name of these Names",
+      "urduTranslation": "اور ان ناموں کے حق کے واسطے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّتِي لاَ يَعْلَمُ تَفْسِيرَهَا",
+      "transliteration": "allati la ya`lamu tafsiraha",
+      "translation": "which none knows their exegesis",
+      "urduTranslation": "جس کی تفسیر کوئی نہیں جانتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ يَعْلَمُ بَاطِنَهَا غَيْرُكَ",
+      "transliteration": "wa la ya`lamu batinaha ghayruka",
+      "translation": "or their implicit meanings save You,",
+      "urduTranslation": "اور جس کے باطن کو تیرے سوا کوئی نہیں جانتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "salli `ala muhammadin wa ali muhammadin",
+      "translation": "(please) send Your blessings upon Muhammad and the Household of Muhammad,",
+      "urduTranslation": "محمد اور آلِ محمد پر اپنی رحمتیں نازل فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱفْعَلْ بِي مَا انتَ اهْلُهُ",
+      "transliteration": "waf`al bi ma anta ahluhu",
+      "translation": "do to me that of which You are worthy,",
+      "urduTranslation": "اور میرے ساتھ وہ معاملہ کر جس کے تو لائق ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ تَفْعَلْ بِي مَا انَا اهْلُهُ",
+      "transliteration": "wa la taf`al bi ma ana ahluhu",
+      "translation": "do not do to me what I deserve,",
+      "urduTranslation": "اور میرے ساتھ وہ معاملہ نہ کر جس کا میں مستحق ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱغْفِرْ لِي مِنْ ذُنُوبِي مَا تَقَدَّمَ مِنْهَا وَمَا تَاخَّرَ",
+      "transliteration": "waghfir li min dhunubi ma taqaddama minha wa ma ta'akhkhara",
+      "translation": "forgive my sins—past and future,",
+      "urduTranslation": "اور میرے اگلے پچھلے تمام گناہوں کو بخش دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَوَسِّعْ عَلَيَّ مِنْ حَلاَلِ رِزْقِكَ",
+      "transliteration": "wa wassi` `alayya min halali rizqika",
+      "translation": "increase Your lawful sustenance for me,",
+      "urduTranslation": "اور میرے لیے اپنے حلال رزق میں وسعت پیدا فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱكْفِنِي مَؤُونَةَ إِنْسَانِ سَوٍْء",
+      "transliteration": "wakfini ma'unata insani saw'in",
+      "translation": "and save me from the trouble of wicked men,",
+      "urduTranslation": "اور مجھے برے انسان کی سختی سے بچا لے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَارِ سَوٍْء",
+      "transliteration": "wa jari saw'in",
+      "translation": "wicked neighbors,",
+      "urduTranslation": "اور برے پڑوسی سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَرِينِ سَوٍْء",
+      "transliteration": "wa qarini saw'in",
+      "translation": "wicked companions,",
+      "urduTranslation": "اور برے ساتھی سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسُلْطَانِ سَوٍْء",
+      "transliteration": "wa sultani saw'in",
+      "translation": "and wicked rulers.",
+      "urduTranslation": "اور برے حکمران سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّكَ عَلَىٰ مَا تَشَاء قَدِيرٌ",
+      "transliteration": "innaka `ala ma tasha'u qadirun",
+      "translation": "Verily, You have power over all that You will to do",
+      "urduTranslation": "بیشک تو ہر اس چیز پر قادر ہے جس کا ارادہ کرے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِكُلِّ شَيْءٍ عَلِيمٌ",
+      "transliteration": "wa bikulli shay'in `alimun",
+      "translation": "and You have full knowledge of all things.",
+      "urduTranslation": "اور ہر چیز کا پورا علم رکھنے والا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "آمِين رَبَّ ٱلْعَالَمِينَ",
+      "transliteration": "amina rabba al`alamina",
+      "translation": "Respond to me, O Lord of the worlds.",
+      "urduTranslation": "قبول فرما، اے تمام جہانوں کے پروردگار",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اللَّهُ يَا حَنَّانُ يَا مَنَّانُ",
+      "transliteration": "ya allahu ya hannanu ya mannanu",
+      "translation": "O Allah! O All-tender! O Bestower!",
+      "urduTranslation": "اے اللہ! اے انتہائی محبت کرنے والے! اے بہت عطا کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَدِيعَ ٱلسَّمَاوَاتِ وَٱلارْضِ",
+      "transliteration": "ya badi`a alssamawati wal-ardi",
+      "translation": "O Fashioner of the heavens and the earth!",
+      "urduTranslation": "اے آسمانوں اور زمین کے خالق",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجَلاَلِ وَٱلإكْرَامِ",
+      "transliteration": "ya dhaljalali wal-ikrami",
+      "translation": "O Lord of Majesty and Honor!",
+      "urduTranslation": "اے بزرگی اور کرامت والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ارْحَمَ ٱلرَّاحِمِينَ",
+      "transliteration": "ya arhama alrrahimina",
+      "translation": "O most Merciful of all those who show mercy!",
+      "urduTranslation": "اے سب سے زیادہ رحم کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "(اللَّهُمَّ بِحَقِّ هٰذَا ٱلدُّعَاءِ)",
+      "transliteration": "allahumma bihaqqi hadha alddu`a'i",
+      "translation": "(O Allah! I beseech You in the name of this prayer)...…",
+      "urduTranslation": "(اے اللہ! میں تجھ سے اس دعا کے وسیلے سے سوال کرتا ہوں)",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللَّهُمَّ بِحَقِّ هٰذَا الدُّعَاءِ",
+      "transliteration": "allahumma bihaqqi hadha alddu`a'i",
+      "translation": "O Allah! I beseech You in the name of this prayer",
+      "urduTranslation": "اے اللہ! میں تجھ سے اس دعا کے وسیلے سے سوال کرتا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِحَقِّ هٰذِهِ ٱلاسْمَاءِ",
+      "transliteration": "wa bihaqqi hadhihi al-asma'i",
+      "translation": "and in the name of these Names",
+      "urduTranslation": "اور ان ناموں کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّتِي لاَ يَعْلَمُ تَفْسِيرَهَا وَلاَ تَاْوِيلَهَا",
+      "transliteration": "allati la ya`lamu tafsiraha wa la ta'wilaha",
+      "translation": "which none knows their exegesis or interpretation",
+      "urduTranslation": "جن کی تفسیر اور جن کی تاویل کوئی نہیں جانتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ يَعْلَمُ بَاطِنَهَا وَلاَ ظَاهِرَهَا غَيْرُكَ",
+      "transliteration": "wa la batinaha wa la zahiraha ghayruka",
+      "translation": "and none knows their implicit or explicit meanings save You,",
+      "urduTranslation": "اور جن کے باطن اور جن کے ظاہر کو تیرے سوا کوئی نہیں جانتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "انْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "an tusalliya `ala muhammadin wa ali muhammadin",
+      "translation": "to send Your blessings upon Muhammad and the Household of Muhammad",
+      "urduTranslation": "کہ تو محمد اور آلِ محمد پر اپنی رحمتیں نازل فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَان تَرْزُقَنِي خَيْرَ ٱلدُّنْيَا وَٱلآخِرَةِ",
+      "transliteration": "wa an tarzuqani khayra alddunya wal-akhirati",
+      "translation": "and to provide me with the good of this world and the Next World.",
+      "urduTranslation": "اور مجھے دنیا اور آخرت کی بھلائی عطا کر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱفْعَلْ بِي مَا انتَ اهْلُهُ",
+      "transliteration": "waf`al bi ma anta ahluhu",
+      "translation": "Do to me that of which You are worthy",
+      "urduTranslation": "اور میرے ساتھ وہ معاملہ کر جس کے تو لائق ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ تَفْعَلْ بِي مَا انَا اهْلُهُ",
+      "transliteration": "wa la taf`al bi ma ana ahluhu",
+      "translation": "but do not do to me what I deserve,",
+      "urduTranslation": "اور میرے ساتھ وہ معاملہ نہ کر جس کا میں مستحق ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱنْتَقِمْ لِي مِنْ",
+      "transliteration": "wantaqim li min…",
+      "translation": "and exact vengeance from… [so-and-so]",
+      "urduTranslation": "اور میرا بدلہ لے اس سے...",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱغْفِرْ لِي مِنْ ذُنُوبِي مَا تَقَدَّمَ مِنْهَا وَمَا تَاخَّرَ",
+      "transliteration": "waghfir li min dhunubi ma taqaddama minha wa ma ta'akhkhara",
+      "translation": "forgive my sins—past and future,",
+      "urduTranslation": "اور میرے اگلے پچھلے تمام گناہوں کو بخش دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلِوَاِلدَيَّ وَلِجَمِيعِ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ",
+      "transliteration": "wa liwalidayya wa lijami`i almu'minina walmu'minati",
+      "translation": "forgive my parents and all faithful believers—men and women,",
+      "urduTranslation": "اور میرے والدین اور تمام مومن مردوں اور مومن عورتوں کو بخش دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَوَسِّعْ عَلَيَّ مِنْ حَلاَلِ رِزْقِكَ",
+      "transliteration": "wa wassi` `alayya min halali rizqika",
+      "translation": "increase Your lawful sustenance for me,",
+      "urduTranslation": "اور میرے لیے اپنے حلال رزق میں وسعت پیدا فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱكْفِنِي مَؤُونَةَ إِنْسَانِ سَوٍْء",
+      "transliteration": "wakfini ma'unata insani saw'in",
+      "translation": "save me from the troubles of wicked men,",
+      "urduTranslation": "اور مجھے برے انسان کی سختی سے بچا لے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَارِ سَوٍْء",
+      "transliteration": "wa jari saw'in",
+      "translation": "wicked neighbors,",
+      "urduTranslation": "اور برے پڑوسی سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسُلْطَانِ سَوٍْء",
+      "transliteration": "wa sultani saw'in",
+      "translation": "wicked rulers,",
+      "urduTranslation": "اور برے حکمران سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَرِينِ سَوٍْء",
+      "transliteration": "wa qarini saw'in",
+      "translation": "wicked companions,",
+      "urduTranslation": "اور برے ساتھی سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَوْمِ سَوٍْء",
+      "transliteration": "wa yawmi saw'in",
+      "translation": "evil days,",
+      "urduTranslation": "اور برے دن سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسَاعَةِ سَوٍْء",
+      "transliteration": "wa sa`ati saw'in",
+      "translation": "and evil hours,",
+      "urduTranslation": "اور بری گھڑی سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱنْتَقِمْ لِي مِمَّن يَكِيدُنِي",
+      "transliteration": "wantaqim li mimman yakiduni",
+      "translation": "and exact vengeance for me on everyone who hatches secret plots against me,",
+      "urduTranslation": "اور میرا بدلہ لے اس سے جو میرے خلاف خفیہ سازشیں کرتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمِمَّن يَبْغِي عَلَيَّ",
+      "transliteration": "wa mimman yabghi `alayya",
+      "translation": "on everyone who oppresses me,",
+      "urduTranslation": "اور جو مجھ پر ظلم کرتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيُرِيدُ بِي وَبِاهْلِي",
+      "transliteration": "wa yuridu bi wa bi-ahli",
+      "translation": "seeks to do injustice to me, my wife,",
+      "urduTranslation": "اور میرے اور میرے اہل و عیال کے بارے میں برائی کا ارادہ رکھتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاوْلادِي وَإِخْوَانِي",
+      "transliteration": "wa awladi wa ikhwani",
+      "translation": "my children, my brothers,",
+      "urduTranslation": "میری اولاد، میرے بھائی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجِيرَانِي وَقَرَابَاتِي",
+      "transliteration": "wa jirani wa qarabati",
+      "translation": "my neighbors, and my relatives",
+      "urduTranslation": "میرے پڑوسی اور میرے رشتہ دار،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ ظُلْماً",
+      "transliteration": "mina almu'minina walmu'minati zulman",
+      "translation": "among faithful men and women.",
+      "urduTranslation": "ایمان والے مردوں اور عورتوں میں سے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّكَ عَلَىٰ مَا تَشَاء قَدِيرٌ",
+      "transliteration": "innaka `ala ma tasha'u qadirun",
+      "translation": "Verily, You have power to do whatever You will to do",
+      "urduTranslation": "بے شک تو ہر اس چیز پر قادر ہے جسے تو چاہتا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِكُلِّ شَيْءٍ عَلِيمٌ",
+      "transliteration": "wa bikulli shay'in `alimun",
+      "translation": "and You have full knowledge of all things.",
+      "urduTranslation": "اور تو ہر چیز کا مکمل علم رکھتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "آمِين رَبَّ ٱلْعَالَمِينَ",
+      "transliteration": "amina rabba al`alamina",
+      "translation": "Respond to me, O Lord of the worlds.",
+      "urduTranslation": "اے عالمین کے رب، ہماری دعا قبول فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اللَّهُمَّ بِحَقِّ هٰذَا الدُّعَاءِ",
+      "transliteration": "allahumma bihaqqi hadha alddu`a'i",
+      "translation": "O Allah! In the name of this prayer, I beseech You",
+      "urduTranslation": "اے اللہ! اس دعا کے حق کے صدقے، میں تجھ سے سوال کرتا ہوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "تَفَضَّلْ عَلَىٰ فُقَرَاء ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ بِٱلْغِنَىٰ وَٱلثَّرْوَةِ",
+      "transliteration": "tafaddal `ala fuqara'i almu'minina walmu'minati bilghina walththarwati",
+      "translation": "to grant wealth and affluence to indigent faithful men and women,",
+      "urduTranslation": "کہ تو ایمان والے فقیر مردوں اور عورتوں کو غنا اور دولت عطا فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَىٰ مَرْضَىٰ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ بِٱلشِّفَاء وَٱلصِّحَّةِ",
+      "transliteration": "wa `ala marda almu'minina walmu'minati bilshshafa'i walssihhati",
+      "translation": "recovery and wellbeing to the sick faithful men and women,",
+      "urduTranslation": "اور ایمان والے بیمار مردوں اور عورتوں کو شفا اور تندرستی عطا فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَىٰ احْيَاء ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ بِٱللُّطْفِ وَٱلْكَرَامَةِ",
+      "transliteration": "wa `ala ahya'i almu'minina walmu'minati billutfi walkaramati",
+      "translation": "bliss and clemency to the living faithful men and women,",
+      "urduTranslation": "اور ایمان والے زندہ مردوں اور عورتوں پر لطف و کرم فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَىٰ امْوَاتِ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ بِٱلْمَغْفِرَةِ وَٱلرَّحْمَةِ",
+      "transliteration": "wa `ala amwati almu'minina walmu'minati bilmaghfirati walrrahmati",
+      "translation": "remit the sins of, and have mercy on, the deceased faithful men and women,",
+      "urduTranslation": "اور ایمان والے فوت شدہ مردوں اور عورتوں کی مغفرت اور ان پر رحم فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَىٰ مُسَافِرِي ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَاتِ بِٱلرَّدِّ إِلَىٰ اوْطَانِهِمْ سَالِمِينَ غَانِمِينَ",
+      "transliteration": "wa `ala musafiri almu'minina walmu'minati bilrraddi ila awtanihim salmina ghanimina",
+      "translation": "and arrange the return of all faithful travelers with safety and gain,",
+      "urduTranslation": "اور ایمان والے مسافر مردوں اور عورتوں کو صحیح و سالم اپنے وطنوں میں واپس لوٹا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِرَحْمَتِكَ يَا ارْحَمَ ٱلرَّاحِمِينَ",
+      "transliteration": "birahmatika ya arhama alrrahimina",
+      "translation": "by Your mercy, O Most Merciful of all those who show mercy.",
+      "urduTranslation": "اپنی رحمت کے صدقے، اے سب رحم کرنے والوں میں سب سے زیادہ رحم کرنے والے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ سَيِّدِنَا مُحَمَّدٍ خَاتَمِ ٱلنَّبِيِّينَ وَعِتْرَتِهِ ٱلطَّاهِرِينَ",
+      "transliteration": "wa salla allahu `ala sayyidina muhammadin khatami alnnabiyyina wa `itratihi alttahirina",
+      "translation": "May Allah send blessings to our master Muhammad, the Seal of the Prophets, and upon his Household, the purified",
+      "urduTranslation": "اور اللہ درود و سلام بھیجے ہمارے آقا محمد پر جو خاتم النبیین ہیں، اور ان کی پاکیزہ آل پر،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسَلَّمَ تَسْلِيماً كَثِيراً",
+      "transliteration": "wa sallama tasliman kathiran",
+      "translation": "and send peace upon them in abundant measure.",
+      "urduTranslation": "اور ان پر بہت زیادہ سلامتی نازل فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللَّهُمَّ إِنِّي اسْالُكَ بِحُرْمَةِ هٰذَا ٱلدُّعَاءِ",
+      "transliteration": "allahumma inni as'aluka bihurmati hadha alddu`a'i",
+      "translation": "O Allah, I beseech You in the name of the sacredness of this prayer",
+      "urduTranslation": "اے اللہ! میں تجھ سے اس دعا کی حرمت کا واسطہ دے کر سوال کرتا ہوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَا فَاتَ مِنْهُ مِنَ ٱلاسْمَاءِ",
+      "transliteration": "wa bima fata minhu mina al-asma'i",
+      "translation": "the Names mentioned therein,<",
+      "urduTranslation": "اور ان اسماء کے واسطے سے جو اس میں گزر چکے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَا يَشْتَمِلُ عَلَيْهِ مِنَ ٱلتَّفْسِيرِ وَٱلتَّدْبِيرِ",
+      "transliteration": "wa bima yashtamilu `alayhi mina alttafsiri walttadbiri",
+      "translation": "and the explanation and deep meanings of these names",
+      "urduTranslation": "اور ان تفسیروں اور تدبیروں کے واسطے سے جو اس میں شامل ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّذِي لاَ يُحِيطُ بِهِ إِلاَّ انْتَ…",
+      "transliteration": "alladhi la yuhitu bihi illa anta…",
+      "translation": "that none comprehends save You...",
+      "urduTranslation": "جس کا احاطہ تیرے سوا کوئی نہیں کر سکتا...",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

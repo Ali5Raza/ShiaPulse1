@@ -1,0 +1,725 @@
+{
+  "id": "munajat_imamali",
+  "title": "Munajat of Imam Ali (as)",
+  "titleUr": "مناجات امام علی (ع)",
+  "titleAr": "مناجاة الإمام علي (ع)",
+  "category": "Munajat",
+  "categoryUr": "مناجات",
+  "categoryAr": "المناجاة",
+  "description": "The whispering supplication of Imam Ali ibn Abi Talib (as), recited in the Mosque of Kufa.",
+  "descriptionUr": "امام علی بن ابی طالب (ع) کی مناجات جو مسجد کوفہ میں پڑھی گئی۔",
+  "descriptionAr": "مناجاة الإمام علي بن أبي طالب (ع) التي قرأها في مسجد الكوفة.",
+  "relevance": "Highly recommended whispering prayer expressing humility and seeking refuge in Allah's mercy.",
+  "relevanceUr": "عاجزی کے اظہار اور اللہ کی رحمت کی پناہ مانگنے کے لیے بہت مستحب مناجات۔",
+  "relevanceAr": "مناجاة مستحبة لإظهار التذلل واللجوء إلى رحمة الله.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "َللّـهُمَّ إِنّي أَسْأَلُكَ الأَمَانَ يَوْمَ لا يَنْفَعُ مالٌ  وَلابَنُونَ إِلاّ مَنْ أَتَىٰ اللهَ بِقَلْبٍ سَليمٍ،",
+      "transliteration": "allaahumma innee as-alukal amaana yawma laa yanfa-u’ maalun wa laa banoonun illaa man atallaaha biqalbin saleem",
+      "translation": "O Allah, I ask You for protection on the day when property will not avail, nor sons except he who comes with a heart free (from evil) (26: 88)",
+      "urduTranslation": "اے اللہ! میں تجھ سے اس دن امان مانگتا ہوں جس دن نہ مال کام آئے گا اور نہ اولاد، سوائے اس کے جو قلبِ سلیم لے کر اللہ کی بارگاہ میں حاضر ہو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ يَعَضُّ الظّالِمُ عَلىٰ يَدَيْهِ يَقُولُ يا لَيْتِني اتَّخَذْتُ مَعَ الرَّسُولِ سَبيلاً",
+      "transliteration": "wa as-alukal amaana yawma ya-a’z”z”uz’ z’aalimu a’laa yadayhi ya qoolu yaa laytanittakhad’tu ma-a’rrasooli sabeelaa",
+      "translation": "And I ask You for protection on the day when the unjust one will bite his hands saying: O would that I had taken a way with the messenger (25; 27)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن ظالم اپنے ہاتھ چبا کر کہے گا: کاش میں نے رسول کا راستہ اختیار کیا ہوتا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ يُعْرَفُ الْمُجْرِمُونَ بِسيمـاهُمْ فَيُؤْخَذُ بِالنَّواصي وَالأَقْدامِ",
+      "transliteration": "wa as-alukal amaana yawma yu’-raful mujrimoona biseemaahum fayoo-khad’u bin nawaas’ee wal aqdaam",
+      "translation": "And I ask You for protection on the day when the guilty shall be recognised by their marks so they shall be seized by the forelocks and the feet (55; 41)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن مجرموں کو ان کے چہروں سے پہچانا جائے گا، پھر انہیں پیشانی کے بالوں اور قدموں سے پکڑ لیا جائے گا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ لا يَجْزي والِدٌ عَنْ وَلَدِهِ وَلا مَوْلُودٌ هُوَ جازٍ عَنْ والِدِهِ شَيْئاً إِنَّ وَعْدَ اللهِ حَقٌّ",
+      "transliteration": "wa as-alukal amaana yawma laa yajzee waalidun a’n wlaadihee wa laa mawloodun huwa jaazin a’n inna wa’-dallaahi h’aqq",
+      "translation": "And I ask You for protection on the day when a father shall not give any satisfaction for his son nor shall the child give any satisfaction for his father, Surely the promise of Allah is true (31; 33)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن کوئی باپ اپنی اولاد کے کام نہ آئے گا اور نہ کوئی اولاد اپنے باپ کے کچھ کام آسکے گی، بے شک اللہ کا وعدہ سچا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ لا يَنْفَعُ الظّالِمينَ مَعْذِرَتُهُمْ وَلَهُمُ اللَّعْنَةُ وَلَهُمْ سُوءُ الدّارِ",
+      "transliteration": "wa as-alukal amaana yawma laa yanfa-u’z z’aalimeena ma’-d’iratuhum wa lahumul la’-natu wa lahum soo-ud daar",
+      "translation": "And I ask You for protection on the day when the unjust shall not benefit from their excuse and for them is curse and for them is the evil abode (40; 52)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن ظالموں کو ان کے عذر کام نہ آئیں گے، ان کے لیے لعنت ہے اور ان کے لیے بُرا ٹھکانہ ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ لا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئاً وَالأَمْرُ يَوْمَئِذٍ للهِ",
+      "transliteration": "wa as-alukal amaana yawma laa yamliku nafsun linafsin shay-an wal amru yawma-id’in lillaah",
+      "translation": "And I ask You for protection on the day when no soul shall control anything for (another) soul and the command on that day shall be entirely Allah's (82; 19)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن کوئی نفس دوسرے نفس کے لیے کچھ اختیار نہ رکھے گا اور اس دن حکم صرف اللہ کا ہوگا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخيهِ وَأُمِّهِ وَأَبيهِ وَصاحِبَتِهِ وَبَنيهِ لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنيهِ",
+      "transliteration": "wa as-alukal amaana yawma yafirrul mar-u min akheehi wa ummihee wa abeehee wa s’aah’ibatihee wa baneehee likulli amree-in minhum yawma-id’in shaanun yughneehi",
+      "translation": "And I ask You for protection on the day when a man shall flee from his brother, and his mother, his father, his spouse, and his children, each one of them on that day will have a concern which will occupy him (80;34)",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن انسان اپنے بھائی، اپنی ماں، اپنے باپ، اپنی بیوی اور اپنی اولاد سے بھاگے گا، اس دن ان میں سے ہر ایک کو اپنی ایسی فکر ہوگی جو اسے دوسری طرف متوجہ ہونے نہ دے گی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَأَسْاَلُكَ الأَمانَ يَوْمَ يَوَدُّ المُجْرِمُ لَوْ يَفْتَدي مِنْ عَذابِ يَوْمَئِذٍ بِبَنيهِ وَصاحِبَتِهِ وَأَخيهِ وَفَصيلَتِهِ الَّتي تُؤْويهِ وَمَنْ فِي الأَرْضِ جَميعاً ثُمَّ يُنْجيهِ",
+      "transliteration": "wa as-alukal a-maana yawma ya-waddul mujrimu law yaftadee min a’d’aabi yawma-id’im bibaneehee wa s’aahibatihee wa akheehee wa fas’eelatil latee tooweehi wa man fil arz”l jamee-a’n thumma yunajjeehi",
+      "translation": "And I ask You for protection on the day when the guilty will wish to redeem himself from the chastisement of that day by (sacrificing) his children, and the near of kin who gave him shelter and all those that are in the earth (wising) that this might deliver him ...",
+      "urduTranslation": "اور میں تجھ سے اس دن امان مانگتا ہوں جس دن مجرم تمنا کرے گا کہ کاش وہ اس دن کے عذاب کے بدلے اپنی اولاد، اپنی بیوی، اپنے بھائی، اپنے خاندان جس نے اسے پناہ دی تھی، اور زمین میں جو کچھ ہے ان سب کو دے دے اور پھر وہ اسے نجات دے دے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "كَلّا إِنَّها لَظىٰ نَزّاعَةً لِلشَّوىٰ",
+      "transliteration": "kallaa innahaa laz’aa nazzaa-a’tal lish-shawaa",
+      "translation": "... by no means! Surely it is a flaming fire, dragging by the head (70; 11; 16)",
+      "urduTranslation": "ہرگز نہیں! بے شک وہ بھڑکتی ہوئی آگ ہے، جو کھال کو کھینچ نکالنے والی ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْمَوْلىٰ وَأَنَا الْعَبْدُ وَهَلْ يَرْحَمُ الْعَبْدَ إِلّا الْمَوْلىٰ",
+      "transliteration": "mawlaaya yaa mawlaaya antal mawlaa wa anal a’bdu wa hal yarh’amul a’bda illal mawlaa",
+      "translation": "My Lord, O my Lord, You are the Master and I am the Slave, and who else can be merciful to the slave except the Master?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی آقا ہے اور میں بندہ ہوں، اور کیا بندے پر آقا کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْمالِكُ وَأَنَا الْمَمْلُوكُ وَهَلْ يَرْحَمُ الْمَمْلُوكَ إِلّا الْمالِكُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal maaliku wa anal mamlooku wa hal yarh’amul mamlooka illal maalik",
+      "translation": "My Lord, O my Lord, You are the Owner and I am the one owned by You, and who else can be merciful to the owned except the owner?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی مالک ہے اور میں مملوک ہوں، اور کیا مملوک پر مالک کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْعَزيزُ وَأَنَا الذَّليلُ وَهَلْ يَرْحَمُ الذَّليلَ إِلّا الْعَزيزُ",
+      "transliteration": "mawlaaya yaa mawlaaya antla a’zeezu wa anad’ d’aleelu wa hal yarh’amud’ d’aleela illal a’zeez",
+      "translation": "My Lord, O my Lord, You are the Mighty and I am the low, and who else can be merciful to the low except the Mighty?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی عزیز ہے اور میں ذلیل ہوں، اور کیا ذلیل پر عزیز کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْخالِقُ وَأَنَا الْمَخْلُوقُ وَهَلْ يَرْحَمُ المَخْلُوقَ إِلّا الْخالِقُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal khaaliqu wa anal makhlooqu wa anal makhlooqu wa hal yarh’amul makhlooqa illal khaaliq",
+      "translation": "My Lord, O my Lord, You are the Creator and I am the creature, and who else can be merciful to the creature except the Creator?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی خالق ہے اور میں مخلوق ہوں، اور کیا مخلوق پر خالق کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْعَظيمُ وَأَنَا الْحَقيرُ وَهَلْ يَرْحَمُ الْحَقيرَ إِلّا الْعَظيمُ",
+      "transliteration": "mawlaaya yaa mawlaay antal a’zeemu wa anal h’aqeeru wa hal yarh’amul h’aqeera illal a’zeem",
+      "translation": "My Lord, O my Lord, You are the Glorious and I am the miserable, and who else can be merciful to the miserable except the Glorious?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی عظیم ہے اور میں حقیر ہوں، اور کیا حقیر پر عظیم کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْقَوِيُّ وَأَنَا الضَّعيفُ وَهَلْ يَرْحَمُ الضَّعيفَ إِلّا الْقَوِيُّ",
+      "transliteration": "mawlaaya yaa mawlaay antal qawiyyu wa anal za’eefu wa hal yarh’amul za’eefa illal qawiy",
+      "translation": "My Lord, O my Lord, You are the Powerful and I am the weak, and who else can be merciful to the weak except the Powerful?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی قوی ہے اور میں ضعیف ہوں، اور کیا ضعیف پر قوی کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْغَنِيُّ وَأَنَا الْفَقيرُ وَهَلْ يَرْحَمُ الْفَقيرَ إِلّا الْغَنِيُّ",
+      "transliteration": "mawlaaya yaa mawlaaya antal ghaniyyu wa anal faqeeru wa hal yarh’amul faqeera illal ghaniyy",
+      "translation": "My Lord, O my Lord, You are the Wealthy and I am the Poor, and who else can be merciful to the poor except the Wealthy?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی غنی ہے اور میں فقیر ہوں، اور کیا فقیر پر غنی کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْمُعْطي وَأَنَا السّائِلُ وَهَلْ يَرْحَمُ السّائِلَ إِلّا الْمُعْطي",
+      "transliteration": "mawlaaya yaa mawlaaya antal mu’-t’ee wa anas saa-ilu wa hal yarh’amus saaila illal mu’-t’ee",
+      "translation": "My Lord, O my Lord, You are the Bestower and I am the beggar, and who else can be merciful to the beggar except the Bestower?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی عطا کرنے والا ہے اور میں سائل ہوں، اور کیا سائل پر عطا کرنے والے کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْحَيُّ وَأَنَا الْمَيِّتُ وَهَلْ يَرْحَمُ الْمَيِّتَ إِلّا الْحَيُّ",
+      "transliteration": "mawlaaya yaa mawlaaya antal h’ayyu wa anal mayyitu wa hal yarh’amul mayyita illal h’ayy",
+      "translation": "My Lord, O my Lord, You are the Living and I am the dead, and who else can be merciful to the dead except the Living?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی زندہ ہے اور میں مردہ ہوں، اور کیا مردہ پر زندہ کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْباقي وَأَنَا الْفاني وَ هَلْ يَرْحَمُ الْفانيَ إِلّا الْباقي",
+      "transliteration": "mawlaaya yaa mawlaaya antal baaqee wa anal faanee wa hal yarh’amul faanee illal baaqee",
+      "translation": "My Lord, O my Lord, You are the Eternal and I am the transient, and who else can be merciful to the transient except the Eternal?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی باقی رہنے والا ہے اور میں فنا ہونے والا ہوں، اور کیا فنا ہونے والے پر باقی رہنے والے کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الدّائِمُ وَأَنَا الزّائِلُ وَهَلْ يَرْحَمُ الزّائِلَ إِلّا الدّائِمُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal daa-imu wa anaz zaa-ilu wa hal yarh’amuz zaaila illad daa-im",
+      "translation": "My Lord, O my Lord, You are the Permanent and I am the short-lived, and who else can be merciful to the short-lived except the Permanent?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی دائمی ہے اور میں زائل ہونے والا ہوں، اور کیا زائل ہونے والے پر دائمی کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الرّازِقُ وَأَنَا الْمَرْزُوقُ وَهَلْ يَرْحَمُ الْمَرْزُوقَ إِلّا الرّازِقُ",
+      "transliteration": "mawlaaya yaa mawlaaya antar raaziqu wa anal marzooqu wa anal marzooqu wa hal yarh’amul marzooqa illar raaziq",
+      "translation": "My Lord, O my Lord, You are the Provider and I am the blessed, and who else can be merciful to the blessed except the Provider?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی رازق ہے اور میں مرزوق ہوں، اور کیا مرزوق پر رازق کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْجَوادُ  وَأَنَا الْبَخيلُ وَهَلْ يَرْحَمُ الْبَخيلَ إِلّا الْجَوادُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal ja waadu wa anal bakheelu bakheela illal jawaad",
+      "translation": "My Lord, O my Lord, You are the Generous and I am the miser, and who else can be merciful to the miser except the Generous?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی جواد (سخی) ہے اور میں بخیل ہوں، اور کیا بخیل پر جواد کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْمُعافي وَأَنَا الْمُبْتَلىٰ وَهَلْ يَرْحَمُ الْمُبْتَلىٰ إِلّا الْمُعافي",
+      "transliteration": "mawlaaya yaa mawlaaya antal mua’afee wa anal mubtalaa wa  hal yarh’amul mubtalaa illal mu-a’afee",
+      "translation": "My Lord, O my Lord, You are the Healer and I am the afflicted, and who else can be merciful to the afflicted except the Healer?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی عافیت دینے والا ہے اور میں مبتلا ہوں، اور کیا مبتلا پر عافیت دینے والے کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْكَبيرُ وَأَنَا الصَّغيرُ وَهَلْ يَرْحَمُ الصَّغيرَ إِلّا الْكَبيرُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal kabeeru wa anas’ s’agheeru wa hal yarh’amus’ s’agheera illal kabeer",
+      "translation": "My Lord, O my Lord, You are the Great and I am the insignificant, and who else can be merciful to the insignificant except the Great?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی کبیر ہے اور میں صغیر ہوں، اور کیا صغیر پر کبیر کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْهادي وَأَنَا الضّالُّ وَهَلْ يَرْحَمُ الضّالَّ إِلّا الْهادي",
+      "transliteration": "mawlayaa yaa mawlaaya antal hadee wa anaz” z”allu wa hal yarh’amuz” z”aalla illal haadee",
+      "translation": "My Lord, O my Lord, You are the Leading and I am the straying, and who else can be merciful to the straying except the Leading?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی ہادی ہے اور میں بھٹکا ہوا ہوں، اور کیا بھٹکے ہوئے پر ہادی کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الرَّحْمنُ وَأَنَا الْمَرْحُومُ وَهَلْ يَرْحَمُ الْمَرْحُومَ إِلّا الرَّحْمنُ",
+      "transliteration": "mawlaaya yaa mawlaaya antar rah’maanu wa anal marh’oomu wa hal yarh’amul marh’ooma illar rah’maan",
+      "translation": "My Lord, O my Lord, You are the Merciful and I am the one shown mercy, and who else can be merciful to the one shown mercy except the Merciful?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی رحمان ہے اور میں مرحوم ہوں، اور کیا مرحوم پر رحمان کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يامَوْلايَ أَنْتَ السُّلْطانُ وَأَنَا الْمُمْتَحَنُ وَهَلْ يَرْحَمُ الْمُمْتَحَنَ إِلّا السُّلْطانُ",
+      "transliteration": "mawlaaya yaa mawlaaya antas sult’aanu wa anal mumtah’anu wa hal yarh’amul mumtah’ana illas sult’aan",
+      "translation": "My Lord, O my Lord, You are the Authority and I am the tried, and who else can be merciful to the tried except the Authority?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی سلطان ہے اور میں آزمایا ہوا ہوں، اور کیا آزمائے ہوئے پر سلطان کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الدَّليلُ وَأَنَا الْمُتَحَيِّرُ وَهَلْ يَرْحَمُ الْمُتَحَيِّرَ إِلّا الدَّليلُ",
+      "transliteration": "mawlaaya yaa mawlaaya antad daleelu wa anal mutah’ayyiru wa hal mutah’ayyira ilad daleel",
+      "translation": "My Lord, O my Lord, You are the Guide and I am the confused, and who else can be merciful to the confused except the Guide?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی دلیل (رہنما) ہے اور میں حیران ہوں، اور کیا حیران پر دلیل کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْغَفُورُ وَأَنَا الْمُذْنِبُ وَهَلْ يَرْحَمُ الْمُذْنِبَ إِلّا الْغَفُورُ",
+      "transliteration": "mawlaaya antal ghafooru wa anal mud’nibu wa hal yrh’amul mud’nibu illal ghafoor",
+      "translation": "My Lord, O my Lord, You are the Forgiver and I am the sinner, and who else can be merciful to the sinner except the Forgiver?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی غفور ہے اور میں گنہگار ہوں، اور کیا گنہگار پر غفور کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْغالِبُ وَأَنَا الْمَغْلُوبُ وَهَلْ يَرْحَمُ الْمَغْلُوبَ إِلّا الْغالِبُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal ghaalibu wa anal maghloobu wa hal yarh’amul maghlooba illal ghaalib",
+      "translation": "My Lord, O my Lord, You are the Victor and I am the defeated, and who else can be merciful to the defeated except the Victor?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی غالب ہے اور میں مغلوب ہوں، اور کیا مغلوب پر غالب کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الرَّبُّ وَأَنَا الْمَرْبُوبُ وَهَلْ يَرْحَمُ الْمَرْبُوبَ إِلّا الرَّبُّ",
+      "transliteration": "mawlaaya yaa mawlaaya antar rabbu wa anal marboobu wa hal yarh’amul marbooba illar rabb",
+      "translation": "My Lord, O my Lord, You are the Nourisher and I am the nourished, and who else can be merciful to the nourished except the Nourisher?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی رب ہے اور میں مربوب ہوں، اور کیا مربوب پر رب کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ أَنْتَ الْمُتَكَبِّرُ وَأَنَا الْخاشِعُ وَهَلْ يَرْحَمُ الْخاشِعَ إِلّا الْمُتَكَبِّرُ",
+      "transliteration": "mawlaaya yaa mawlaaya antal mutakabbiru wa anal khaashi-u’ wa hal yarh’amul kaashi-a’ illal mutakabbir",
+      "translation": "My Lord, O my Lord, You are the High-handed and I am the humble, and who else can be merciful to humble the except the High-handed?",
+      "urduTranslation": "میرے آقا! اے میرے آقا! تو ہی متکبر ہے اور میں خاشع ہوں، اور کیا خاشع پر متکبر کے سوا کوئی رحم کر سکتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَوْلايَ يا مَوْلايَ اِرْحَمْني بِرَحْمَتِكَ",
+      "transliteration": "mawlaaya yaa mawlaaya arh’amnee birah’matika",
+      "translation": "My Lord, O my Lord, have mercy on me by Your mercy,",
+      "urduTranslation": "میرے آقا! اے میرے آقا! اپنی رحمت کے صدقے مجھ پر رحم فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَارْضَ عَنّي بِجُودِكَ وَكَرَمِكَ وَفَضْلِكَ",
+      "transliteration": "warz”a a’nnee bijoodika wa karamika wa faz”lika",
+      "translation": "and be pleased with me by Your Generosity and Your Magnanimity and Your Grace,",
+      "urduTranslation": "اور اپنی جود، اپنے کرم اور اپنے فضل کے ساتھ مجھ سے راضی ہو جا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يا ذَا الْجُودِ وَالاِحْسانِ وَالطَّوْلِ وَالِإمْتِنانِ",
+      "transliteration": "yaa d’al joodi wal ih’saani wat’t’ooli wal imtinaani",
+      "translation": "O the Generous, and Beneficent, O the Almighty and the Benefactor,",
+      "urduTranslation": "اے جود و احسان، اور طول و امتنان (نعمتیں عطا کرنے والے) کے مالک۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِرَحْمَتِكَ يا اَرْحَمَ الرّاحِمينَ",
+      "transliteration": "birah’matika yaa arh’amar raaha’imeen",
+      "translation": "By your Mercy, O the most Merciful of the Merciful.",
+      "urduTranslation": "اپنی رحمت کے وسیلے سے، اے سب سے بڑھ کر رحم کرنے والے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مناجأة أمير المؤمنين علي بن أبي طالب\"ع المناجاة المنظومة",
+      "transliteration": "mnajأah أmyr alm'mnyn 'ly bn أby talb\"' almnajah almnzwmah",
+      "translation": "The Whispered Prayer of the Commander of the Faithful Ali ibn Abi Talib (as) (The Rhymed Munajat)",
+      "urduTranslation": "امیر المومنین علی بن ابی طالب (ع) کی مناجاتِ منظوم۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+      "transliteration": "bismi allahi alrrahmani alrrahimi",
+      "translation": "In the Name of Allah, the All-beneficent the All-merciful.",
+      "urduTranslation": "اللہ کے نام سے شروع جو نہایت مہربان اور بہت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لَكَ ٱلْحَمْد ُيَا ذَاَ ٱلْجُودِ وَٱلْمَجْدِ وَٱلْعُلَىٰ",
+      "transliteration": "laka alhamdu ya dhaljudi walmajdi wal`ula",
+      "translation": "To You be all praise; O Lord of magnanimity, glory, and elevation!",
+      "urduTranslation": "تیری ہی حمد ہے، اے جود، بزرگی اور بلندی کے مالک۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "تَبَارَكْتَ تُعْطِي مَنْ تَشَاءُ وَتَمْنَعُ",
+      "transliteration": "tabarakta tu`ti man tasha'u wa tamna`u",
+      "translation": "Blessed be You; You favor or ban whomever You wish.",
+      "urduTranslation": "تو بابرکت ہے، تو جسے چاہتا ہے عطا کرتا ہے اور جسے چاہتا ہے روک لیتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي وَخَلاَّقِي وَحِرْزِي وَمَوْئِلِي",
+      "transliteration": "ilahi wa khallaqi wa hirzi wa maw'ili",
+      "translation": "O my God, my Creator, my Shelter, and my Refuge!",
+      "urduTranslation": "میرے معبود، میرے پیدا کرنے والے، میرے محافظ اور میرے ٹھکانے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلَيْكَ لَدَىٰ ٱلإِعْسَارِ وَٱلْيُسْرِ افْزَعُ",
+      "transliteration": "ilayka lada al-i`sari walyusri afza`u",
+      "translation": "To You do I resort in hardships and in joys.",
+      "urduTranslation": "تنگدستی اور خوشحالی میں میں تیری ہی طرف پناہ لیتا ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ جَلَّتْ وَجَمَّتْ خَطِيئَتِي",
+      "transliteration": "ilahi la'in jallat wa jammat khati'ati",
+      "translation": "O my God, even if my sin is too grave and too big,",
+      "urduTranslation": "میرے معبود، اگرچہ میرا گناہ بہت بڑا اور سنگین ہی کیوں نہ ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَعَفْوُكَ عَنْ ذَنْبِي اجَلُّ وَاوْسَعُ",
+      "transliteration": "fa`afwuka `an dhanbi ajallu wa awsa`u",
+      "translation": "Your pardoning my sin is still greater and vaster.",
+      "urduTranslation": "لیکن میرے گناہ پر تیری معافی اس سے کہیں زیادہ عظیم اور وسیع ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ اعْطَيْتُ نَفْسِيَ سُؤْلَهَا",
+      "transliteration": "ilahi la'in a`taytu nafsiya su'laha",
+      "translation": "O my God, because I have allowed my soul to do whatever it liked,",
+      "urduTranslation": "میرے معبود، چونکہ میں نے اپنے نفس کو اس کی خواہشات کے مطابق چھوڑ دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَهَا انَا فِي رَوْضِ ٱلنَّدَامَةِ ارْتَعُ",
+      "transliteration": "faha ana fi rawdi alnnadamati arta`u",
+      "translation": "here I am now turning over and over on the land of remorse.",
+      "urduTranslation": "تو اب دیکھ لے کہ میں ندامت کے میدان میں تڑپ رہا ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي تَرَىٰ حَالِي وَفَقْرِي وَفَاقَتِي",
+      "transliteration": "ilahi tara hali wa faqri wa faqati",
+      "translation": "O my God, You can see my manner, my neediness, and my poverty,",
+      "urduTranslation": "میرے معبود، تو میری حالت، میری محتاجی اور میری فقیری کو دیکھ رہا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَانْتَ مُنَاجَاتِي ٱلْخَفِيَّةَ تَسْمَعُ",
+      "transliteration": "wa anta munajati alkhafiyyata tasma`u",
+      "translation": "so can You hear my inaudible prayers to You.",
+      "urduTranslation": "اور تو میری پوشیدہ مناجاتوں کو سن رہا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي فَلاَ تَقْطَعْ رَجَائِي وَلاَ تُزِغْ",
+      "transliteration": "ilahi fala taqta` raja'i wa la tuzigh",
+      "translation": "O my God, then (please) do not disappoint me and do not cause",
+      "urduTranslation": "میرے معبود، پس میری امید کو قطع نہ فرما اور نہ ہی میرے دل کو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فُؤَُادِي فَلِي فِي سَيْبِ جُودِكَ مَطْمَعُ",
+      "transliteration": "fu'adi fali fi saybi judika matma`u",
+      "translation": "my heart to turn away, for I long for Your vast magnanimity.",
+      "urduTranslation": "اپنی طرف سے پھیر دے، کیونکہ مجھے تیرے فضل و کرم کی طمع ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ خَيَّبْتَنِي اوْ طَرَدْتَنِي",
+      "transliteration": "ilahi la'in khayyabtani aw taradtani",
+      "translation": "O my God, if You disappoint me or throw me out,",
+      "urduTranslation": "میرے معبود، اگر تو نے مجھے مایوس کر دیا یا اپنی بارگاہ سے نکال دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَنْ ذَاَ ٱلَّذِي ارْجُو وَمَنْ ذَا اشَفِّعُ",
+      "transliteration": "faman dhalladhi arju wa man dha ushaffi`u",
+      "translation": "then for whom will I hope and whose intercession will I seek before You?",
+      "urduTranslation": "تو پھر میں کس سے امید رکھوں گا اور کس کی سفارش لاؤں گا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي اجِرْنِي مِنْ عَذَابِكَ إِنَّنِي",
+      "transliteration": "ilahi ajirni min `adhabika innani",
+      "translation": "O my God, please redeem me from Your torture,",
+      "urduTranslation": "میرے معبود، مجھے اپنے عذاب سے بچا لے، کیونکہ میں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اسِيرٌ ذَلِيلٌ خَائِفٌ لَكَ اخْضَعُ",
+      "transliteration": "asirun dhalilun kha'ifun laka akhda`u",
+      "translation": "for I am imprisoned, humble, and to You do I submit.",
+      "urduTranslation": "ایک قیدی، ذلیل اور خوفزدہ بندہ ہوں جو تیرے آگے جھکتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي فَآنِسْنِي بِتَلْقِينِ حُجَّتِي",
+      "transliteration": "ilahi fa-anisni bitalqini hujjati",
+      "translation": "O my God, delight me by helping me submit my argument,",
+      "urduTranslation": "میرے معبود، قبر میں جب میرا ٹھکانا اور آرام گاہ ہو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِذَا كَانَ لِي فِي ٱلْقَبْر ِمَثْوَىً وَمَضْجَعُ",
+      "transliteration": "idha kana li fi alqabri mathwan wa madja`u",
+      "translation": "when I shall be lodged in my grave.",
+      "urduTranslation": "تو میری حجت تلقین کرنے میں مجھے انس عطا فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ عَذَّبْتَنِي الْفَ حجَّةٍ",
+      "transliteration": "ilahi la'in `adhdhabtani alfa hujjatin",
+      "translation": "O my God, if You chastise me for one thousand years,",
+      "urduTranslation": "میرے معبود، اگر تو مجھے ہزار سال تک بھی عذاب دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَحَبْلُ رَجَائِي مِنْكَ لاَ يَتَقَطَّعُ",
+      "transliteration": "fahablu raja'i minka la yataqatta`u",
+      "translation": "the rope of my hope for You shall nonetheless be cut off.",
+      "urduTranslation": "تو بھی تجھ سے میری امید کی رسی کبھی نہیں ٹوٹے گی۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي اذِقْنِي طَعْمَ عَفْوِكَ يَوْمَ لاَ",
+      "transliteration": "ilahi adhiqni ta`ma `afwika yawma la",
+      "translation": "O my God, please make me taste the flavor of Your pardon on that Day",
+      "urduTranslation": "میرے معبود، اس دن مجھے اپنی معافی کا ذائقہ چکھا جس دن،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بَنُونَ وَلاَ مَالٌ هُنَالِكَ يَنْفَعُ",
+      "transliteration": "banuna wa la malun hunalika yanfa`u",
+      "translation": "when neither one’s sons nor property shall promote.",
+      "urduTranslation": "نہ اولاد کام آئے گی اور نہ ہی مال کوئی فائدہ دے گا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ لَمْ تَرْعَنِي كُنْتُ ضَائِعاً",
+      "transliteration": "ilahi la'in lam tar`ani kuntu da'i`an",
+      "translation": "O my God, if You do not guard me, I shall certainly be lost,",
+      "urduTranslation": "میرے معبود، اگر تو نے میری حفاظت نہ کی تو میں ضرور برباد ہو جاؤں گا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِنْ كُنْتَ تَرْعَانِي فَلَسْتُ اضَيَّعُ",
+      "transliteration": "wa in kunta tar`ani falastu udayya`u",
+      "translation": "but if You guard me, I shall never be lost.",
+      "urduTranslation": "لیکن اگر تو میری حفاظت کرے تو میں کبھی ضائع نہیں ہوں گا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي إِذَا لَمْ تَعْفُ عَنْ غَيْرِ مُحْسِنٍ",
+      "transliteration": "ilahi idha lam ta`fu `an ghayri muhsinin",
+      "translation": "O my God, if You forgive none but the doer of good deeds,",
+      "urduTranslation": "میرے معبود، اگر تو صرف نیکوکاروں کو ہی معاف کرے گا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَنْ لِمُسِي ءٍ بِٱلْهَوَىٰ يَتَمَتَّعُ",
+      "transliteration": "faman limusi'in bilhawa yatamatta`u",
+      "translation": "then who shall care for the wrongdoers who plunge in their fancies?",
+      "urduTranslation": "تو پھر ان گناہگاروں کا کیا ہوگا جو اپنی نفسانی خواہشات میں ڈوبے ہوئے ہیں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ فَرَّطْتُ فِي طَلَبِ ٱلتُّقَىٰ",
+      "transliteration": "ilahi la'in farrattu fi talabi alttuqa",
+      "translation": "O my God, if I have been negligent in the seeking of piety,",
+      "urduTranslation": "میرے معبود، اگر میں نے تقویٰ کی طلب میں کوتاہی کی ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَهَا انَا إِثْرَ ٱلْعَفْوِ اقْفُو وَاتْبَعُ",
+      "transliteration": "faha ana ithra al`afwi aqfu wa atba`u",
+      "translation": "here I am now tracking the traces of Your pardon.",
+      "urduTranslation": "تو یہ دیکھ کہ میں اب تیری معافی کے نقش قدم پر چل رہا ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ اخْطَاتُ جَهْلاً فَطَالَمَا",
+      "transliteration": "ilahi la'in akhta'tu jahlan fatalama",
+      "translation": "O my God, if I have been wrong out of ignorance,",
+      "urduTranslation": "میرے معبود، اگر میں نے جہالت میں غلطی کی ہے، تو میں نے طویل عرصے تک،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "رَجَوْتُكَ حَتَّىٰ قِيلَ مَا هُوَ يَجْزَعُ",
+      "transliteration": "rajawtuka hatta qila ma huwa yajza`u",
+      "translation": "I have begged You so much that it was said that I would never feel tired.",
+      "urduTranslation": "تجھ سے اتنی امید رکھی ہے کہ یہ کہا جانے لگا کہ یہ بندہ کبھی ناامید نہیں ہوتا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي ذُنُوبِي بَذَّتِ ٱلطَّوْدَ وَٱعْتَلَتْ",
+      "transliteration": "ilahi dhunubi badhdhati alttawda wa`talat",
+      "translation": "O my God, although my sins have been higher than mountains,",
+      "urduTranslation": "میرے معبود، اگرچہ میرے گناہ پہاڑوں سے بھی بلند ہو چکے ہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَفْحُكَ عَنْ ذَنْبِي اجَلُّ وَارْفَعُ",
+      "transliteration": "wa safhuka `an dhanbi ajallu wa arfa`u",
+      "translation": "Your pardon is still higher and more elevated.",
+      "urduTranslation": "مگر میرے گناہوں پر تیرا درگزر کہیں زیادہ بلند اور عظیم ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي يُنَجِّي ذِكْرُ طَوْلِكَ لَوْعَتِي",
+      "transliteration": "ilahi yunajji dhikru tawlika law`ati",
+      "translation": "O my God, as I remember Your power, my agonies are abated,",
+      "urduTranslation": "میرے معبود، تیری قدرت کو یاد کرنا میری تکلیفوں کو کم کر دیتا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَذِكْرُ ٱلْخَطَايَا ٱلْعَيْنَ مِنِّي يُدَمِّعُ",
+      "transliteration": "wa dhikru alkhataya al`ayna minni yudammi`u",
+      "translation": "and as I remember my sins, my eyes shed tears.",
+      "urduTranslation": "اور اپنے گناہوں کو یاد کرنا میری آنکھوں کو اشکبار کر دیتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي اقِلْنِي عَثْرَتِي وَٱمْحُ حَوْبَتِي",
+      "transliteration": "ilahi aqilni `athrati wamhu hawbati",
+      "translation": "O my God, please overlook my slips and erase my wrongdoing,",
+      "urduTranslation": "میرے معبود، میری لغزش کو معاف کر دے اور میرے گناہ کو مٹا دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَإِنِّي مُقِرٌّ خَائِفٌ مُتَضَرِّعُ",
+      "transliteration": "fa'inni muqirrun kha'ifun mutadarri`u",
+      "translation": "for I confess of them fearfully and hopefully.",
+      "urduTranslation": "کیونکہ میں خوفزدہ ہو کر اور گڑگڑا کر اس کا اعتراف کرتا ہوں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي انِلْنِي مِنْكَ رَوْحاً وَرَاحَةً",
+      "transliteration": "ilahi anilni minka rawhan wa rahatan",
+      "translation": "O my God, grant me rest and relax from You,",
+      "urduTranslation": "میرے معبود، مجھے اپنی طرف سے سکون اور راحت عطا کر،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَلَسْتُ سِوَىٰ ابْوَابِ فَضْلِكَ اقْرَعُ",
+      "transliteration": "falastu siwa abwabi fadlika aqra`u",
+      "translation": "for I knock no door save the doors of Your favor.",
+      "urduTranslation": "کیونکہ میں تیرے فضل کے دروازوں کے سوا کسی اور دروازے کو نہیں کھٹکھٹاتا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي لَئِنْ اقْصَيْتَنِي اوْ اهَنْتَنِي",
+      "transliteration": "ilahi la'in aqsaytani aw ahantani",
+      "translation": "O my God, if You expel me or insult me,",
+      "urduTranslation": "میرے معبود، اگر تو نے مجھے دھتکار دیا یا رسوا کر دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَمَا حِيلَتِي يَا رَبِّ امْ كَيْفَ اصْنَعُ",
+      "transliteration": "fama hilati ya rabbu am kayfa asna`u",
+      "translation": "which method shall I then take and what shall I do?",
+      "urduTranslation": "تو اے میرے رب، پھر میرے لیے کیا چارہ ہے اور میں کیا کروں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي حَلِيفُ ٱلْحُبِّ فِي ٱللَّيْلِ سَاهِرٌ",
+      "transliteration": "ilahi halifu alhubbi fi allayli sahirun",
+      "translation": "O my God, the true lover (of You) is staying up at night,",
+      "urduTranslation": "میرے معبود، تیرا عاشق رات بھر جاگتا رہتا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يُنَاجِي وَيَدْعُو وَٱلْمُغَفَّلُ يَهْجَعُ",
+      "transliteration": "yunaji wa yad`u walmughaffalu yahja`u",
+      "translation": "calling at You and praying to You, while the unmindful is asleep!",
+      "urduTranslation": "تجھ سے سرگوشیاں کرتا اور تجھے پکارتا ہے، جبکہ غافل سو رہا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي وَهٰذَا ٱلْخَلْقُ مَا بَيْنَ نَائِمٍ",
+      "transliteration": "ilahi wa hadha alkhalqu ma bayna na'imin",
+      "translation": "O my God, these beings are either sleeping",
+      "urduTranslation": "میرے معبود! یہ تیری مخلوق ہے کہ جو اس رات کے پہر میں کوئی سو رہا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَمُنْتَبِهٍ فِي لَيْلِهِ يَتَضَرَّعُ",
+      "transliteration": "wa muntabihin fi laylihi yatadarra`u",
+      "translation": "or vigilant at night, beseeching You.",
+      "urduTranslation": "اور کوئی بیدار ہو کر تیری بارگاہ میں گڑگڑا رہا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَكُلُّهُمُ يَرْجُو نَوَالَكَ رَاجِياً",
+      "transliteration": "wa kulluhumu yarju nawalaka rajiyan",
+      "translation": "Yet, all are hoping for Your rewards, wishing",
+      "urduTranslation": "اور وہ سب تیرے عطا و بخشش کے امیدوار ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لِرَحْمَتِكَ ٱلْعُظْمَىٰ وَفِي ٱلْخُلْدِ يَطْمَعُ",
+      "transliteration": "lirahmatika al`uzma wa fi alkhuldi yatma`u",
+      "translation": "for Your Grandest Mercy, and desiring for Eternity.",
+      "urduTranslation": "تیری عظیم رحمت کے طلبگار اور جنتِ جاوداں کے خواہش مند ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي يُمَنِّينِي رَجَائِي سَلامَةً",
+      "transliteration": "ilahi yumannini raja'i salamatan",
+      "translation": "O my God, my hope for You makes me feel safe,",
+      "urduTranslation": "میرے معبود! تیرے ساتھ میری امید مجھے اطمینان دلاتی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقُبْحُ خَطِيئَاتِي عَلَيَّ يُشَنِّعُ",
+      "transliteration": "wa qubhu khatu'ati `alayya yushanni`u",
+      "translation": "but the vice of my wrongdoings is reproaching me.",
+      "urduTranslation": "لیکن میرے گناہوں کی بدصورتی مجھے شرمندہ کر رہی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي فَإِنْ تَعْفُو فَعَفْوُكَ مُنْقِذِي",
+      "transliteration": "ilahi fa'in ta`fu fa`afwuka munqidhi",
+      "translation": "O my God, if you pardon me, then You shall have saved me;",
+      "urduTranslation": "میرے معبود! اگر تو معاف کر دے تو تیری معافی ہی میری نجات ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَإِلاَّ فَبِٱلذَّنْبِ ٱلْمُدَمِّرِ اصْرَعُ",
+      "transliteration": "wa illa fabildhdhanbi almudammiri usra`u",
+      "translation": "otherwise, I will be the prey of my offensive sins.",
+      "urduTranslation": "اور اگر نہ کرے تو تباہ کن گناہوں کے بوجھ تلے میں پاش پاش ہو جاؤں گا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي بِحَقِّ ٱلْهَاشِمِيِّ مُحَمَّدٍ",
+      "transliteration": "ilahi bihaqqi alhashimiyyi muhammadin",
+      "translation": "O my God, (I beseech You) in the name of Muhammad, the Hashemite",
+      "urduTranslation": "میرے معبود! ہاشمی محمد مصطفیٰ کے واسطے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَحُرْمَةِ اطْهَارٍ هُمُ لَكَ خُضَّعُ",
+      "transliteration": "wa hurmati atharin humu laka khudda`u",
+      "translation": "and in the name of the sanctity of those Pure Ones who always submit to You.",
+      "urduTranslation": "اور ان پاکیزہ ہستیوں کے تقدس کے واسطے جو تیرے سامنے سرنگوں ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي بِحَقِّ ٱلْمُصْطَفَىٰ وَٱبْنِ عَمِّهِ",
+      "transliteration": "ilahi bihaqqi almustafa wabni `ammihi",
+      "translation": "O my God, (I beseech You) in the name of the Chosen Prophet, his cousin,",
+      "urduTranslation": "میرے معبود! مصطفیٰ اور ان کے چچا زاد (علیہ السلام) کے واسطے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَحُرْمَةِ ابْرَارٍ هُمُ لَكَ خُشَّعُ",
+      "transliteration": "wa hurmati abrarin humu laka khushsha`u",
+      "translation": "and the sanctity of the Pious Ones who are fearful of You.",
+      "urduTranslation": "اور ان نیک بندوں کے تقدس کے واسطے جو تیرے خوف سے جھکے ہوئے ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي فَانْشِرْنِي عَلَىٰ دِينِ احْمَدٍ",
+      "transliteration": "ilahi fa-anshirni `ala dini ahmadin",
+      "translation": "O my God, guide me to keep following the religion of Ahmad",
+      "urduTranslation": "میرے معبود! مجھے احمدِ مجتبیٰ کے دین پر قائم رکھ",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مُنِيباً تَقِيّاً قَانِتاً لَكَ اخْضَعُ",
+      "transliteration": "muniban taqiyyan qanitan laka akhda`u",
+      "translation": "with full submission, piety, obedience, and surrender to You.",
+      "urduTranslation": "رجوع کرنے والا، متقی اور فرمانبردار بنا کر تاکہ میں تیرے سامنے جھک سکوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ تَحْرِمَنِّي يَا إِلٰهِي وَسَيِّدِي",
+      "transliteration": "wa la tahrimanni ya ilahi wa sayyidi",
+      "translation": "Please, deprive me not, O my God and Master,",
+      "urduTranslation": "اور اے میرے معبود و آقا! مجھے محروم نہ کر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "شَفَاعَتَهُ ٱلْكُبْرَىٰ فَذَاكَ ٱلْمُشَفَّعُ",
+      "transliteration": "shafa`atahu alkubra fadhaka almushaffa`u",
+      "translation": "of his (i.e. Muhammad) great intercession, for he is the true interceder.",
+      "urduTranslation": "ان کی عظیم شفاعت سے کیونکہ وہی ہیں جن کی شفاعت قبول کی جاتی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَلِّ عَلَيْهِمْ مَا دَعَاكَ مُوَحِّدٌ",
+      "transliteration": "wa salli `alayhim ma da`aka muwahhidun",
+      "translation": "Please, send blessings to them as long as one believing in Your Oneness prays to You",
+      "urduTranslation": "اور ان پر رحمت نازل فرما جب تک کہ کوئی توحید پرست تجھے پکارتا رہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَنَاجَاكَ اخْيَارٌ بِبَابِكَ رُكَّعُ",
+      "transliteration": "wa najaka akhyarun bibabika rukka`u",
+      "translation": "and as long as pious people, kneeling down at Your door, implore You.",
+      "urduTranslation": "اور جب تک نیک بندے تیرے دروازے پر رکوع کرتے ہوئے تجھ سے راز و نیاز کرتے رہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِلٰهِي كَفَىٰ بِيَ عِزّاً انْ اكُونَ لَكَ عَبْداً",
+      "transliteration": "ilahi kafa biya `izzan an akuna laka `abdan",
+      "translation": "O my God, to be a servant of You is the ultimate of my honor",
+      "urduTranslation": "میرے معبود! میرے لیے یہی عزت کافی ہے کہ میں تیرا بندہ ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَكَفَىٰ بِيَ فَخْراً انْ تَكُونَ لِيَ رَبّاً",
+      "transliteration": "wa kafa biya fakhran an takuna li rabban",
+      "translation": "and Your being my Lord is the ultimate of my pride.",
+      "urduTranslation": "اور میرے لیے یہی فخر کافی ہے کہ تو میرا رب ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "انْتَ كَمَا احِبُّ فَٱجْعَلْنِي كَمَا تُحِبُّ",
+      "transliteration": "anta kama uhibbu faj`alni kama tuhibbu",
+      "translation": "As You are as exactly as I love, please make me as exactly as You love",
+      "urduTranslation": "تو ویسا ہی ہے جیسا میں چاہتا ہوں، سو مجھے ویسا بنا دے جیسا تو چاہتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

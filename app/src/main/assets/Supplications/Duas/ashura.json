@@ -1,0 +1,1026 @@
+{
+  "id": "ashura",
+  "title": "Ziyarat Ashura",
+  "titleUr": "زیارت عاشورہ",
+  "titleAr": "زيارة عاشوراء",
+  "category": "Holy Ziyarats",
+  "categoryUr": "زیارتیں",
+  "categoryAr": "الزيارات",
+  "description": "A powerful salutary prayer addressed to Imam Hussain (a.s.) and the holy martyrs of Karbala. Brings immense rewards, protection, and answer to complex prayers.",
+  "descriptionUr": "امام حسین (ع) اور شہدائے کربلا کو سلام پیش کرنے والی بڑی فضیلت والی زیارت۔ اس کی تلاوت میں اجر، حفاظت اور دعاؤں کے قبول ہونے کی امید کی جاتی ہے۔",
+  "descriptionAr": "زيارة عظيمة القدر يُسلَّم فيها على الإمام الحسين (ع) وشهداء كربلاء، ويُرجى بها الأجر العظيم والحفظ وإجابة الدعاء.",
+  "relevance": "Recited for high reward, spiritual proximity & relief from pain.",
+  "relevanceUr": "اجر و قربِ الٰہی اور تکلیفوں سے نجات کے لیے پڑھی جاتی ہے۔",
+  "relevanceAr": "تُقرأ لطلب الأجر والقرب إلى الله والفرج من الشدائد.",
+  "audioUrl": "https://mp3.duas.org/Ziyarat-Ashura-AbdulHai.mp3",
+  "lines": [
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا أبَا عَبْدِ اللهِ ،",
+      "translation": "Peace be on you, O Abu Abdullah!",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "السلام علیک یا اباعبدالله"
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا ابْنَ رَسُولِ اللهِ ،",
+      "translation": "Peace be on you, O son of the Apostle of Allah!",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "سلام بر تو ای فرزند رسول خدا"
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا ابْنَ أمِيرِ المُؤْمِنينَ ،",
+      "translation": "Peace be on you, O son of the commander of the faithfuls,",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "سلام بر تو ای فرزند امیرالمومنین(ع)"
+    },
+    {
+      "arabic": "وَابْنَ سَيِّدِ الوَصِيِّينَ ،",
+      "translation": "the forebear of the successors!",
+      "transliteration": "the forebear of the successors!",
+      "urduTranslation": "جانشینوں کی پیش گوئی!",
+      "farsiTranslation": "و پسر ارباب اولیاء،"
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا ابْنَ فاطِمَةَ سَيِّدَةِ نِساءِ العالَمِينَ ،",
+      "translation": "Peace be on you, O son of Fatimah, the choicest among the women of the worlds!",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "سلام بر تو ای پسر فاطمه، ای سرور زنان جهانیان."
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا ثَارَ اللهِ وابْنَ ثارِهِ وَالْوِتْرَ المَوْتُورَ ،",
+      "translation": "Peace be on you, O the select, surpassing, chosen in preference over all good of Allah, and son of Allah's (such) good.",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "سلام بر تو ای قیام خدا و فرزند طغیان او و ریسمان رانده."
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ وَعَلَى الأرواحِ الّتي حَلّتْ بِفِنائِكَ ،",
+      "translation": "Peace be on you, who was martyred while fighting heroically in the cause of Allah, the son of Allah's fearless warrior, you were isolated and had been attacked with a vengeance!",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "درود بر شما و ارواحى كه در هنگام مرگ بر شما وارد شدند."
+    },
+    {
+      "arabic": "وَأنَاخَتْ بِرحْلِك",
+      "translation": "Peace be on you and on those souls who had gathered in your camp, and strided along with you, in your journey.",
+      "transliteration": "Peace be on you and on those souls who had gathered in your camp, and strided along with you, in your journey.",
+      "urduTranslation": "آپ پر اور ان روحوں پر سلام ہو جو آپ کے خیمے میں جمع ہوئیں اور آپ کے سفر میں آپ کے ساتھ آگے بڑھیں ۔",
+      "farsiTranslation": "و از رفتنت پشیمان شد"
+    },
+    {
+      "arabic": "عَلَيْكُمْ مِنّي جَميعاً سَلامُ اللهِ أبَداً ما بَقِيتُ وَبَقِيَ الليْلُ وَالنَّهارُ.",
+      "translation": "I pray and invoke Allah to keep all of you tranquil and restful, for ever; so far I am alive, this is my prayer, and till nights and days follow each other.",
+      "transliteration": "Alaykum minni jami'an salamu-llahi abadan ma baqiytu wa baqiya al-laylu wan-nahar",
+      "urduTranslation": "تم سب پر میری طرف سے ہمیشہ خدا کا سلام ہو جب تک میں باقی ہوں اور رات اور دن باقی ہیں،",
+      "farsiTranslation": "درود خدا بر همه شما از جانب من تا ابد باقی بماند و بقیه شب و روز."
+    },
+    {
+      "arabic": "يَا أبَا عَبْدِ اللهِ ،",
+      "translation": "O Abu Abdullah!",
+      "transliteration": "Ya Aba 'Abdillah laqad 'adhumat ar-raziyyatu wa jallat wa 'adhumat al-musibatu bika 'alayna wa 'ala jami'i ahli-l-islam",
+      "urduTranslation": "اے ابا عبداللہؑ! بے شک آپ کی مصیبت بہت بڑی ہے اور آپ پر ہونے والا ظلم ہمارے لیے اور تمام اہل اسلام کے لیے بہت ہی بڑا اور سنگین ہے،",
+      "farsiTranslation": "ای اباعبدالله"
+    },
+    {
+      "arabic": "لَقَدْ عَظُمَتِ الرَّزِيَّةُ ، وجَلّتْ وعَظُمَتْ المُصِيبَةُ",
+      "translation": "unbearable is the sorrow, nerve-racking is the agony, you put up with,",
+      "transliteration": "unbearable is the sorrow, nerve-racking is the agony, you put up with,",
+      "urduTranslation": "ناقابلِ برداشت غم ہے، اعصاب کو توڑنا اذیت ہے، آپ برداشت کرتے ہیں،",
+      "farsiTranslation": "مصیبت بزرگ بوده است و مصیبت بزرگ بوده است."
+    },
+    {
+      "arabic": "بِكَ عَلَيْنا وَعَلَى جَمِيعِ أهْلِ الإسلام ،",
+      "translation": "for us and for all the (true) Muslims,",
+      "transliteration": "for us and for all the (true) Muslims,",
+      "urduTranslation": "ہمارے لیے اور تمام (سچے) مسلمانوں کے لیے،",
+      "farsiTranslation": "درود بر ما و همه اهل اسلام."
+    },
+    {
+      "arabic": "وَجَلَّتْ وَعَظُمَتْ مُصِيبَتُكَ فِي السَّمَوَاتِ عَلَى جَمِيعِ أهْلِ السَّمَوَاتِ ،",
+      "translation": "crimes committed against you also shocked and unnerved the dwellers of the heavens, one and all.",
+      "transliteration": "crimes committed against you also shocked and unnerved the dwellers of the heavens, one and all.",
+      "urduTranslation": "آپ کے خلاف کیے گئے جرائم نے آسمانوں کے باشندوں کو بھی چونکایا اور پریشان کیا، ایک اور سب کو ۔",
+      "farsiTranslation": "مصیبت تو در آسمانها بر همه اهل آسمان برتر و بزرگ است."
+    },
+    {
+      "arabic": "فَلَعَنَ اللهُ اُمَّةً أسَّسَتْ أساسَ الظُّلْمِ وَالجَوْرِ عَلَيْكُمْ أهْلَ البَيْتِ ،",
+      "translation": "May Allah condemn and damn the people who laid the basis and set up the groundwork, to wander astray and turn aside from not only you and your family but to take liberties and bear hard upon you.",
+      "transliteration": "Fa-la'anallahu ummatan assasat asaasa adh-dhulmi wal-jawri 'alaykum ahla al-bayt",
+      "urduTranslation": "پس اللہ کی لعنت ہو اس گروہ پر جس نے آپ پر اور آپ کے اہلِ بیتؑ پر ظلم و جور کی بنیاد رکھی۔",
+      "farsiTranslation": "لعنت خدا بر قومی که اساس ظلم و ستم را بر شما ای اهل بیت پیامبر بنا کردند."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ اُمَّةً دَفَعَتْكُمْ عَنْ مَقامِكُمْ",
+      "translation": "May Allah condemn and damn the people who tried to obscure and deny your office and status,",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "لعنت خدا بر ملتی که شما را از جایگاهتان دور کردند."
+    },
+    {
+      "arabic": "وَأزالَتْكُمْ عَنْ مَراتِبِكُمُ الّتِي رَتَّبَكُمُ اللهُ فِيها ،",
+      "translation": "willfully neglected your rank and class Allah had made know in clear terms.",
+      "transliteration": "willfully neglected your rank and class Allah had made know in clear terms.",
+      "urduTranslation": "جان بوجھ کر آپ کے درجے اور طبقے سے غفلت برتتے ہوئے اللہ نے واضح الفاظ میں آپ کو آگاہ کر دیا تھا ۔",
+      "farsiTranslation": "و شما را از درجاتی که خداوند شما را در آن قرار داده است حذف کرد."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ اُمَّةً قَتَلَتْكُمْ ،",
+      "translation": "May Allah condemn and damn the people who killed you.",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "لعنت خدا بر ملتی که شما را کشتند."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ الْمُمَهِّدِينَ لَهُمْ بِالتَّمْكِينِ مِنْ قِتالِكُمْ ،",
+      "translation": "May Allah condemn and damn the abettors who instigated and had a part in your murder.",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "خدا لعنت کند کسانی را که راه را برای مبارزه با شما هموار می کنند."
+    },
+    {
+      "arabic": "بَرِئْتُ إلى اللهِ وَإلَيْكُمْ مِنْهُمْ",
+      "translation": "I turn to you and Allah, away from them,",
+      "transliteration": "Bari'tu ila-llahi wa ilaykum minhum wa ataqarrabu ila-llahi thumma ilaykum bi-muwalatikum wa muwalati waliyyikum",
+      "urduTranslation": "میں اللہ اور آپ کی بارگاہ میں ان سے بیزاری ظاہر کرتا ہوں، اور اللہ کا اور پھر آپ کا قرب حاصل کرتا ہوں آپ کی اور آپ کے دوستوں کی ولایت کے ذریعے۔",
+      "farsiTranslation": "من در پیشگاه خدا و در پیشگاه آنان پاک شده ام"
+    },
+    {
+      "arabic": "وَمِنْ أشْياعِهِمْ وَأتْباعِهِمْ وَأوْلِيائِهِمْ.",
+      "translation": "their henchmen, their followers and their friends,",
+      "transliteration": "their henchmen, their followers and their friends,",
+      "urduTranslation": "ان کے لونڈی، ان کے پیروکار اور ان کے دوست،",
+      "farsiTranslation": "در میان پیروان و پیروان و اولیای آنها."
+    },
+    {
+      "arabic": "يَا أبَا عَبْدِ اللهِ ،",
+      "translation": "O Abu Abdullah,",
+      "transliteration": "Ya Aba 'Abdillah laqad 'adhumat ar-raziyyatu wa jallat wa 'adhumat al-musibatu bika 'alayna wa 'ala jami'i ahli-l-islam",
+      "urduTranslation": "اے ابا عبداللہؑ! بے شک آپ کی مصیبت بہت بڑی ہے اور آپ پر ہونے والا ظلم ہمارے لیے اور تمام اہل اسلام کے لیے بہت ہی بڑا اور سنگین ہے،",
+      "farsiTranslation": "ای اباعبدالله"
+    },
+    {
+      "arabic": "إنِّي سِلْمٌ لِمَنْ سالَمَكُمْ ،",
+      "translation": "I make peace with those who make their peace with you,",
+      "transliteration": "Inni silmun liman salamakum wa harbun liman harabakum wa waliyyun liman walakum wa 'aduwwun liman 'adakum",
+      "urduTranslation": "بے شک میں صلح میں ہوں اس سے جو آپ سے صلح کرے، جنگ میں ہوں اس سے جو آپ سے جنگ کرے، دوست ہوں اس کا جو آپ سے محبت کرے، اور دشمن ہوں اس کا جو آپ سے دشمنی کرے۔",
+      "farsiTranslation": "من با کسانی که با شما در صلح هستند در صلح هستم."
+    },
+    {
+      "arabic": "وَحَرْبٌ لِمَنْ حارَبَكُمْ",
+      "translation": "I make war on those who go to war against you,",
+      "transliteration": "I make war on those who go to war against you,",
+      "urduTranslation": "میں ان لوگوں کے خلاف جنگ کرتا ہوں جو آپ کے خلاف جنگ کرنے جاتے ہیں،",
+      "farsiTranslation": "و جنگ برای کسانی که با شما جنگ می کنند"
+    },
+    {
+      "arabic": "وَوليٌ لِمَنْ والاكُم",
+      "translation": "I am his friend who is a friend of yours,",
+      "transliteration": "I am his friend who is a friend of yours,",
+      "urduTranslation": "اور میں اس کا دوست ہوں جو تم سے دوستی رکھتا ہے",
+      "farsiTranslation": "نگهبان کسانی که به شما وفادارند"
+    },
+    {
+      "arabic": "وعدوٌّ لِمَنْ عَاداكُمْ إلى يَوْمِ القِيامَةِ ،",
+      "translation": "And Iam his enemy who shows enemity towards you, till the Day of Judgement.",
+      "transliteration": "And Iam his enemy who shows enemity towards you, till the Day of Judgement.",
+      "urduTranslation": "اور میں اس کا دشمن ہوں جو قیامت کے دن تک تجھ سے عداوت رکھتا ہے ۔",
+      "farsiTranslation": "و دشمن دشمنان شما تا روز قیامت،"
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ آل زِيَاد وَآلَ مَرْوانَ ،",
+      "translation": "May Allah condemn and damn the family of Ziyaad and the family of Marwaan;",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "لعنت خدا بر خاندان زیاد و خاندان مروان باد."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ بَنِي اُمَيَّةَ قاطِبَةً ،",
+      "translation": "may Allah condemn and damn the group and the tribe of Umayyah, one and all, altogether;",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "خداوند همه بنی امیه را لعنت کند."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ ابْنَ مَرْجانَةَ ،",
+      "translation": "may Allah condemn and damn the son of Marjaanah;",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "لعنت خدا بر ابن مرجانه باد."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ عُمَرَ بْنَ سَعْد ،",
+      "translation": "may Allah condemn and damn Umar son of Saad;",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "خداوند عمر بن سعد را لعنت کند"
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ شِمْراً ،",
+      "translation": "may Allah condemn and damn Shimr;",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "خدا شمرا را لعنت کند."
+    },
+    {
+      "arabic": "وَلَعَنَ اللهُ اُمَّةً أسْرَجَتْ وَألْجَمَتْ وَتَهيّأتْ وَتَنَقَّبَتْ لِقِتالِكَ ،",
+      "translation": "may Allah condemn and damn the people who bridled the horses and errected the saddles for your martyrdom.",
+      "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+      "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔",
+      "farsiTranslation": "لعنت خدا بر ملتی که زین و لگام می زند و خود را آماده می کند و خود را برای جنگ با شما آماده می کند."
+    },
+    {
+      "arabic": "بِأبِي أنْتَ وَاُمِّي لَقَدْ عَظُمَ مُصابِي بِكَ ،",
+      "translation": "I, my father and mother are at your disposal. Profound is my sorrow for you.",
+      "transliteration": "I, my father and mother are at your disposal. Profound is my sorrow for you.",
+      "urduTranslation": "میں، میرے والد اور والدہ آپ کے اختیار میں ہیں ۔ آپ کے لئے میرا غم گہرا ہے ۔",
+      "farsiTranslation": "تو و مادرم، رنج من به خاطر تو بزرگ است."
+    },
+    {
+      "arabic": "فَأسْالُ اللهَ الّذِي أكْرَمَ مَقامَكَ ، وَأكْرَمَنِي بِكَ ،",
+      "translation": "I beg Allah, who honoured you above others, to be generous towards me on account of you,",
+      "transliteration": "I beg Allah, who honoured you above others, to be generous towards me on account of you,",
+      "urduTranslation": "میں اللہ سے التجا کرتا ہوں، جس نے آپ کو دوسروں سے زیادہ عزت دی، کہ آپ کی وجہ سے مجھ پر سخاوت کریں،",
+      "farsiTranslation": "پس از خداوندی که مقام تو را گرامی داشت و به واسطه تو مرا گرامی داشت می خواهم."
+    },
+    {
+      "arabic": "أنْ يَرْزُقَني طَلَبَ ثارِكَ مَعَ إمام مَنْصُور",
+      "translation": "and give me the opportunity to be with the victorious Imam, at the time of the final and decisive war against Allah's enemies.",
+      "transliteration": "and give me the opportunity to be with the victorious Imam, at the time of the final and decisive war against Allah's enemies.",
+      "urduTranslation": "اور مجھے اللہ کے دشمنوں کے خلاف آخری اور فیصلہ کن جنگ کے وقت فاتح امام کے ساتھ رہنے کا موقع فراہم کریں ۔",
+      "farsiTranslation": "خواهش دشمنانت را با امام منصور به من برسان."
+    },
+    {
+      "arabic": "مِنْ أهْلِ بَيْتِ مُحَمَّد صَلّى الله عَلَيْهِ وَآلِهِ.",
+      "translation": "the descendent of Mohammad (blessings and peace be on him and on his children from Allah)",
+      "transliteration": "the descendent of Mohammad (blessings and peace be on him and on his children from Allah)",
+      "urduTranslation": "محمد (صلی اللہ علیہ وسلم اور ان کی اولاد پر اللہ کی طرف سے درود و سلام ہو) کی اولاد",
+      "farsiTranslation": "از آل محمد صلی الله علیه و آله و سلم."
+    },
+    {
+      "arabic": "اللهمّ اجْعَلْني عِنْدَكَ وَجِيهاً بِالحُسَيْنِ عَلَيهِ السَّلام",
+      "translation": "O my Allah make me attend to Your cause, sincerely, in every respect following in Husayn's footsteps,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا مرا به واسطه حسین علیه السلام شایسته احترام خود قرار ده."
+    },
+    {
+      "arabic": "الدُّنْيا وَالآخِرَةِ مِنَ المقَرّبينْ .",
+      "translation": "in this world and the hereafter.",
+      "transliteration": "in this world and the hereafter.",
+      "urduTranslation": "دنیا اور آخرت میں ۔",
+      "farsiTranslation": "دنیا و آخرت از مقربان است."
+    },
+    {
+      "arabic": "يَا أبَا عَبْدِ اللهِ ،",
+      "translation": "O Abu Abdullah,",
+      "transliteration": "Ya Aba 'Abdillah laqad 'adhumat ar-raziyyatu wa jallat wa 'adhumat al-musibatu bika 'alayna wa 'ala jami'i ahli-l-islam",
+      "urduTranslation": "اے ابا عبداللہؑ! بے شک آپ کی مصیبت بہت بڑی ہے اور آپ پر ہونے والا ظلم ہمارے لیے اور تمام اہل اسلام کے لیے بہت ہی بڑا اور سنگین ہے،",
+      "farsiTranslation": "ای اباعبدالله"
+    },
+    {
+      "arabic": "إنِّي أتَقَرَّبُ إلى اللهِ تعالى ، وَإلَى رَسُولِهِ ،",
+      "translation": "I pray and invoke Allah to send blessings on you. I come nearer and seek greater intimacy with Allah, with His Apostle,",
+      "transliteration": "I pray and invoke Allah to send blessings on you. I come nearer and seek greater intimacy with Allah, with His Apostle,",
+      "urduTranslation": "میں دعا کرتا ہوں اور اللہ سے دعا کرتا ہوں کہ وہ آپ پر برکتیں نازل کرے ۔ میں قریب آتا ہوں اور اللہ کے ساتھ، اس کے رسول کے ساتھ زیادہ قربت چاہتا ہوں،",
+      "farsiTranslation": "به خدای متعال و رسولش نزدیکتر می شوم."
+    },
+    {
+      "arabic": "وَإلى أمِيرِ المُؤْمِنينَ ، وَإلَى فاطِمَةَ ،",
+      "translation": "with Ameerul Moomineen, with Fatimah,",
+      "transliteration": "with Ameerul Moomineen, with Fatimah,",
+      "urduTranslation": "امیر المومنین کے ساتھ، فاطمہ کے ساتھ،",
+      "farsiTranslation": "و به امیرالمؤمنین و به فاطمه"
+    },
+    {
+      "arabic": "وإلى الحَسَنِ وَإلَيْكَ بِمُوالاتِكَ ،",
+      "translation": "with Hasan and with you, with the help of your love and patronage,",
+      "transliteration": "with Hasan and with you, with the help of your love and patronage,",
+      "urduTranslation": "حسن کے ساتھ اور آپ کے ساتھ، آپ کی محبت اور سرپرستی کی مدد سے،",
+      "farsiTranslation": "و به خوبان و به تو با وفاداریت،"
+    },
+    {
+      "arabic": "ومُوالاةِ أَوليائِك وَبِالْبَرَاءَةِ مِمَّنْ قَاتَلَكَ وَنَصبَ لَكَ الحَربَ ،",
+      "translation": "cutting off every connection with those who took up arms against you and killed you.",
+      "transliteration": "cutting off every connection with those who took up arms against you and killed you.",
+      "urduTranslation": "ان لوگوں کے ساتھ ہر تعلق منقطع کرنا جنہوں نے آپ کے خلاف ہتھیار اٹھائے اور آپ کو قتل کیا ۔",
+      "farsiTranslation": "وفاداری به دوستانت و انکار کسانی که با تو جنگیدند و با تو جنگ کردند."
+    },
+    {
+      "arabic": "وبالْبَرَاءةِ مِمَّنْ أسَّسَ أساسَ الظُّلْمِ وَالجَوْرِ عَلَيْكُمْ ،",
+      "translation": "I disconnect all links with those who, in the beginning, took the first steps to take liberties with and bear hard upon you,",
+      "transliteration": "Wa bil-bara'ati mimman assasat asaasa dhalika wa bana 'alayhi bunyanahu wa jara fi dhulmihi wa jawrihi 'alaykum wa 'ala ashya'ikum",
+      "urduTranslation": "اور براءت اور بیزاری کے ساتھ اس شخص سے جس نے اس ظلم کی بنیاد رکھی اور اس پر تعمیر کی، اور آپ پر اور آپ کے شیعوں پر اپنے ظلم و ستم کو جاری رکھا۔",
+      "farsiTranslation": "با تبرئه کسانی که پایه ظلم و ستم را در حق شما برپا کردند،"
+    },
+    {
+      "arabic": "وَعلى أشياعِكُم وَأبْرَأُ إلى اللهِ وَإلى رَسُولِهِ",
+      "translation": "I take refuge with Allah and His Apostle (blessings of Allah be on him and on his children),",
+      "transliteration": "I take refuge with Allah and His Apostle (blessings of Allah be on him and on his children),",
+      "urduTranslation": "میں اللہ اور اس کے رسول (صلی اللہ علیہ وآلہ وسلم) کی پناہ مانگتا ہوں،",
+      "farsiTranslation": "و به سوی پیروان تو، و به سوی خدا و رسولش باز می گردم."
+    },
+    {
+      "arabic": "وَبِالبراءِةِ مِمَّنْ أسَّسَ أساسَ ذلِكَ ،",
+      "translation": "free from the guilt of associating with those who laid the foundation for (your suffering),",
+      "transliteration": "Wa bil-bara'ati mimman assasat asaasa dhalika wa bana 'alayhi bunyanahu wa jara fi dhulmihi wa jawrihi 'alaykum wa 'ala ashya'ikum",
+      "urduTranslation": "اور براءت اور بیزاری کے ساتھ اس شخص سے جس نے اس ظلم کی بنیاد رکھی اور اس پر تعمیر کی، اور آپ پر اور آپ کے شیعوں پر اپنے ظلم و ستم کو جاری رکھا۔",
+      "farsiTranslation": "و با تبرئه کسانی که مبنای این کار را ایجاد کردند،"
+    },
+    {
+      "arabic": "وَبَنى عَلَيْهِ بُنْيانَهُ ،",
+      "translation": "devised and carried out their corrupt plan of action,",
+      "transliteration": "devised and carried out their corrupt plan of action,",
+      "urduTranslation": "اپنے کرپٹ پلان آف ایکشن کو وضع کیا اور اس پر عمل کیا،",
+      "farsiTranslation": "و ساختمان خود را بر آن بنا کرد،"
+    },
+    {
+      "arabic": "وَجَرَى في ظُلْمِهِ وَجَوْرِهِ عَلَيْكُمْ وَعَلَى أشْياعِكُمْ ،",
+      "translation": "boldly gave currency to reign of terror and cruelty to oppress you and your friends and followers;",
+      "transliteration": "boldly gave currency to reign of terror and cruelty to oppress you and your friends and followers;",
+      "urduTranslation": "دلیرانہ طور پر آپ اور آپ کے دوستوں اور پیروکاروں پر ظلم کرنے کے لئے دہشت اور ظلم کی حکمرانی کے لئے کرنسی دی ؛",
+      "farsiTranslation": "و ظلم و ستم او بر تو و پیروانت وارد شد."
+    },
+    {
+      "arabic": "بَرِئْتُ إلى اللهِ وَإلَيْكُمْ مِنْهُمْ ،",
+      "translation": "I detach myself from them and present myself to Allah and to you,",
+      "transliteration": "Bari'tu ila-llahi wa ilaykum minhum wa ataqarrabu ila-llahi thumma ilaykum bi-muwalatikum wa muwalati waliyyikum",
+      "urduTranslation": "میں اللہ اور آپ کی بارگاہ میں ان سے بیزاری ظاہر کرتا ہوں، اور اللہ کا اور پھر آپ کا قرب حاصل کرتا ہوں آپ کی اور آپ کے دوستوں کی ولایت کے ذریعے۔",
+      "farsiTranslation": "من در پیشگاه خدا و در پیشگاه آنان پاک شده ام،"
+    },
+    {
+      "arabic": "وَأتَقَرَّبُّ إلى اللهِ وَإلى رَسولِهِ",
+      "translation": "I (first) seek greater intimacy with Allah and then with you to win your love and patronage,",
+      "transliteration": "I (first) seek greater intimacy with Allah and then with you to win your love and patronage,",
+      "urduTranslation": "میں (پہلے) اللہ کے ساتھ اور پھر آپ کی محبت اور سرپرستی حاصل کرنے کے لیے آپ کے ساتھ زیادہ قربت چاہتا ہوں،",
+      "farsiTranslation": "به خدا و رسولش نزدیکتر می شوم"
+    },
+    {
+      "arabic": "ثُمَّ إلَيْكُمْ بِمُوالاتِكُم وَمُوالاةِ وَلِيِّكُمْ ،",
+      "translation": "and to make friends with your friends,",
+      "transliteration": "and to make friends with your friends,",
+      "urduTranslation": "اور اپنے دوستوں سے دوستی کرنا،",
+      "farsiTranslation": "سپس به تو، با وفاداری و وفاداریت به ولی خود،"
+    },
+    {
+      "arabic": "وَبِالْبَرَاءَةِ مِنْ أعْدائِكُمْ ،وَالنَّاصِبِينَ لَكُم الحَرْبَ ،",
+      "translation": "cut off all links with your enemies, and with those who planted the seeds of hostility against you,",
+      "transliteration": "Wa bil-bara'ati mimman assasat asaasa dhalika wa bana 'alayhi bunyanahu wa jara fi dhulmihi wa jawrihi 'alaykum wa 'ala ashya'ikum",
+      "urduTranslation": "اور براءت اور بیزاری کے ساتھ اس شخص سے جس نے اس ظلم کی بنیاد رکھی اور اس پر تعمیر کی، اور آپ پر اور آپ کے شیعوں پر اپنے ظلم و ستم کو جاری رکھا۔",
+      "farsiTranslation": "و با برائت از دشمنانت و کسانی که با تو می جنگند،"
+    },
+    {
+      "arabic": "وَبِالبَرَاءَةِ مِنْ أشْياعِهِمْ وَأتْباعِهِمْ ،",
+      "translation": "and reject and discard their associates, their followers and their friends.",
+      "transliteration": "Wa bil-bara'ati mimman assasat asaasa dhalika wa bana 'alayhi bunyanahu wa jara fi dhulmihi wa jawrihi 'alaykum wa 'ala ashya'ikum",
+      "urduTranslation": "اور براءت اور بیزاری کے ساتھ اس شخص سے جس نے اس ظلم کی بنیاد رکھی اور اس پر تعمیر کی، اور آپ پر اور آپ کے شیعوں پر اپنے ظلم و ستم کو جاری رکھا۔",
+      "farsiTranslation": "و با انکار پیروان و پیروان خود،"
+    },
+    {
+      "arabic": "يا أبا عَبدِ الله",
+      "translation": "O Abu Abdillah.",
+      "transliteration": "Ya Aba 'Abdillah laqad 'adhumat ar-raziyyatu wa jallat wa 'adhumat al-musibatu bika 'alayna wa 'ala jami'i ahli-l-islam",
+      "urduTranslation": "اے ابا عبداللہؑ! بے شک آپ کی مصیبت بہت بڑی ہے اور آپ پر ہونے والا ظلم ہمارے لیے اور تمام اہل اسلام کے لیے بہت ہی بڑا اور سنگین ہے،",
+      "farsiTranslation": "ای اباعبدالله"
+    },
+    {
+      "arabic": "إنِّي سِلْمٌ لِمَنْ سالَمَكُمْ ،",
+      "translation": "I make peace with those who made their peace with you,",
+      "transliteration": "Inni silmun liman salamakum wa harbun liman harabakum wa waliyyun liman walakum wa 'aduwwun liman 'adakum",
+      "urduTranslation": "بے شک میں صلح میں ہوں اس سے جو آپ سے صلح کرے، جنگ میں ہوں اس سے جو آپ سے جنگ کرے، دوست ہوں اس کا جو آپ سے محبت کرے، اور دشمن ہوں اس کا جو آپ سے دشمنی کرے۔",
+      "farsiTranslation": "من با کسانی که با شما در صلح هستند در صلح هستم."
+    },
+    {
+      "arabic": "وَحَرْبٌ لِمَنْ حارَبَكُمْ ،",
+      "translation": "I search out and confront those who waged war against you,",
+      "transliteration": "I search out and confront those who waged war against you,",
+      "urduTranslation": "میں آپ کے خلاف جنگ لڑنے والوں کی تلاش اور ان کا مقابلہ کرتا ہوں،",
+      "farsiTranslation": "و جنگ برای کسانی که با شما می جنگند،"
+    },
+    {
+      "arabic": "وَوَلِيٌّ لِمَنْ والاكُمْ ،",
+      "translation": "I make friends with those who stood by you,",
+      "transliteration": "I make friends with those who stood by you,",
+      "urduTranslation": "میں ان لوگوں سے دوستی کرتا ہوں جو آپ کے ساتھ کھڑے تھے،",
+      "farsiTranslation": "و نگهبانی برای کسانی که به تو وفادارند،"
+    },
+    {
+      "arabic": "وَعَدُوٌّ لِمَنْ عاداكُمْ ،",
+      "translation": "I strive against those who came in conflict with you, therefore,",
+      "transliteration": "I strive against those who came in conflict with you, therefore,",
+      "urduTranslation": "میں ان لوگوں کے خلاف جدوجہد کرتا ہوں جو آپ کے ساتھ تنازعہ میں آئے تھے، لہذا،",
+      "farsiTranslation": "و دشمن کسانی که با شما دشمنی می کنند،"
+    },
+    {
+      "arabic": "فَأسْألُ اللهَ الّذِي أكْرَمَني بِمَعْرِفَتِكُمْ ، وَمَعْرِفَةِ أوْلِيائِكُمْ ،",
+      "translation": "I make a request to Allah to acquaint (me) with the awareness that perceives you and your friends,",
+      "transliteration": "Fa-as'alullaha al-ladhi akramani bi-ma'rifatikum wa ma'rifati awliya'ikum wa razaqani al-bara'ata min a'da'ikum",
+      "urduTranslation": "پس میں سوال کرتا ہوں اس اللہ سے جس نے مجھے آپ کی اور آپ کے اولیاء کی معرفت کے ذریعے عزت دی، اور مجھے آپ کے دشمنوں سے بیزاری کی توفیق عطا کی۔",
+      "farsiTranslation": "پس از خداوندی که مرا به علم تو و علم اولیای تو گرام داشته است، می خواهم."
+    },
+    {
+      "arabic": "وَرَزَقَني البَراءَةَ مِنْ أعْدائِكُمْ ،",
+      "translation": "to set me free from the corrupting influence of your enemies,",
+      "transliteration": "to set me free from the corrupting influence of your enemies,",
+      "urduTranslation": "مجھے اپنے دشمنوں کے بدعنوانی کے اثر سے آزاد کرنے کے لئے،",
+      "farsiTranslation": "و مرا از دشمنانت برائت بخشید"
+    },
+    {
+      "arabic": "أنْ يَجْعَلَني مَعَكُمْ في الدُّنْيا وَالآخِرَةِ ،",
+      "translation": "to make me keep company with you in this would and in the Hereafter,",
+      "transliteration": "An yaj'alani ma'akum fid-dunya wal-akhirah wa an yuthabbita li 'indakum qadama sidqin fid-dunya wal-akhirah",
+      "urduTranslation": "کہ وہ مجھے دنیا اور آخرت میں آپ کے ساتھ رکھے، اور مجھے آپ کے نزدیک سچائی اور استقامت پر ثابت قدم رکھے دنیا اور آخرت میں۔",
+      "farsiTranslation": "تا مرا در دنیا و آخرت با تو بسازم"
+    },
+    {
+      "arabic": "وَأنْ يُثَبِّتَ لي عِنْدَكُمْ قَدَمَ صِدْق في الدُّنْيا وَالآخِرَةِ ،",
+      "translation": "stand firm beside you and follow your footsteps closely in this world and in the next world.",
+      "transliteration": "stand firm beside you and follow your footsteps closely in this world and in the next world.",
+      "urduTranslation": "اپنے ساتھ مضبوطی سے کھڑے ہوں اور اس دنیا میں اور اگلی دنیا میں اپنے نقش قدم پر قریب سے چلیں ۔",
+      "farsiTranslation": "و براى من مقام راستى را در دنيا و آخرت نزد تو ثابت كن."
+    },
+    {
+      "arabic": "وَأسْألُهُ أنْ يُبَلِّغَنِي الْمقامَ الْمَحْمُودَ لَكُمْ عِنْدَ اللهِ ،",
+      "translation": "I beseech Him that he helps me to reach your highly praised station, given to you by Allah, (to meet you),",
+      "transliteration": "Wa as'aluhu an yuballighani al-maqama al-mahmuda lakum 'indallahi wa an yarzuqani talaba thari ma'a imami hudan dhahirin natiqin bil-haqqi minkum",
+      "urduTranslation": "اور میں اس سے سوال کرتا ہوں کہ مجھے آپ کے نزدیک تعریف کی گئی بلند منزل (مقامِ محمود) پر پہنچائے، اور مجھے آپ میں سے ایک ہدایت یافتہ، ظاہر اور حق بولنے والے امام کے ہمراہ اپنے خون کا بدلہ لینے کی توفیق دے۔",
+      "farsiTranslation": "از او می خواهم که مقام ستوده تو را نزد خداوند به من برساند."
+    },
+    {
+      "arabic": "وَأنْ يَرْزُقَنِي طَلَبَ ثَارِي مَعَ إمَام مَهْدِيٍّ ظَاهِر نَاطِق بالحقِّ مِنْكُمْ ،",
+      "translation": "He provides me the opportunity to fight for justice and fairplay alongwith and under the leadership of the rightly guided guide (in your progeny) who surely will come and speak the truth.",
+      "transliteration": "He provides me the opportunity to fight for justice and fairplay alongwith and under the leadership of the rightly guided guide (in your progeny) who surely will come and speak the truth.",
+      "urduTranslation": "وہ مجھے انصاف اور انصاف کے لئے لڑنے کا موقع فراہم کرتا ہے اور صحیح رہنمائی کرنے والے رہنما (آپ کی اولاد میں) کی قیادت میں جو یقیناً آئے گا اور سچ بولے گا ۔",
+      "farsiTranslation": "و به من این حق را عطا کن که انتقام خود را از امام مهدی آشکاری که از میان شما راست می گوید، بگیرم."
+    },
+    {
+      "arabic": "وَأسْألُ اللهَ بِحَقِّكُمْ وَبِالشَّأنِ الَّذِي لَكُمْ عِنْدَهُ",
+      "translation": "I beseech Allah in the name of your right and the purpose He assigned to you,",
+      "transliteration": "Wa as'aluhu an yuballighani al-maqama al-mahmuda lakum 'indallahi wa an yarzuqani talaba thari ma'a imami hudan dhahirin natiqin bil-haqqi minkum",
+      "urduTranslation": "اور میں اس سے سوال کرتا ہوں کہ مجھے آپ کے نزدیک تعریف کی گئی بلند منزل (مقامِ محمود) پر پہنچائے، اور مجھے آپ میں سے ایک ہدایت یافتہ، ظاہر اور حق بولنے والے امام کے ہمراہ اپنے خون کا بدلہ لینے کی توفیق دے۔",
+      "farsiTranslation": "و از خداوند حق تو و آنچه با او داری می خواهم."
+    },
+    {
+      "arabic": "أنْ يُعْطِيَنِي بِمُصابِي بِكُمْ أفْضَلَ ما يُعْطِي مصاباً بِمُصِيبَتِهِ ،",
+      "translation": "that He overwhelms me with grief in memory of your sorrows, more than the personal grief that torments any one who is in great agony,",
+      "transliteration": "that He overwhelms me with grief in memory of your sorrows, more than the personal grief that torments any one who is in great agony,",
+      "urduTranslation": "کہ وہ آپ کے غموں کی یاد میں مجھے غم سے بھر دیتا ہے، اس ذاتی غم سے زیادہ جو کسی کو بھی سخت تکلیف دیتا ہے،",
+      "farsiTranslation": "تا بهترین چیزی را که به کسی که به مصیبت او می دهد به من بدهد."
+    },
+    {
+      "arabic": "يا لَها منْ مُصِيبَة مَا أعْظَمَها وَأعْظَمَ رَزِيّتهَا فِي الإسلام",
+      "translation": "sorrows which have no parallel and overshadow all calamities that took place in the history of Islam,",
+      "transliteration": "sorrows which have no parallel and overshadow all calamities that took place in the history of Islam,",
+      "urduTranslation": "وہ غم جن کا کوئی متوازی نہیں ہے اور جو اسلام کی تاریخ میں پیش آنے والی تمام آفات پر سایہ کرتے ہیں،",
+      "farsiTranslation": "چه مصیبت بزرگ و چه رسوایی بزرگ در اسلام."
+    },
+    {
+      "arabic": "وَفِي جَمِيعِ أهلِ السَّموَاتِ وَالارْضِ .",
+      "translation": "for that matter, through out the whole universe.",
+      "transliteration": "for that matter, through out the whole universe.",
+      "urduTranslation": "اس معاملے کے لئے، پوری کائنات کے ذریعے ۔",
+      "farsiTranslation": "و در تمام اهل آسمانها و زمین."
+    },
+    {
+      "arabic": "اللهُمَّ اجْعَلْني في مَقامِي هذا مِمَّن تَنالُهُ مِنْكَ",
+      "translation": "O my Allah, in my on the spot situation, treat me like him (or her) who obtains from You",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا مرا در این مقام از کسانی که از تو به دست آورده ام قرار ده."
+    },
+    {
+      "arabic": "صَلَواتٌ وَرَحْمَةٌ وَمَغْفِرَةٌ .",
+      "translation": "(Your) blessings, mercy and forgiveness.",
+      "transliteration": "(Your) blessings, mercy and forgiveness.",
+      "urduTranslation": "(تیری) برکتیں، رحمت اور مغفرت ۔",
+      "farsiTranslation": "دعا و رحمت و مغفرت."
+    },
+    {
+      "arabic": "اللهُمَّ اجْعَلْ مَحْيايَ مَحْيا مُحَمَّد وَآلِ مُحَمَّد ،",
+      "translation": "O my Allah, bring me to life again, after death, in the place Mohammad and his \"Aal\" (children) are dwelling,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا جانم را زندگی محمد و آل محمد قرار ده."
+    },
+    {
+      "arabic": "وَمَماتي مَماتَ مُحَمَّد وَآل مُحَمَّد .",
+      "translation": "make me depart from this world like Mohammad and his \"Aal\" (children) had left,",
+      "transliteration": "make me depart from this world like Mohammad and his \"Aal\" (children) had left,",
+      "urduTranslation": "مجھے محمد اور اس کے \"علل\" (بچوں) کی طرح اس دنیا سے رخصت کر دے،",
+      "farsiTranslation": "و مرگ من مرگ محمد و آل اوست."
+    },
+    {
+      "arabic": "اللهُمَّ إنَّ هَذا يَوْمٌ تَبَرَّكَتْ بِهِ بَنُو اُمَيَّةَ وَابْنُ آكِلَةِ الاكْبادِ ،",
+      "translation": "O my Allah this day is a day of rejoicing for the \"Bani Umayyah\", the herd of hardened criminals,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا این روزی است که در آن روز بنی امیه و پسر جگر خواران برکت یافته است."
+    },
+    {
+      "arabic": "اللعِينُ بْنُ اللعِينِ عَلَى لِسانِكَ وَلِسانِ نَبِيِّكَ صَلّى الله عَلَيْهِ وَآلِهِ",
+      "translation": "the eternally damned and accursed group, a fact that had been made public by You and by Your Prophet (blessings of Allah be on him and on his children),",
+      "transliteration": "the eternally damned and accursed group, a fact that had been made public by You and by Your Prophet (blessings of Allah be on him and on his children),",
+      "urduTranslation": "دائمی طور پر ملعون اور ملعون گروہ، ایک ایسی حقیقت جو آپ اور آپ کے نبی (صلی اللہ علیہ وآلہ وسلم) کی طرف سے عام کی گئی تھی،",
+      "farsiTranslation": "ملعون، پسر ملعون، بر زبان تو و بر زبان پیامبرت صلوات الله علیه و آله."
+    },
+    {
+      "arabic": "في كُلِّ مَوْطِن وَمَوْقِف وَقَفَ فِيهِ نَبيُّكَ - صَلّى الله عَلَيْهِ وَآلِهِ - .",
+      "translation": "who, in every place and at all occasions, drew attention of people to this truism.",
+      "transliteration": "who, in every place and at all occasions, drew attention of people to this truism.",
+      "urduTranslation": "جس نے ہر جگہ اور ہر موقع پر لوگوں کی توجہ اس سچائی کی طرف مبذول کرائی ۔",
+      "farsiTranslation": "در هر مکان و موقعیتی که پیامبر شما - صلی الله علیه و آله - در آن جا ایستاد."
+    },
+    {
+      "arabic": "اللهُمَّ الْعَنْ أبَا سُفْيانَ وَمُعَاوِيَةَ",
+      "translation": "O my Allah condemn and damn Abu Sufyaan, and Muawa'awiyah,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا ابوسفیان و معاویه را لعنت کن"
+    },
+    {
+      "arabic": "وَيَزيدَ بْنَ مُعَاوِيَةَ",
+      "translation": "son of Muwa'awiyah",
+      "transliteration": "son of Muwa'awiyah",
+      "urduTranslation": "معاویہ کا بیٹا",
+      "farsiTranslation": "و یزید بن معاویه"
+    },
+    {
+      "arabic": "وآلَ مَرْوَانَ عَلَيْهِمْ مِنْكَ اللعْنَةُ أبَدَ الآبِدِينَ ،",
+      "translation": "and let it be an everlasting curse upon tem from You.",
+      "transliteration": "and let it be an everlasting curse upon tem from You.",
+      "urduTranslation": "اور یہ تیری طرف سے ابدی لعنت ہو ۔",
+      "farsiTranslation": "لعنت تو بر خاندان مروان تا ابدالاباد باد."
+    },
+    {
+      "arabic": "وَهذا يَوْمٌ فَرِحَتْ بِهِ آلُ زِيَاد وَآلُ مَرْوانَ",
+      "translation": "Today the descendants of Ziyaad and Marwan make merry,",
+      "transliteration": "Today the descendants of Ziyaad and Marwan make merry,",
+      "urduTranslation": "آج ضیاء اور مروان کی اولاد خوشی منا رہی ہے،",
+      "farsiTranslation": "این روزی است که خاندان زیاد و خاندان مروان در آن شادی کردند."
+    },
+    {
+      "arabic": "عَليهِمُ اللَّعْنةُ بِقَتْلِهِمُ الحُسَيْنَ عَلَيْهِ السَّلام ،",
+      "translation": "may they be cursed because they had killed al-Husayn (blessings of Allah be on him).",
+      "transliteration": "may they be cursed because they had killed al-Husayn (blessings of Allah be on him).",
+      "urduTranslation": "ان پر لعنت ہو اس وجہ سے کہ انہوں نے حسین (علیہ السلام) کو قتل کیا تھا ۔",
+      "farsiTranslation": "لعنت بر آنان که حسین علیه السلام را کشتند."
+    },
+    {
+      "arabic": "اللهُمَّ فَضاعِفْ عَلَيْهِمُ اللعْنَ وَالعَذابَ الأليم .",
+      "translation": "O my Allah, therefore, double up the curse You brings upon them and also the punishment You decrees for them.",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنت و عذاب دردناک را بر آنان بیفزا."
+    },
+    {
+      "arabic": "اللهُمَّ إنِّي أتَقَرَّبُّ إلَيْكَ في هذَا اليَوْمِ ،",
+      "translation": "O my Allah, I seek nearness to You today in this frame of mind,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا در این روز به تو نزدیک تر می شوم"
+    },
+    {
+      "arabic": "وَفِي مَوْقِفِي هَذا ، وَأيَّامِ حَيَاتِي بِالبَرَاءَةِ مِنْهُمْ، وَاللعْنَةِ عَلَيْهِمْ ،",
+      "translation": "cutting off all links with them for the rest of my life, denouncing them",
+      "transliteration": "cutting off all links with them for the rest of my life, denouncing them",
+      "urduTranslation": "اپنی باقی زندگی کے لئے ان کے ساتھ تمام روابط منقطع کرنا، ان کی مذمت کرنا",
+      "farsiTranslation": "در این مقام و در ایام عمرم از آنها بیزاری و نفرینشان کردم."
+    },
+    {
+      "arabic": "وَبِالْمُوالاةِ لِنَبِيِّكَ وَآلِ نَبِيِّكَ عَلَيِه وعَلَيْهِمُ السَّلام.",
+      "translation": "because of my love for Your Prophet and his children, peace be on him and them.",
+      "transliteration": "because of my love for Your Prophet and his children, peace be on him and them.",
+      "urduTranslation": "تیرے نبی صلی اللہ علیہ وسلم اور ان کی اولاد سے میری محبت کی وجہ سے، ان پر اور ان پر سلامتی ہو ۔",
+      "farsiTranslation": "و با وفاداری به پیامبرت و خاندان پیامبرت صلی الله علیه و آله."
+    },
+    {
+      "arabic": "اللهُمَّ الْعَنْ أوّلَ ظالِم ظَلَمَ حَقَّ مُحَمَّد وَآلِ مُحَمَّد ،",
+      "translation": "O my Allah condemn and damn the first tyrant who unjustly and wrongfully usurped that which rightly belonged to Mohammad and the children of Mohammad,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنت کن اولین ظالمی را که به حق محمد و آل محمد ظلم کرد."
+    },
+    {
+      "arabic": "وَآخِرَ تَابِع لَهُ عَلَى ذلِكَ ،",
+      "translation": "and bring curse upon those who, after him, followed in his footsteps.",
+      "transliteration": "and bring curse upon those who, after him, followed in his footsteps.",
+      "urduTranslation": "اور ان لوگوں پر لعنت بھیجیں جو اس کے بعد اس کے نقش قدم پر چلتے ہیں ۔",
+      "farsiTranslation": "و دیگری در این مورد به دنبال او رفت"
+    },
+    {
+      "arabic": "اللهُمَّ الْعَنِ العِصابَةَ الَّتِي جاهَدَتِ الْحُسَيْنَ عَلَيْهِ السَّلام",
+      "translation": "O my Allah condemn and damn those conspirators who vexed and harassed Husayn,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنت کن گروهی که با حسین علیه السلام جهاد کردند."
+    },
+    {
+      "arabic": "وَشايَعَتْ وَبايَعَتْ وَتابَعَتْ عَلَى قَتْلِهِ.",
+      "translation": "eagerness, agreed mutually, and joined hands to kill him.",
+      "transliteration": "eagerness, agreed mutually, and joined hands to kill him.",
+      "urduTranslation": "بے تابی، باہمی رضامندی، اور اسے مارنے کے لئے ہاتھ ملایا ۔",
+      "farsiTranslation": "او بیعت کرد، بیعت کرد و به کشتن او ادامه داد."
+    },
+    {
+      "arabic": "اللهُمَّ الْعَنْهم جَميعاً",
+      "translation": "O my Allah bring curse upon all of them.",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خداوند همه آنها را لعنت کند"
+    },
+    {
+      "arabic": "السَّلام عَلَيْكَ يَا أبا عَبْدِ اللهِ",
+      "translation": "Peace be on you, O Abu Abdullah,",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "السلام علیک یا اباعبدالله"
+    },
+    {
+      "arabic": "وَعلَى الأرواحِ الّتي حَلّتْ بِفِنائِكَ ،",
+      "translation": "and on those souls who came to your camp to put themselves at your disposal.",
+      "transliteration": "and on those souls who came to your camp to put themselves at your disposal.",
+      "urduTranslation": "اور ان جانوں پر جو آپ کے لشکر گاہ میں آپ کے اختیار میں آنے کے لیے آئیں ۔",
+      "farsiTranslation": "و بر ارواحى كه بر فناى تو نازل شدند،"
+    },
+    {
+      "arabic": "وَأنَاخَت برَحْلِك عَلَيْكَ مِنِّي سَلامُ اللهِ",
+      "translation": "So far I am alive and the days and nights follow each other I invoke Allah to send blessings",
+      "transliteration": "So far I am alive and the days and nights follow each other I invoke Allah to send blessings",
+      "urduTranslation": "اب تک میں زندہ ہوں اور دن اور رات ایک دوسرے کے پیچھے چلتے ہیں",
+      "farsiTranslation": "من رفتن شما را اعلام می کنم. درود خدا بر شما باد."
+    },
+    {
+      "arabic": "أبَداً مَا بَقِيتُ وَبَقِيَ الليْلُ وَالنَّهارُ ،",
+      "translation": "on you for ever and ever. May Allah not make my this pledge of close association,",
+      "transliteration": "on you for ever and ever. May Allah not make my this pledge of close association,",
+      "urduTranslation": "ہمیشہ اور ہمیشہ کے لئے آپ پر ۔ خدا نہ کرے کہ میرا یہ قریبی رفاقت کا عہد ہو،",
+      "farsiTranslation": "من هرگز نماندم و شب و روز ماند"
+    },
+    {
+      "arabic": "وَلا جَعَلَهُ اللهُ آخِرَ العَهْدِ مِنِّي لِزِيَارَتِكُمْ ،",
+      "translation": "physical as well as spiritual, with you the last fulfillment.",
+      "transliteration": "physical as well as spiritual, with you the last fulfillment.",
+      "urduTranslation": "جسمانی کے ساتھ ساتھ روحانی بھی، آپ کے ساتھ آخری تکمیل ۔",
+      "farsiTranslation": "خدایا آخرین وعده من را زیارت نکن."
+    },
+    {
+      "arabic": "السَّلام عَلَى الحُسَيْن ،",
+      "translation": "Peace be on Husayn,",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "السلام علی الحسین"
+    },
+    {
+      "arabic": "وَعَلَى عَليِّ بْنِ الحُسَيْنِ ، وَعَلَى أوْلادِ الحُسَيْنِ ،",
+      "translation": "and on Ali son of Husayn, and on the children of Husayn,",
+      "transliteration": "and on Ali son of Husayn, and on the children of Husayn,",
+      "urduTranslation": "اور علی بن حسین (ع) اور بنی حسین (ع) پر",
+      "farsiTranslation": "و علی بن الحسین و علی بنی الحسین"
+    },
+    {
+      "arabic": "وَعَلَى أصْحابِ الحُسَينِ الذينَ بَذَلُوا مُهَجَهُم دُونَ الحُسين",
+      "translation": "and on the friends of Husayn.",
+      "transliteration": "and on the friends of Husayn.",
+      "urduTranslation": "اور حسین کے دوستوں پر ۔",
+      "farsiTranslation": "و بر اصحاب الحسین که زیارت الحسین علیه السلام کردند."
+    },
+    {
+      "arabic": "اللهمَّ خُصَّ أنْتَ أوّلَ ظالم بِاللّعْنِ مِنِّي ،",
+      "translation": "O my Allah, let the curse I call down on the head of the first tyrant stick like a leech;",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا تو را به عنوان اولین ظالمی که مورد لعنت من قرار می گیرد، معرفی کن."
+    },
+    {
+      "arabic": "وَابْدَأْ بِهِ أوّلاً ، ثُمَّ الثَّانِي ،",
+      "translation": "and stay put for ever on the first, then the second,",
+      "transliteration": "and stay put for ever on the first, then the second,",
+      "urduTranslation": "اور پہلے، پھر دوسرے،",
+      "farsiTranslation": "اول با آن شروع کنید، سپس دوم."
+    },
+    {
+      "arabic": "وَالثَّالِثَ وَالرَّابِع ، اللهُمَّ الْعَنْ يزِيَدَ خامِساً ،",
+      "translation": "the third and the fourth. O my Allah damn and call down evil on the fifth, Yazid son of Mua'awyah,",
+      "transliteration": "the third and the fourth. O my Allah damn and call down evil on the fifth, Yazid son of Mua'awyah,",
+      "urduTranslation": "تیسرا اور چوتھا ۔ اے میرے اللہ لعنت ہو پانچویں پر اور یزید بن معاویہ رضی اللہ عنہما پر ۔",
+      "farsiTranslation": "و سوم و چهارم خدایا یزید را لعنت کن پنجمین."
+    },
+    {
+      "arabic": "وَالْعَنْ عُبَيْدَ اللهِ بْنَ زِيَاد وَابْنَ مَرْجانَةَ",
+      "translation": "and bring a curse upon Ubaydullah son of Ziyaad, ibna Marjanah,",
+      "transliteration": "and bring a curse upon Ubaydullah son of Ziyaad, ibna Marjanah,",
+      "urduTranslation": "اور ابویداللہ بن زیاد، ابن مرجانہ،",
+      "farsiTranslation": "و عبید الله بن زیاد و ابن مرجانه لعنت کردند"
+    },
+    {
+      "arabic": "وَعُمَرَ بْنَ سَعْد وَشِمْراً",
+      "translation": "Umar son of Saad, and Shimr,",
+      "transliteration": "Umar son of Saad, and Shimr,",
+      "urduTranslation": "عمر بن سعد، اور شمر،",
+      "farsiTranslation": "عمر بن سعد و شمره"
+    },
+    {
+      "arabic": "وَآلَ أبي سُفْيانَ وَآلَ زِيَاد وآلَ مَرْوانَ إلَى يَوْمِ القِيامَةِ.",
+      "translation": "on the descendants of Abu Sufyaan, on the descendants of Ziyaad, on the descendants of Marwaan, till the Day of judgement.",
+      "transliteration": "on the descendants of Abu Sufyaan, on the descendants of Ziyaad, on the descendants of Marwaan, till the Day of judgement.",
+      "urduTranslation": "ابو سفیان کی اولاد پر، ضیاء کی اولاد پر، مروان کی اولاد پر، قیامت کے دن تک ۔",
+      "farsiTranslation": "و آل ابوسفیان و آل زیاد و آل مروان تا روز قیامت."
+    },
+    {
+      "arabic": "اللهمَّ لَكَ الحَمْدُ حَمْدَ الشَّاكِرينَ لَكَ عَلَى مُصابِهِمْ ،",
+      "translation": "O my Allah! (All) praise is for You (alone); praise of the \"Ever-thankful to You\", who glorify You whatever come to pass.",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خداوندا، ستایش توست، ستایش کسانی که شکر تو را بر مصیبت هایشان می گویند."
+    },
+    {
+      "arabic": "الحَمْدُ للهِ عَلَى عَظِيمِ رَزِيّتي.",
+      "translation": "(All) praise is for Allah for my deep-felt intense grief.",
+      "transliteration": "(All) praise is for Allah for my deep-felt intense grief.",
+      "urduTranslation": "(تمام) تعریفیں اللہ کے لئے ہیں میرے گہرے احساس والے شدید غم کے لئے ۔",
+      "farsiTranslation": "الحمدلله برای سلامتی بزرگ من."
+    },
+    {
+      "arabic": "اللهُمَّ ارْزُقْني شَفاعَةَ الحُسَيْن عَلَيهِ السَّلام يَوْمَ الوُرُودِ ،",
+      "translation": "O my Allah make available for me the recommendations of Husayn on the day I present myself before You,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا شفاعت حسین علیه السلام را در روز گل سرخ به من عطا کن."
+    },
+    {
+      "arabic": "وَثَبِّتْ لي قَدَمَ صِدْق عِنْدَكَ مَعَ الحُسَيْنِ",
+      "translation": "let me stand firm in safety before You on account of my sincere attachment with Husayn,",
+      "transliteration": "let me stand firm in safety before You on account of my sincere attachment with Husayn,",
+      "urduTranslation": "مجھے حسین کے ساتھ اپنی مخلصانہ وابستگی کی وجہ سے آپ کے سامنے سلامت کھڑا ہونے دیں،",
+      "farsiTranslation": "و جایگاه حق را نزد خودت نزد حسین (ع) بر من ثابت کن."
+    },
+    {
+      "arabic": "وَأصْحابِ الحُسَيْن الّذِينَ بَذَلُوا مُهَجَهُمْ",
+      "translation": "alongwith him and his comrades, who sacrificed everything they had (heart, mind, soul and life)",
+      "transliteration": "alongwith him and his comrades, who sacrificed everything they had (heart, mind, soul and life)",
+      "urduTranslation": "اس کے اور اس کے ساتھیوں کے ساتھ، جنہوں نے اپنا سب کچھ (دل، دماغ، جان اور زندگی) قربان کر دیا",
+      "farsiTranslation": "و یاران حسینی که فدای راه خود کردند"
+    },
+    {
+      "arabic": "دُونَ الْحُسَيْن عَلَيْهِ السَّلام.",
+      "translation": "for Husayn, peace be on him.",
+      "transliteration": "for Husayn, peace be on him.",
+      "urduTranslation": "حسین کے لئے، اس پر سلامتی ہو ۔",
+      "farsiTranslation": "بدون الحسین علیه السلام."
+    },
+    {
+      "arabic": "دُونَ الْحُسَيْن عَلَيْهِ السَّلام.",
+      "translation": "You may then repeat the following one hundred times:",
+      "transliteration": "You may then repeat the following one hundred times:",
+      "urduTranslation": "اس کے بعد آپ درج ذیل 100 بار دہرا سکتے ہیں:",
+      "farsiTranslation": "بدون الحسین علیه السلام."
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنْ أَوَّلَ ظَالِمٍ",
+      "translation": "O Allah, pour curses upon the foremost persecutor",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنت بر ظالم اول"
+    },
+    {
+      "arabic": "ظَلَمَ حَقَّ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "translation": "who usurped the right of Muhammad and Muhammad’s Household",
+      "transliteration": "who usurped the right of Muhammad and Muhammad’s Household",
+      "urduTranslation": "جس نے محمد اور محمد کے گھرانے کا حق غصب کیا",
+      "farsiTranslation": "به حق محمد و آل او ظلم شد"
+    },
+    {
+      "arabic": "وَآخِرَ تَابِعٍ لَهُ عَلَىٰ ذٰلِكَ",
+      "translation": "and the last follower who acceded to his deed.",
+      "transliteration": "and the last follower who acceded to his deed.",
+      "urduTranslation": "اور آخری پیروکار جو اس کے عمل میں شامل ہوا ۔",
+      "farsiTranslation": "و یکی دیگر از پیروان او این کار را کرد."
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنِ ٱلْعِصَابَةَ ٱلَّتِي جَاهَدَتِ ٱلْحُسَيْنَ",
+      "translation": "O Allah, pour curses upon the gang that struggled against al-Husayn",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنت کن گروهی که با حسین علیه السلام جهاد کردند."
+    },
+    {
+      "arabic": "وَشَايَعَتْ وَبَايَعَتْ وَتَابَعَتْ عَلَىٰ قَتْلِهِ",
+      "translation": "and who supported each other against him, paid homage to his enemies, and participated in slaying him.",
+      "transliteration": "and who supported each other against him, paid homage to his enemies, and participated in slaying him.",
+      "urduTranslation": "اور جس نے اس کے خلاف ایک دوسرے کی مدد کی، اپنے دشمنوں کو خراج تحسین پیش کیا، اور اسے قتل کرنے میں حصہ لیا ۔",
+      "farsiTranslation": "او بیعت کرد، بیعت کرد و به کشتن او ادامه داد."
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنْهُمْ جَمِيعاً",
+      "translation": "O Allah, pour curses upon all of them.",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنتشون کن همشون"
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنْهُمْ جَمِيعاً",
+      "translation": "You may then repeat the following one hundred times:",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنتشون کن همشون"
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنْهُمْ جَمِيعاً",
+      "translation": "O Allah, pour curses upon all of them.",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا لعنتشون کن همشون"
+    },
+    {
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ ٱللَّهِ",
+      "translation": "Peace be upon you, O Abu-`Abdullah",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "السلام علیک یا اباعبدالله."
+    },
+    {
+      "arabic": "وَعَلَىٰ ٱلأَرْوَاحِ ٱلَّتِي حَلَّتْ بِفِنَائِكَ",
+      "translation": "and upon the souls that gathered in your courtyard.",
+      "transliteration": "and upon the souls that gathered in your courtyard.",
+      "urduTranslation": "اور ان جانوں کی جو آپ کے صحن میں جمع ہوتی ہیں ۔",
+      "farsiTranslation": "و ارواحى كه بر نابودى تو نازل شدند"
+    },
+    {
+      "arabic": "عَلَيْكَ مِنِّي سَلاَمُ ٱللَّهِ أَبَداً",
+      "translation": "Peace of Allah be upon you from me forever",
+      "transliteration": "Alaykum minni jami'an salamu-llahi abadan ma baqiytu wa baqiya al-laylu wan-nahar",
+      "urduTranslation": "تم سب پر میری طرف سے ہمیشہ خدا کا سلام ہو جب تک میں باقی ہوں اور رات اور دن باقی ہیں،",
+      "farsiTranslation": "درود خداوند بر شما تا ابد باد"
+    },
+    {
+      "arabic": "مَا بَقيتُ وَبَقِيَ ٱللَّيْلُ وَٱلنَّهَارُ",
+      "translation": "as long as I am existent and as long as there are day and night.",
+      "transliteration": "as long as I am existent and as long as there are day and night.",
+      "urduTranslation": "جب تک میں موجود ہوں اور جب تک دن اور رات ہیں ۔",
+      "farsiTranslation": "تا من ماندم و شب و روز ماند"
+    },
+    {
+      "arabic": "وَلاَ جَعَلَهُ ٱللَّهُ آخِرَ ٱلْعَهْدِ مِنِّي لِزِيَارَتِكُمْ",
+      "translation": "May Allah not cause this (visit) to be the last of my visit to you (all).",
+      "transliteration": "May Allah not cause this (visit) to be the last of my visit to you (all).",
+      "urduTranslation": "خدا نہ کرے کہ یہ (دورہ) آپ (سب) سے میری آخری ملاقات ہو ۔",
+      "farsiTranslation": "خدایا آخرین وعده من را زیارت نکن."
+    },
+    {
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلْحُسَيْنِ",
+      "translation": "Peace be upon al-Husayn,",
+      "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+      "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!",
+      "farsiTranslation": "السلام علی الحسین"
+    },
+    {
+      "arabic": "وَعَلَىٰ عَلِيِّ بْنِ ٱلْحُسَيْنِ",
+      "translation": "upon `Ali ibn al-Husayn,",
+      "transliteration": "upon `Ali ibn al-Husayn,",
+      "urduTranslation": "علی بن الحسین،",
+      "farsiTranslation": "و علی بن الحسین"
+    },
+    {
+      "arabic": "وَعَلَىٰ أَوْلاَدِ ٱلْحُسَيْنِ",
+      "translation": "upon the sons of al-Husayn,",
+      "transliteration": "upon the sons of al-Husayn,",
+      "urduTranslation": "حسین کے بیٹوں پر،",
+      "farsiTranslation": "و بر فرزندان حسین"
+    },
+    {
+      "arabic": "وَعَلَىٰ أَصْحَابِ ٱلْحُسَيْنِ",
+      "translation": "and upon the companions of al-Husayn.",
+      "transliteration": "and upon the companions of al-Husayn.",
+      "urduTranslation": "اور اصحاب الحسین پر ۔",
+      "farsiTranslation": "و بر یاران حسین"
+    },
+    {
+      "arabic": "وَعَلَىٰ أَصْحَابِ ٱلْحُسَيْنِ",
+      "translation": "You may then say the following words:",
+      "transliteration": "You may then say the following words:",
+      "urduTranslation": "اس کے بعد آپ مندرجہ ذیل الفاظ کہہ سکتے ہیں:",
+      "farsiTranslation": "و بر یاران حسین"
+    },
+    {
+      "arabic": "وَعَلَىٰ أَصْحَابِ ٱلْحُسَيْنِ",
+      "translation": "and upon the companions of al-Husayn.",
+      "transliteration": "and upon the companions of al-Husayn.",
+      "urduTranslation": "اور اصحاب الحسین پر ۔",
+      "farsiTranslation": "و بر یاران حسین"
+    },
+    {
+      "arabic": "اَللَّهُمَّ خُصَّ أَنْتَ أَوَّلَ ظَالِمٍ بِٱللَّعْنِ مِنِّي",
+      "translation": "O Allah, pour special curses on the foremost persecutor",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا تو را به عنوان اولین ظالمی که مورد لعنت من قرار گرفته است معرفی کن."
+    },
+    {
+      "arabic": "وَٱبْدَأْ بِهِ أَوَّلًا",
+      "translation": "and begin with him first,",
+      "transliteration": "and begin with him first,",
+      "urduTranslation": "اور پہلے اس کے ساتھ شروع کریں،",
+      "farsiTranslation": "و ابتدا با آن شروع کنید"
+    },
+    {
+      "arabic": "ثُمَّ ٱلْعَنِ ٱلثَّانِيَ وَٱلثَّالِثَ وَٱلرَّابِعَ",
+      "translation": "and then pour curses on the second, the third, and the fourth.",
+      "transliteration": "and then pour curses on the second, the third, and the fourth.",
+      "urduTranslation": "اور پھر دوسرے، تیسرے اور چوتھے پر لعنتیں ڈالیں ۔",
+      "farsiTranslation": "سپس نفر دوم و سوم و چهارم را نفرین کرد."
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱلْعَنْ يَزِيدَ خَامِساً",
+      "translation": "O Allah, curse Yazid fifthly,",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا یک پنجم یزید را لعنت کن!"
+    },
+    {
+      "arabic": "وَٱلْعَنْ عُبَيْدَ ٱللَّهِ بْنَ زِيَادٍ وَٱبْنَ مَرْجَانَةَ",
+      "translation": "and curse `Ubaydullah ibn Ziyad, the son of Marjanah,",
+      "transliteration": "and curse `Ubaydullah ibn Ziyad, the son of Marjanah,",
+      "urduTranslation": "اور مرجانہ کے بیٹے عبیداللہ ابن زیاد پر لعنت بھیجتے ہیں،",
+      "farsiTranslation": "و عبید الله بن زیاد و بن مرجانه را لعن کرد."
+    },
+    {
+      "arabic": "وَعُمَرَ بْنَ سَعْدٍ وَشِمْراً",
+      "translation": "`Umar ibn Sa`d, Shimr,",
+      "transliteration": "`Umar ibn Sa`d, Shimr,",
+      "urduTranslation": "عمر بن سعد، شمّر،",
+      "farsiTranslation": "عمر بن سعد و شمره"
+    },
+    {
+      "arabic": "وَآلَ أَبِي سُفْيَانَ وَآلَ زِيَادٍ وَآلَ مَرْوَانَ",
+      "translation": "the family of Abu-Sufyan, the family of Ziyad, and the family of Marwan",
+      "transliteration": "the family of Abu-Sufyan, the family of Ziyad, and the family of Marwan",
+      "urduTranslation": "ابوسفیان کا خاندان، ضیاع کا خاندان، اور مروان کا خاندان",
+      "farsiTranslation": "و آل ابوسفیان و آل زیاد و آل مروان"
+    },
+    {
+      "arabic": "إِلَىٰ يَوْمِ ٱلْقِيَامَةِ",
+      "translation": "up to the Resurrection Day.",
+      "transliteration": "up to the Resurrection Day.",
+      "urduTranslation": "قیامت کے دن تک ۔",
+      "farsiTranslation": "تا روز قیامت"
+    },
+    {
+      "arabic": "إِلَىٰ يَوْمِ ٱلْقِيَامَةِ",
+      "translation": "You may then prostrate yourself while saying the following words:",
+      "transliteration": "You may then prostrate yourself while saying the following words:",
+      "urduTranslation": "اس کے بعد آپ مندرجہ ذیل الفاظ کہتے ہوئے سجدہ کر سکتے ہیں:",
+      "farsiTranslation": "تا روز قیامت"
+    },
+    {
+      "arabic": "إِلَىٰ يَوْمِ ٱلْقِيَامَةِ",
+      "translation": "up to the Resurrection Day.",
+      "transliteration": "up to the Resurrection Day.",
+      "urduTranslation": "قیامت کے دن تک ۔",
+      "farsiTranslation": "تا روز قیامت"
+    },
+    {
+      "arabic": "اَللَّهُمَّ لَكَ ٱلْحَمْدُ",
+      "translation": "O Allah, all praise be to You;",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا ستایش توست"
+    },
+    {
+      "arabic": "حَمْدَ ٱلشَّاكِرِينَ لَكَ عَلَىٰ مُصَابِهِمْ",
+      "translation": "the praise of those who thank You for their misfortunes.",
+      "transliteration": "the praise of those who thank You for their misfortunes.",
+      "urduTranslation": "ان لوگوں کی تعریف جو اپنی مصیبتوں کے لئے تیرا شکر ادا کرتے ہیں ۔",
+      "farsiTranslation": "سپاس و ستایش برای کسانی که بخاطر مصیبتهایشان شکرگزار تو باشند."
+    },
+    {
+      "arabic": "اَلْحَمْدُ لِلَّهِ عَلَىٰ عَظِيمِ رَزِيَّتِي",
+      "translation": "All praise be to Allah for my great misfortune.",
+      "transliteration": "All praise be to Allah for my great misfortune.",
+      "urduTranslation": "میری بڑی بدقسمتی کے لئے خدا کا شکر ہے ۔",
+      "farsiTranslation": "الحمدلله برای ثروت بزرگ من."
+    },
+    {
+      "arabic": "اَللَّهُمَّ ٱرْزُقْنِي شَفَاعَةَ ٱلْحُسَيْنِ يَوْمَ ٱلْوُرُودِ",
+      "translation": "O Allah, (please) grant me the intercession of al-Husayn on the Day of Coming (to You)",
+      "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+      "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔",
+      "farsiTranslation": "خدایا شفاعت حسین را در روز گل سرخ به من عطا کن"
+    },
+    {
+      "arabic": "وَثَبِّتْ لِي قَدَمَ صِدْقٍ عِنْدَكَ",
+      "translation": "and make for me with You a firm step of honesty",
+      "transliteration": "and make for me with You a firm step of honesty",
+      "urduTranslation": "اور میرے لیے اپنے پاس ایمانداری کا ایک مضبوط قدم رکھ",
+      "farsiTranslation": "و اساس حق را نزد خودت بر من بپا"
+    },
+    {
+      "arabic": "مَعَ ٱلْحُسَيْنِ وَأَصْحَابِ ٱلْحُسَيْنِ",
+      "translation": "with al-Husayn and the companions of al-Husayn",
+      "transliteration": "with al-Husayn and the companions of al-Husayn",
+      "urduTranslation": "الحسین اور اصحاب الحسین کے ساتھ",
+      "farsiTranslation": "با الحسین و اصحاب الحسین"
+    }
+  ]
+}

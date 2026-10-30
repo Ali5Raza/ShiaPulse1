@@ -1,0 +1,44 @@
+{
+  "id": "aamal_eid_fitr",
+  "title": "Aamal of Eid al-Fitr",
+  "titleUr": "عید الفطر کے اعمال",
+  "titleAr": "أعمال عيد الفطر",
+  "category": "Special Days",
+  "categoryUr": "خاص دن",
+  "categoryAr": "أيام خاصة",
+  "description": "Acts recommended for the Day of Eid al-Fitr.",
+  "descriptionUr": "عید الفطر کے دن مستحب اعمال۔",
+  "descriptionAr": "الأعمال المستحبة في يوم عيد الفطر المبارك.",
+  "relevance": "1st of Shawwal",
+  "relevanceUr": "1 شوال",
+  "relevanceAr": "1 شوال",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Zakat al-Fitrah",
+      "titleUr": "زکوۃ الفطرہ",
+      "titleAr": "زكاة الفطرة",
+      "description": "Pay Zakat al-Fitrah before the Eid prayer.",
+      "descriptionUr": "نماز عید سے پہلے زکوۃ الفطرہ ادا کریں۔",
+      "descriptionAr": "إخراج زكاة الفطرة قبل صلاة العيد."
+    },
+    {
+      "actNumber": 2,
+      "title": "Ghusl",
+      "titleUr": "غسل",
+      "titleAr": "الغسل",
+      "description": "Take a bath (Ghusl) on Eid day.",
+      "descriptionUr": "عید کے دن غسل کریں۔",
+      "descriptionAr": "الاغتسال في يوم العيد."
+    },
+    {
+      "actNumber": 3,
+      "title": "Eid Prayer",
+      "titleUr": "نماز عید",
+      "titleAr": "صلاة العيد",
+      "description": "Perform the Eid prayer in congregation.",
+      "descriptionUr": "نماز عید باجماعت ادا کریں۔",
+      "descriptionAr": "أداء صلاة العيد في جماعة."
+    }
+  ]
+}

@@ -1,0 +1,3023 @@
+[
+  {
+    "id": 1,
+    "en": {
+      "name": "Prophet Muhammad (saws)",
+      "title": "Al-Mustafa (The Chosen One), Khatam al-Anbiya",
+      "born": "17 Rabi' al-Awwal (Am al-Fil / 570 CE)",
+      "martyrdom": "28 Safar, 11 AH (632 CE)",
+      "burial": "Al-Masjid an-Nabawi, Medina",
+      "biography": "The final Prophet and Messenger of Allah, sent as a mercy to all creation (Rahmatan lil-'Alamin). Born in Mecca into the noble Banu Hashim clan, he was known as Al-Amin (the Trustworthy) even before receiving divine revelation at Cave Hira at age 40. He established Islam, unified Arabia under divine monotheism, received the Holy Qur'an over 23 years, and appointed Imam Ali (as) as his successor at Ghadir Khumm before passing away in Medina.",
+      "familyTree": {
+        "father": "Abdullah ibn Abd al-Muttalib",
+        "mother": "Amina bint Wahb",
+        "spouse": "Khadija bint Khuwaylid (sa) & others",
+        "children": [
+          "Lady Fatima al-Zahra (sa)",
+          "Qasim",
+          "Ibrahim",
+          "Zaynab",
+          "Ruqayya",
+          "Umm Kulthum"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "570 CE",
+          "event": "Birth in Mecca (Year of the Elephant)"
+        },
+        {
+          "year": "595 CE",
+          "event": "Marriage to Sayyida Khadija al-Kubra (sa)"
+        },
+        {
+          "year": "610 CE",
+          "event": "First Revelation (Bi'thah) at Cave Hira"
+        },
+        {
+          "year": "615 CE",
+          "event": "Public Preaching & Migration of Companions to Abyssinia"
+        },
+        {
+          "year": "620 CE",
+          "event": "Isra and Mi'raj (Night Journey and Ascension to Heavens)"
+        },
+        {
+          "year": "622 CE",
+          "event": "Great Migration (Hijrah) from Mecca to Medina"
+        },
+        {
+          "year": "624 CE",
+          "event": "Victory in the Battle of Badr"
+        },
+        {
+          "year": "625 CE",
+          "event": "Battle of Uhud"
+        },
+        {
+          "year": "627 CE",
+          "event": "Battle of the Trench (Khandaq)"
+        },
+        {
+          "year": "628 CE",
+          "event": "Treaty of Hudaybiyyah"
+        },
+        {
+          "year": "630 CE",
+          "event": "Conquest of Mecca (Fath Makkah) without bloodshed"
+        },
+        {
+          "year": "632 CE",
+          "event": "Farewell Pilgrimage & Declaration of Ghadir Khumm"
+        },
+        {
+          "year": "632 CE",
+          "event": "Demise / Martyrdom in Medina"
+        }
+      ],
+      "places": [
+        "Mecca",
+        "Medina",
+        "Ta'if",
+        "Cave Hira",
+        "Cave Thawr",
+        "Ghadir Khumm",
+        "Badr",
+        "Uhud"
+      ],
+      "books": [
+        "The Holy Qur'an (Divine Revelation)",
+        "Hadith al-Thaqalayn",
+        "Sermon of Ghadir Khumm"
+      ],
+      "importantEvents": [
+        "First Revelation at Hira",
+        "Isra and Mi'raj",
+        "Establishment of the Islamic State in Medina",
+        "Conquest of Mecca",
+        "Declaration at Ghadir Khumm"
+      ],
+      "sayings": [
+        "I leave among you two weighty things: the Book of Allah and my progeny, the Ahlul Bayt. They shall never separate until they return to me at the Pond of Kauthar.",
+        "Ali is with the Truth and the Truth is with Ali.",
+        "Hussain is from me and I am from Hussain; Allah loves whoever loves Hussain."
+      ]
+    },
+    "ur": {
+      "name": "حضرت محمد مصطفیٰ (ص)",
+      "title": "خاتم الانبیاء والمرسلین، المصطفیٰ، رحمت للعالمین",
+      "born": "۱۷ ربیع الاول (عام الفیل / ۵۷۰ عیسوی)",
+      "martyrdom": "۲۸ صفر، ۱۱ ہجری (۶۳۲ عیسوی)",
+      "burial": "مسجد نبوی، مدینہ منورہ",
+      "biography": "اللہ تعالیٰ کے آخری اور سب سے افضل رسول اور نبی، جنہیں تمام عالمین کے لیے رحمت بنا کر بھیجا گیا۔ آپ مکہ میں قبیلہ بنو ہاشم کے سب سے معزز گھرانے میں پیدا ہوئے اور بعثت سے پہلے ہی 'الصادق' اور 'الامین' کے لقب سے مشہور تھے۔ ۴۰ سال کی عمر میں غار حرا میں پہلی وحی نازل ہوئی۔ آپ نے ۲۳ سال تک اسلام کا عالمگیر پیغام عام کیا، قرآن مجید وصول کیا، اور مقام غدیر خم پر حضرت علی علیہم السلام کو اپنا جانشین مقرر فرمایا۔",
+      "familyTree": {
+        "father": "حضرت عبداللہ بن عبدالمطلب",
+        "mother": "حضرت آمنہ بنت وہب",
+        "spouse": "حضرت خدیجۃ الکبریٰ (س) و دیگر",
+        "children": [
+          "حضرت فاطمہ زہرا (س)",
+          "قاسم",
+          "ابراہیم",
+          "زینب",
+          "رقیہ",
+          "ام کلثوم"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۵۷۰ء",
+          "event": "مکہ مکرمہ میں ولادت باسعادت (عام الفیل)"
+        },
+        {
+          "year": "۵۹۵ء",
+          "event": "حضرت خدیجہ الکبریٰ (س) سے عقدِ نکاح"
+        },
+        {
+          "year": "۶۱۰ء",
+          "event": "غارِ حرا میں بعثت اور پہلی وحی کا نزول"
+        },
+        {
+          "year": "۶۱۵ء",
+          "event": "اعلانِ عام اور صحابہ کی حبشہ کی طرف پہلی ہجرت"
+        },
+        {
+          "year": "۶۲۰ء",
+          "event": "واقعہ معراج و اسراء"
+        },
+        {
+          "year": "۶۲۲ء",
+          "event": "مکہ سے مدینہ منورہ کی طرف تاریخی ہجرت"
+        },
+        {
+          "year": "۶۲۴ء",
+          "event": "غزوہ بدر میں مسلمانوں کی عظیم فتح"
+        },
+        {
+          "year": "۶۲۵ء",
+          "event": "غزوہ احد"
+        },
+        {
+          "year": "۶۲۷ء",
+          "event": "غزوہ خندق (احزاب)"
+        },
+        {
+          "year": "۶۲۸ء",
+          "event": "صلح حدیبیہ"
+        },
+        {
+          "year": "۶۳۰ء",
+          "event": "صلح و امن کے ساتھ فتح مکہ"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "حجۃ الوداع اور خطبہ غدیر خم میں ولایتِ علیؑ کا اعلان"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "مدینہ منورہ میں رحلت / شہادت"
+        }
+      ],
+      "places": [
+        "مکہ مکرمہ",
+        "مدینہ منورہ",
+        "طائف",
+        "غار حرا",
+        "غار ثور",
+        "غدیر خم",
+        "بدر",
+        "احد"
+      ],
+      "books": [
+        "قرآن مجید (کلام الہیٰ)",
+        "حدیث ثقلین",
+        "خطبہ غدیر خم"
+      ],
+      "importantEvents": [
+        "بعثت اور غارِ حرا میں نزولِ قرآن",
+        "واقعہ معراج",
+        "مدینہ میں اسلامی ریاست کا قیام",
+        "فتح مکہ",
+        "اعلانِ غدیر خم"
+      ],
+      "sayings": [
+        "میں تمہارے درمیان دو گراں قدر چیزیں چھوڑے جا رہا ہوں: اللہ کی کتاب اور میری عترت (اہلِ بیت)۔ یہ دونوں ہرگز ایک دوسرے سے جدا نہیں ہوں گے یہاں تک کہ حوضِ کوثر پر مجھ سے آ ملیں۔",
+        "علی حق کے ساتھ ہیں اور حق علی کے ساتھ ہے۔",
+        "حسین مجھ سے ہے اور میں حسین سے ہوں، اللہ اس سے محبت رکھتا ہے جو حسین سے محبت رکھے۔"
+      ]
+    },
+    "ar": {
+      "name": "النبّي محمد المصطفى (ص)",
+      "title": "خاتم الأنبياء والمرسلين، الرحمة المهداة",
+      "born": "١٧ ربيع الأول (عام الفيل / ٥٧٠ م)",
+      "martyrdom": "٢٨ صفر، ١١ هـ (٦٣٢ م)",
+      "burial": "المسجد النبوي الشريف، المدينة المنورة",
+      "biography": "خاتم الأنبياء والمرسلين والرحمة المهداة للعالمين. ولد في مكة المكرمة في بني هاشم، وعُرف بالصادق الأمين قبل بعثته. نزل عليه الروح الأمين جبرائيل بالقرآن الكريم في غار حراء وهو ابن أربعين سنة. أقام الدولة الإسلامية في المدينة المنورة وأرسى دعائم العدل والتوحيد وأعلن ولاية الإمام علي (ع) في غدير خم.",
+      "familyTree": {
+        "father": "عبد الله بن عبد المطلب",
+        "mother": "آمنة بنت وهب",
+        "spouse": "السيدة خديجة الكبرى (ع) وأخريات",
+        "children": [
+          "السيدة فاطمة الزهراء (ع)",
+          "القاسم",
+          "إبراهيم",
+          "زينب",
+          "رقية",
+          "أم كلثوم"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٥٧٠ م",
+          "event": "الولادة الميمونة في مكة المكرمة (عام الفيل)"
+        },
+        {
+          "year": "٥٩٥ م",
+          "event": "الزواج المبارك من السيدة خديجة (ع)"
+        },
+        {
+          "year": "٦١٠ م",
+          "event": "البعثة النبوية ونزول الوحي في غار حراء"
+        },
+        {
+          "year": "٦٢٢ م",
+          "event": "الهجرة النبوية المباركة إلى المدينة المنورة"
+        },
+        {
+          "year": "٦٢٤ م",
+          "event": "الانتصار الكبير في معركة بدر الكبرى"
+        },
+        {
+          "year": "٦٣٠ م",
+          "event": "تحرير مكة المكرمة (فتح مكة)"
+        },
+        {
+          "year": "٦٣٢ م",
+          "event": "حجة الوداع وإعلان ولاية الإمام علي (ع) في غدير خم"
+        },
+        {
+          "year": "٦٣٢ م",
+          "event": "الوفاة والشهادة في المدينة المنورة"
+        }
+      ],
+      "places": [
+        "مكة المكرمة",
+        "المدينة المنورة",
+        "الطائف",
+        "غار حراء",
+        "غار ثور",
+        "غدير خم"
+      ],
+      "books": [
+        "القرآن الكريم",
+        "حديث الثقلين",
+        "خطبة غدير خم"
+      ],
+      "importantEvents": [
+        "البعثة النبوية",
+        "الإسراء والمعراج",
+        "الهجرة إلى المدينة",
+        "فتح مكة",
+        "بيعة غدير خم"
+      ],
+      "sayings": [
+        "إنّي تاركٌ فيكم الثقلين: كتابَ اللهِ وعترتي أهلَ بيتي، ما إن تمسكتم بهما لن تضلّوا بعدي أبداً.",
+        "عليٌّ مع الحقِّ والحقُّ مع عليٍّ.",
+        "حسينٌ منّي وأنا من حسين، أحَبَّ اللهُ مَن أحَبَّ حسينًا."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "hadith",
+        "citation": "Hadith al-Thaqalayn — the Qur’an and Ahlul Bayt as the two weighty trusts",
+        "url": "https://al-islam.org/hadith-al-thaqalayn"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "hadith",
+        "citation": "Bihar al-Anwar — “Ali is with the truth and the truth is with Ali”"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "hadith",
+        "citation": "Jami‘ at-Tirmidhi / Bihar al-Anwar — “Husayn is from me…”",
+        "url": "https://al-islam.org/probe-history-ashura-ibrahim-ayati/chapter-13-merits-imam-husayn"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "en": {
+      "name": "Imam Ali ibn Abi Talib (as)",
+      "title": "Amir al-Mu'minin (Commander of the Faithful), Asadullah",
+      "born": "13 Rajab (inside the Holy Kaaba, Mecca, 600 CE)",
+      "martyrdom": "21 Ramadan, 40 AH (struck on 19th Ramadan in Kufa Mosque)",
+      "burial": "Imam Ali Shrine, Najaf, Iraq",
+      "biography": "The cousin and son-in-law of Prophet Muhammad (saws), born uniquely inside the Holy Kaaba. He was the first male to accept Islam, the invincible hero of every battle (Badr, Uhud, Khandaq, Khaybar), the fountainhead of wisdom, and the first Infallible Imam appointed at Ghadir Khumm. He ruled as Caliph with absolute justice, refusing corruption, before being martyred while prostrating in Fajr prayer by Ibn Muljam.",
+      "familyTree": {
+        "father": "Abu Talib ibn Abd al-Muttalib",
+        "mother": "Fatima bint Asad (sa)",
+        "spouse": "Lady Fatima al-Zahra (sa) & others",
+        "children": [
+          "Imam Hasan (as)",
+          "Imam Hussain (as)",
+          "Sayyida Zainab (sa)",
+          "Sayyida Umm Kulthum (sa)",
+          "Hazrat Abbas (as)",
+          "Muhammad ibn al-Hanafiya"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "600 CE",
+          "event": "Birth inside the Holy Kaaba in Mecca"
+        },
+        {
+          "year": "610 CE",
+          "event": "First male to declare faith in Islam at Da'wat dhul-Ashira"
+        },
+        {
+          "year": "622 CE",
+          "event": "Laylat al-Mabit (Slept in Prophet's bed to save his life)"
+        },
+        {
+          "year": "624 CE",
+          "event": "Marriage to Lady Fatima al-Zahra (sa)"
+        },
+        {
+          "year": "628 CE",
+          "event": "Conquest of Khaybar (Lifted the heavy iron gate)"
+        },
+        {
+          "year": "632 CE",
+          "event": "Appointed Commander of Faithful at Ghadir Khumm"
+        },
+        {
+          "year": "656 CE",
+          "event": "Assumed political leadership as 4th Caliph"
+        },
+        {
+          "year": "657 CE",
+          "event": "Battle of Siffin & Battle of Jamal"
+        },
+        {
+          "year": "661 CE",
+          "event": "Struck in Kufa Mosque on 19 Ramadan, martyred on 21 Ramadan"
+        }
+      ],
+      "places": [
+        "Mecca (Kaaba)",
+        "Medina",
+        "Kufa",
+        "Najaf",
+        "Khaybar",
+        "Siffin"
+      ],
+      "books": [
+        "Nahj al-Balagha (Peak of Eloquence)",
+        "Kitab Ali",
+        "Mus'haf Ali"
+      ],
+      "importantEvents": [
+        "Birth in Kaaba",
+        "Laylat al-Mabit",
+        "Battle of Khaybar",
+        "Coronation at Ghadir Khumm",
+        "Martyrdom in Kufa"
+      ],
+      "sayings": [
+        "Man is either your brother in faith or your equal in humanity.",
+        "Knowledge is better than wealth; knowledge protects you, while you must protect wealth.",
+        "Silence is the best answer to a fool."
+      ]
+    },
+    "ur": {
+      "name": "امام علی ابن ابی طالب (ع)",
+      "title": "امیر المؤمنین، اسد اللہ الغالب، باب علم النبی",
+      "born": "۱۳ رجب (خانه کعبه، مکه مکرمہ، ۶۰۰ عیسوی)",
+      "martyrdom": "۲۱ رمضان، ۴۰ ہجری (۱۹ رمضان کو مسجد کوفہ میں ضربت لگی)",
+      "burial": "حرم مطہر امام علیؑ، نجف اشرف، عراق",
+      "biography": "رسول اکرم (ص) کے ابنِ عم، داماد اور پہلے امام۔ آپ کی ولادتِ با سعادت کعبہ کے اندر ہوئی۔ آپ مردوں میں سب سے پہلے اسلام لائے، غزوہ بدر، احد، خندق اور خیبر کے بے مثال فاتح تھے، اور علم و حکمت کا سرچشمہ تھے۔ غدیر خم کے میدان میں رسول پاک نے آپ کو اپنا وصی و خلیفہ مقرر فرمایا۔ اپنے دورِ خلافت میں عدلِ کامل اور مساوات قائم کی اور مسجد کوفہ میں حالتِ نماز میں ابن ملجم کی زہر آلود تلوار سے زخمی ہو کر جامِ شہادت نوش فرمایا۔",
+      "familyTree": {
+        "father": "حضرت ابو طالب علیہ السلام",
+        "mother": "حضرت فاطمہ بنت اسد (س)",
+        "spouse": "حضرت فاطمہ زہرا (س) و دیگر",
+        "children": [
+          "امام حسن (ع)",
+          "امام حسین (ع)",
+          "سیدہ زینب (س)",
+          "سیدہ ام کلثوم (س)",
+          "حضرت عباس علمدار (ع)",
+          "محمد بن حنفیہ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۰۰ء",
+          "event": "خانہ کعبه کے اندر ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۱۰ء",
+          "event": "دعوتِ ذوالعشیرہ میں سب سے پہلے اسلام کا قبول کرنا"
+        },
+        {
+          "year": "۶۲۲ء",
+          "event": "لیلۃ المبیت: بسترِ رسول (ص) پر سو کر جان کی حفاظت کرنا"
+        },
+        {
+          "year": "۶۲۴ء",
+          "event": "حضرت فاطمہ زہرا (س) سے عقدِ مبارک"
+        },
+        {
+          "year": "۶۲۸ء",
+          "event": "فاتح خیبر بننا اور بابِ خیبر کو اکھاڑنا"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "غدیر خم کے مقام پر امیر المؤمنین مقرر ہونا"
+        },
+        {
+          "year": "۶۵۶ء",
+          "event": "مسندِ خلافتِ ظاہری پر متمکن ہونا"
+        },
+        {
+          "year": "۶۵۷ء",
+          "event": "جنگِ صفین اور جنگِ جمل"
+        },
+        {
+          "year": "۶۶۱ء",
+          "event": "۱۹ رمضان کو مسجدِ کوفہ میں محرابِ عبادت میں ضربت اور ۲۱ رمضان کو شہادت"
+        }
+      ],
+      "places": [
+        "مکہ مکرمہ (کعبہ)",
+        "مدینہ منورہ",
+        "کوفہ",
+        "نجف اشرف",
+        "خیبر",
+        "صفین"
+      ],
+      "books": [
+        "نہج البلاغہ (خطبات، خطوط و حِکم)",
+        "کتاب علیؑ",
+        "مصحف علیؑ"
+      ],
+      "importantEvents": [
+        "ولادتِ کعبہ",
+        "لیلۃ المبیت",
+        "فتحِ خیبر",
+        "اعلانِ غدیر",
+        "شہادتِ محرابِ کوفہ"
+      ],
+      "sayings": [
+        "انسان یا تو تمہارا دینی بھائی ہے یا پھر تخلیق میں تمہاری مانند ایک انسان ہے۔",
+        "علم مال سے بہتر ہے؛ علم تمہاری حفاظت کرتا ہے جبکہ مال کی حفاظت تمہیں کرنی پڑتی ہے۔",
+        "خاموشی جاہل کا بہترین جواب ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام علي بن أبي طالب (ع)",
+      "title": "أمير المؤمنين، أسد الله الغالب، حيدرة",
+      "born": "١٣ رجب (في جوف الكعبة المشرفة، مكة)",
+      "martyrdom": "٢١ رمضان، ٤٠ هـ (ضرب بالسيف في محراب الكوفة في ١٩ رمضان)",
+      "burial": "المرقد العلوي المطهر، النجف الأشرف، العراق",
+      "biography": "ابن عم رسول الله (ص) وصهره وأول الأئمة المعصومين. ولد في جوف الكعبة المشرفة في حدث لم يسبقه إليه أحد. كان أول من آمن بالرسول من الذكور، وبطل المشاهد كلها في بدر وأحد والBund والخندق وخيبر. عينه النبي (ص) خليفة ووالياً على الأمة يوم غدير خم. تميز بحكمه العادل وعدالته المطلقة حتى استشهد في محراب الكوفة وهو يصلي الفجر.",
+      "familyTree": {
+        "father": "أبو طالب بن عبد المطلب",
+        "mother": "فاطمة بنت أسد (ع)",
+        "spouse": "السيدة فاطمة الزهراء (ع) وأخريات",
+        "children": [
+          "الإمام الحسن (ع)",
+          "الإمام الحسين (ع)",
+          "السيدة زينب (ع)",
+          "السيدة أم كلثوم (ع)",
+          "أبو الفضل العباس (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦٠٠ م",
+          "event": "الولادة المباركة في جوف الكعبة المشرفة"
+        },
+        {
+          "year": "٦١٠ م",
+          "event": "أول من أسلم من الرجال في يوم الدار"
+        },
+        {
+          "year": "٦٢٢ م",
+          "event": "المبيت في فراش النبي (ص) في ليلة الهجرة (ليلة المبيت)"
+        },
+        {
+          "year": "٦٢٤ م",
+          "event": "الزواج الميمون من السيدة فاطمة الزهراء (ع)"
+        },
+        {
+          "year": "٦٢٨ م",
+          "event": "قلع باب خيبر والانتصار العظيم"
+        },
+        {
+          "year": "٦٣٢ م",
+          "event": "التنصيب بالولاية في غدير خم"
+        },
+        {
+          "year": "٦٦١ م",
+          "event": "الشهادة في محراب مسجد الكوفة في ٢١ رمضان"
+        }
+      ],
+      "places": [
+        "مكة المكرمة",
+        "المدينة المنورة",
+        "الكوفة",
+        "النجف الأشرف",
+        "خيبر"
+      ],
+      "books": [
+        "نهج البلاغة",
+        "كتاب علي",
+        "مصحف علي"
+      ],
+      "importantEvents": [
+        "الولادة في الكعبة",
+        "ليلة المبيت",
+        "فتح خيبر",
+        "يوم الغدير",
+        "شهادة المحراب"
+      ],
+      "sayings": [
+        "الناس صنفان: إما أخ لك في الدين، أو نظير لك في الخلق.",
+        "العلم خير من المال، العلم يحرسك وأنت تحرس المال.",
+        "لا تستوحشوا في طريق الهدى لقلة أهله."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Nahj al-Balagha, Letter 53 to Malik al-Ashtar",
+        "url": "https://al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-53-order-malik-al-ashtar"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam Ali’s words to Kumayl ibn Ziyad",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani/narrations-imam-ali"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Ghurar al-Hikam, “The Fool”, saying on silence",
+        "url": "https://al-islam.org/ghurar-al-hikam-wa-durar-al-kalim-exalted-aphorisms-and-pearls-speech/fool"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "en": {
+      "name": "Lady Fatima al-Zahra (sa)",
+      "title": "Sayyidat Nisa' al-Alamin (Leader of Women of Worlds), Al-Siddiqa",
+      "born": "20 Jumada al-Thani (5 years after Bi'thah / 615 CE)",
+      "martyrdom": "3 Jumada al-Thani (or 13 Jumada al-Awwal), 11 AH",
+      "burial": "Medina (exact burial place unknown)",
+      "biography": "The immaculate daughter of Prophet Muhammad (saws) and Sayyida Khadija (sa), wife of Imam Ali (as), and mother of Imams Hasan and Hussain (as). She is the core of the Verse of Purity (Ayat al-Tathir) and Mubahalah. Renowned for her intense devotion, piety, charity, and the famous Khutba al-Fadakiya sermon defending divine succession and truth. She passed away shortly after her father due to grief and injuries.",
+      "familyTree": {
+        "father": "Prophet Muhammad (saws)",
+        "mother": "Sayyida Khadija al-Kubra (sa)",
+        "spouse": "Imam Ali ibn Abi Talib (as)",
+        "children": [
+          "Imam Hasan (as)",
+          "Imam Hussain (as)",
+          "Sayyida Zainab (sa)",
+          "Sayyida Umm Kulthum (sa)",
+          "Hazrat Muhsin (as)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "615 CE",
+          "event": "Birth in Mecca, bringing heavenly divine light"
+        },
+        {
+          "year": "619 CE",
+          "event": "Passing of her beloved mother Sayyida Khadija (sa)"
+        },
+        {
+          "year": "624 CE",
+          "event": "Divine Marriage to Imam Ali ibn Abi Talib (as)"
+        },
+        {
+          "year": "625 CE",
+          "event": "Birth of Imam Hasan al-Mujtaba (as)"
+        },
+        {
+          "year": "626 CE",
+          "event": "Birth of Imam Hussain (as)"
+        },
+        {
+          "year": "631 CE",
+          "event": "Event of Mubahalah against Christians of Najran"
+        },
+        {
+          "year": "632 CE",
+          "event": "Demise of her father & Sermon of Fadak"
+        },
+        {
+          "year": "632 CE",
+          "event": "Martyrdom and secret nocturnal burial in Medina"
+        }
+      ],
+      "places": [
+        "Mecca",
+        "Medina",
+        "Fadak",
+        "Jannat al-Baqi"
+      ],
+      "books": [
+        "Mus'haf Fatima (sa)",
+        "Tasbih of Sayyida Fatima (sa)",
+        "Khutba al-Fadakiya"
+      ],
+      "importantEvents": [
+        "Hadith al-Kisa",
+        "Event of Mubahalah",
+        "Revelation of Surah al-Insan (Hal Ata)",
+        "Sermon of Fadak",
+        "Secret Burial"
+      ],
+      "sayings": [
+        "Whoever sends their sincere worship up to Allah, Allah sends down to them His best interest and guidance.",
+        "Allah made faith a purification for you from polytheism, and prayer an elevation from arrogance.",
+        "The smiling face of a believer earns the reward of entering Paradise."
+      ]
+    },
+    "ur": {
+      "name": "سیدہ فاطمہ زہرا (س)",
+      "title": "سیدۃ نساء العالمین، الزہراء، الصدیقہ، ام ابیہا",
+      "born": "۲۰ جمادی الثانی (بعثت کے ۵ویں سال / ۶۱۵ عیسوی)",
+      "martyrdom": "۳ جمادی الثانی (یا ۱۳ جمادی الاول)، ۱۱ ہجری",
+      "burial": "مخفی وصیت کے مطابق رات کے اندھیرے میں دفن، مدینہ منورہ",
+      "biography": "رسول اکرم (ص) اور حضرت خدیجہ (س) کی اکلوتی صاحبزادی، حضرت علی (ع) کی زوجہ، اور تمام ائمہ معصومین کی والدہ۔ آپ آیتِ تطہیر، آیہ مباہلہ اور سورہ کوثر کا محور ہیں۔ آپ اپنی عبادت، زہد، سخاوت اور حق گوئی کے لیے معروف تھیں۔ والد گرامی کی رحلت کے بعد آپ نے خطبہ فدکیہ کے ذریعے ولایت اور حق کا بیباک دفاع فرمایا۔ آپ کی وصیت کے مطابق آپ کو مدینہ میں مخفی طور پر رات کے وقت دفن کیا گیا۔",
+      "familyTree": {
+        "father": "حضرت محمد مصطفیٰ (ص)",
+        "mother": "حضرت خدیجۃ الکبریٰ (س)",
+        "spouse": "امام علی ابن ابی طالب (ع)",
+        "children": [
+          "امام حسن (ع)",
+          "امام حسین (ع)",
+          "سیدہ زینب (س)",
+          "سیدہ ام کلثوم (س)",
+          "حضرت محسن (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۱۵ء",
+          "event": "مکہ مکرمہ میں ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۱۹ء",
+          "event": "والدہ گرامی حضرت خدیجہ (س) کی وفات"
+        },
+        {
+          "year": "۶۲۴ء",
+          "event": "امام علی علیہ السلام کے ساتھ ملکوتی عقدِ نکاح"
+        },
+        {
+          "year": "۶۲۵ء",
+          "event": "امام حسن مجتبیٰ علیہ السلام کی ولادت"
+        },
+        {
+          "year": "۶۲۶ء",
+          "event": "امام حسین علیہ السلام کی ولادت"
+        },
+        {
+          "year": "۶۳۱ء",
+          "event": "واقعہ مباہلہ میں پنجتن پاک کے ساتھ شرکت"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "رحلتِ پیغمبر اسلام (ص) اور خطبہ فدکیہ کا ارشاد"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "شهادت اور مدینہ میں وصیت کے مطابق شبانہ تدفین"
+        }
+      ],
+      "places": [
+        "مکہ مکرمہ",
+        "مدینہ منورہ",
+        "فدک",
+        "جنت البقیع"
+      ],
+      "books": [
+        "مصحفِ فاطمہ (س)",
+        "تسبیحِ سیدہ فاطمہ (س)",
+        "خطبہ فدکیہ"
+      ],
+      "importantEvents": [
+        "حدیثِ کساء",
+        "واقعہ مباہلہ",
+        "نزولِ سورہ دہر (انسان)",
+        "خطبہ فدکیہ",
+        "مخفی تدفین"
+      ],
+      "sayings": [
+        "جو شخص اپنی خالص ترین عبادتیں اللہ کی بارگاہ میں بھیجتا ہے، اللہ تعالی اس کے لیے اپنے بہترین مصالح نازل فرماتا ہے۔",
+        "اللہ نے ایمان کو شرک سے پاکی کا ذریعہ اور نماز کو تکبر سے نجات کا وسیلہ بنایا ہے۔",
+        "مومن کا کشادہ روئی سے ملنا انسان کو جنت کا مستحق بناتا ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "السيدة فاطمة الزهراء (ع)",
+      "title": "سيدة نساء العالمين، الزهراء، أم أبيها",
+      "born": "٢٠ جمادى الثانية (السنة ٥ من البعثة / ٦١٥ م)",
+      "martyrdom": "٣ جمادى الثانية (أو ١٣ جمادى الأولى)، ١١ هـ",
+      "burial": "المدينة المنورة (قبرها مخفي بطلبها)",
+      "biography": "بضعة الرسول الأعظم (ص) وحبيبته، زوجة أمير المؤمنين (ع)، وأم الأئمة الأطهار. هي محور آية التطهير وآية المباهلة وسورة الكوثر. عُرفت بعبادتها وزهدها وخطبتها الفدكية الشهيرة في الدفاع عن الحق والولاية. توفيت مظلومة بعد رحيل والدها بزمن قصير وتولى الإمام علي (ع) دفنها ليلاً وسراً وفق وصيتها.",
+      "familyTree": {
+        "father": "النبي محمد (ص)",
+        "mother": "السيدة خديجة الكبرى (ع)",
+        "spouse": "الإمام علي بن أبي طالب (ع)",
+        "children": [
+          "الإمام الحسن (ع)",
+          "الإمام الحسين (ع)",
+          "السيدة زينب (ع)",
+          "السيدة أم كلثوم (ع)",
+          "المحسن (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦١٥ م",
+          "event": "الولادة الميمونة في مكة المكرمة"
+        },
+        {
+          "year": "٦٢٤ م",
+          "event": "الزواج المبارك من الإمام علي (ع)"
+        },
+        {
+          "year": "٦٢٥ م",
+          "event": "ولادة الإمام الحسن المجتبى (ع)"
+        },
+        {
+          "year": "٦٢٦ م",
+          "event": "ولادة الإمام الحسين الشهيد (ع)"
+        },
+        {
+          "year": "٦٣١ م",
+          "event": "المشاركة الفاعلة في يوم المباهلة"
+        },
+        {
+          "year": "٦٣٢ م",
+          "event": "إلقاء الخطبة الفدكية الخالدة"
+        },
+        {
+          "year": "٦٣٢ م",
+          "event": "الشهادة والدفن ليلاً وسراً بالمدينة المنورة"
+        }
+      ],
+      "places": [
+        "مكة المكرمة",
+        "المدينة المنورة",
+        "فدك"
+      ],
+      "books": [
+        "مصحف فاطمة",
+        "تسبيح الزهراء (ع)",
+        "الخطبة الفدكية"
+      ],
+      "importantEvents": [
+        "حديث الكساء",
+        "يوم المباهلة",
+        "نزول سورة الإنسان",
+        "الخطبة الفدكية"
+      ],
+      "sayings": [
+        "من ألعى إلى الله خالص عبادته، أهبط الله عز وجل إليه أفضل مصلحته.",
+        "جعل الله الإيمان تطهيراً لكم من الشرك، والصلاة تنزيهاً لكم عن الكبر.",
+        "بِشْرٌ في وجهِ المؤمنِ يُوجِبُ لصاحِبِهِ الجَنَّةَ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Bihar al-Anwar — saying of Lady Fatima al-Zahra (sa) on sincere worship"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Bihar al-Anwar — saying of Lady Fatima al-Zahra (sa) on faith and divine obligations"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "en": {
+      "name": "Imam Hasan al-Mujtaba (as)",
+      "title": "Al-Mujtaba (The Chosen), Karim Ahlul Bayt (Generous One)",
+      "born": "15 Ramadan, 3 AH (625 CE)",
+      "martyrdom": "28 Safar (or 7 Safar), 50 AH (670 CE)",
+      "burial": "Jannat al-Baqi, Medina",
+      "biography": "The second Infallible Imam and eldest grandson of Prophet Muhammad (saws), who named him and praised him as 'Leader of the Youths of Paradise'. Known for his unparalleled generosity—donating his entire wealth multiple times—he assumed the Caliphate after Imam Ali (as). Facing widespread betrayal and corruption, he signed a strategic Peace Treaty with Mu'awiyah to preserve the blood of Muslims and expose hypocrisy. He was eventually poisoned in Medina.",
+      "familyTree": {
+        "father": "Imam Ali ibn Abi Talib (as)",
+        "mother": "Lady Fatima al-Zahra (sa)",
+        "spouse": "Umm Bashir, Ja'da bint al-Ash'ath & others",
+        "children": [
+          "Zayd",
+          "Hasan al-Muthanna",
+          "Qasim (as)",
+          "Abdullah (as)",
+          "Fatima (mother of Imam Baqir)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "625 CE",
+          "event": "Birth in Medina on 15th Ramadan"
+        },
+        {
+          "year": "632 CE",
+          "event": "Demise of his grandfather (saws) and mother (sa)"
+        },
+        {
+          "year": "656 CE",
+          "event": "Participated alongside Imam Ali (as) in state affairs & battles"
+        },
+        {
+          "year": "661 CE",
+          "event": "Assumed Imate & Caliphate after martyrdom of Imam Ali (as)"
+        },
+        {
+          "year": "661 CE",
+          "event": "Concluded Historic Peace Treaty (Sulh) with Mu'awiyah"
+        },
+        {
+          "year": "661-670 CE",
+          "event": "Returned to Medina, training scholars & serving the poor"
+        },
+        {
+          "year": "670 CE",
+          "event": "Martyred through poison by Ja'da; burial attacked in Baqi"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Kufa",
+        "Jannat al-Baqi",
+        "Mada'in"
+      ],
+      "books": [
+        "Sulh al-Hasan (Historical Treaty Documents)",
+        "Sermons of Imam Hasan (as)"
+      ],
+      "importantEvents": [
+        "Leader of Youths of Paradise",
+        "Caliphate in Kufa",
+        "Peace Treaty with Mu'awiyah",
+        "Martyrdom by Poison"
+      ],
+      "sayings": [
+        "The most sharp-sighted person is he who reflects upon good and evil, and the best listener is he who remembers admonition.",
+        "Teach others your knowledge and learn the knowledge of others; thus you will perfect your own knowledge.",
+        "Generosity is giving before being asked."
+      ]
+    },
+    "ur": {
+      "name": "امام حسن مجتبیٰ (ع)",
+      "title": "المجتبیٰ، کریمِ اہل بیت، سبطِ اکبر",
+      "born": "۱۵ رمضان المبارک، ۳ ہجری (۶۲۵ عیسوی)",
+      "martyrdom": "۲۸ صفر (یا ۷ صفر)، ۵۰ ہجری (۶۷۰ عیسوی)",
+      "burial": "جنت البقیع، مدینہ منورہ",
+      "biography": "دوسرے معصوم امام اور رسول اکرم (ص) کے بڑے نواسے، جنہیں آپ نے 'جوانانِ جنت کا سردار' قرار دیا۔ آپ اپنی لامتناہی سخاوت کے لیے 'کریمِ اہل بیت' کے لقب سے مشہور تھے۔ امیر المؤمنینؑ کی شہادت کے بعد مسندِ خلافت سنبھالی۔ جب منافقین اور فتنہ پرور عناصر نے دھوکہ دیا، تو آپ نے اسلام کے حقیقی وجود اور مسلم امت کے خون کی حفاظت کے لیے معاویہ کے ساتھ تاریخی صلح نامہ کیا۔ بعد میں جعدہ بنت اشعث کے ذریعے زہر دے کر شہید کیا گیا۔",
+      "familyTree": {
+        "father": "امام علی ابن ابی طالب (ع)",
+        "mother": "سیدہ فاطمہ زہرا (س)",
+        "spouse": "ام بشیر، جعدہ بنت اشعث و دیگر",
+        "children": [
+          "زید",
+          "حسن مثنیٰ",
+          "حضرت قاسم (ع)",
+          "حضرت عبداللہ (ع)",
+          "فاطمہ (والدہ امام باقرؑ)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۲۵ء",
+          "event": "مدینہ منورہ میں ۱۵ رمضان کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۳۲ء",
+          "event": "نانا رسولِ خدا (ص) اور والدہ گرامی کی رحلت"
+        },
+        {
+          "year": "۶۵۶ء",
+          "event": "والد محترم امام علیؑ کے ساتھ جنگوں اور ریاستی امور میں شرکت"
+        },
+        {
+          "year": "۶۶۱ء",
+          "event": "شہادتِ علیؑ کے بعد امامت اور ظاہری خلافت کی ذمہ داری"
+        },
+        {
+          "year": "۶۶۱ء",
+          "event": "اسلامی بقا اور خونِ مسلم کے تحفظ کے لیے تاریخی صلح حسنؑ"
+        },
+        {
+          "year": "۶۶۱-۶۷۰ء",
+          "event": "مدینہ منورہ میں علمی و تربیتی مرکز قائم کرنا"
+        },
+        {
+          "year": "۶۷۰ء",
+          "event": "زہر کے ذریعے شہادت اور جنازے پر تیر اندازی کے بعد البقیع میں تدفین"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "کوفہ",
+        "جنت البقیع",
+        "مدائن"
+      ],
+      "books": [
+        "صلحِ امام حسنؑ کے دستاویزی معاہدے",
+        "خطبات و ادعیہ امام حسنؑ"
+      ],
+      "importantEvents": [
+        "سردارِ جوانانِ جنت",
+        "کوفہ میں خلافت",
+        "صلحِ امام حسنؑ",
+        "زہر کے ذریعے شہادت"
+      ],
+      "sayings": [
+        "سب سے زیادہ بصیرت والا وہ ہے جو خیر و شر پر غور فکر کرے، اور سب سے زیادہ سننے والا وہ ہے جو نصیحت کو یاد رکھے۔",
+        "اپنا علم دوسروں کو سکھاؤ اور دوسروں کا علم خود سیکھو، اس طرح تمہارا اپنا علم پختہ ہو جائے گا۔",
+        "سخاوت یہ ہے کہ مانگنے سے پہلے عطا کر دیا جائے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام الحسن المجتبى (ع)",
+      "title": "المجتبى، كريم أهل البيت، سبط النبي الأكبر",
+      "born": "١٥ رمضان المبارك، ٣ هـ (٦٢٥ م)",
+      "martyrdom": "٢٨ صفر (أو ٧ صفر)، ٥٠ هـ (٦٧٠ م)",
+      "burial": "جنة البقيع، المدينة المنورة",
+      "biography": "الإمام الثاني من أئمة الهدى وسبط النبي الأكبر وسيد شباب أهل الجنة. عُرف بكرمه الفائق وحلمه العظيم. تولى الخلافة بعد استشهاد والده الإمام علي (ع). ولما رأى الخيانة والفتن في جيشه، عقد صلحاً تاريخياً مع معاوية لحقن دماء المسلمين وصيانة الإسلام. اغتيل بالسم في المدينة المنورة ودفن بالبقيع.",
+      "familyTree": {
+        "father": "الإمام علي بن أبي طالب (ع)",
+        "mother": "السيدة فاطمة الزهراء (ع)",
+        "spouse": "أم بشير، جعدة بنت الأشعث وأخريات",
+        "children": [
+          "زيد",
+          "الحسن المثنى",
+          "القاسم (ع)",
+          "عبد الله (ع)",
+          "فاطمة (أم الإمام الباقر)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦٢٥ م",
+          "event": "الولادة المباركة في 15 رمضان بالمدينة المنورة"
+        },
+        {
+          "year": "٦٦١ م",
+          "event": "تولي الإمامة والخلافة بعد شهادة الإمام علي (ع)"
+        },
+        {
+          "year": "٦٦١ م",
+          "event": "عقد معاهدة الصلح التاريخية لحقن دماء المسلمين"
+        },
+        {
+          "year": "٦٧٠ م",
+          "event": "الشهادة بالسم والدفن في البقيع بعد رمي الجنازة بالسهام"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "الكوفة",
+        "جنة البقيع"
+      ],
+      "books": [
+        "رسائل وخطب الإمام الحسن (ع)",
+        "وثيقة الصلح"
+      ],
+      "importantEvents": [
+        "سيد شباب أهل الجنة",
+        "صلح الإمام الحسن (ع)",
+        "الشهادة بالسم"
+      ],
+      "sayings": [
+        "إنّ أبصرَ الأبصارِ ما نَفَذَ في الخيرِ مَذْهَبُهُ، وأسمَعَ الأستماعِ ما وَعَى التَّذكيرَ وانتَفَعَ بهِ.",
+        "علّمِ الناسَ عِلمَكَ، وتعلّمْ عِلمَ غيرِكَ، فَتَكونَ قَد أتقَنتَ عِلمَكَ، وعَلِمتَ ما لَم تَعلَم.",
+        "الكَرَمُ الابتِداءُ بالعَطيّةِ قَبلَ المَسألةِ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Hasan, definition of generosity",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani/maxims-imam-al-hasan"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "en": {
+      "name": "Imam Hussain ibn Ali (as)",
+      "title": "Sayyid al-Shuhada (Master of Martyrs), Aba Abdillah",
+      "born": "3 Sha'ban, 4 AH (626 CE)",
+      "martyrdom": "10 Muharram (Ashura), 61 AH (October 10, 680 CE)",
+      "burial": "Imam Hussain Shrine, Karbala, Iraq",
+      "biography": "The third Infallible Imam and younger grandson of Prophet Muhammad (saws). When Yazid ibn Mu'awiyah demanded allegiance to legitimize despotic tyranny, Imam Hussain stood firm, declaring: 'A person like me cannot pay allegiance to a person like him.' He journeyed to Karbala with his family and 72 loyal companions, where they were besieged, denied water for 3 days, and massacred on the Day of Ashura. His sacrifice revived Islam for all time.",
+      "familyTree": {
+        "father": "Imam Ali ibn Abi Talib (as)",
+        "mother": "Lady Fatima al-Zahra (sa)",
+        "spouse": "Umm Rubab, Umm Layla, Shahrbanu",
+        "children": [
+          "Imam Ali Zayn al-Abidin (as)",
+          "Hazrat Ali Akbar (as)",
+          "Hazrat Ali Asghar (as)",
+          "Sayyida Ruqayya / Sakina (sa)",
+          "Sayyida Fatima Sughra"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "626 CE",
+          "event": "Birth in Medina on 3rd Sha'ban"
+        },
+        {
+          "year": "632 CE",
+          "event": "Loss of his Holy Grandfather (saws) and Mother (sa)"
+        },
+        {
+          "year": "680 CE (Rajab)",
+          "event": "Refused allegiance to tyrant Yazid & left Medina for Mecca"
+        },
+        {
+          "year": "680 CE (Zul-Hijjah)",
+          "event": "Converted Hajj to Umrah & departed Mecca for Kufa/Karbala"
+        },
+        {
+          "year": "680 CE (2 Muharram)",
+          "event": "Arrival of Imam Hussain's caravan at the plains of Karbala"
+        },
+        {
+          "year": "680 CE (7 Muharram)",
+          "event": "Water supply cut off from the tents of Ahlul Bayt"
+        },
+        {
+          "year": "680 CE (10 Muharram)",
+          "event": "Day of Ashura: Supreme Martyrdom of Imam Hussain & companions"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Mecca",
+        "Karbala",
+        "Kufa",
+        "Shaam (Damascus)"
+      ],
+      "books": [
+        "Dua al-Arafah",
+        "Sermons of Karbala",
+        "Letters to Kufa and Basra"
+      ],
+      "importantEvents": [
+        "Refusal of Yazid's Allegiance",
+        "Dua Arafah",
+        "Battle of Karbala",
+        "Day of Ashura",
+        "Arba'een Legacy"
+      ],
+      "sayings": [
+        "Death with dignity is better than a life of humiliation.",
+        "If you do not believe in religion and do not fear the Day of Judgment, at least be free-thinking in your worldly affairs.",
+        "I did not rise out of arrogance or mischief, but to reform the nation of my grandfather."
+      ]
+    },
+    "ur": {
+      "name": "امام حسین ابن علی (ع)",
+      "title": "سید الشہداء، ابا عبداللہ، ثار اللہ، وارثِ انبیاء",
+      "born": "۳ شعبان المعظم، ۴ ہجری (۶۲۶ عیسوی)",
+      "martyrdom": "۱۰ محرم الحرام (عاشوراء)، ۶۱ ہجری (۶۸۰ عیسوی)",
+      "burial": "حرم مطہر امام حسینؑ، کربلائے معلیٰ، عراق",
+      "biography": "تیسرے معصوم امام اور رسول اکرم (ص) کے چھوٹے نواسے۔ جب فاسق و فاجر یزید نے بیعت کا مطالبہ کیا تو آپ نے فرمایا: 'مجھ جیسا یزید جیسے کی بیعت نہیں کر سکتا۔' آپ اپنے اہل خانہ اور ۷۲ وفادار ساتھیوں کے ساتھ مدینہ سے مکہ اور پھر کربلا تشریف لائے۔ جہاں ۳ دن کے پیاسے خیموں اور سخت محاصرے کے باوجود عاشور کے دن میدانِ کربلا میں بے مثال قربانی دے کر اسلام کو قیامت تک کے لیے زندہ کر دیا۔",
+      "familyTree": {
+        "father": "امام علی ابن ابی طالب (ع)",
+        "mother": "سیدہ فاطمہ زہرا (س)",
+        "spouse": "ام رباب، ام لیلیٰ، شہر بانو",
+        "children": [
+          "امام علی زین العابدین (ع)",
+          "حضرت علی اکبر (ع)",
+          "حضرت علی اصغر (ع)",
+          "سیدہ سکینہ / رقیہ (س)",
+          "سیدہ فاطمہ صغریٰ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۲۶ء",
+          "event": "مدینہ منورہ میں ۳ شعبان کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۸۰ء (رجب)",
+          "event": "یزید کی بیعت سے انکار اور مدینہ سے مکہ روانگی"
+        },
+        {
+          "year": "۶۸۰ء (ذی الحجہ)",
+          "event": "حج کو عمرہ میں تبدیل کر کے مکہ سے کربلا کا سفر"
+        },
+        {
+          "year": "۶۸۰ء (۲ محرم)",
+          "event": "کاروانِ حسینیؑ کی کربلا کے تپتے صحرا میں آمد"
+        },
+        {
+          "year": "۶۸۰ء (۷ محرم)",
+          "event": "خیمہ ہائے اہل بیت پر پانی کی بندش"
+        },
+        {
+          "year": "۶۸۰ء (۱۰ محرم)",
+          "event": "روزِ عاشور: امام حسینؑ، اولاد اور اصحاب کی عظیم الشان شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "مکہ مکرمہ",
+        "کربلائے معلیٰ",
+        "کوفہ",
+        "شام (دمشق)"
+      ],
+      "books": [
+        "دعائے عرفہ",
+        "خطباتِ کربلا",
+        "اہلِ کوفہ و بصرہ کے نام خطوط"
+      ],
+      "importantEvents": [
+        "بیعتِ یزید سے انکار",
+        "دعائے عرفہ",
+        "واقعہ کربلا",
+        "روزِ عاشورہ",
+        "اربعینِ حسینیؑ"
+      ],
+      "sayings": [
+        "عزت کی موت ذلت کی زندگی سے کہیں بہتر ہے۔",
+        "اگر تم دین پر یقین نہیں رکھتے اور قیامت سے نہیں ڈرتے تو کم از کم اپنی دنیاوی زندگی میں آزاد منش انسان بن کر رہو۔",
+        "میں اپنے نانا کی امت کی اصلاح کے لیے نکلا ہوں، نہ کہ فتنہ یا تکبر کے لیے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام الحسين بن علي (ع)",
+      "title": "سيد الشهداء، أبا عبد الله، ثار الله",
+      "born": "٣ شعبان المعظم، ٤ هـ (٦٢٦ م)",
+      "martyrdom": "١٠ محرم الحرام (عاشوراء)، ٦١ هـ (٦٨٠ م)",
+      "burial": "المرقد الحسيني المطهر، كربلاء المقدسة، العراق",
+      "biography": "الإمام الثالث وسبط النبي الأصغر. عندما طلب طاغية عصره يزيد البيعة منه لتشريع ظلمه، رفض الإمام قائلاً: 'مثلي لا يبايع مثله'. خرج بأهله وأصحابه البالغين ٧٢ ناصراً إلى كربلاء، حيث حوصروا ومُنعوا الماء لثلاثة أيام، واستشهدوا أجمعين في يوم عاشوراء ملحمياً ليخلدوا التضحية والفداء للحق.",
+      "familyTree": {
+        "father": "الإمام علي بن أبي طالب (ع)",
+        "mother": "السيدة فاطمة الزهراء (ع)",
+        "spouse": "الرباب، ليلى، شهربانو",
+        "children": [
+          "الإمام علي زين العابدين (ع)",
+          "علي الأكبر (ع)",
+          "علي الأصغر (ع)",
+          "السيدة رقية / سكينة (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦٢٦ م",
+          "event": "الولادة الميمونة في المدينة المنورة"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "الخروج من المدينة إلى مكة رفضاً لبيعة يزيد"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "الوصول إلى كربلاء المقدسة في ٢ محرم"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "قطع الماء عن التظلم في ٧ محرم"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "الملحمة العظمى والشهادة في يوم عاشوراء (١٠ محرم)"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "مكة المكرمة",
+        "كربلاء المقدسة",
+        "الكوفة",
+        "الشام"
+      ],
+      "books": [
+        "دعاء عرفة الخالد",
+        "خطب ومواقف كربلاء"
+      ],
+      "importantEvents": [
+        "موقف رفض البيعة",
+        "دعاء عرفة",
+        "واقعة الطف بكربلاء",
+        "شهادة يوم عاشوراء"
+      ],
+      "sayings": [
+        "الموتُ خيرٌ من ركوبِ العارِ، والعارُ أولى من دخولِ النارِ.",
+        "إن لم يكن لكم دينٌ، وكنتم لا تخافون المعادَ، فكونوا أحراراً في دنيالكم.",
+        "إني لم أخرج أشراً ولا بطراً ولا مفسداً ولا ظالماً، وإنما خرجت لطلب الإصلاح في أمة جدي."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Bihar al-Anwar — Imam Hussain (as) on death with dignity"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Maqtal narratives in Bihar al-Anwar — “then be free in this world”"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Bihar al-Anwar / Maqtal narratives — the purpose of Imam Hussain’s uprising"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "en": {
+      "name": "Imam Ali ibn al-Hussain (as)",
+      "title": "Zayn al-Abidin (Ornament of Worshippers), Al-Sajjad",
+      "born": "5 Sha'ban, 38 AH (659 CE)",
+      "martyrdom": "25 Muharram, 95 AH (713 CE)",
+      "burial": "Jannat al-Baqi, Medina",
+      "biography": "The fourth Infallible Imam, survivor of Karbala who witnessed the martyrdom of his father and brothers. Despite being gravely ill during Ashura, he became the protector of the captive women and children, delivering legendary speeches in Kufa and Yazid's palace in Damascus that shattered Umayyad propaganda. He rebuilt Islamic spirituality through profound supplications, authoring Al-Sahifa al-Sajjadiyya and Risalat al-Huquq (Treatise on Rights).",
+      "familyTree": {
+        "father": "Imam Hussain ibn Ali (as)",
+        "mother": "Sayyida Shahrbanu (sa)",
+        "spouse": "Fatima bint al-Hasan (sa) & others",
+        "children": [
+          "Imam Muhammad al-Baqir (as)",
+          "Zayd ibn Ali (Shaheed)",
+          "Al-Husan",
+          "Abdullah",
+          "Umar"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "659 CE",
+          "event": "Birth in Medina"
+        },
+        {
+          "year": "680 CE",
+          "event": "Present in Karbala; survived due to severe illness"
+        },
+        {
+          "year": "680-681 CE",
+          "event": "Captivity in Damascus & historic speeches in Yazid's court"
+        },
+        {
+          "year": "681 CE",
+          "event": "Return to Medina to lead the Shia community through spiritual revival"
+        },
+        {
+          "year": "690-710 CE",
+          "event": "Compilation of Al-Sahifa al-Sajjadiyya & Risalat al-Huquq"
+        },
+        {
+          "year": "713 CE",
+          "event": "Martyred through poison by Walid ibn Abd al-Malik in Medina"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Karbala",
+        "Kufa",
+        "Damascus (Shaam)",
+        "Jannat al-Baqi"
+      ],
+      "books": [
+        "Al-Sahifa al-Sajjadiyya (Psalms of Islam)",
+        "Risalat al-Huquq (Treatise on Rights)",
+        "Ziyarat Aminullah"
+      ],
+      "importantEvents": [
+        "Survival of Karbala",
+        "Sermon in Yazid's Court",
+        "Authoring Al-Sahifa al-Sajjadiyya",
+        "Treatise on Rights"
+      ],
+      "sayings": [
+        "Beware of lying, whether small or great, in seriousness or in jest.",
+        "The right of your mother is that you know she carried you where no one carries anyone, and fed you from the fruit of her heart.",
+        "Beware of the companionship of a liar, for he is like a mirage."
+      ]
+    },
+    "ur": {
+      "name": "امام علی ابن الحسین (ع)",
+      "title": "زین العابدین، السجاد، سید الساجدین",
+      "born": "۵ شعبان المعظم، ۳۸ ہجری (۶۵۹ عیسوی)",
+      "martyrdom": "۲۵ محرم الحرام، ۹۵ ہجری (۷۱۳ عیسوی)",
+      "burial": "جنت البقیع، مدینہ منورہ",
+      "biography": "چوتھے معصوم امام، جو واقعہ کربلا میں شدید بیماری کے باعث زندہ رہے اور اپنے والد و بھائیوں کی شہادت کے چشم دید گواہ بنے۔ آپ نے سیدہ زینب (س) کے ساتھ مل کر کوفہ اور شام (یزید کے دربار) میں وہ تاریخی خطبے دیے جنہوں نے اموی سلطنت کی بنیادیں ہلا دیں۔ شدید ترین سیاسی گھٹن کے دور میں آپ نے مناجات و دعا کے ذریعے اسلامی روح کو بیدار کیا اور 'صحیفہ سجادیہ' اور 'رسالہ حقوق' جیسی لازوال کتب تحریر فرمائیں۔",
+      "familyTree": {
+        "father": "امام حسین ابن علی (ع)",
+        "mother": "حضرت شہر بانو (س)",
+        "spouse": "حضرت فاطمہ بنتِ حسن (س) و دیگر",
+        "children": [
+          "امام محمد باقر (ع)",
+          "زید بن علی شہید",
+          "الحسین",
+          "عبداللہ",
+          "عمر"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۵۹ء",
+          "event": "مدینہ منورہ میں ۵ شعبان کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۸۰ء",
+          "event": "واقعہ کربلا میں شرکت اور شدتِ مرض کے باعث بقا"
+        },
+        {
+          "year": "۶۸۰-۶۸۱ء",
+          "event": "اسارتِ شام اور دربارِ یزید میں ولولہ انگیز تاریخی خطبہ"
+        },
+        {
+          "year": "۶۸۱ء",
+          "event": "مدینہ واپسی اور دعا و مناجات کے ذریعے روحانی انقلاب"
+        },
+        {
+          "year": "۶۹۰-۷۱۰ء",
+          "event": "صحیفہ سجادیہ اور رسالہ حقوق کی تدوین"
+        },
+        {
+          "year": "۷۱۳ء",
+          "event": "ولید بن عبدالملک کے زہر سے مدینہ میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "کربلاء",
+        "کوفہ",
+        "دمشق (شام)",
+        "جنت البقیع"
+      ],
+      "books": [
+        "صحیفہ سجادیہ (زبورِ آلِ محمد)",
+        "رسالۃ الحقوق (حقوق کا منشور)",
+        "زیارتِ امین اللہ"
+      ],
+      "importantEvents": [
+        "کربلا میں بقا",
+        "دربارِ یزید میں تاریخی خطبہ",
+        "صحیفہ سجادیہ کی تدوین",
+        "منشورِ حقوق (رسالہ حقوق)"
+      ],
+      "sayings": [
+        "جھوٹ سے بچو، خواہ وہ چھوٹا ہو یا بڑا، سنجیدہ ہو یا مذاق میں۔",
+        "تمہاری ماں کا تم پر یہ حق ہے کہ تم جانو اس نے تمہیں وہاں اٹھایا جہاں کوئی کسی کو نہیں اٹھاتا اور اپنے دل کا میوہ تمہیں کھلایا۔",
+        "جھوٹے کی صحبت سے بچو کیونکہ وہ سراب کی مانند ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام علي بن الحسين (ع)",
+      "title": "زين العابدين، السجاد، سيد الساجدين",
+      "born": "٥ شعبان، ٣٨ هـ (٦٥٩ م)",
+      "martyrdom": "٢٥ محرم، ٩٥ هـ (٧١٣ م)",
+      "burial": "جنة البقيع، المدينة المنورة",
+      "biography": "الإمام الرابع، شاهد فاجعة كربلاء الشديدة، وحامي الأسرى من آل الرسول بعد عاشوراء. خطب خطبته التاريخية العظيمة في بلاط يزيد بالشام فكشف الحقائق وأبطل زيغ الإعلام الأموي. قاد الأمة في أحلك الظروف السياسية عبر الدعاء والمناجاة، مألفاً 'الصحيفة السجادية' (زبور آل محمد) و'رسالة الحقوق'.",
+      "familyTree": {
+        "father": "الإمام الحسين بن علي (ع)",
+        "mother": "السيدة شهربانو (ع)",
+        "spouse": "فاطمة بنت الحسن (ع) وأخريات",
+        "children": [
+          "الإمام محمد الباقر (ع)",
+          "زيد بن علي الشهيد",
+          "الحسين",
+          "عبد الله"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦٥٩ م",
+          "event": "الولادة المباركة بالمدينة المنورة"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "حضور واقعه كربلاء والنجاة لشدة المرض"
+        },
+        {
+          "year": "٦٨١ م",
+          "event": "الخطبة التاريخية المدوية في دمشق"
+        },
+        {
+          "year": "٧١٣ م",
+          "event": "الشهادة بالسم في المدينة المنورة والدفن بالبقيع"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "كربلاء",
+        "الكوفة",
+        "دمشق",
+        "البقيع"
+      ],
+      "books": [
+        "الصحيفة السجادية",
+        "رسالة الحقوق",
+        "زيارة أمين الله"
+      ],
+      "importantEvents": [
+        "خطبة الشام",
+        "تأسيس مدرسة الدعاء",
+        "تأليف الصحيفة السجادية"
+      ],
+      "sayings": [
+        "اتّقوا الكَذِبَ الصَّغيرَ منهُ والكَبيرَ في كُلِّ جِدٍّ وهَزلٍ.",
+        "حَقُّ أُمِّكَ أن تَعلَمَ أنَّها حَمَلَتْكَ حَيثُ لا يَحمِلُ أحَدٌ أحَداً، وأطعَمَتْكَ مِن ثَمَرَةِ قَلبِها.",
+        "إِيَّاكَ وَمُصَاحَبَةَ الْكَذَّابِ فَإِنَّهُ بِمَنْزِلَةِ السَّرَابِ"
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam Zayn al-Abidin (as) on avoiding lies",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Risalat al-Huquq (Treatise on Rights), the right of the mother",
+        "url": "https://al-islam.org/treatise-rights-risalat-al-huquq-imam-ali-zayn-al-abidin/rights-womb-relatives#22-right-mother"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam Zayn al-Abidin (as) on the companionship of a liar",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "en": {
+      "name": "Imam Muhammad ibn Ali (as)",
+      "title": "Al-Baqir (Splitter / Revealer of Knowledge)",
+      "born": "1 Rajab, 57 AH (677 CE)",
+      "martyrdom": "7 Dhu al-Hijjah, 114 AH (733 CE)",
+      "burial": "Jannat al-Baqi, Medina",
+      "biography": "The fifth Infallible Imam, son of Imam Sajjad and grandson of Imam Hasan (through his mother). Prophet Muhammad (saws) had sent him greetings via the companion Jabir ibn Abdullah al-Ansari. Taking advantage of the weakening Umayyad dynasty, he opened the first major Islamic university in Medina, unraveling deep Qur'anic sciences, jurisprudence, medicine, and theology. He was poisoned by Hisham ibn Abd al-Malik.",
+      "familyTree": {
+        "father": "Imam Ali Zayn al-Abidin (as)",
+        "mother": "Sayyida Fatima bint al-Hasan (sa)",
+        "spouse": "Umm Farwa bint al-Qasim & others",
+        "children": [
+          "Imam Ja'far al-Sadiq (as)",
+          "Abdullah",
+          "Ibrahim",
+          "Ubaydullah",
+          "Ali"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "677 CE",
+          "event": "Birth in Medina on 1st Rajab"
+        },
+        {
+          "year": "680 CE",
+          "event": "Present as a young child in Karbala at age 3"
+        },
+        {
+          "year": "713 CE",
+          "event": "Assumed Imamate & began establishing the Academic Hawza of Medina"
+        },
+        {
+          "year": "720 CE",
+          "event": "Trained thousands of jurists, traditionists, and scientists"
+        },
+        {
+          "year": "733 CE",
+          "event": "Martyred through poison by Hisham ibn Abd al-Malik in Medina"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Karbala",
+        "Jannat al-Baqi"
+      ],
+      "books": [
+        "Tafsir al-Baqir",
+        "Hadith collections of Ahlul Bayt",
+        "Asl al-Baqir"
+      ],
+      "importantEvents": [
+        "Present in Karbala as child",
+        "Salutation of Prophet via Jabir",
+        "Establishing Medina Academy",
+        "Unraveling Sciences"
+      ],
+      "sayings": [
+        "Perfection of intellect lies in three things: deep understanding of religion, patience during hardship, and wise management of life.",
+        "The scholar whose knowledge benefits others is better than seventy thousand worshippers.",
+        "Lying is the destruction of faith."
+      ]
+    },
+    "ur": {
+      "name": "امام محمد ابن علی (ع)",
+      "title": "الباقر (علوم کو شگافتہ کرنے والے)، باقر العلوم",
+      "born": "۱ رجب المرجب، ۵۷ ہجری (۶۷۷ عیسوی)",
+      "martyrdom": "۷ ذو الحجہ، ۱۱۴ ہجری (۷۳۳ عیسوی)",
+      "burial": "جنت البقیع، مدینہ منورہ",
+      "biography": "پانچویں معصوم امام، جو امام سجادؑ کے فرزند اور والدہ کی طرف سے امام حسنؑ کے نواسے (نجیب الطرفین) تھے۔ رسول اکرم (ص) نے صحابی جابر بن عبداللہ انصاری کے ذریعے آپ کو سلام بھیجا تھا۔ بنی امیہ کے زوال کے دور کا فائدہ اٹھاتے ہوئے آپ نے مدینہ منورہ میں وہ عظیم الشان علمی و فکری انقلاب برپا کیا جس نے تفسیر، فقہ، حدیث اور دیگر علوم کے دروازے کھول دیے۔ ہشام بن عبدالملک کے زہر کے ذریعے شہید ہوئے۔",
+      "familyTree": {
+        "father": "امام علی زین العابدین (ع)",
+        "mother": "سیدہ فاطمہ بنتِ حسن (س)",
+        "spouse": "ام فروہ بنتِ قاسم و دیگر",
+        "children": [
+          "امام جعفر صادق (ع)",
+          "عبداللہ",
+          "ابراہیم",
+          "عبیداللہ",
+          "علی"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۶۷۷ء",
+          "event": "مدینہ منورہ میں ۱ رجب کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۶۸۰ء",
+          "event": "۳ سال کی عمر میں کربلا میں موجودگی"
+        },
+        {
+          "year": "۷۱۳ء",
+          "event": "امامت پر متمکن ہونا اور مدینہ میں علمی حوزہ کی بنیاد رکھنا"
+        },
+        {
+          "year": "۷۲۰ء",
+          "event": "ہزاروں محدثین اور فقہاء کی تربیت"
+        },
+        {
+          "year": "۷۳۳ء",
+          "event": "ہشام بن عبدالملک کے حکم سے زہر دے کر مدینہ میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "کربلاء",
+        "جنت البقیع"
+      ],
+      "books": [
+        "تفسیرِ الباقرؑ",
+        "احادیثِ باقریہ کا مجموعہ",
+        "اصلِ باقرؑ"
+      ],
+      "importantEvents": [
+        "کربلا میں طفلی کی موجودگی",
+        "جابر انصاری کے ذریعے سلامِ پیغمبر (ص)",
+        "علمی حوزہ کا قیام",
+        "شکافتنِ علوم"
+      ],
+      "sayings": [
+        "کمالِ عقل تین چیزوں میں ہے: دین کی گہری سمجھ، مصائب پر صبر، اور زندگی میں تدبیر و اندازہ۔",
+        "وہ عالم جس کے علم سے لوگ فائدہ اٹھاتے ہوں، ستر ہزار عابدوں سے افضل ہے۔",
+        "جھوٹ بولنا ایمان کی بربادی ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام محمد بن علي (ع)",
+      "title": "الباقر، باقر علوم النبيين",
+      "born": "١ رجب، ٥٧ هـ (٦٧٧ م)",
+      "martyrdom": "٧ ذو الحجة، ١١٤ هـ (٧٣٣ م)",
+      "burial": "جنة البقيع، المدينة المنورة",
+      "biography": "الإمام الخامس، باقر علوم الأنبياء والمرسلين. بلّغه الصحابي جابر بن عبد الله الأنصاري سلام الرسول (ص). استغل فترة ضعف الحكم الأموي ليؤسس الجامعة الإسلامية الكبرى بالمدينة المنورة، مبيناً علوم القرآن والفق الفلسفة والطب، ومربياً مئات الرواة والعلماء.",
+      "familyTree": {
+        "father": "الإمام علي زين العابدين (ع)",
+        "mother": "السيدة فاطمة بنت الحسن (ع)",
+        "spouse": "أم فروة بنت القاسم وأخريات",
+        "children": [
+          "الإمام جعفر الصادق (ع)",
+          "عبد الله",
+          "إبراهيم"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٦٧٧ م",
+          "event": "الولادة المباركة بالمدينة المنورة"
+        },
+        {
+          "year": "٦٨٠ م",
+          "event": "حضور واقعة كربلاء وهو طفل في الثالثة من عمره"
+        },
+        {
+          "year": "٧٣٣ م",
+          "event": "الشهادة بالسم في أيام هشام بن عبد الملك بالبقيع"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "جنة البقيع"
+      ],
+      "books": [
+        "تفسير الإمام الباقر (ع)",
+        "الأصول الحديثية"
+      ],
+      "importantEvents": [
+        "سلام النبي عبر جابر الأنصاري",
+        "تأسيس الجامعة الإسلامية بالمدينة"
+      ],
+      "sayings": [
+        "الكَمَالُ كُلُّ الكَمَالِ: التَّفَقُّهُ في الدِّينِ، والصَّبْرُ علَى النَّائِبَةِ، وتَقْدِيرُ المَعِيشَةِ.",
+        "عَالِمٌ يُنْتَفَعُ بِعِلْمِهِ أَفْضَلُ مِنْ سَبْعِينَ أَلْفَ عَابِدٍ.",
+        "إنّ اللهَ عزّ وجلّ جَعَلَ لِلشَّرِّ أَقْفَالاً، وجَعَلَ مَفَاتِيحَ تِلْكَ الأَقْفَالِ الكَذِبَ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam al-Baqir (as) on the perfection of intellect",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Al-Kafi, Book of Knowledge — the scholar who benefits people"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "en": {
+      "name": "Imam Ja'far ibn Muhammad (as)",
+      "title": "Al-Sadiq (The Truthful), Founder of Ja'fari School",
+      "born": "17 Rabi' al-Awwal, 83 AH (702 CE)",
+      "martyrdom": "25 Shawwal, 148 AH (765 CE)",
+      "burial": "Jannat al-Baqi, Medina",
+      "biography": "The sixth Infallible Imam, born on the exact birth anniversary of Prophet Muhammad (saws). He expanded the Medina University into a global center of knowledge, teaching over 4,000 students in jurisprudence, chemistry, astronomy, philosophy, and ethics—including Jabir ibn Hayyan (Father of Chemistry), Abu Hanifa, and Malik ibn Anas. Shia jurisprudence is called Fiqh al-Ja'fari in his honor. He was poisoned by Abbassid caliph Mansur al-Dawanaqi.",
+      "familyTree": {
+        "father": "Imam Muhammad ibn Ali al-Baqir (as)",
+        "mother": "Sayyida Umm Farwa (sa)",
+        "spouse": "Hamida al-Musaffat & others",
+        "children": [
+          "Imam Musa al-Kadhim (as)",
+          "Isma'il",
+          "Abdullah al-Aftah",
+          "Ali al-Uraydi",
+          "Umm Farwa"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "702 CE",
+          "event": "Birth in Medina on 17 Rabi' al-Awwal"
+        },
+        {
+          "year": "733 CE",
+          "event": "Assumed Imamate; institutionalized Fiqh al-Ja'fari"
+        },
+        {
+          "year": "740-760 CE",
+          "event": "Golden Age of Scientific & Jurisprudential teachings (4,000+ pupils)"
+        },
+        {
+          "year": "750 CE",
+          "event": "Transition of power from Umayyads to Abbasids"
+        },
+        {
+          "year": "765 CE",
+          "event": "Martyred through poison by Abbasid Caliph Mansur al-Dawanaqi"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Kufa",
+        "Jannat al-Baqi"
+      ],
+      "books": [
+        "Al-Haft wa al-Azillat",
+        "Misbah al-Shari'ah",
+        "Tawhid al-Mufaddal"
+      ],
+      "importantEvents": [
+        "Establishment of Ja'fari School",
+        "Training Jabir ibn Hayyan",
+        "Debates with Atheists & Sects",
+        "Martyrdom by Mansur"
+      ],
+      "sayings": [
+        "Our intercession (Shafa'ah) will never reach those who take prayer (Salah) lightly.",
+        "Do not test people by their long prayers and fasting, but test them by their truthfulness in speech and trustworthiness.",
+        "Intellect is that by which the All-Merciful is worshipped and Paradise is earned."
+      ]
+    },
+    "ur": {
+      "name": "امام جعفر ابن محمد (ع)",
+      "title": "الصادق (سچے)، رئیس المذہب الجعفری",
+      "born": "۱۷ ربیع الاول، ۸۳ ہجری (۷۰۲ عیسوی)",
+      "martyrdom": "۲۵ شوال، ۱۴۸ ہجری (۷۶۵ عیسوی)",
+      "burial": "جنت البقیع، مدینہ منورہ",
+      "biography": "چھٹے معصوم امام، جن کی ولادت نبی اکرم (ص) کے یومِ ولادت کے دن ہوئی۔ آپ نے فقہ، علمِ کیمیا، فلکیات، اور حکمت کی ایسی درسگاہ قائم کی جس سے ۴,۰۰۰ سے زائد علماء اور سائنسدانوں نے فیض حاصل کیا، جن میں جابر بن حیان (بابائے کیمیا)، ابو حنیفہ اور مالک بن انس شامل ہیں۔ اسی لیے فقہِ شیعہ کو 'فقہ جعفری' کہا جاتا ہے۔ آپ کو عباسی خلیفہ منصور دوانیقی نے زہر دے کر شہید کیا۔",
+      "familyTree": {
+        "father": "امام محمد ابن علی الباقر (ع)",
+        "mother": "حضرت ام فروہ (س)",
+        "spouse": "حمیدہ مصفاة و دیگر",
+        "children": [
+          "امام موسیٰ کاظم (ع)",
+          "اسماعیل",
+          "عبداللہ افطح",
+          "علی عریضی",
+          "ام فروہ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۷۰۲ء",
+          "event": "۱۷ ربیع الاول کو مدینہ منورہ میں ولادتِ با سعادت"
+        },
+        {
+          "year": "۷۳۳ء",
+          "event": "امامت پر متمکن ہونا اور فقہِ جعفری کو تدوین دینا"
+        },
+        {
+          "year": "۷۴۰-۷۶۰ء",
+          "event": "علمی و سائنسی انقلاب کا سنہری دور (۴ ہزار سے زائد شاگرد)"
+        },
+        {
+          "year": "۷۵۰ء",
+          "event": "بنو امیہ کا زوال اور بنو عباس کا اقتدار"
+        },
+        {
+          "year": "۷۶۵ء",
+          "event": "عباسی خلیفہ منصور دوانیقی کے زہر کے ذریعے البقیع میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "کوفہ",
+        "جنت البقیع"
+      ],
+      "books": [
+        "توحیدِ مفضل",
+        "مصباح الشریعہ",
+        "رسالہ عبداللہ بن نجاشی"
+      ],
+      "importantEvents": [
+        "مکتبِ جعفریہ کا قیام",
+        "جابر بن حیان کی تربیت",
+        "ملحدین اور زہاد کے ساتھ علمی مناظرے",
+        "شهادتِ البقیع"
+      ],
+      "sayings": [
+        "ہماری شفاعت اس شخص تک نہیں پہنچ سکتی جو نماز کو سبک (ہلکا) سمجھتا ہو۔",
+        "لوگوں کو ان کے لمبے رکوع و سجود سے نہ پرکھو، بلکہ ان کی سچائی اور امانت داری سے پرکھو۔",
+        "عقل وہ چیز ہے جس کے ذریعے رحمان کی عبادت کی جاتی ہے اور جنت حاصل کی جاتی ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام جعفر بن محمد (ع)",
+      "title": "الصادق، رئيس المذهب الجعفري",
+      "born": "١٧ ربيع الأول، ٨٣ هـ (٧٠٢ م)",
+      "martyrdom": "٢٥ شوال، ١٤٨ هـ (٧٦٥ م)",
+      "burial": "جنة البقيع، المدينة المنورة",
+      "biography": "الإمام السادس، ولد في نفس اليوم المبارك لولادة جده المصطفى (ص). اتسعت مدينته العلمية بالمدينة لتضم أكثر من ٤٠٠٠ طالب في شتى العلوم كالفقه والكيمياء والفلك، منهم جابر بن حيان وأبو حنيفة ومالك بن انس. سمي المذهب الإمامي بالمذهب الجعفري نسبة لتدوينه وتأصيله للعلوم. اغتيل بالسم بأمر المنصور العباسي.",
+      "familyTree": {
+        "father": "الإمام محمد بن علي الباقر (ع)",
+        "mother": "السيدة أم فروة (ع)",
+        "spouse": "حميدة المصفاة وأخريات",
+        "children": [
+          "الإمام موسى الكاظم (ع)",
+          "إسماعيل",
+          "عبد الله الأفطح",
+          "علي العريضي"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٧٠٢ م",
+          "event": "الولادة الميمونة في ١٧ ربيع الأول بالمدينة"
+        },
+        {
+          "year": "٧٣٣ م",
+          "event": "تولي الإمامة وتأسيس المذهب الجعفري"
+        },
+        {
+          "year": "٧٦٥ م",
+          "event": "الشهادة بالسم في عهد المنصور بالبقيع"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "الكوفة",
+        "البقيع"
+      ],
+      "books": [
+        "توحيد المفضل",
+        "مصباح الشريعة",
+        "رسالة عبد الله بن نجاشي"
+      ],
+      "importantEvents": [
+        "تأسيس المذهب الجعفري",
+        "تربية علماء الطبيعة كجابر بن حيان",
+        "المناظرات مع الزنادقة"
+      ],
+      "sayings": [
+        "إنّ شَفاعَتَنا لا تَنالُ مُستَخِفّاً بالصَّلاةِ.",
+        "لا تَنظُروا إلى طُولِ رُكوعِ الرَّجُلِ وسُجودِهِ، بلِ انظُروا إلى صِدقِ حَديثِهِ وأداءِ أمانَتِهِ.",
+        "العَقلُ ما عُبِدَ بِهِ الرَّحمنُ واكتُسِبَ بِهِ الجِنانُ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Bihar al-Anwar — Imam al-Sadiq (as) on valuing Salah and intercession"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Al-Kafi — Imam al-Sadiq (as) on truthfulness and trusts"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Al-Kafi, Book of Intellect and Ignorance — worship through intellect"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "en": {
+      "name": "Imam Musa ibn Ja'far (as)",
+      "title": "Al-Kadhim (Restrainer of Anger), Bāb al-Hawā'ij",
+      "born": "7 Safar, 128 AH (745 CE)",
+      "martyrdom": "25 Rajab, 183 AH (799 CE)",
+      "burial": "Al-Kadhimiya Mosque, Baghdad, Iraq",
+      "biography": "The seventh Infallible Imam, famous for his extreme patience, continuous worship, and swallowing his anger (hence Al-Kadhim). He spent much of his Imamate under imprisonment in brutal Abbassid dungeons under Caliph Harun al-Rashid. Even in pitch-black underground cells, he spent every moment in Sajdah and gratitude. He is venerated as Bāb al-Hawā'ij (Gate to Fulfilling Needs). Poisoned on the bridge of Baghdad.",
+      "familyTree": {
+        "father": "Imam Ja'far ibn Muhammad al-Sadiq (as)",
+        "mother": "Sayyida Hamida al-Musaffat (sa)",
+        "spouse": "Sayyida Najma (sa) & others",
+        "children": [
+          "Imam Ali al-Ridha (as)",
+          "Sayyida Fatima al-Ma'sooma (sa of Qom)",
+          "Ahmad (Shah Cheragh)",
+          "Hamza",
+          "Ibrahim"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "745 CE",
+          "event": "Birth at Abwa (between Mecca and Medina)"
+        },
+        {
+          "year": "765 CE",
+          "event": "Assumed Imamate amidst Abbassid persecution"
+        },
+        {
+          "year": "786 CE",
+          "event": "Harun al-Rashid seizes power; arrests and confines the Imam"
+        },
+        {
+          "year": "795-799 CE",
+          "event": "Transferred between prisons of Basra and Baghdad dungeons"
+        },
+        {
+          "year": "799 CE",
+          "event": "Martyred through poisoned dates by Sindi ibn Shahak on Baghdad bridge"
+        }
+      ],
+      "places": [
+        "Abwa",
+        "Medina",
+        "Basra",
+        "Baghdad",
+        "Kadhimiya"
+      ],
+      "books": [
+        "Prayers and Munajat of Imam Kadhim",
+        "Wasiyyah to Hisham ibn al-Hakam (On Intellect)"
+      ],
+      "importantEvents": [
+        "Bab al-Hawa'ij",
+        "Confinement in Baghdad Dungeons",
+        "Discourse on Intellect to Hisham",
+        "Martyrdom on Baghdad Bridge"
+      ],
+      "sayings": [
+        "Whoever has no intellect has no faith, and whoever has no faith has no future.",
+        "Work for your worldly life as if you will live forever, and work for your Hereafter as if you will die tomorrow.",
+        "Indeed Allah has two proofs over mankind: an apparent proof (the Prophets & Imams) and a hidden proof (the Intellect)."
+      ]
+    },
+    "ur": {
+      "name": "امام موسیٰ ابن جعفر (ع)",
+      "title": "الکاظم (غصہ پی جانے والے)، باب الحوائج، العبد الصالح",
+      "born": "۷ صفر، ۱۲۸ ہجری (۷۴۵ عیسوی)",
+      "martyrdom": "۲۵ رجب، ۱۸۳ ہجری (۷۹۹ عیسوی)",
+      "burial": "حرم کاظمیہ، بغداد، عراق",
+      "biography": "ساتویں معصوم امام، جو اپنے حلم، کثرتِ عبادت، اور غصے کو پی جانے کی وجہ سے 'الکاظم' کے لقب سے مشہور ہوئے اور ہر حاجت کی برآوری کے لیے 'باب الحوائج' کہلائے۔ عباسی خلیفہ ہارون الرشید نے آپ کو سالہا سال تک بغداد کے تاریک اور تنگ ترین قید خانوں میں بند رکھا، لیکن آپ نے قید خانہ کو عبادت گاہ بنا دیا۔ آخر کار سندھی بن شاہک کے قید خانے میں بغداد کے پل پر زہر دے کر شہید کیا گیا۔",
+      "familyTree": {
+        "father": "امام جعفر ابن محمد الصادق (ع)",
+        "mother": "حضرت حمیدہ مصفاة (س)",
+        "spouse": "حضرت نجمہ خاتون (س) و دیگر",
+        "children": [
+          "امام علی رضا (ع)",
+          "سیدہ فاطمہ معصومہ (س قم)",
+          "احمد (شاہ چراغ)",
+          "حمزہ",
+          "ابراہیم"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۷۴۵ء",
+          "event": "ابواء کے مقام پر ولادتِ با سعادت"
+        },
+        {
+          "year": "۷۶۵ء",
+          "event": "عباسی ظلم و ستم کے دور میں مسندِ امامت"
+        },
+        {
+          "year": "۷۸۶ء",
+          "event": "ہارون الرشید کا غصب اور امام کا مدینہ سے گرفتار ہونا"
+        },
+        {
+          "year": "۷۹۵-۷۹۹ء",
+          "event": "بصرہ اور بغداد کے تیرہ و تار قید خانوں میں اسیری"
+        },
+        {
+          "year": "۷۹۹ء",
+          "event": "سندھی بن شاہک کے قید خانے میں زہر آلود کھجوروں سے شہادت"
+        }
+      ],
+      "places": [
+        "ابواء",
+        "مدینہ منورہ",
+        "بصرہ",
+        "بغداد",
+        "کاظمیہ"
+      ],
+      "books": [
+        "مناجات و ادعیہ امام کاظمؑ",
+        "وصیت امام کاظمؑ بنام ہشام بن حکم (عقل کی حقیقت)"
+      ],
+      "importantEvents": [
+        "باب الحوائج",
+        "بغداد کی زندانوں میں طویل اسیری",
+        "ہشام کے ساتھ عقلی مناظرہ",
+        "جسدِ اطہر کی جسرِ بغداد پر شہادت"
+      ],
+      "sayings": [
+        "جس شخص کے پاس عقل نہیں اس کے پاس دین نہیں، اور جس کے پاس دین نہیں اس کی کوئی آخرت نہیں۔",
+        "اپنی دنیا کے لیے ایسے کام کرو جیسے تمہیں ہمیشہ رہنا ہے، اور آخرت کے لیے ایسے کام کرو جیسے تمہیں کل مر جانا ہے۔",
+        "اللہ کی انسانوں پر دو حجتیں ہیں: ایک ظاہری حجت (انبیاء و ائمہ) اور دوسری باطنی حجت (عقل)۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام موسى بن جعفر (ع)",
+      "title": "الكاظم، باب الحوائج، العبد الصالح",
+      "born": "٧ صفر، ١٢٨ هـ (٧٤٥ م)",
+      "martyrdom": "٢٥ رجب، ١٨٣ هـ (٧٩٩ م)",
+      "burial": "الروضة الكاظمية المطهرة، بغداد، العراق",
+      "biography": "الإمام السابع، لقب بالكاظم لكظمه الغيظ وصبره العظيم على الظلم. قضى أغلب فترة إمامته في طوامير السجون العباسية المظلمة في عهد هارون الرشيد، فحوّل السجن إلى محراب للعبادة والسجود الطويل. يلقب بباب الحوائج لسرعة إجابة التوسل به. اغتيل بالسم على جسر الرصافة ببغداد.",
+      "familyTree": {
+        "father": "الإمام جعفر بن محمد الصادق (ع)",
+        "mother": "السيدة حميدة المصفاة (ع)",
+        "spouse": "السيدة نجمة خاتون (ع) وأخريات",
+        "children": [
+          "الإمام علي الرضا (ع)",
+          "السيدة فاطمة المعصومة (ع)",
+          "أحمد شاه چراغ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٧٤٥ م",
+          "event": "الولادة المباركة بالأبواء"
+        },
+        {
+          "year": "٧٩٥ م",
+          "event": "الاعتقال والنقل بين سجون البصرة وبغداد"
+        },
+        {
+          "year": "٧٩٩ م",
+          "event": "الشهادة بالسم على جسر بغداد في سجن السندي بن شاهك"
+        }
+      ],
+      "places": [
+        "الأبواء",
+        "المدينة المنورة",
+        "البصرة",
+        "بغداد",
+        "الكاظمية"
+      ],
+      "books": [
+        "دعوات ومناجيات الإمام الكاظم (ع)",
+        "رسالة العقل لهشام"
+      ],
+      "importantEvents": [
+        "باب الحوائج",
+        "السجن الطويل في طوامير بغداد",
+        "حديث العقل لهشام بن الحكم"
+      ],
+      "sayings": [
+        "إنّ للهِ علَى الناسِ حُجَّتَينِ: حُجَّةً ظاهِرَةً، وحُجَّةً باطِنَةً، فأمّا الظاهِرَةُ فالرُّسُلُ والأنبِياءُ والأئمَّةُ، وأمّا الباطِنَةُ فالْعُقُولُ.",
+        "اعمَل لِدُنياكَ كأنَّكَ تَعيشُ أبَداً، واعمَل لآخِرَتِكَ كأنَّكَ تَموتُ غَداً.",
+        "مَن لَم يَكُن لَهُ مِن نَفسِهِ واعِظٌ تَمَكَّنَ مِنهُ عَدُوُّهُ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Al-Kafi, Book of Divine Proof — the outward and inward proofs of Allah"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "en": {
+      "name": "Imam Ali ibn Musa (as)",
+      "title": "Al-Ridha (The Pleasing/Appointed One), Damin al-Ahoo",
+      "born": "11 Dhu al-Qa'dah, 148 AH (766 CE)",
+      "martyrdom": "30 Safar (or 17 Safar), 203 AH (818 CE)",
+      "burial": "Imam Reza Shrine, Mashhad, Iran",
+      "biography": "The eighth Infallible Imam, forced by Abbasid Caliph Ma'mun to relocate from Medina to Tus (Khorasan) and conditionally accept heir-apparency. In Nishapur, he narrated the famous Hadith Silsilat al-Dhahab (Golden Chain of Transmission). He engaged in grand interfaith debates organized by Ma'mun with Jewish, Christian, Zoroastrian, and Sabian scholars, universally proving the supreme intellect of Islam. Poisoned with grapes by Ma'mun.",
+      "familyTree": {
+        "father": "Imam Musa ibn Ja'far al-Kadhim (as)",
+        "mother": "Sayyida Najma Khatun (sa)",
+        "spouse": "Sayyida Sabika (sa)",
+        "children": [
+          "Imam Muhammad al-Jawad (as)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "766 CE",
+          "event": "Birth in Medina on 11th Dhu al-Qa'dah"
+        },
+        {
+          "year": "799 CE",
+          "event": "Assumed Imamate upon martyrdom of Imam Kadhim (as)"
+        },
+        {
+          "year": "816 CE",
+          "event": "Forced exile from Medina to Merv (Khorasan); Hadith of Golden Chain in Nishapur"
+        },
+        {
+          "year": "817 CE",
+          "event": "Grand Interfaith Debates organized in Abbasid Court"
+        },
+        {
+          "year": "818 CE",
+          "event": "Martyred through poison by Ma'mun in Tus (Mashhad)"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Nishapur",
+        "Merv",
+        "Tus",
+        "Mashhad"
+      ],
+      "books": [
+        "Hadith Silsilat al-Dhahab",
+        "Al-Fiqh al-Ridha",
+        "Tibbi Ridha (Golden Medical Treatise)",
+        "Uyun Akhbar al-Ridha"
+      ],
+      "importantEvents": [
+        "Hadith Silsilat al-Dhahab",
+        "Grand Interfaith Debates",
+        "Guarantee of the Gazelle (Damin al-Ahoo)",
+        "Shrine of Mashhad"
+      ],
+      "sayings": [
+        "Faith is a declaration with the tongue, knowledge in the heart, and action with the limbs.",
+        "The benchmark of intellect is treating people with kindness and affection after faith in God.",
+        "Whoever visits my shrine despite the distance, I will come to their rescue on three terrifying occasions on Judgment Day."
+      ]
+    },
+    "ur": {
+      "name": "امام علی ابن موسیٰ (ع)",
+      "title": "الرضا (پسندیدہ)، ضامنِ آہو، عالمِ آلِ محمد",
+      "born": "۱۱ ذو القعدہ، ۱۴۸ ہجری (۷۶۶ عیسوی)",
+      "martyrdom": "۳۰ صفر (یا ۱۷ صفر)، ۲۰۳ ہجری (۸۱۸ عیسوی)",
+      "burial": "حرم مطہر امام رضاؑ، مشہد مقدس، ایران",
+      "biography": "آٹھویں معصوم امام، جنہیں عباسی خلیفہ مامون الرشید نے مدینہ سے مرو (خراسان) جلاوطن کر کے زبردستی ولی عہدی پر مجبور کیا۔ نیشاپور کے مقام پر آپ نے تاریخی 'حدیثِ سلسلۃ الذہب' ارشاد فرمائی۔ مامون کی قائم کردہ عظیم الشان محفلوں میں آپ نے عیسائی، یہودی، زرتشتی اور صابی علماء کے ساتھ وہ علمی مناظرے کیے جن میں اسلام کا پرچم بلند ہوا۔ آخر کار مامون نے آپ کو زہر آلود انگوروں کے ذریعے مشہد (طوس) میں شہید کر دیا۔",
+      "familyTree": {
+        "father": "امام موسیٰ ابن جعفر الکاظم (ع)",
+        "mother": "حضرت نجمہ خاتون (س)",
+        "spouse": "حضرت سبیکہ (س)",
+        "children": [
+          "امام محمد جواد (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۷۶۶ء",
+          "event": "مدینہ منورہ میں ۱۱ ذوالقعدہ کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۷۹۹ء",
+          "event": "شہادتِ امام کاظمؑ کے بعد مسندِ امامت"
+        },
+        {
+          "year": "۸۱۶ء",
+          "event": "مدینہ سے خراسان جبرًا جلاوطنی اور نیشاپور میں حدیثِ سلسلۃ الذہب کا ارشاد"
+        },
+        {
+          "year": "۸۱۷ء",
+          "event": "مرو کے دربار میں ادیانِ عالم کے سرفہرست علماء کے ساتھ عظیم مناظرے"
+        },
+        {
+          "year": "۸۱۸ء",
+          "event": "مامون کے زہر سے طوس (مشہد) میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "نیشاپور",
+        "مرو",
+        "طوس",
+        "مشہد مقدس"
+      ],
+      "books": [
+        "حدیثِ سلسلۃ الذہب",
+        "طبِ رضا (الرسالۃ الذہبیہ)",
+        "عیون اخبار الرضاؑ",
+        "فقہِ رضاؑ"
+      ],
+      "importantEvents": [
+        "حدیثِ سلسلۃ الذہب",
+        "ادیانِ باطلہ سے عظیم مناظرے",
+        "واقعہ ضامنِ آہو",
+        "حرمِ مشہد مقدس کا قیام"
+      ],
+      "sayings": [
+        "ایمان زبان سے اقرار، دل سے معرفت، اور اعضاء سے عمل کا نام ہے۔",
+        "خدا پر ایمان کے بعد عقل کا سب سے بڑا ثبوت لوگوں سے محبت و مدارات کے ساتھ پیش آنا ہے۔",
+        "جو شخص دور دراز سے میری زیارت کے لیے آئے گا، میں قیامت کے دن ۳ ہولناک مقامات پر اس کی فریاد رسی کروں گا۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام علي بن موسى (ع)",
+      "title": "الرضا، عالم آل محمد، ضامن آهو",
+      "born": "١١ ذو القعدة، ١٤٨ هـ (٧٦٦ م)",
+      "martyrdom": "٣٠ صفر (أو ١٧ صفر)، ٢٠٣ هـ (٨١٨ م)",
+      "burial": "المرقد الرضوي المطهر، مشهد المقدسة، إيران",
+      "biography": "الإمام الثامن، عالم آل محمد. أجبره المأمون العباسي على الشخوص من المدينة إلى مرو وقبول ولاية العهد صوريّاً. ألقى في نيسابور الحديث المذهب الشهير (سلسلة الذهب). خاض مناظرات الأديان الكبرى مع كبار علماء اليهود والنصارى والمجوس فأفحمهم جميعاً. استشهد بالسم بغدر المأمون بطوس.",
+      "familyTree": {
+        "father": "الإمام موسى بن جعفر الكاظم (ع)",
+        "mother": "السيدة نجمة خاتون (ع)",
+        "spouse": "السيدة سبيكة (ع)",
+        "children": [
+          "الإمام محمد الجواد (ع)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٧٦٦ م",
+          "event": "الولادة الميمونة بالمدينة المنورة"
+        },
+        {
+          "year": "٨١٦ م",
+          "event": "الشخوص إلى خراسان ورواية حديث سلسلة الذهب بنيسابور"
+        },
+        {
+          "year": "٨١٧ م",
+          "event": "المناظرات الأديان العظمى في مرو"
+        },
+        {
+          "year": "٨١٨ م",
+          "event": "الشهادة بالسم في طوس (مشهد)"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "نيسابور",
+        "مرو",
+        "طوس",
+        "مشهد المقدسة"
+      ],
+      "books": [
+        "حديث سلسلة الذهب",
+        "الرسالة الذهبية في الطب",
+        "عيون أخبار الرضا (ع)"
+      ],
+      "importantEvents": [
+        "حديث سلسلة الذهب",
+        "مناظرات الأديان الكبرى",
+        "ضامن آهو"
+      ],
+      "sayings": [
+        "الإيمانُ عَقْدٌ بالقَلبِ، وإقرارٌ باللِّسانِ، وعَمَلٌ بالأركانِ.",
+        "التَّودُّدُ إلى الناسِ نِصفُ العَقلِ.",
+        "مَن زارَني على بُعدِ داري أتَيْتُهُ يَومَ القِيامَةِ في ثَلاثةِ مَواطِنَ حتّى أُخَلِّصَهُ مِن أهوالِها."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam al-Ridha (as) on faith in word, conviction and action",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Imam al-Ridha (as) on intellect and kindness",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "‘Uyun Akhbar al-Ridha / Kamil al-Ziyarat — the virtue of visiting Imam al-Ridha (as)"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "en": {
+      "name": "Imam Muhammad ibn Ali (as)",
+      "title": "Al-Jawad (The Generous), Al-Taqi (The God-Conscious), Ibn al-Ridha",
+      "born": "10 Rajab, 195 AH (811 CE)",
+      "martyrdom": "30 Dhu al-Qa'dah, 220 AH (835 CE)",
+      "burial": "Al-Kadhimiya Mosque, Baghdad, Iraq",
+      "biography": "The ninth Infallible Imam, who assumed the divine leadership at the young age of 7 following his father's martyrdom. In a historic grand debate organized by Caliph Ma'mun, the young Imam answered 30,000 complex legal questions posed by Chief Justice Yahya ibn Aktham, leaving scholars in absolute awe. Known for his legendary generosity (Al-Jawad), he was martyred at the young age of 25 in Baghdad.",
+      "familyTree": {
+        "father": "Imam Ali ibn Musa al-Ridha (as)",
+        "mother": "Sayyida Sabika (sa)",
+        "spouse": "Umm al-Fadl (daughter of Ma'mun), Sumana al-Maghribiyya (sa)",
+        "children": [
+          "Imam Ali al-Hadi (as)",
+          "Musa al-Mubarraqa",
+          "Fatima",
+          "Imama"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "811 CE",
+          "event": "Birth in Medina on 10th Rajab"
+        },
+        {
+          "year": "818 CE",
+          "event": "Assumed Imamate at age 7 upon martyrdom of Imam Ridha (as)"
+        },
+        {
+          "year": "820 CE",
+          "event": "Debate with Chief Justice Yahya ibn Aktham in Baghdad court"
+        },
+        {
+          "year": "830 CE",
+          "event": "Return to Medina to spread jurisprudence & spiritual guidance"
+        },
+        {
+          "year": "835 CE",
+          "event": "Summoned to Baghdad by Mu'tasim & martyred at age 25"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Baghdad",
+        "Kadhimiya"
+      ],
+      "books": [
+        "Debates of Imam Jawad (as)",
+        "Letters and Decrees of Jawad al-A'immah"
+      ],
+      "importantEvents": [
+        "Imamate at Age 7",
+        "Debate with Yahya ibn Aktham",
+        "Martyrdom at Age 25 in Baghdad"
+      ],
+      "sayings": [
+        "Trust in Allah is the price for everything valuable and the ladder to every high peak.",
+        "Do not be a friend of Allah in public and His enemy in private.",
+        "Delaying repentance is deception, and persistent procrastination is confusion."
+      ]
+    },
+    "ur": {
+      "name": "امام محمد ابن علی (ع)",
+      "title": "الجوّاد (سخی)، التقی، ابن الرضا، جواد الائمہ",
+      "born": "۱۰ رجب المرجب، ۱۹۵ ہجری (۸۱۱ عیسوی)",
+      "martyrdom": "۳۰ ذو القعدہ، ۲۲۰ ہجری (۸۳۵ عیسوی)",
+      "burial": "حرم کاظمیہ، بغداد، عراق",
+      "biography": "نویں معصوم امام، جنھوں نے والدِ گرامی کی شہادت کے بعد صرف ۷ سال کی کمسنی میں مسندِ امامت سنبھالی۔ خلیفہ مامون کے دربار میں قاضی القضات یحییٰ بن اکثم کے ساتھ تاریخی مناظرے میں آپ نے ۳۰ ہزار سے زائد پیچیدہ فقہی سوالات کے فوری جوابات دے کر علمائے عصر کو حیرت زدہ کر دیا۔ آپ اپنی لاثانی سخاوت کے لیے 'الجوّاد' کہلائے اور بغداد میں صرف ۲۵ سال کی شباب کی عمر میں زہر دے کر شہید کیے گئے۔",
+      "familyTree": {
+        "father": "امام علی ابن موسیٰ الرضا (ع)",
+        "mother": "حضرت سبیکہ خاتون (س)",
+        "spouse": "ام الفضل (دخترِ مامون)، سمانہ مغربیہ (س)",
+        "children": [
+          "امام علی نقی الہادی (ع)",
+          "موسیٰ مبرقع",
+          "فاطمہ",
+          "امامہ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۸۱۱ء",
+          "event": "مدینہ منورہ میں ۱۰ رجب کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۸۱۸ء",
+          "event": "۷ سال کی عمر میں امامت کے الہیٰ عہدے پر فائز ہونا"
+        },
+        {
+          "year": "۸۲۰ء",
+          "event": "بلاشبہ تاریخی مناظرہ بمقابلہ یحییٰ بن اکثم"
+        },
+        {
+          "year": "۸۳۰ء",
+          "event": "مدینہ منورہ میں حوزہ علمیہ کی قیادت"
+        },
+        {
+          "year": "۸۳۵ء",
+          "event": "معتصم عباسی کے حکم سے بغداد میں زہر کے ذریعے ۲۵ سال کی عمر میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "بغداد",
+        "کاظمیہ"
+      ],
+      "books": [
+        "مناظرہ یحییٰ بن اکثم",
+        "توقیعات و مکتوباتِ جواد الائمہؑ"
+      ],
+      "importantEvents": [
+        "کمسنی (۷ سال) میں امامت",
+        "یحییٰ بن اکثم سے عظیم الشان مناظرہ",
+        "۲۵ سال کی عمر میں شباب کی شہادت"
+      ],
+      "sayings": [
+        "خدا پر بھروسہ ہر قیمتی شے کی قیمت اور ہر بلند منزل پر پہنچنے کی سیڑھی ہے۔",
+        "عوامی محفلوں میں اللہ کے دوست اور تنہائی میں اس کے دشمن نہ بنو۔",
+        "توبہ میں تاخیر کرنا فریب ہے، اور مسلسل ٹال مٹول کرنا حیرانی و گمراہی ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام محمد بن علي (ع)",
+      "title": "الجواد، التقي، ابن الرضا",
+      "born": "١٠ رجب، ١٩٥ هـ (٨١١ م)",
+      "martyrdom": "٣٠ ذو القعدة، ٢٢٠ هـ (٨٣٥ م)",
+      "burial": "الروضة الكاظمية المطهرة، بغداد، العراق",
+      "biography": "الإمام التاسع، تولى الإمامة الإلهية بعمر ٧ سنوات بعد شهادة أبيه الرضا (ع). أذهل العلماء في مناظرته الشهيرة مع قاضي القضاة يحيى بن أكثم في بلاط المأمون بإجابته عن ٣٠ ألف مسألة فقهية. عُرف بجوده الفائق واغتيال بالسم في بغداد وهو ابن ٢٥ سنة فقط.",
+      "familyTree": {
+        "father": "الإمام علي بن موسى الرضا (ع)",
+        "mother": "السيدة سبيكة (ع)",
+        "spouse": "سمانة المغربية وأخريات",
+        "children": [
+          "الإمام علي الهادي (ع)",
+          "موسى المبرقع"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٨١١ م",
+          "event": "الولادة المباركة بالمدينة المنورة"
+        },
+        {
+          "year": "٨١٨ م",
+          "event": "تولي الإمامة بعمر ٧ سنوات"
+        },
+        {
+          "year": "٨٢٠ م",
+          "event": "المناظرة الكبرى مع يحيى بن أكثم"
+        },
+        {
+          "year": "٨٣٥ م",
+          "event": "الشهادة بالسم بعمر ٢٥ سنة بالكاظمية"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "بغداد",
+        "الكاظمية"
+      ],
+      "books": [
+        "مناظرات الإمام الجواد (ع)",
+        "توقيعات ورسائل الجواد"
+      ],
+      "importantEvents": [
+        "الإمامة في السابعة",
+        "مناظرة يحيى بن أكثم",
+        "الشهادة في مقتبل الشباب"
+      ],
+      "sayings": [
+        "الثِّقَةُ باللهِ ثَمَنٌ لِكُلِّ غالٍ، وسُلَّمٌ إلى كُلِّ عالٍ.",
+        "لا تَكُنْ وَليّاً للهِ في العَلانيَةِ، عَدُوّاً لَهُ في السِرِّ.",
+        "تَأخيرُ التَّوبَةِ اغْتِرارٌ، وطُولُ التَّسْويفِ حَيْرَةٌ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Jawad (as) on trust in Allah",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani/maxims-imam-al-jawad"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Jawad (as) on public and private conduct",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani/maxims-imam-al-jawad"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Jawad (as) on repentance",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani/maxims-imam-al-jawad"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "en": {
+      "name": "Imam Ali ibn Muhammad (as)",
+      "title": "Al-Hadi (The Guide), Al-Naqi (The Pure), Ibn al-Ridha",
+      "born": "15 Dhu al-Hijjah, 212 AH (828 CE)",
+      "martyrdom": "3 Rajab, 254 AH (868 CE)",
+      "burial": "Al-Askari Shrine, Samarra, Iraq",
+      "biography": "The tenth Infallible Imam, who spent 20 years of his Imamate under strict house arrest in the military garrison city of Samarra by Abbassid Caliph Mutawakkil. Despite total surveillance, he managed the global Shia community through a discreet underground network of representatives (Wukala). He compiled Ziyarat al-Jamiah al-Kabirah—the definitive theological text on Imamate—and was poisoned by Caliph Mu'tazz.",
+      "familyTree": {
+        "father": "Imam Muhammad ibn Ali al-Jawad (as)",
+        "mother": "Sayyida Sumana al-Maghribiyya (sa)",
+        "spouse": "Sayyida Haditha (Susan) (sa)",
+        "children": [
+          "Imam Hasan al-Askari (as)",
+          "Sayyid Muhammad (Balad)",
+          "Ja'far",
+          "Husayn",
+          "Ayesha"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "828 CE",
+          "event": "Birth in Medina on 15th Dhu al-Hijjah"
+        },
+        {
+          "year": "835 CE",
+          "event": "Assumed Imamate at age 8 upon martyrdom of Imam Jawad (as)"
+        },
+        {
+          "year": "848 CE",
+          "event": "Forced displacement from Medina to military garrison of Samarra"
+        },
+        {
+          "year": "850-865 CE",
+          "event": "Expanded the underground Representative Network (Wikalah)"
+        },
+        {
+          "year": "868 CE",
+          "event": "Martyred through poison by Abbasid Caliph Mu'tazz in Samarra"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Samarra",
+        "Balad"
+      ],
+      "books": [
+        "Ziyarat al-Jamiah al-Kabirah",
+        "Ziyarat Ghadiriyya",
+        "Treatise on Free Will & Determinism (Jabr wa Tafweed)"
+      ],
+      "importantEvents": [
+        "Forced House Arrest in Samarra Garrison",
+        "Establishing Underground Wikalah System",
+        "Ziyarat al-Jamiah al-Kabirah"
+      ],
+      "sayings": [
+        "The world is a market where some people profit and others lose.",
+        "Whoever is satisfied with himself will have many who are dissatisfied with him.",
+        "Ingratitude for blessings brings divine resentment and downfall."
+      ]
+    },
+    "ur": {
+      "name": "امام علی ابن محمد (ع)",
+      "title": "الہادی (ہدایت دینے والے)، النقی (پاکیزہ)، ابن الرضا",
+      "born": "۱۵ ذو الحجہ، ۲۱۲ ہجری (۸۲۸ عیسوی)",
+      "martyrdom": "۳ رجب المرجب، ۲۵۴ ہجری (۸۶۸ عیسوی)",
+      "burial": "حرم عسکریین، سامراء، عراق",
+      "biography": "دسویں معصوم امام، جنہیں عباسی خلیفہ متوکل نے مدینہ سے سامرا چھاؤنی میں جلاوطن کر کے ۲۰ سال تک سخت فوجی محاصرے اور نظر بندی میں رکھا۔ اس کڑی نگرانی کے باوجود آپ نے 'وکالت' کے خفیہ نیٹ ورک کے ذریعے دنیا بھر کے شیعیان کی قیادت فرمائی۔ آپ نے امامت کے لامتناہی معارف پر مشتمل 'زیارتِ جامعہ کبیرہ' تالیف فرمائی۔ آپ کو عباسی خلیفہ معتز نے زہر دے کر سامرا میں شہید کیا۔",
+      "familyTree": {
+        "father": "امام محمد ابن علی الجواد (ع)",
+        "mother": "حضرت سمانہ مغربیہ (س)",
+        "spouse": "حضرت حدیثہ (سوسن) (س)",
+        "children": [
+          "امام حسن عسکری (ع)",
+          "سید محمد (بلد)",
+          "جعفر",
+          "حسین",
+          "عائشہ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۸۲۸ء",
+          "event": "مدینہ منورہ میں ۱۵ ذوالحجہ کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۸۳۵ء",
+          "event": "۸ سال کی عمر میں امامت کے منصب پر فائز ہونا"
+        },
+        {
+          "year": "۸۴۸ء",
+          "event": "متوکل کے حکم پر مدینہ سے سامرا کی ملٹری چھاؤنی میں قید"
+        },
+        {
+          "year": "۸۵۰-۸۶۵ء",
+          "event": "شبکہ وکالت (نمائندگان) کی منظم سرپرستی"
+        },
+        {
+          "year": "۸۶۸ء",
+          "event": "عباسی خلیفہ معتز کے زہر کے ذریعے سامراء میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "سامراء",
+        "بلد (عراق)"
+      ],
+      "books": [
+        "زیارتِ جامعہ کبیرہ",
+        "زیارتِ غدیریہ",
+        "رسالہ نفیِ جبر و تفویض"
+      ],
+      "importantEvents": [
+        "سامرا کی ملٹری چھاؤنی میں نظر بندی",
+        "شبکہ وکالت کا قیام",
+        "زیارتِ جامعہ کبیرہ کی تدوین"
+      ],
+      "sayings": [
+        "دنیا ایک ایسا بازار ہے جہاں کچھ لوگ نفع کماتے ہیں اور کچھ نقصان اٹھاتے ہیں۔",
+        "جو شخص خود سے راضی ہو جاتا ہے، اس سے ناراض ہونے والے لوگ کثرت سے پیدا ہو جاتے ہیں۔",
+        "نعمتوں کی ناشکری خدا کی ناراضگی اور زوال کا سبب بنتی ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام علي بن محمد (ع)",
+      "title": "الهادي، النقي، ابن الرضا",
+      "born": "١٥ ذو الحجة، ٢١٢ هـ (٨٢٨ م)",
+      "martyrdom": "٣ رجب، ٢٥٤ هـ (٨٦٨ م)",
+      "burial": "الروضة العسكرية المطهرة، سامراء، العراق",
+      "biography": "الإمام العاشر، فرض عليه المتوكل العباسي الإقامة الجبرية في معسكر سامراء لمدة ٢٠ عاماً. ورغم الرقابة العسكرية الشديدة، أدار شؤون الأمة عبر نظام الوكلاء السري. أنشأ 'الزيارة الجامعة الكبيرة' التي تعد أعظم وثيقة معرفية في بيان مقام الإمامة. اغتيل بالسم في عهد المعتز العباسي.",
+      "familyTree": {
+        "father": "الإمام محمد بن علي الجواد (ع)",
+        "mother": "السيدة سمانة المغربية (ع)",
+        "spouse": "السيدة حديثة (سوسن) (ع)",
+        "children": [
+          "الإمام الحسن العسكري (ع)",
+          "السيد محمد (سبع الدجيل)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٨٢٨ م",
+          "event": "الولادة المباركة بالمدينة المنورة"
+        },
+        {
+          "year": "٨٤٨ م",
+          "event": "الإشخاص الجبري إلى معسكر سامراء"
+        },
+        {
+          "year": "٨٦٨ م",
+          "event": "الشهادة بالسم في سامراء"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "سامراء",
+        "بلد"
+      ],
+      "books": [
+        "الزيارة الجامعة الكبيرة",
+        "الزيارة الغديرية"
+      ],
+      "importantEvents": [
+        "الإقامة الجبرية بالعسكر",
+        "إدارة شبكة الوكلاء",
+        "الزيارة الجامعة الكبيرة"
+      ],
+      "sayings": [
+        "الدُّنيا سُوقٌ رَبِحَ فيها قَومٌ وخَسِرَ آخَرُونَ.",
+        "مَن رَضِيَ عَن نَفسِهِ كَثُرَ السَّاخِطُونَ عَلَيهِ.",
+        "العُقوقُ يُعقِبُ القِلَّةَ ويُؤَدّي إلى الذِّلَّةِ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Hadi (as) on the world",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Hadi (as) on self-satisfaction",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Hadi (as) on gratitude",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "en": {
+      "name": "Imam Hasan ibn Ali (as)",
+      "title": "Al-Askari (of the garrison at Samarra), Al-Zaki",
+      "born": "8 Rabi' al-Thani, 232 AH (846 CE)",
+      "martyrdom": "8 Rabi' al-Awwal, 260 AH (874 CE)",
+      "burial": "Al-Askari Shrine, Samarra, Iraq",
+      "biography": "The eleventh Infallible Imam, who lived his entire adult life under brutal house arrest in the military camp (Askar) of Samarra. Despite intense state surveillance aimed at terminating his line, he secretly protected and prepared his son Imam Mahdi (ajtf) for the Minor Occultation. He guided the Shia through letters, financial networks, and authored Tafsir al-Askari before being poisoned by Abbasid Caliph Mu'tamid at age 28.",
+      "familyTree": {
+        "father": "Imam Ali ibn Muhammad al-Hadi (as)",
+        "mother": "Sayyida Haditha (Susan) (sa)",
+        "spouse": "Sayyida Nargis Khatun (sa)",
+        "children": [
+          "Imam Muhammad al-Mahdi (ajtf)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "846 CE",
+          "event": "Birth in Medina on 8th Rabi' al-Thani"
+        },
+        {
+          "year": "868 CE",
+          "event": "Assumed Imamate upon martyrdom of Imam Hadi (as)"
+        },
+        {
+          "year": "869 CE",
+          "event": "Secret birth of his son Imam Muhammad al-Mahdi (ajtf)"
+        },
+        {
+          "year": "870-873 CE",
+          "event": "Preparing the Shia world for the upcoming Occultation (Ghaybah)"
+        },
+        {
+          "year": "874 CE",
+          "event": "Martyred through poison by Caliph Mu'tamid at age 28 in Samarra"
+        }
+      ],
+      "places": [
+        "Medina",
+        "Samarra"
+      ],
+      "books": [
+        "Tafsir al-Askari",
+        "Letter to Ali ibn Babawayh al-Qummi",
+        "Tawqi'at (Signed Decrees)"
+      ],
+      "importantEvents": [
+        "Life under Military Confinement",
+        "Secret Birth of Imam Mahdi (ajtf)",
+        "Preparing for Occultation",
+        "Martyrdom at Age 28"
+      ],
+      "sayings": [
+        "No calamity exists except that Allah surrounds it with a blessing that encompasses it.",
+        "Piety has degrees; the highest is abstaining from doubtful matters.",
+        "Generosity has a limit, which if exceeded becomes extravagance; and courage has a limit, which if exceeded becomes rashness."
+      ]
+    },
+    "ur": {
+      "name": "امام حسن ابن علی (ع)",
+      "title": "العسکری (عسکر/چھاؤنی والے)، الزکی، الہادی",
+      "born": "۸ ربیع الثانی، ۲۳۲ ہجری (۸۴۶ عیسوی)",
+      "martyrdom": "۸ ربیع الاول، ۲۶۰ ہجری (۸۷۴ عیسوی)",
+      "burial": "حرم عسکریین، سامراء، عراق",
+      "biography": "گیارہویں معصوم امام، جنھوں نے اپنی پوری زندگی سامرا کی فوجی چھاؤنی (عسکر) میں سخت ترین نظر بندی اور پہرے میں گزاری۔ عباسی حکومت امام مہدیؑ کی ولادت کو روکنے پر تلی ہوئی تھی، لیکن آپ نے نہایت راز داری سے صاحب الزمانؑ کی ولادت کی حفاظت فرمائی اور شیعیانِ عالم کو غائبانہ امامت (غیبت) کے لیے تیار کیا۔ آپ نے ۲۸ سال کی کمسنی میں عباسی خلیفہ معتمد کے زہر سے جامِ شہادت نوش فرمایا۔",
+      "familyTree": {
+        "father": "امام علی ابن محمد الہادی (ع)",
+        "mother": "حضرت حدیثہ (سوسن) (س)",
+        "spouse": "حضرت نرجس خاتون (س)",
+        "children": [
+          "امام محمد مہدی (عج)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۸۴۶ء",
+          "event": "مدینہ منورہ میں ۸ ربیع الثانی کو ولادتِ با سعادت"
+        },
+        {
+          "year": "۸۶۸ء",
+          "event": "مسندِ امامت پر متمکن ہونا"
+        },
+        {
+          "year": "۸۶۹ء",
+          "event": "فرزندِ ارجمند امام مہدی (عج) کی با برکت اور راز دارانہ ولادت"
+        },
+        {
+          "year": "۸۷۰-۸۷۳ء",
+          "event": "غیبتِ صغریٰ کے لیے امت کی فکری اور علمی تیاری"
+        },
+        {
+          "year": "۸۷۴ء",
+          "event": "معتمد عباسی کے زہر سے ۲۸ سال کی عمر میں سامراء میں شہادت"
+        }
+      ],
+      "places": [
+        "مدینہ منورہ",
+        "سامراء"
+      ],
+      "books": [
+        "تفسیرِ امام حسن عسکریؑ",
+        "نامہ بنام علی بن بابویہ قمی",
+        "توقیعاتِ مبارکہ"
+      ],
+      "importantEvents": [
+        "عسکری چھاؤنی میں قید",
+        "امام مہدی (عج) کی مخفی ولادت",
+        "غیبت کے لیے فکری تیاری",
+        "۲۸ سال کی عمر میں شہادت"
+      ],
+      "sayings": [
+        "کوئی مصیبت ایسی نہیں مگر یہ کہ اللہ تعالی اس کے اندر ایسی نعمت رکھتا ہے جو اسے گھیر لیتی ہے۔",
+        "تقویٰ کے درجات ہیں، جن میں سے سب سے اعلیٰ درجہ مشکوک امور سے پرہیز کرنا ہے۔",
+        "سخاوت کی ایک حد ہے، اگر اس سے تجاوز کیا جائے تو وہ اسراف بن جاتی ہے؛ اور شجاعت کی ایک حد ہے، اگر تجاوز ہو تو وہ حماقت بن جاتی ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام الحسن بن علي (ع)",
+      "title": "العسكري، الزكي، الخالص",
+      "born": "٨ ربيع الثاني، ٢٣٢ هـ (٨٤٦ م)",
+      "martyrdom": "٨ ربيع الأول، ٢٦٠ هـ (٨٧٤ م)",
+      "burial": "الروضة العسكرية المطهرة، سامراء، العراق",
+      "biography": "الإمام الحادي عشر، عاش حياته المباركة تحت الإقامة الجبرية المشددة في العسكر بسامراء. رغم محاولات السلطة العباسية تصفية نسله، حفظ سر ولادة المهدي المنتظر (عج) ومهّد الأمة لدخول عصر الغيبة. ألّف تفسيره واغتيل بالسم في عهد المعتمد العباسي وهو ابن ٢٨ سنة.",
+      "familyTree": {
+        "father": "الإمام علي بن محمد الهادي (ع)",
+        "mother": "السيدة حديثة (سوسن) (ع)",
+        "spouse": "السيدة نرجس خاتون (ع)",
+        "children": [
+          "الإمام محمد المهدي (عج)"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٨٤٦ م",
+          "event": "الولادة المباركة بالمدينة المنورة"
+        },
+        {
+          "year": "٨٦٩ م",
+          "event": "الولادة السرية للوليد المبارك الإمام المهدي (عج)"
+        },
+        {
+          "year": "٨٧٤ م",
+          "event": "الشهادة بالسم بعمر ٢٨ سنة بسامراء"
+        }
+      ],
+      "places": [
+        "المدينة المنورة",
+        "سامراء"
+      ],
+      "books": [
+        "تفسير الإمام العسكري",
+        "الرسالة لأبي الحسن القمي"
+      ],
+      "importantEvents": [
+        "الإقامة بالعسكر",
+        "الولادة السرية للقائم",
+        "التمهيد للغيبة"
+      ],
+      "sayings": [
+        "ما مِن بَليّةٍ إلاّ وللّهِ فيها نِعمةٌ تُحيطُ بها.",
+        "أورَعُ الناسِ مَن وقَفَ عِندَ الشُّبهَةِ.",
+        "إنّ لِلسَّخاءِ مِقداراً فإنْ زادَ علَيهِ فهو سَرَفٌ، ولِلشَّجاعَةِ مِقداراً فإنْ زادَ علَيهِ فهو تَهَوُّرٌ."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Askari (as) on calamities and blessings",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Askari (as) on doubtful matters",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Tuhaf al-‘Uqul — Maxims of Imam al-Askari (as) on the limits of virtues",
+        "url": "https://al-islam.org/tuhaf-al-uqul-ibn-shuba-al-harrani"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "en": {
+      "name": "Imam Muhammad ibn al-Hasan (ajtf)",
+      "title": "Al-Mahdi (The Guided), Al-Qa'im (The Risen), Al-Hujjah, Imam al-Zaman",
+      "born": "15 Sha'ban, 255 AH (869 CE)",
+      "martyrdom": "Alive in Occultation (Promised Savior of Humanity)",
+      "burial": "N/A (Active Divine Guidance / Living Imam)",
+      "biography": "The twelfth and current Infallible Imam, born in Samarra. Following his father's martyrdom, he entered the Minor Occultation (Ghaybah al-Sughra, 260–329 AH), guiding the Shia through Four Special Deputies (Nawwab al-Arba'ah). In 329 AH, he entered the Major Occultation (Ghaybah al-Kubra). He lives among humanity unseen, guiding the faithful, and will reappear alongside Jesus Christ (isa as) to fill the earth with peace, equity, and divine justice.",
+      "familyTree": {
+        "father": "Imam Hasan ibn Ali al-Askari (as)",
+        "mother": "Sayyida Nargis Khatun (sa)",
+        "spouse": "N/A (Hidden Divine Decree)",
+        "children": [
+          "N/A"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "869 CE",
+          "event": "Birth in Samarra on 15th Sha'ban (Dawn of Hope)"
+        },
+        {
+          "year": "874 CE",
+          "event": "Start of Minor Occultation (Ghaybah al-Sughra) & 4 Deputies system"
+        },
+        {
+          "year": "941 CE (329 AH)",
+          "event": "Passing of 4th Deputy & Start of Major Occultation (Ghaybah al-Kubra)"
+        },
+        {
+          "year": "Present Era",
+          "event": "Active spiritual guidance, awaiting Divine Order for Reappearance (Zuhur)"
+        }
+      ],
+      "places": [
+        "Samarra",
+        "Mecca (Place of Zuhur)",
+        "Kufa / Jamkaran",
+        "Global Presence"
+      ],
+      "books": [
+        "Tawqi'at (Signed Letters to Sheikh al-Mufid & Deputies)",
+        "Dua al-Iftitah",
+        "Dua al-Nudba",
+        "Dua al-Ahd",
+        "Ziyarat Al-Yasin"
+      ],
+      "importantEvents": [
+        "Birth on 15th Sha'ban",
+        "Minor Occultation (4 Deputies)",
+        "Major Occultation",
+        "Promised Global Reappearance"
+      ],
+      "sayings": [
+        "I am the remainder of Allah (Baqiyyatullah) on His earth, and His avenger against His enemies.",
+        "As for benefiting from me during my occultation, it is like benefiting from the sun when it is hidden behind the clouds.",
+        "Pray much for the hastening of the Relief (Al-Faraj), for in it lies your own relief."
+      ]
+    },
+    "ur": {
+      "name": "امام محمد ابن الحسن المهدی (عجل الله فرجه)",
+      "title": "المهدی، القائم، الحجة بن الحسن، امام الزمان، بقیة الله",
+      "born": "۱۵ شعبان المعظم، ۲۵۵ ہجری (۸۶۹ عیسوی)",
+      "martyrdom": "حی و حاضر (پرده غیبت میں بقا، نجات دہندہ بشریت)",
+      "burial": "قابلِ تطبیق نہیں (زندہ اور فیض رساں امام)",
+      "biography": "بارہویں اور موجودہ معصوم امام، جن کی ولادت ۱۵ شعبان کو سامرا میں ہوئی۔ والد کی شہادت کے بعد آپ غیبتِ صغریٰ (۲۶۰ تا ۳۲۹ ہجری) میں داخل ہوئے اور نوابِ اربعہ کے ذریعے شیعیان کی رہنمائی فرمائی۔ ۳۲۹ ہجری میں غیبتِ کبریٰ کا آغاز ہوا۔ آپ اس وقت بھی پردہ غیبت میں زندہ اور موجود ہیں اور حضرت عیسیٰ علیہ السلام کے ساتھ ظہور فرما کر دنیا کو عدل و انصاف، امن اور توحید سے بھر دیں گے۔",
+      "familyTree": {
+        "father": "امام حسن ابن علی العسکری (ع)",
+        "mother": "حضرت نرجس خاتون (س)",
+        "spouse": "غیر علانیہ (رازِ الہیٰ)",
+        "children": [
+          "غیر علانیہ"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "۸۶۹ء",
+          "event": "۱۵ شعبان کو سامراء میں ولادتِ با سعادت (صبحِ امید)"
+        },
+        {
+          "year": "۸۷۴ء",
+          "event": "غیبتِ صغریٰ کا آغاز اور نوابِ اربعہ (چار خاص نمائندوں) کا دور"
+        },
+        {
+          "year": "۹۴۱ء (۳۲۹ ہجری)",
+          "event": "چوتھے نائب کی رحلت اور غیبتِ کبریٰ کا تاریخی آغاز"
+        },
+        {
+          "year": "موجودہ دور",
+          "event": "پردہ غیبت میں ہدایت اور اذنِ الہیٰ سے ظہور کا انتظار"
+        }
+      ],
+      "places": [
+        "سامراء",
+        "مکہ مکرمہ (مقامِ ظہور)",
+        "کوفہ / مسجد جمکران",
+        "عالمگیر موجودگی"
+      ],
+      "books": [
+        "توقیعاتِ مبارکہ (شیخ مفید و نواب کے نام خطوط)",
+        "دعائے افتتاح",
+        "دعائے ندبہ",
+        "دعائے عہد",
+        "زیارتِ آلِ یٰسین"
+      ],
+      "importantEvents": [
+        "ولادتِ با سعادت ۱۵ شعبان",
+        "غیبتِ صغریٰ و نوابِ اربعہ",
+        "غیبتِ کبریٰ",
+        "ظہورِ پرنور اور عالمی عدل کا قیام"
+      ],
+      "sayings": [
+        "میں زمین پر اللہ کا بقیہ (بقیۃ اللہ) ہوں اور اس کے دشمنوں سے انتقام لینے والا ہوں۔",
+        "میری غیبت کے دوران مجھ سے فائدہ اٹھانا ایسا ہی ہے جیسے بادلوں کے پیچھے چھپے ہوئے سورج سے روشنی حاصل کرنا۔",
+        "میرے فرج (ظہور) کے لیے کثرت سے دعا کرو، کیونکہ اسی میں تمہاری اپنی کشائش اور نجات ہے۔"
+      ]
+    },
+    "ar": {
+      "name": "الإمام محمد بن الحسن المهدي (عجل الله فرجه)",
+      "title": "المهدي، القائم، الحجة بن الحسن، إمام الزمان، بقية الله",
+      "born": "١٥ شعبان، ٢٥٥ هـ (٨٦٩ م)",
+      "martyrdom": "حي يرزق (في الغيبة الإلهية، المخلص الموعود)",
+      "burial": "لا يوجد (الإمام الحي الحاضر)",
+      "biography": "الإمام الثاني عشر والأخير، صاحب العصر والزمان. ولد بسامراء ودخل في الغيبة الصغرى (٢٦٠-٣٢٩ هـ) موجهاً الأمة عبر النواب الأربعة. وفي ٣٢٩ هـ بدأت الغيبة الكبرى. هو الآن حي يرزق يرعى الأمة كالجمال النافع خلف السحاب، وسيظهر مع عيسى بن مريم (ع) ليملأ الأرض قسطاً وعدلاً كما ملئت ظلماً وجوراً.",
+      "familyTree": {
+        "father": "الإمام الحسن بن علي العسكري (ع)",
+        "mother": "السيدة نرجس خاتون (ع)",
+        "spouse": "غير معلن",
+        "children": [
+          "غير معلن"
+        ]
+      },
+      "timeline": [
+        {
+          "year": "٨٦٩ م",
+          "event": "الولادة المباركة بسامراء في 15 شعبان"
+        },
+        {
+          "year": "٨٧٤ م",
+          "event": "بدء الغيبة الصغرى والنواب الأربعة"
+        },
+        {
+          "year": "٩٤١ م",
+          "event": "بدء الغيبة الكبرى حتى إذن الله بالظهور"
+        }
+      ],
+      "places": [
+        "سامراء",
+        "مكة المكرمة",
+        "الكوفة / مسجد جمكران"
+      ],
+      "books": [
+        "التوقيعات الشريفة",
+        "دعاء الافتتاح",
+        "دعاء الندبة",
+        "دعاء العهد",
+        "زيارة آل ياسين"
+      ],
+      "importantEvents": [
+        "ولادة النور في ١٥ شعبان",
+        "الغيبة الصغرى والنواب الأربعة",
+        "الغيبة الكبرى",
+        "الظهور الشريف الموعود"
+      ],
+      "sayings": [
+        "أنا بَقيّةُ اللهِ في أرضِهِ والمنتقمُ مِن أعدائهِ.",
+        "أمّا وَجهُ الانتِفاعِ بي في غَيبَتي فكاليَنتِفاعِ بالشَّمسِ إذا غَيَّبَها عَنِ الأبصارِ السَّحابُ.",
+        "أكثِروا الدُّعاءَ بتَعجيلِ الفَرَجِ، فإنّ ذلكَ فَرَجُكُم."
+      ]
+    },
+    "sayingReferences": [
+      {
+        "sayingIndex": 0,
+        "type": "aqwal",
+        "citation": "Kamal al-Din — signed narration of Imam al-Mahdi (ajtf) as Baqiyyatullah"
+      },
+      {
+        "sayingIndex": 1,
+        "type": "aqwal",
+        "citation": "Kamal al-Din — signed narration on benefit during occultation, like the sun behind clouds"
+      },
+      {
+        "sayingIndex": 2,
+        "type": "aqwal",
+        "citation": "Kamal al-Din — supplication for the hastening of relief (Faraj)"
+      }
+    ]
+  }
+]

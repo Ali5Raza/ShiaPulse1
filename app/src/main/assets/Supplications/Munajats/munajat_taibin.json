@@ -1,0 +1,143 @@
+{
+  "id": "munajat_taibin",
+  "title": "Munajat al-Ta'ibin",
+  "titleUr": "مناجات التائبین",
+  "titleAr": "مناجاة التائبين",
+  "arabicTitle": "مناجاة التائبين",
+  "category": "Munajat",
+  "categoryUr": "مناجات",
+  "categoryAr": "المناجاة",
+  "description": "The Whispered Prayer of the Repenters by Imam Ali Zayn al-Abidin (as).",
+  "descriptionUr": "امام علی زین العابدین (ع) کی توبہ کرنے والوں کی مناجات۔",
+  "descriptionAr": "مناجاة التائبين للإمام علي زين العابدين (ع).",
+  "relevanceUr": "کسی بھی وقت",
+  "relevanceAr": "في أي وقت",
+  "lines": [
+    {
+      "arabic": "إِلَهِي أَلْبَسَتْنِي الْخَطَايَا ثَوْبَ مَذَلَّتِي، وَجَلَّلَنِي التَّبَاعُدُ مِنْكَ لِبَاسُ مَسْكَنَتِي،",
+      "transliteration": "Ilahi albasatni al-khataya thawba madhallati, wa jallalani al-taba'udu minka libasu maskanati,",
+      "translation": "My God, sins have clothed me in the garment of my abasement, and distance from You has wrapped me in the clothing of my wretchedness.",
+      "urduTranslation": "اے میرے معبود! گناہوں نے مجھے میری ذلت کا لباس پہنا دیا ہے، اور تجھ سے دوری نے مجھے میری مسکینی کا لباس اوڑھا دیا ہے۔",
+      "farsiTranslation": "خدایا، گناهان لباس خواری بر تنم پوشانده و دوری از تو جامه بیچارگی بر اندامم افکنده است."
+    },
+    {
+      "arabic": "وَأَمَاتَ قَلْبِي عَظِيمُ جِنَايَتِي، فَأَحْيِهِ بِتَوْبَةٍ مِنْكَ يَا أَمَلِي وَبُغْيَتِي، وَيَا سُؤْلِي وَمُنْيَتِي،",
+      "transliteration": "wa amata qalbi 'azimu jinayati, fa-ahyihi bi-tawbatin minka ya amali wa bughyati, wa ya su'li wa munyati,",
+      "translation": "The greatness of my crime has killed my heart, so revive it with repentance from You, O my hope and my aim, O my request and my desire!",
+      "urduTranslation": "اور میرے عظیم جرم نے میرے دل کو مردہ کر دیا ہے، پس اسے اپنی طرف سے توبہ کے ذریعے زندہ کر دے، اے میری امید اور میری آرزو، اے میرے سوال اور میری تمنا!",
+      "farsiTranslation": "و بزرگی جنایتم دلم را میرانده است، پس آن را با توبه‌ای از جانب خود زنده کن، ای آرزو و مقصودم، و ای خواسته و امیدم."
+    },
+    {
+      "arabic": "فَوَعِزَّتِكَ مَا أَجِدُ لِذُنُوبِي سِوَاكَ غَافِراً، وَلا أَرَى لِكَسْرِي غَيْرَكَ جَابِراً،",
+      "transliteration": "fa-wa 'izzatika ma ajidu li-dhunubi siwaka ghafiran, wa la ara li-kasri ghayraka jabiran,",
+      "translation": "By Your might, I find no forgiver for my sins but You, and I see no restorer for my brokenness other than You.",
+      "urduTranslation": "پس تیری عزت کی قسم! میں اپنے گناہوں کے لیے تیرے سوا کوئی بخشنے والا نہیں پاتا، اور اپنی شکستگی کے لیے تیرے سوا کوئی جوڑنے والا نہیں دیکھتا۔",
+      "farsiTranslation": "به عزتت سوگند که برای گناهانم آمرزنده‌ای جز تو نمی‌یابم و برای شکستگی‌ام ترمیم‌کننده‌ای غیر تو نمی‌بینم."
+    },
+    {
+      "arabic": "وَقَدْ خَضَعْتُ بِالإِنَابَةِ إِلَيْكَ، وَعَنَوْتُ بِالاسْتِكَانَةِ لَدَيْكَ،",
+      "transliteration": "wa qad khada'tu bi-al-inabati ilayka, wa 'anawtu bi-al-istikarati ladayka,",
+      "translation": "I have submitted myself to You by turning in repentance, and I have humbled myself by yielding to You.",
+      "urduTranslation": "اور میں نے تیری طرف رجوع کر کے عاجزی اختیار کی ہے، اور تیرے سامنے انکساری کے ساتھ سر جھکا دیا ہے۔",
+      "farsiTranslation": "و من با بازگشت به سوی تو فروتنی کرده و با زاری در پیشگاهت سر تسلیم فرود آورده‌ام."
+    },
+    {
+      "arabic": "فَإِنْ طَرَدْتَنِي مِنْ بَابِكَ فَبِمَنْ أَلُوذُ؟ وَإِنْ رَدَدْتَنِي عَنْ جَنَابِكَ فَبِمَنْ أَعُوذُ؟",
+      "transliteration": "fa-in taradtani min babika fa-bi-man aludhu? wa-in radadtani 'an janabika fa-bi-man a'udhu?",
+      "translation": "If You drive me from Your door, to whom shall I turn? And if You reject me from Your presence, to whom shall I seek refuge?",
+      "urduTranslation": "پس اگر تو نے مجھے اپنے دروازے سے نکال دیا تو میں کس کی پناہ لوں گا؟ اور اگر تو نے مجھے اپنی بارگاہ سے دھتکار دیا تو میں کس کی پناہ میں جاؤں گا؟",
+      "farsiTranslation": "پس اگر مرا از درگاهت برانی به که پناه برم؟ و اگر از آستانت بازگردانی به که پناه جویم؟"
+    },
+    {
+      "arabic": "فَوَا أَسَفَاهُ مِنْ خَجْلَتِي وَافْتِضَاحِي، وَوَا لَهْفَاهُ مِنْ سُوءِ عَمَلِي وَاجْتِرَاحِي،",
+      "transliteration": "fa-wa asafahu min khajalati wa-iftidahi, wa-wa lahfahu min su'i 'amali wa-ijtirahi,",
+      "translation": "Alas for my shame and my disgrace! And woe for my evil deeds and my offenses!",
+      "urduTranslation": "پس ہائے افسوس میری شرمندگی اور میری رسوائی پر! اور ہائے افسوس میرے برے اعمال اور میرے گناہوں پر!",
+      "farsiTranslation": "وا اسفا از شرمساری و رسوایی‌ام، و وا حسرتا از بدی کردار و گناهانم."
+    },
+    {
+      "arabic": "أَسْأَلُكَ يَا غَافِرَ الذَّنْبِ الْكَبِيرِ، وَيَا جَابِرَ الْعَظْمِ الْكَسِيرِ، أَنْ تَهَبَ لِي مُوبِقَاتِ الْجَرَائِرِ، وَتَسْتُرَ عَلَيَّ فَاضِحَاتِ السَّرَائِرِ،",
+      "transliteration": "as'aluka ya ghafira al-dhanbi al-kabiri, wa ya jabira al-'azmi al-kasiri, an tahaba li mubiqati al-jara'iri, wa tastura 'alayya fadihati al-sara'iri,",
+      "translation": "I ask You, O Forgiver of the great sin, and O Restorer of the broken bone, to grant me the forgiveness of my destructive crimes and to cover for me my scandalous secrets.",
+      "urduTranslation": "میں تجھ سے سوال کرتا ہوں، اے بڑے گناہ کو بخشنے والے، اور اے ٹوٹی ہوئی ہڈی کو جوڑنے والے، کہ تو میرے ہلاک کرنے والے گناہوں کو معاف کر دے، اور میرے رسوا کرنے والے رازوں پر پردہ ڈال دے۔",
+      "farsiTranslation": "از تو می‌خواهم ای آمرزنده گناه بزرگ، و ای ترمیم‌کننده استخوان شکسته، که گناهان مهلک مرا ببخشی و رازهای رسواکننده‌ام را بپوشانی."
+    },
+    {
+      "arabic": "وَلا تُخْلِنِي فِي مَشْهَدِ الْقِيَامَةِ مِنْ بَرْدِ عَفْوِكَ وَغُفْرَانِكَ، وَلا تُعْرِنِي مِنْ جَمِيلِ صَفْحِكَ وَتَجَاوُزِكَ،",
+      "transliteration": "wa la tukhlini fi mashhadi al-qiyamati min bardi 'afwika wa ghufranika, wa la tu'rini min jamili safhika wa tajawuzika,",
+      "translation": "Do not leave me in the scene of Resurrection without the coolness of Your pardon and forgiveness, and do not strip me of Your beautiful overlooking and overlooking.",
+      "urduTranslation": "اور قیامت کے دن مجھے اپنے عفو و مغفرت کی ٹھنڈک سے محروم نہ کرنا، اور مجھے اپنے خوبصورت درگزر اور چشم پوشی سے عاری نہ کرنا۔",
+      "farsiTranslation": "و در صحنه قیامت مرا از خنکای عفو و آمرزشت محروم مکن، و از گذشت و چشم‌پوشی زیبایت برهنه مساز."
+    },
+    {
+      "arabic": "إِلَهِي ظَلِّلْ عَلَى ذُنُوبِي غَمَامَ رَحْمَتِكَ، وَأَرْسِلْ عَلَى عُيُوبِي سَحَابَ رَأْفَتِكَ،",
+      "transliteration": "ilahi zallil 'ala dhunubi ghamama rahmatika, wa arsil 'ala 'uyubi sahab ra'fatika,",
+      "translation": "My God, cast the cloud of Your mercy over my sins, and send the rain of Your kindness upon my faults.",
+      "urduTranslation": "اے میرے معبود! میرے گناہوں پر اپنی رحمت کے بادل سایہ فگن کر دے، اور میرے عیوب پر اپنی شفقت کے بادل بھیج دے۔",
+      "farsiTranslation": "خدایا، بر گناهانم ابر رحمتت را سایه‌گستر کن، و بر عیوبم باران رأفتت را ببار."
+    },
+    {
+      "arabic": "إِلَهِي هَلْ يَرْجِعُ الْعَبْدُ الآبِقُ إِلا إِلَى مَوْلاهُ؟ أَمْ هَلْ يُجِيرُهُ مِنْ سَخَطِهِ أَحَدٌ سِوَاهُ؟",
+      "transliteration": "ilahi hal yarji'u al-'abdu al-abiq illa ila mawlahu? am hal yujiruhu min sakhatihi ahadun siwahu?",
+      "translation": "My God, does the runaway slave return except to his master? Or does anyone protect him from His wrath other than Him?",
+      "urduTranslation": "اے میرے معبود! کیا بھاگا ہوا غلام اپنے آقا کے سوا کہیں اور لوٹتا ہے؟ یا کیا اسے اس کے غضب سے اس کے سوا کوئی اور پناہ دے سکتا ہے؟",
+      "farsiTranslation": "خدایا، آیا بنده فراری جز به سوی مولایش بازمی‌گردد؟ یا کسی جز او می‌تواند وی را از خشمش پناه دهد؟"
+    },
+    {
+      "arabic": "إِلَهِي إِنْ كَانَ النَّدَمُ عَلَى الذَّنْبِ تَوْبَةً فَإِنِّي وَعِزَّتِكَ مِنَ النَّادِمِينَ، وَإِنْ كَانَ الاسْتِغْفَارُ مِنَ الْخَطِيئَةِ حِطَّةً فَإِنِّي لَكَ مِنَ الْمُسْتَغْفِرِينَ،",
+      "transliteration": "ilahi in kana al-nadamu 'ala al-dhanbi tawbatan fa-inni wa 'izzatika min al-nadimina, wa in kana al-istighfaru min al-khati'ati hittatan fa-inni laka min al-mustaghfirina,",
+      "translation": "My God, if remorse for sin is repentance, then by Your might, I am among the remorseful. And if seeking forgiveness for the error is a means of removal, then I am among those who seek Your forgiveness.",
+      "urduTranslation": "اے میرے معبود! اگر گناہ پر ندامت توبہ ہے، تو تیری عزت کی قسم! میں نادموں میں سے ہوں، اور اگر خطا پر استغفار گناہوں کو مٹانے والا ہے، تو میں تیرے سامنے استغفار کرنے والوں میں سے ہوں۔",
+      "farsiTranslation": "خدایا، اگر پشیمانی از گناه توبه است، پس به عزتت سوگند که من از پشیمانانم، و اگر آمرزش‌خواهی از خطا مایه ریزش گناهان است، پس من از آمرزش‌خواهان درگاه توام."
+    },
+    {
+      "arabic": "لَكَ الْعُتْبَى حَتَّى تَرْضَى، إِلَهِي فَبِقُدْرَتِكَ عَلَيَّ تُبْ عَلَيَّ، وَبِحِلْمِكَ عَنِّي اعْفُ عَنِّي، وَبِعِلْمِكَ بِي ارْفَقْ بِي،",
+      "transliteration": "laka al-'utba hatta tarda, ilahi fa-bi-qudratika 'alayya tub 'alayya, wa bi-hilmika 'anni a'fu 'anni, wa bi-'ilmika bi irfaq bi,",
+      "translation": "To You belongs the right to blame until You are satisfied. My God, by Your power over me, turn to me; by Your forbearance toward me, pardon me; and by Your knowledge of me, be gentle with me.",
+      "urduTranslation": "تیرے لیے ہی حقِ ناراضگی ہے یہاں تک کہ تو راضی ہو جائے۔ اے میرے معبود! اپنی قدرت کے ذریعے جو مجھ پر ہے، میری توبہ قبول فرما، اور اپنے حلم کے ذریعے جو مجھ پر ہے، مجھے معاف کر دے، اور اپنے علم کے ذریعے جو میرے بارے میں ہے، مجھ پر نرمی فرما۔",
+      "farsiTranslation": "حق سرزنش از آن توست تا خشنود شوی. خدایا، به قدرتت بر من، توبه‌ام را بپذیر، و به بردباری‌ات از من، از من درگذر، و به دانشت به حالم، با من مدارا کن."
+    },
+    {
+      "arabic": "إِلَهِي أَنْتَ الَّذِي فَتَحْتَ لِعِبَادِكَ بَاباً إِلَى عَفْوِكَ سَمَّيْتَهُ التَّوْبَةَ، فَقُلْتَ: تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحاً، فَمَا عُذْرُ مَنْ أَغْفَلَ دُخُولَ الْبَابِ بَعْدَ فَتْحِهِ؟",
+      "transliteration": "ilahi anta alladhi fatahta li-'ibadika baban ila 'afwika sammaytahu al-tawbata, fa-qulta: tubu ila allahi tawbatan nasuhan, fa-ma 'udhru man aghfala dukhula al-babi ba'da fathihi?",
+      "translation": "My God, You are the One who opened for Your servants a door to Your pardon, which You named 'repentance'. You said: 'Repent to God with a sincere repentance.' What is the excuse of one who neglects to enter the door after it has been opened?",
+      "urduTranslation": "اے میرے معبود! تو وہ ہے جس نے اپنے بندوں کے لیے اپنے عفو کی طرف ایک دروازہ کھولا ہے جس کا نام تو نے 'توبہ' رکھا ہے، اور تو نے فرمایا: 'خدا کی طرف سچی توبہ کرو'، تو اب اس شخص کا کیا عذر ہے جو اس دروازے کے کھلنے کے بعد اس میں داخل ہونے سے غفلت برتے؟",
+      "farsiTranslation": "خدایا، تویی که برای بندگانت دری به سوی عفوت گشودی و آن را «توبه» نامیدی، پس فرمودی: «به سوی خدا توبه کنید، توبه‌ای خالصانه». پس چه عذری دارد کسی که از ورود به این در پس از گشودنش غفلت ورزد؟"
+    },
+    {
+      "arabic": "إِلَهِي إِنْ كَانَ قَبُحَ الذَّنْبُ مِنْ عَبْدِكَ فَلْيَحْسُنِ الْعَفْوُ مِنْ عِنْدِكَ،",
+      "transliteration": "ilahi in kana qabuha al-dhanbu min 'abdika fal-yahsun al-'afwu min 'indika,",
+      "translation": "My God, if the sin from Your servant is ugly, then let the pardon from You be beautiful.",
+      "urduTranslation": "اے میرے معبود! اگر تیرے بندے کی طرف سے گناہ برا ہے، تو تیری طرف سے معافی خوبصورت ہونی چاہیے۔",
+      "farsiTranslation": "خدایا، اگر گناه از بنده‌ات زشت است، پس عفو از جانب تو زیباست."
+    },
+    {
+      "arabic": "إِلَهِي مَا أَنَا بِأَوَّلِ مَنْ عَصَاكَ فَتُبْتَ عَلَيْهِ، وَتَعَرَّضَ لِمَعْرُوفِكَ فَجُدْتَ عَلَيْهِ،",
+      "transliteration": "ilahi ma ana bi-awwali man 'asaka fa-tubta 'alayhi, wa ta'arrada li-ma'rufika fa-judta 'alayhi,",
+      "translation": "My God, I am not the first to disobey You and then You turned to him in repentance, nor the first to expose himself to Your kindness and then You were generous to him.",
+      "urduTranslation": "اے میرے معبود! میں پہلا شخص نہیں جس نے تیری نافرمانی کی اور تو نے اس کی توبہ قبول کی، اور نہ ہی پہلا شخص ہوں جس نے تیری نیکی کی طرف رخ کیا اور تو نے اس پر کرم فرمایا۔",
+      "farsiTranslation": "خدایا، من نخستین کسی نیستم که نافرمانی‌ات کرد و تو توبه‌اش را پذیرفتی، و نه اولین کسی که خود را در معرض احسانت قرار داد و تو بر او بخشیدی."
+    },
+    {
+      "arabic": "يَا مُجِيبَ الْمُضْطَرِّ، يَا كَاشِفَ الضُّرِّ، يَا عَظِيمَ الْبِرِّ، يَا عَلِيماً بِمَا فِي السِّرِّ، يَا جَمِيلَ السِّتْرِ،",
+      "transliteration": "ya mujiba al-mudtarri, ya kashifa al-durri, ya 'azima al-birri, ya 'aliman bima fi al-sirri, ya jamila al-sitri,",
+      "translation": "O Answerer of the distressed, O Remover of harm, O Great in goodness, O Knower of what is in the secret, O Beautiful in covering,",
+      "urduTranslation": "اے بے قرار کی دعا قبول کرنے والے، اے تکلیف کو دور کرنے والے، اے عظیم نیکی والے، اے پوشیدہ باتوں کو جاننے والے، اے خوبصورت پردہ پوشی کرنے والے،",
+      "farsiTranslation": "ای اجابت‌کننده درمانده، ای برطرف‌کننده رنج، ای بزرگ‌نیکی، ای دانای نهان، ای نیکو پرده‌پوش،"
+    },
+    {
+      "arabic": "اسْتَشْفَعْتُ بِجُودِكَ وَكَرَمِكَ إِلَيْكَ، وَتَوَسَّلْتُ بِجَنَابِكَ وَتَرَحُّمِكَ لَدَيْكَ،",
+      "transliteration": "istashfa'tu bi-judika wa karamika ilayka, wa tawassaltu bi-janabika wa tarahhumika ladayka,",
+      "translation": "I seek intercession through Your generosity and Your nobility to You, and I seek a means through Your presence and Your mercy to You.",
+      "urduTranslation": "میں تیری سخاوت اور تیرے کرم کے ذریعے تیری بارگاہ میں شفاعت طلب کرتا ہوں، اور تیری بارگاہ اور تیری رحمت کے وسیلے سے تجھ تک پہنچنے کی کوشش کرتا ہوں۔",
+      "farsiTranslation": "به جود و کرمت به سوی تو شفاعت می‌جویم، و به آستانت و مهرورزی‌ات در پیشگاهت توسل می‌جویم."
+    },
+    {
+      "arabic": "فَاسْتَجِبْ دُعَائِي وَلا تُخَيِّبْ فِيكَ رَجَائِي، وَتَقَبَّلْ تَوْبَتِي وَكَفِّرْ خَطِيئَتِي بِمَنِّكَ وَرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ.",
+      "transliteration": "fa-istajib du'a'i wa la tukhayyib fika raja'i, wa taqabbal tawbati wa kaffir khati'ati bi-mannika wa rahmatika ya arhama al-rahimina.",
+      "translation": "So answer my prayer and do not disappoint my hope in You, and accept my repentance and expiate my sin by Your grace and Your mercy, O Most Merciful of the merciful.",
+      "urduTranslation": "پس میری دعا قبول فرما اور تجھ سے وابستہ میری امید کو ناامیدی میں نہ بدل، اور میری توبہ قبول کر لے اور اپنے فضل و رحمت کے ذریعے میرے گناہ کو مٹا دے، اے سب سے زیادہ رحم کرنے والے۔",
+      "farsiTranslation": "پس دعایم را اجابت کن و امیدم را به خود ناامید مکن، و توبه‌ام را بپذیر و گناهم را به فضل و رحمتت بپوشان، ای مهربان‌ترین مهربانان."
+    }
+  ]
+}

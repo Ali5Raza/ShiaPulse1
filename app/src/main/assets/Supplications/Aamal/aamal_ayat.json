@@ -1,0 +1,35 @@
+{
+  "id": "aamal_ayat",
+  "title": "Salat al-Ayat (Signs)",
+  "titleUr": "نماز آیات",
+  "titleAr": "صلاة الآيات",
+  "category": "Occasions",
+  "categoryUr": "مواقع",
+  "categoryAr": "المناسبات",
+  "description": "Obligatory prayer performed during solar/lunar eclipses, earthquakes, severe thunderstorms, or any natural event that causes widespread fear.",
+  "descriptionUr": "یہ نماز سورج یا چاند گرہن، زلزلہ، شدید گرج چمک، طوفان، یا کسی ایسی قدرتی آفت کے وقت واجب ہوتی ہے جس سے لوگوں میں خوف پھیل جائے۔",
+  "descriptionAr": "صلاة واجبة عند كسوف الشمس، خسوف القمر، الزلزلة، والآيات المخوفة كالرعد والبرق الشديدين والعواصف.",
+  "relevance": "Eclipses, Earthquakes, Thunderstorms",
+  "relevanceUr": "سورج و چاند گرہن، زلزلے اور گرج چمک",
+  "relevanceAr": "الكسوف والخسوف والزلازل والعواصف الرعدية",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Method of Salat al-Ayat",
+      "titleUr": "نماز آیات کا طریقہ",
+      "titleAr": "كيفية صلاة الآيات",
+      "description": "It consists of 2 Rak'ats, and there are 5 Ruku's in each Rak'at. In each Rak'at, recite Surah al-Fatihah followed by another Surah (or divide a Surah into 5 parts, one before each Ruku').",
+      "descriptionUr": "یہ دو رکعت پر مشتمل ہے، اور ہر رکعت میں 5 رکوع ہوتے ہیں۔ ہر رکعت میں سورہ فاتحہ کے بعد ایک اور سورت پڑھیں (یا ایک سورت کو 5 حصوں میں تقسیم کر کے ہر رکوع سے پہلے پڑھیں)۔",
+      "descriptionAr": "وهي ركعتان، في كل ركعة خمسة ركوعات. يقرأ الفاتحة وسورة (أو يوزع سورة على الركوعات الخمسة)."
+    },
+    {
+      "actNumber": 2,
+      "title": "Qunut",
+      "titleUr": "قنوت",
+      "titleAr": "القنوت",
+      "description": "It is recommended to recite Qunut before the 2nd, 4th, 6th, 8th, and 10th Ruku', but reciting one Qunut before the 10th Ruku' is sufficient.",
+      "descriptionUr": "دوسرے، چوتھے، چھٹے، آٹھویں اور دسویں رکوع سے پہلے قنوت پڑھنا مستحب ہے، لیکن دسویں رکوع سے پہلے ایک قنوت بھی کافی ہے۔",
+      "descriptionAr": "يستحب القنوت قبل الركوع الثاني والرابع والسادس والثامن والعاشر، ويكفي قنوت واحد قبل الركوع العاشر."
+    }
+  ]
+}

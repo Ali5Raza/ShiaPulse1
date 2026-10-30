@@ -1,0 +1,76 @@
+{
+  "id": "aamal_shab_e_qadr",
+  "title": "Aamal of Laylatul Qadr",
+  "category": "Ramadan",
+  "description": "Common acts for the nights of Qadr. Place the Holy Quran on your head and recite.",
+  "relevance": "Recited on the 19th, 21st, and 23rd of Ramadan.",
+  "relevanceUr": "رمضان کی 19، 21 اور 23 تاریخ کو پڑھا جاتا ہے۔",
+  "relevanceAr": "يُقرأ في 19 و21 و23 من رمضان.",
+  "lines": [
+    {
+      "arabic": "اللّٰهُمَّ بِحَقِّ هٰذَا الْقُرْآنِ",
+      "translation": "O Allah! For the sake of this Quran,",
+      "transliteration": "allahumma bihaqqi hadhal-qur'ani",
+      "urduTranslation": "اے اللہ! اس قرآن کے واسطے",
+      "farsiTranslation": "خدایا! به حق این قرآن"
+    },
+    {
+      "arabic": "وَبِحَقِّ مَنْ أَرْسَلْتَهُ بِهِ",
+      "translation": "And for the sake of the one You sent it with,",
+      "transliteration": "wa bihaqqi man arsaltahu bihi",
+      "urduTranslation": "اور اس کے واسطے جس کے ساتھ تو نے اسے بھیجا",
+      "farsiTranslation": "و به حق کسی که آن را با او فرستادی"
+    },
+    {
+      "arabic": "وَبِحَقِّ كُلِّ مُؤْمِنٍ مَدَحْتَهُ فِيهِ",
+      "translation": "And for the sake of every believer You have praised in it,",
+      "transliteration": "wa bihaqqi kulli mu'minin madahtahu fihi",
+      "urduTranslation": "اور ہر اس مومن کے واسطے جس کی تو نے اس میں تعریف کی",
+      "farsiTranslation": "و به حق هر مؤمنی که در آن مدحش کردی"
+    },
+    {
+      "arabic": "وَبِحَقِّكَ عَلَيْهِمْ",
+      "translation": "And for the sake of Your right over them,",
+      "transliteration": "wa bihaqqika a`layhim",
+      "urduTranslation": "اور ان پر تیرے حق کے واسطے",
+      "farsiTranslation": "و به حق تو بر آنان"
+    },
+    {
+      "arabic": "فَلَا أَحَدَ أَعْرَفُ بِحَقِّكَ مِنْكَ",
+      "translation": "For no one is more aware of Your right than Yourself.",
+      "transliteration": "fala ahada a`rafu bihaqqika minka",
+      "urduTranslation": "کیونکہ تیرے حق کو تجھ سے زیادہ کوئی نہیں جانتا",
+      "farsiTranslation": "زیرا هیچکس به حق تو آگاه تر از خودت نیست"
+    },
+    {
+      "arabic": "بِكَ يَا اَللّٰهُ (عشر مرات)",
+      "translation": "By You, O Allah (10 times)",
+      "transliteration": "bika ya allahu (10 times)",
+      "urduTranslation": "تیرے واسطے سے اے اللہ (١٠ مرتبہ)",
+      "farsiTranslation": "به تو ای خدا (۱۰ مرتبه)"
+    },
+    {
+      "arabic": "بِمُحَمَّدٍ (عشر مرات)",
+      "translation": "By Muhammad (10 times)",
+      "transliteration": "bimuhammadin (10 times)",
+      "urduTranslation": "محمد کے واسطے سے (١٠ مرتبہ)",
+      "farsiTranslation": "به محمد (۱۰ مرتبه)"
+    },
+    {
+      "arabic": "بِعَلِيٍّ (عشر مرات)",
+      "translation": "By Ali (10 times)",
+      "transliteration": "bia`liyyin (10 times)",
+      "urduTranslation": "علی کے واسطے سے (١٠ مرتبہ)",
+      "farsiTranslation": "به علی (۱۰ مرتبه)"
+    },
+    {
+      "arabic": "بِفَاطِمَةَ (عشر مرات)",
+      "translation": "By Fatima (10 times)",
+      "transliteration": "bifatimata (10 times)",
+      "urduTranslation": "فاطمہ کے واسطے سے (١٠ مرتبہ)",
+      "farsiTranslation": "به فاطمه (۱۰ مرتبه)"
+    }
+  ],
+  "categoryUr": "رمضان",
+  "categoryAr": "رمضان"
+}

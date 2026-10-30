@@ -1,0 +1,43 @@
+{
+  "id": "aamal_rain",
+  "title": "Supplication at the Time of Rain",
+  "titleUr": "بارش کے وقت کی دعا",
+  "titleAr": "دعاء عند نزول المطر",
+  "category": "Occasions",
+  "categoryUr": "مواقع",
+  "categoryAr": "المناسبات",
+  "description": "Recommended prayers and supplications to recite when it rains, seeking blessings and protection.",
+  "descriptionUr": "بارش کے وقت پڑھی جانے والی مستحب دعائیں، رحمت اور حفاظت کے حصول کے لیے۔",
+  "descriptionAr": "الأدعية المستحبة عند نزول المطر لطلب البركة والحفظ.",
+  "relevance": "During Rain",
+  "relevanceUr": "بارش کے دوران",
+  "relevanceAr": "أثناء المطر",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Dua for Rain",
+      "titleUr": "بارش کی دعا",
+      "titleAr": "دعاء المطر",
+      "description": "Recite this short supplication when it starts to rain.",
+      "descriptionUr": "بارش شروع ہوتے وقت یہ مختصر دعا پڑھیں۔",
+      "descriptionAr": "يقرأ هذا الدعاء القصير عند بدء المطر.",
+      "arabicRecitation": "اللَّهُمَّ صَيِّباً نَافِعاً",
+      "translation": "O Allah, make it a beneficial rain.",
+      "urduTranslation": "اے اللہ، اسے نفع بخش بارش بنا۔",
+      "transliteration": "Allahumma sayyiban nafi'an"
+    },
+    {
+      "actNumber": 2,
+      "title": "Thanksgiving after Rain",
+      "titleUr": "بارش کے بعد شکر",
+      "titleAr": "الشكر بعد المطر",
+      "description": "After the rain, say thanks to Allah for His bounty.",
+      "descriptionUr": "بارش کے بعد اللہ کی اس نعمت پر شکر ادا کریں۔",
+      "descriptionAr": "بعد المطر اشكر الله على نعمته.",
+      "arabicRecitation": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ",
+      "translation": "We have been given rain by the grace and mercy of Allah.",
+      "urduTranslation": "ہمیں اللہ کے فضل اور اس کی رحمت سے بارش ملی۔",
+      "transliteration": "Mutirna bifadhlillahi wa rahmatihi"
+    }
+  ]
+}

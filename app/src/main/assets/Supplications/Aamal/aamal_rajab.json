@@ -1,0 +1,48 @@
+{
+  "id": "aamal_rajab",
+  "title": "Aamal of Rajab",
+  "titleUr": "ماہ رجب کے اعمال",
+  "titleAr": "أعمال شهر رجب",
+  "category": "Monthly",
+  "categoryUr": "ماہانہ",
+  "categoryAr": "شهري",
+  "description": "Recommended daily acts for the holy month of Rajab.",
+  "descriptionUr": "ماہ رجب کے مقدس مہینے کے لیے روزانہ کے مستحب اعمال۔",
+  "descriptionAr": "الأعمال اليومية المستحبة في شهر رجب الأصب.",
+  "relevance": "Month of Rajab",
+  "relevanceUr": "ماہ رجب",
+  "relevanceAr": "شهر رجب",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Daily Supplication",
+      "titleUr": "روزانہ کی دعا",
+      "titleAr": "الدعاء اليومي",
+      "description": "Recite this dua daily after obligatory prayers in Rajab.",
+      "descriptionUr": "رجب میں ہر واجب نماز کے بعد یہ دعا روزانہ پڑھیں۔",
+      "descriptionAr": "قراءة هذا الدعاء يومياً بعد الصلوات الواجبة في رجب.",
+      "arabicRecitation": "يَا مَنْ أَرْجُوهُ لِكُلِّ خَيْرٍ، وَآمَنُ سَخَطَهُ عِنْدَ كُلِّ شَرٍّ...",
+      "translation": "O He from whom I hope for all good, and from whose anger I feel safe at every evil...",
+      "urduTranslation": "اے وہ جس سے میں ہر بھلائی کی امید رکھتا ہوں اور جس کے غضب سے ہر برائی کے وقت محفوظ رہتا ہوں...",
+      "transliteration": "Ya man arjuhu likulli khayr, wa amanu sakhatahu 'inda kulli sharr..."
+    },
+    {
+      "actNumber": 2,
+      "title": "Fasting",
+      "titleUr": "روزہ رکھنا",
+      "titleAr": "الصيام",
+      "description": "Fasting even for one day in Rajab carries immense rewards and closes the doors of Hell.",
+      "descriptionUr": "رجب میں ایک دن کا روزہ رکھنا بھی بہت بڑا ثواب رکھتا ہے اور جہنم کے دروازے بند کر دیتا ہے۔",
+      "descriptionAr": "صوم يوم واحد من رجب يوجب رضوان الله الأكبر، ويغلق باباً من أبواب النار."
+    },
+    {
+      "actNumber": 3,
+      "title": "Istighfar",
+      "titleUr": "استغفار",
+      "titleAr": "الاستغفار",
+      "description": "Say 'Astaghfirullah wa as'aluhut tawbah' 70 times in the morning and 70 times in the evening.",
+      "descriptionUr": "صبح اور شام 70 مرتبہ 'استغفراللہ و اسئلہ التوبۃ' پڑھیں۔",
+      "descriptionAr": "أن يقول في كل صباح 70 مرة وفي كل مساء 70 مرة: أستغفر الله وأسأله التوبة."
+    }
+  ]
+}

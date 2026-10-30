@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "692524830790",
+    "firebase_url": "https://shiapulse-pk-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shiapulse-pk",
+    "storage_bucket": "shiapulse-pk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692524830790:android:fba70c30249de6a2777a47",
+        "android_client_info": {
+          "package_name": "com.mojedarya.shiapulse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692524830790-2cm4qpu1be0t4o1tg6igafpvi9lf6c17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mojedarya.shiapulse",
+            "certificate_hash": "dc33ed6da572802bdcf4118e1afa49d8cb242713"
+          }
+        },
+        {
+          "client_id": "692524830790-3ett3q8fbiolfch8o45oe47q3no8t3b8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mojedarya.shiapulse",
+            "certificate_hash": "57816403c1bb9e5d304ec688a7992e4875fa65ff"
+          }
+        },
+        {
+          "client_id": "692524830790-d0acko25ljbhlf5qd7ddil20osqcgmfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDClhKiGd-Yt_hzvSHKpY_cR_UYvV3ubus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692524830790-d0acko25ljbhlf5qd7ddil20osqcgmfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+Tanzil Quran Text
+Copyright (C) 2007-2021 Tanzil Project
+License: Creative Commons Attribution 3.0
+
+This copy of the Quran text is carefully produced, highly
+verified and continuously monitored by a group of specialists
+in Tanzil Project.
+
+TERMS OF USE:
+
+- Permission is granted to copy and distribute verbatim copies
+  of this text, but CHANGING IT IS NOT ALLOWED.
+
+- This Quran text can be used in any website or application,
+  provided that its source (Tanzil Project) is clearly indicated,
+  and a link is made to tanzil.net to enable users to keep
+  track of changes.
+
+- This copyright notice shall be included in all verbatim copies
+  of the text, and shall be reproduced appropriately in all files
+  derived from or containing substantial portion of this text.
+
+Please check updates at: http://tanzil.net/updates/
+
+TRANSLATION ATTRIBUTION
+=======================
+English: Ali Quli Qarai — https://tanzil.net/trans/en.qarai
+Urdu: Syed Zeeshan Haider Jawadi — https://tanzil.net/trans/ur.jawadi
+Translations index and terms: https://tanzil.net/trans/
+
+The source verse text is preserved without editorial rewriting. The English
+source includes an unnumbered Bismillah entry before most Surahs; those
+metadata entries (ayah number 0) are not rendered as numbered Quran verses.
+The canonical 6,236 surah:ayah entries are retained in this offline dataset.
+
+Tanzil translation terms state that translations are for non-commercial use;
+other use requires permission from the translator or publisher. Keep this
+attribution and the Tanzil links with the bundled data.

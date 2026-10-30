@@ -1,0 +1,2591 @@
+{
+  "version": 2,
+  "wudu": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Prepare and make intention",
+        "ur": "تیاری اور نیت",
+        "ar": "الاستعداد والنية"
+      },
+      "description": {
+        "en": "Make sure the water is clean and make wudu to seek Allah's closeness. Your intention is in your heart; no special sentence is required.",
+        "ur": "پاک پانی استعمال کریں اور اللہ کی قربت کے لیے وضو کی نیت دل میں کریں۔ کوئی خاص جملہ کہنا ضروری نہیں۔",
+        "ar": "استعمل ماءً طاهراً وانوِ الوضوء للتقرب إلى الله. النية في القلب ولا تحتاج إلى عبارة خاصة."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Wash your hands",
+        "ur": "ہاتھ دھوئیں",
+        "ar": "اغسل يديك"
+      },
+      "description": {
+        "en": "Washing your hands up to the wrists before the main steps is recommended. It helps you begin with clean hands.",
+        "ur": "اہم مراحل سے پہلے کلائیوں تک ہاتھ دھونا مستحب ہے۔ اس سے صاف ہاتھوں کے ساتھ آغاز ہوتا ہے۔",
+        "ar": "يُستحب غسل اليدين إلى الرسغين قبل الخطوات الأساسية لتبدأ بيدين نظيفتين."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Wash your face",
+        "ur": "چہرہ دھوئیں",
+        "ar": "اغسل وجهك"
+      },
+      "description": {
+        "en": "With your right hand, pour water from your hairline down to your chin, covering the required width of your face.",
+        "ur": "دائیں ہاتھ سے بالوں کی سرحد سے ٹھوڑی تک پانی بہائیں اور چہرے کی مطلوب چوڑائی کو ڈھانپیں۔",
+        "ar": "بيدك اليمنى صبّ الماء من خط الشعر إلى الذقن مع تغطية عرض الوجه المطلوب."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Wash your right arm",
+        "ur": "دائیں بازو کو دھوئیں",
+        "ar": "اغسل ذراعك اليمنى"
+      },
+      "description": {
+        "en": "Start at the elbow and let the water flow down to your fingertips. In Shia wudu, the direction is elbow to fingers, not upward.",
+        "ur": "کہنی سے شروع کر کے پانی انگلیوں کے سروں تک بہائیں۔ شیعہ وضو میں سمت کہنی سے انگلیوں کی طرف ہوتی ہے، اوپر کی طرف نہیں۔",
+        "ar": "ابدأ من المرفق ودع الماء ينزل إلى أطراف الأصابع. في وضوء الشيعة يكون الاتجاه من المرفق إلى الأصابع."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Wash your left arm",
+        "ur": "بائیں بازو کو دھوئیں",
+        "ar": "اغسل ذراعك اليسرى"
+      },
+      "description": {
+        "en": "Now wash your left arm in the same way: from the elbow down to the fingertips, making sure water reaches the whole arm.",
+        "ur": "اسی طرح بایاں بازو کہنی سے انگلیوں کے سروں تک دھوئیں اور پانی پورے بازو تک پہنچائیں۔",
+        "ar": "اغسل ذراعك اليسرى بالطريقة نفسها من المرفق إلى أطراف الأصابع مع وصول الماء إلى الذراع كله."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Wipe the front of your head",
+        "ur": "سر کا مسح کریں",
+        "ar": "امسح مقدم رأسك"
+      },
+      "description": {
+        "en": "Use the wetness remaining on your right hand to wipe the front part of your head once. Do not take new water for this wiping.",
+        "ur": "دائیں ہاتھ کی باقی ماندہ تری سے سر کے اگلے حصے کا ایک بار مسح کریں۔ مسح کے لیے نیا پانی نہ لیں۔",
+        "ar": "ببلل يدك اليمنى الباقي امسح مقدم رأسك مرة واحدة، ولا تأخذ ماءً جديداً للمسح."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Wipe your feet",
+        "ur": "پاؤں کا مسح کریں",
+        "ar": "امسح قدميك"
+      },
+      "description": {
+        "en": "With the remaining wetness, wipe the right foot from the toes up to the ankle using your right hand, then the left foot with your left hand.",
+        "ur": "باقی تری سے دائیں ہاتھ سے دائیں پاؤں کے پنجوں سے ٹخنے تک مسح کریں، پھر بائیں ہاتھ سے بایاں پاؤں کا مسح کریں۔",
+        "ar": "بالبلل الباقي امسح القدم اليمنى من أطراف الأصابع إلى الكعب باليد اليمنى، ثم اليسرى باليد اليسرى."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Keep the correct order",
+        "ur": "ترتیب کا خیال رکھیں",
+        "ar": "حافظ على الترتيب"
+      },
+      "description": {
+        "en": "Face, right arm, left arm, head, then feet. Follow one step after another without a long break that lets everything dry. Ask a parent or scholar about your marja's detailed rulings.",
+        "ur": "چہرہ، دایاں بازو، بایاں بازو، سر، پھر پاؤں۔ مراحل کو مسلسل کریں تاکہ اونچا وقفہ سب کو خشک نہ کر دے۔ تفصیلی احکام کے لیے والدین یا اپنے مرجع سے پوچھیں۔",
+        "ar": "الوجه ثم الذراع اليمنى فاليسرى ثم الرأس فالقدمان. تابع الخطوات دون فاصل طويل يجفف الأعضاء. اسأل الوالدين أو مرجعك عن التفاصيل."
+      },
+      "arabic": "",
+      "source": "Qur'an 5:6; Sistani.org, Islamic Laws, Wudu (Ruling 235)"
+    }
+  ],
+  "salah": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Prepare for prayer",
+        "ur": "نماز کی تیاری",
+        "ar": "الاستعداد للصلاة"
+      },
+      "description": {
+        "en": "Pray at the correct time with wudu, clean clothes and a clean place, facing the Qibla. Ask a parent to help you check these conditions.",
+        "ur": "صحیح وقت پر وضو، پاک کپڑوں اور پاک جگہ کے ساتھ قبلہ کی طرف نماز پڑھیں۔ ان شرائط کی جانچ میں والدین سے مدد لیں۔",
+        "ar": "صلِّ في الوقت الصحيح مع الوضوء والثياب والمكان الطاهرين متجهاً إلى القبلة، واطلب مساعدة والديك في التحقق من الشروط."
+      },
+      "arabic": "",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Make your intention",
+        "ur": "نیت کریں",
+        "ar": "انوِ الصلاة"
+      },
+      "description": {
+        "en": "Know in your heart which prayer you are offering and do it sincerely for Allah. You do not need to say a fixed intention aloud.",
+        "ur": "دل میں جانیں کہ کون سی نماز پڑھ رہے ہیں اور خالص اللہ کے لیے پڑھیں۔ نیت کا کوئی مقرر جملہ زبان سے کہنا ضروری نہیں۔",
+        "ar": "اعلم في قلبك أي صلاة تؤديها واخلصها لله. لا يلزم النطق بعبارة معينة للنية."
+      },
+      "arabic": "",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Begin with Takbir",
+        "ur": "تکبیر کے ساتھ آغاز",
+        "ar": "الابتداء بالتكبير"
+      },
+      "description": {
+        "en": "Raise your hands beside your ears and say Allahu Akbar. This begins the prayer.",
+        "ur": "ہاتھ کانوں کے پاس اٹھائیں اور اللہ اکبر کہیں۔ اس سے نماز شروع ہوتی ہے۔",
+        "ar": "ارفع يديك بمحاذاة أذنيك وقل: الله أكبر. وبذلك تبدأ الصلاة."
+      },
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Stand and recite",
+        "ur": "قیام اور تلاوت",
+        "ar": "القيام والتلاوة"
+      },
+      "description": {
+        "en": "In each of the first two rakahs, recite Surah al-Fatiha and then one complete Surah while standing calmly.",
+        "ur": "پہلی دو رکعتوں میں قیام کی حالت میں سورہ فاتحہ اور پھر ایک مکمل سورت پڑھیں۔",
+        "ar": "في كل من الركعتين الأوليين اقرأ سورة الفاتحة ثم سورة كاملة وأنت واقف بهدوء."
+      },
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Qunut: ask Allah",
+        "ur": "قنوت: اللہ سے دعا",
+        "ar": "القنوت: الدعاء"
+      },
+      "description": {
+        "en": "In the second rakah before Ruku, Qunut is recommended. Raise your hands and ask Allah for good. This Quranic dua is a beautiful choice.",
+        "ur": "دوسری رکعت میں رکوع سے پہلے قنوت مستحب ہے۔ ہاتھ اٹھا کر اللہ سے بھلائی مانگیں۔ یہ قرآنی دعا اچھا انتخاب ہے۔",
+        "ar": "يُستحب القنوت في الركعة الثانية قبل الركوع. ارفع يديك واسأل الله الخير، وهذه الدعوة القرآنية اختيار جميل."
+      },
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "source": "Qur'an 2:201; Sistani.org, Islamic Laws, Qunut"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Bow for Ruku",
+        "ur": "رکوع کریں",
+        "ar": "اركع للركوع"
+      },
+      "description": {
+        "en": "Bow until your hands reach your knees, keep your back calm and straight, then rise and stand still before going to Sujud.",
+        "ur": "گھٹنوں تک ہاتھ پہنچاتے ہوئے رکوع کریں، کمر سیدھی اور جسم پرسکون رکھیں، پھر سجدے سے پہلے کھڑے ہو کر ٹھہریں۔",
+        "ar": "انحنِ حتى تصل يداك إلى ركبتيك بهدوء، ثم ارفع وقف معتدلاً قبل السجود."
+      },
+      "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Prostrate twice",
+        "ur": "دو سجدے کریں",
+        "ar": "اسجد سجدتين"
+      },
+      "description": {
+        "en": "Place your forehead on earth or a material permitted for Sujud; a turbah is commonly used. Sit calmly between the two prostrations in every rakah.",
+        "ur": "پیشانی زمین یا سجدے کی جائز چیز پر رکھیں؛ عموماً تربت استعمال ہوتی ہے۔ ہر رکعت میں دو سجدوں کے درمیان پرسکون بیٹھیں۔",
+        "ar": "ضع جبهتك على الأرض أو ما يجوز السجود عليه، وتُستعمل التربة عادة. اجلس بهدوء بين السجدتين في كل ركعة."
+      },
+      "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَىٰ وَبِحَمْدِهِ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Recite Tashahhud",
+        "ur": "تشہد پڑھیں",
+        "ar": "اقرأ التشهد"
+      },
+      "description": {
+        "en": "After the second rakah, and again in the final sitting of longer prayers, sit peacefully and bear witness to Allah and His Messenger, with salawat upon Muhammad and his family.",
+        "ur": "دوسری رکعت کے بعد اور لمبی نمازوں کی آخری نشست میں پرسکون بیٹھ کر اللہ اور اس کے رسول کی گواہی دیں اور محمد و آل محمد پر درود پڑھیں۔",
+        "ar": "بعد الركعة الثانية وفي الجلسة الأخيرة للصلوات الأطول، اجلس بهدوء وتشهد لله ولرسوله وصلِّ على محمد وآله."
+      },
+      "arabic": "أَشْهَدُ أَنْ لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ، اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Finish with Salam",
+        "ur": "سلام کے ساتھ اختتام",
+        "ar": "الختام بالسلام"
+      },
+      "description": {
+        "en": "At the end of the final rakah, complete your prayer with the prescribed Salam. Remain calm for a moment and remember Allah.",
+        "ur": "آخری رکعت کے اختتام پر مقررہ سلام کے ساتھ نماز مکمل کریں۔ ایک لمحہ پرسکون رہ کر اللہ کو یاد کریں۔",
+        "ar": "في نهاية الركعة الأخيرة أنهِ الصلاة بالسلام المقرر، وابق هادئاً لحظة مع ذكر الله."
+      },
+      "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Know the five daily prayers",
+        "ur": "پانچ روزانہ نمازیں",
+        "ar": "الصلوات الخمس"
+      },
+      "description": {
+        "en": "Fajr has 2 rakahs, Zuhr 4, Asr 4, Maghrib 3 and Isha 4. This is an introductory guide; practise with a parent and follow your marja for detailed rulings.",
+        "ur": "فجر 2، ظہر 4، عصر 4، مغرب 3 اور عشاء 4 رکعتیں ہیں۔ یہ ابتدائی رہنمائی ہے؛ والدین کے ساتھ مشق کریں اور تفصیل میں اپنے مرجع کی پیروی کریں۔",
+        "ar": "الفجر ركعتان، والظهر أربع، والعصر أربع، والمغرب ثلاث، والعشاء أربع. هذا درس تمهيدي؛ تدرب مع والديك واتبع مرجعك في التفاصيل."
+      },
+      "arabic": "",
+      "source": "Qur'an; Sistani.org, Islamic Laws, Salah"
+    }
+  ],
+  "duas": [
+    {
+      "id": 1,
+      "title": {
+        "en": "When waking up",
+        "ur": "جاگنے پر",
+        "ar": "عند الاستيقاظ"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+      "transliteration": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur",
+      "translation": {
+        "en": "All praise is for Allah who gave us life after sleep, and to Him we will return.",
+        "ur": "تمام تعریف اللہ کے لیے ہے جس نے نیند کے بعد ہمیں زندگی دی، اور اسی کی طرف ہمیں لوٹنا ہے۔",
+        "ar": "الحمد لله الذي أحيانا بعد النوم، وإليه يكون الرجوع."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Before sleeping",
+        "ur": "سونے سے پہلے",
+        "ar": "قبل النوم"
+      },
+      "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+      "transliteration": "Bismika Allahumma amutu wa ahya",
+      "translation": {
+        "en": "In Your name, O Allah, I sleep and I wake.",
+        "ur": "اے اللہ! تیرے نام کے ساتھ میں سوتا اور جاگتا ہوں۔",
+        "ar": "باسمك اللهم أنام وأستيقظ."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Before eating",
+        "ur": "کھانے سے پہلے",
+        "ar": "قبل الطعام"
+      },
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "transliteration": "Bismillahir-rahmanir-rahim",
+      "translation": {
+        "en": "I begin in the name of Allah, the Most Compassionate, the Most Merciful.",
+        "ur": "میں اللہ کے نام سے آغاز کرتا ہوں جو نہایت مہربان اور رحم والا ہے۔",
+        "ar": "أبدأ باسم الله الرحمن الرحيم."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "After eating",
+        "ur": "کھانے کے بعد",
+        "ar": "بعد الطعام"
+      },
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "transliteration": "Alhamdu lillah",
+      "translation": {
+        "en": "All praise and thanks belong to Allah.",
+        "ur": "تمام تعریف اور شکر اللہ کے لیے ہے۔",
+        "ar": "الحمد والشكر لله."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "When leaving home",
+        "ur": "گھر سے نکلتے وقت",
+        "ar": "عند الخروج من المنزل"
+      },
+      "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillahi tawakkaltu 'alallahi wa la hawla wa la quwwata illa billah",
+      "translation": {
+        "en": "In Allah's name; I trust Allah, and all strength and power come from Him.",
+        "ur": "اللہ کے نام کے ساتھ؛ میں نے اللہ پر بھروسہ کیا، اور سب طاقت اسی کی طرف سے ہے۔",
+        "ar": "بسم الله، توكلت على الله، ولا قوة إلا به."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "When entering home",
+        "ur": "گھر میں داخل ہوتے وقت",
+        "ar": "عند دخول المنزل"
+      },
+      "arabic": "بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillahi walajna wa bismillahi kharajna wa 'alallahi rabbina tawakkalna",
+      "translation": {
+        "en": "In Allah's name we enter and leave, and we trust in Allah our Lord.",
+        "ur": "اللہ کے نام کے ساتھ داخل اور خارج ہوتے ہیں، اور اپنے رب اللہ پر بھروسہ کرتے ہیں۔",
+        "ar": "بسم الله دخلنا وخرجنا، وعلى الله ربنا توكلنا."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Entering the mosque",
+        "ur": "مسجد میں داخل ہوتے وقت",
+        "ar": "عند دخول المسجد"
+      },
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": "Allahummaf-tah li abwaba rahmatik",
+      "translation": {
+        "en": "O Allah, open the doors of Your mercy for me.",
+        "ur": "اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
+        "ar": "اللهم افتح لي أبواب رحمتك."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Leaving the mosque",
+        "ur": "مسجد سے نکلتے وقت",
+        "ar": "عند الخروج من المسجد"
+      },
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": "Allahumma inni as'aluka min fadlik",
+      "translation": {
+        "en": "O Allah, I ask You for Your bounty and goodness.",
+        "ur": "اے اللہ! میں تجھ سے تیرے فضل اور بھلائی مانگتا ہوں۔",
+        "ar": "اللهم إني أسألك من فضلك وخيرك."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Before studying",
+        "ur": "پڑھنے سے پہلے",
+        "ar": "قبل الدراسة"
+      },
+      "arabic": "رَبِّ زِدْنِي عِلْمًا",
+      "transliteration": "Rabbi zidni 'ilma",
+      "translation": {
+        "en": "My Lord, increase me in knowledge.",
+        "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+        "ar": "ربِّ زدني علماً."
+      },
+      "source": "Qur'an 20:114"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "After studying",
+        "ur": "پڑھنے کے بعد",
+        "ar": "بعد الدراسة"
+      },
+      "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي وَعَلِّمْنِي مَا يَنْفَعُنِي",
+      "transliteration": "Allahumman-fa'ni bima 'allamtani wa 'allimni ma yanfa'uni",
+      "translation": {
+        "en": "O Allah, help me benefit from what You taught me and teach me what benefits me.",
+        "ur": "اے اللہ! جو تو نے سکھایا اسے میرے لیے نفع بخش بنا اور وہ سکھا جو مفید ہو۔",
+        "ar": "اللهم نفعني بما علمتني وعلمني ما ينفعني."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "For our parents",
+        "ur": "والدین کے لیے",
+        "ar": "للوالدين"
+      },
+      "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+      "transliteration": "Rabbir-hamhuma kama rabbayani saghira",
+      "translation": {
+        "en": "My Lord, have mercy on my parents as they lovingly raised me when I was small.",
+        "ur": "اے میرے رب! میرے والدین پر رحم فرما جیسا انہوں نے بچپن میں میری محبت سے پرورش کی۔",
+        "ar": "ربِّ ارحم والديَّ كما ربياني بمحبة وأنا صغير."
+      },
+      "source": "Qur'an 17:24"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "When worried",
+        "ur": "پریشانی میں",
+        "ar": "عند القلق"
+      },
+      "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "transliteration": "Ya Hayyu Ya Qayyumu bi-rahmatika astaghith",
+      "translation": {
+        "en": "O Ever-Living, O Sustainer, I seek Your help through Your mercy.",
+        "ur": "اے زندہ اور قائم رکھنے والا! میں تیری رحمت کے ذریعے مدد مانگتا ہوں۔",
+        "ar": "يا حي يا قيوم، أطلب عونك برحمتك."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 13,
+      "title": {
+        "en": "During rain",
+        "ur": "بارش کے وقت",
+        "ar": "أثناء المطر"
+      },
+      "arabic": "اللَّهُمَّ صَيِّبًا نَافِعًا",
+      "transliteration": "Allahumma sayyiban nafi'a",
+      "translation": {
+        "en": "O Allah, make this rain beneficial and a blessing.",
+        "ur": "اے اللہ! اس بارش کو نفع بخش اور برکت والا بنا۔",
+        "ar": "اللهم اجعل هذا المطر نافعاً ومباركاً."
+      },
+      "source": "Mafatih al-Jinan, daily supplications"
+    },
+    {
+      "id": 14,
+      "title": {
+        "en": "When travelling",
+        "ur": "سفر کے وقت",
+        "ar": "عند السفر"
+      },
+      "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ",
+      "transliteration": "Subhanal-ladhi sakhkhara lana hadha wa ma kunna lahu muqrinin",
+      "translation": {
+        "en": "Glory to Allah who made this transport serve us; we could not have controlled it by ourselves.",
+        "ur": "پاک ہے وہ اللہ جس نے اس سواری کو ہمارے قابو میں دیا؛ ہم اپنی طاقت سے ایسا نہ کر سکتے تھے۔",
+        "ar": "سبحان الله الذي سخر لنا هذه الوسيلة وما كنا لنقدر عليها بأنفسنا."
+      },
+      "source": "Qur'an 43:13"
+    },
+    {
+      "id": 15,
+      "title": {
+        "en": "Salawat",
+        "ur": "صلوات",
+        "ar": "الصلاة على النبي وآله"
+      },
+      "arabic": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "Allahumma salli 'ala Muhammadin wa ali Muhammad",
+      "translation": {
+        "en": "O Allah, send Your blessings upon Prophet Muhammad and his pure family.",
+        "ur": "اے اللہ! اپنے رحمتیں نبی محمد اور ان کے پاک اہل بیت پر نازل فرما۔",
+        "ar": "اللهم صلِّ على النبي محمد وآله الطاهرين."
+      },
+      "source": "Qur'an 33:56; Ziyarat and supplication traditions"
+    }
+  ],
+  "aqaid": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Tawheed: Allah is One",
+        "ur": "توحید: اللہ ایک ہے",
+        "ar": "التوحيد: الله واحد"
+      },
+      "description": {
+        "en": "There is no partner with our Creator.",
+        "ur": "ہمارے خالق کا کوئی شریک نہیں۔",
+        "ar": "لا شريك لخالقنا."
+      },
+      "pages": [
+        {
+          "en": "Look at the sky, the stars and every living thing. Allah created and sustains everything, and nothing compares to Him.",
+          "ur": "آسمان، ستاروں اور ہر جاندار چیز کو دیکھیں۔ اللہ نے سب کچھ پیدا کیا اور سنبھالا ہے، اس جیسا کچھ نہیں۔",
+          "ar": "انظر إلى السماء والنجوم وكل كائن حي. الله خلق كل شيء ويرعاه، ولا يشبهه شيء."
+        },
+        {
+          "en": "Allah has no parents, children or partners. He does not need anyone, while every one of us needs Him.",
+          "ur": "اللہ کے کوئی والدین، اولاد یا شریک نہیں۔ اسے کسی کی ضرورت نہیں، جبکہ ہم سب کو اس کی ضرورت ہے۔",
+          "ar": "لله لا والد ولا ولد ولا شريك. لا يحتاج إلى أحد، ونحن جميعاً نحتاج إليه."
+        },
+        {
+          "en": "We worship Allah alone. We show Tawheed by praying sincerely, telling the truth and asking Him for help.",
+          "ur": "ہم صرف اللہ کی عبادت کرتے ہیں۔ خلوص سے نماز، سچ بولنا اور اسی سے مدد مانگنا توحید کا عملی اظہار ہے۔",
+          "ar": "نعبد الله وحده. نعيش التوحيد بالصلاة بإخلاص والصدق وطلب العون منه."
+        },
+        {
+          "en": "Surah al-Ikhlas teaches this belief in short, clear verses. Say Alhamdulillah for the gift of knowing our Creator.",
+          "ur": "سورہ اخلاص یہ عقیدہ مختصر اور واضح آیات میں سکھاتی ہے۔ خالق کو پہچاننے کی نعمت پر الحمدللہ کہیں۔",
+          "ar": "تعلمنا سورة الإخلاص هذا الاعتقاد بآيات قصيرة واضحة. احمد الله على نعمة معرفة الخالق."
+        }
+      ],
+      "question": {
+        "en": "How many Gods do we worship?",
+        "ur": "ہم کتنے معبودوں کی عبادت کرتے ہیں؟",
+        "ar": "كم إلهاً نعبد؟"
+      },
+      "options": [
+        {
+          "en": "One Allah",
+          "ur": "ایک اللہ",
+          "ar": "الله واحد"
+        },
+        {
+          "en": "Two",
+          "ur": "دو",
+          "ar": "اثنان"
+        },
+        {
+          "en": "Many",
+          "ur": "بہت سے",
+          "ar": "كثيرون"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Tawheed Star",
+        "ur": "ستارۂ توحید",
+        "ar": "نجمة التوحيد"
+      },
+      "source": "Qur'an 112 (Al-Ikhlas)"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Adalah: Allah is Just",
+        "ur": "عدل: اللہ عادل ہے",
+        "ar": "العدل: الله عادل"
+      },
+      "description": {
+        "en": "Allah never treats anyone unfairly.",
+        "ur": "اللہ کسی کے ساتھ ناانصافی نہیں کرتا۔",
+        "ar": "الله لا يظلم أحداً."
+      },
+      "pages": [
+        {
+          "en": "Allah is perfectly wise and just. He never wrongs anyone, even by the weight of a tiny atom.",
+          "ur": "اللہ کامل حکمت اور انصاف والا ہے۔ وہ کسی پر ذرہ برابر بھی ظلم نہیں کرتا۔",
+          "ar": "الله حكيم وعادل تماماً، ولا يظلم أحداً ولو بمقدار ذرة."
+        },
+        {
+          "en": "Every person is responsible for their own choices. No one is punished for another person's sin.",
+          "ur": "ہر شخص اپنے انتخاب کا ذمہ دار ہے۔ کسی کو دوسرے کے گناہ کی سزا نہیں دی جاتی۔",
+          "ar": "كل شخص مسؤول عن اختياراته، ولا يعاقب أحد بذنب شخص آخر."
+        },
+        {
+          "en": "Allah's justice includes His mercy. He gives us guidance and chances to repent and improve.",
+          "ur": "اللہ کے انصاف میں اس کی رحمت بھی شامل ہے۔ وہ ہدایت اور توبہ و بہتری کے مواقع دیتا ہے۔",
+          "ar": "يشمل عدل الله رحمته؛ فهو يمنحنا الهداية وفرص التوبة والتحسن."
+        },
+        {
+          "en": "We learn to be fair too: share, listen to both sides, return what belongs to others and never cheat.",
+          "ur": "ہم بھی انصاف سیکھتے ہیں: بانٹیں، دونوں طرف سنیں، دوسروں کی چیز لوٹائیں اور دھوکہ نہ دیں۔",
+          "ar": "نتعلم العدل أيضاً: نشارك ونستمع للطرفين ونعيد الحق لصاحبه ولا نغش."
+        }
+      ],
+      "question": {
+        "en": "What does Adalah teach us?",
+        "ur": "عدل ہمیں کیا سکھاتا ہے؟",
+        "ar": "ماذا يعلمنا العدل؟"
+      },
+      "options": [
+        {
+          "en": "Allah is always just",
+          "ur": "اللہ ہمیشہ عادل ہے",
+          "ar": "الله عادل دائماً"
+        },
+        {
+          "en": "People never make choices",
+          "ur": "لوگ کوئی انتخاب نہیں کرتے",
+          "ar": "الناس لا يختارون"
+        },
+        {
+          "en": "Fairness is unimportant",
+          "ur": "انصاف اہم نہیں",
+          "ar": "الإنصاف غير مهم"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Justice Shield",
+        "ur": "سپرِ عدل",
+        "ar": "درع العدل"
+      },
+      "source": "Qur'an 4:40 and 6:160"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Nubuwwah: The Prophets",
+        "ur": "نبوت: انبیا",
+        "ar": "النبوة: الأنبياء"
+      },
+      "description": {
+        "en": "Allah sent guides to teach humanity.",
+        "ur": "اللہ نے انسانیت کی رہنمائی کے لیے انبیا بھیجے۔",
+        "ar": "أرسل الله الأنبياء لهداية البشر."
+      },
+      "pages": [
+        {
+          "en": "Allah chose Prophets to teach people how to worship Him, live honestly and treat one another with kindness.",
+          "ur": "اللہ نے انبیا کو چنا تاکہ لوگوں کو عبادت، دیانت داری اور باہمی مہربانی سکھائیں۔",
+          "ar": "اختار الله الأنبياء ليعلموا الناس العبادة والصدق والرحمة ببعضهم."
+        },
+        {
+          "en": "The Prophets conveyed Allah's message faithfully. They are excellent examples of patience, courage and good character.",
+          "ur": "انبیا نے اللہ کا پیغام دیانت داری سے پہنچایا۔ وہ صبر، شجاعت اور اچھے اخلاق کی بہترین مثال ہیں۔",
+          "ar": "بلّغ الأنبياء رسالة الله بأمانة، وهم قدوة في الصبر والشجاعة وحسن الخلق."
+        },
+        {
+          "en": "Prophet Muhammad (s) is the final Prophet. His message completes the guidance brought by earlier Prophets.",
+          "ur": "نبی محمد (ص) آخری نبی ہیں۔ ان کا پیغام پچھلے انبیا کی رہنمائی کو مکمل کرتا ہے۔",
+          "ar": "النبي محمد (ص) هو خاتم الأنبياء، ورسالته أكملت هداية الأنبياء السابقين."
+        },
+        {
+          "en": "The Qur'an and the Prophet's pure family help us understand his message. We honour him by following his character.",
+          "ur": "قرآن اور نبی کے پاک اہل بیت ان کے پیغام کو سمجھنے میں مدد دیتے ہیں۔ ان کے اخلاق پر عمل کر کے ہم ان کا احترام کرتے ہیں۔",
+          "ar": "يساعدنا القرآن وأهل بيت النبي الطاهرون على فهم رسالته، ونكرمه باتباع أخلاقه."
+        }
+      ],
+      "question": {
+        "en": "Who is the final Prophet?",
+        "ur": "آخری نبی کون ہیں؟",
+        "ar": "من هو خاتم الأنبياء؟"
+      },
+      "options": [
+        {
+          "en": "Prophet Musa (as)",
+          "ur": "حضرت موسیٰ (ع)",
+          "ar": "النبي موسى (ع)"
+        },
+        {
+          "en": "Prophet Muhammad (s)",
+          "ur": "نبی محمد (ص)",
+          "ar": "النبي محمد (ص)"
+        },
+        {
+          "en": "Prophet Isa (as)",
+          "ur": "حضرت عیسیٰ (ع)",
+          "ar": "النبي عيسى (ع)"
+        }
+      ],
+      "correctIndex": 1,
+      "badge": {
+        "en": "Guiding Light",
+        "ur": "رہنما روشنی",
+        "ar": "نور الهداية"
+      },
+      "source": "Qur'an 33:40; Hadith al-Thaqalayn"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Imamah: Divinely Guided Leadership",
+        "ur": "امامت: الٰہی رہنمائی",
+        "ar": "الإمامة: القيادة المعصومة"
+      },
+      "description": {
+        "en": "Twelve Imams protect and explain the Prophet's message.",
+        "ur": "بارہ ائمہ نبی کے پیغام کی حفاظت اور تشریح کرتے ہیں۔",
+        "ar": "اثنا عشر إماماً يحفظون رسالة النبي ويشرحونها."
+      },
+      "pages": [
+        {
+          "en": "After the final Prophet, Muslims still needed trustworthy guides who could explain the Qur'an and the Prophet's teachings.",
+          "ur": "آخری نبی کے بعد بھی مسلمانوں کو قابلِ اعتماد رہنماؤں کی ضرورت تھی جو قرآن اور نبی کی تعلیمات سمجھائیں۔",
+          "ar": "بعد خاتم الأنبياء احتاج المسلمون إلى قادة موثوقين يشرحون القرآن وتعاليم النبي."
+        },
+        {
+          "en": "Shia Muslims believe Allah appointed twelve Imams from the Prophet's Ahlul Bayt for this responsibility.",
+          "ur": "شیعہ مسلمانوں کا عقیدہ ہے کہ اللہ نے اس ذمہ داری کے لیے نبی کے اہل بیت سے بارہ ائمہ مقرر کیے۔",
+          "ar": "يعتقد الشيعة أن الله نصب اثني عشر إماماً من أهل بيت النبي لهذه المسؤولية."
+        },
+        {
+          "en": "Imam Ali (as) is the first Imam. Imam Hasan al-Askari (as) is the eleventh, and Imam Mahdi (aj) is the twelfth.",
+          "ur": "امام علی (ع) پہلے امام، امام حسن عسکری (ع) گیارہویں اور امام مہدی (عج) بارہویں امام ہیں۔",
+          "ar": "الإمام علي (ع) هو الأول، والإمام الحسن العسكري (ع) هو الحادي عشر، والإمام المهدي (عج) هو الثاني عشر."
+        },
+        {
+          "en": "Following an Imam means learning from his words and example, obeying Allah and standing for truth and justice.",
+          "ur": "امام کی پیروی ان کے کلام اور اسوہ سے سیکھنا، اللہ کی اطاعت اور حق و انصاف کے ساتھ کھڑا ہونا ہے۔",
+          "ar": "اتباع الإمام يعني التعلم من قوله وقدوته وطاعة الله والوقوف مع الحق والعدل."
+        }
+      ],
+      "question": {
+        "en": "How many Imams do Shia Muslims believe in?",
+        "ur": "شیعہ مسلمان کتنے ائمہ پر ایمان رکھتے ہیں؟",
+        "ar": "بكم إماماً يؤمن الشيعة؟"
+      },
+      "options": [
+        {
+          "en": "Five",
+          "ur": "پانچ",
+          "ar": "خمسة"
+        },
+        {
+          "en": "Twelve",
+          "ur": "بارہ",
+          "ar": "اثنا عشر"
+        },
+        {
+          "en": "Fourteen",
+          "ur": "چودہ",
+          "ar": "أربعة عشر"
+        }
+      ],
+      "correctIndex": 1,
+      "badge": {
+        "en": "Ahlul Bayt Guide",
+        "ur": "رہنمای اہل بیت",
+        "ar": "دليل أهل البيت"
+      },
+      "source": "Hadith al-Ghadir; Hadith al-Thaqalayn"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Qiyamah: Returning to Allah",
+        "ur": "قیامت: اللہ کی طرف لوٹنا",
+        "ar": "القيامة: الرجوع إلى الله"
+      },
+      "description": {
+        "en": "We are accountable and Allah is just and merciful.",
+        "ur": "ہم اپنے اعمال کے ذمہ دار ہیں اور اللہ عادل و رحیم ہے۔",
+        "ar": "نحن مسؤولون عن أعمالنا والله عادل رحيم."
+      },
+      "pages": [
+        {
+          "en": "Our life in this world is a test and an opportunity to do good. One day, every person will return to Allah.",
+          "ur": "دنیا کی زندگی آزمائش اور نیکی کا موقع ہے۔ ایک دن ہر شخص اللہ کی طرف لوٹے گا۔",
+          "ar": "حياتنا في الدنيا اختبار وفرصة لفعل الخير، وسيرجع كل إنسان إلى الله يوماً ما."
+        },
+        {
+          "en": "On the Day of Judgment, Allah will show perfect justice. Every good and wrong action, however small, matters.",
+          "ur": "قیامت کے دن اللہ کامل انصاف کرے گا۔ ہر نیکی اور برائی، چاہے چھوٹی ہو، اہمیت رکھتی ہے۔",
+          "ar": "في يوم القيامة يقيم الله العدل التام، وكل عمل حسن أو سيئ مهما صغر له قيمة."
+        },
+        {
+          "en": "Belief in Qiyamah does not mean living in fear. It helps us choose honesty, kindness, prayer and repentance every day.",
+          "ur": "قیامت کا ایمان خوف میں جینا نہیں؛ یہ ہمیں روز سچائی، مہربانی، نماز اور توبہ کا انتخاب سکھاتا ہے۔",
+          "ar": "الإيمان بالقيامة لا يعني العيش في الخوف، بل يدفعنا للصدق والرحمة والصلاة والتوبة كل يوم."
+        },
+        {
+          "en": "Allah is merciful and accepts sincere repentance. We should never think a mistake makes us unable to return to Him.",
+          "ur": "اللہ رحیم ہے اور سچی توبہ قبول کرتا ہے۔ کسی غلطی کے بعد اللہ کی طرف لوٹنے سے مایوس نہیں ہونا چاہیے۔",
+          "ar": "الله رحيم ويقبل التوبة الصادقة، ولا نظن أن الخطأ يمنعنا من الرجوع إليه."
+        }
+      ],
+      "question": {
+        "en": "Why does belief in Qiyamah matter?",
+        "ur": "قیامت کا ایمان کیوں اہم ہے؟",
+        "ar": "لماذا يهم الإيمان بالقيامة؟"
+      },
+      "options": [
+        {
+          "en": "It helps us make responsible choices",
+          "ur": "یہ ذمہ دارانہ انتخاب میں مدد دیتا ہے",
+          "ar": "يساعدنا على اختيارات مسؤولة"
+        },
+        {
+          "en": "It says good deeds do not matter",
+          "ur": "یہ کہتا ہے کہ نیکی اہم نہیں",
+          "ar": "يقول إن الخير غير مهم"
+        },
+        {
+          "en": "It removes Allah's mercy",
+          "ur": "یہ اللہ کی رحمت ختم کرتا ہے",
+          "ar": "يلغي رحمة الله"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Good Deeds Seed",
+        "ur": "نیکی کا بیج",
+        "ar": "بذرة الأعمال الصالحة"
+      },
+      "source": "Qur'an 99:6-8"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "title": {
+        "en": "Prophet Muhammad (s)",
+        "ur": "نبی محمد (ص)",
+        "ar": "النبي محمد (ص)"
+      },
+      "description": {
+        "en": "The truthful and trustworthy final Messenger",
+        "ur": "سچے اور قابلِ اعتماد آخری رسول",
+        "ar": "الرسول الخاتم الصادق الأمين"
+      },
+      "pages": [
+        {
+          "en": "Before his prophethood, people in Makkah called Muhammad (s) Al-Sadiq and Al-Amin because he was truthful and returned trusts safely.",
+          "ur": "نبوت سے پہلے مکہ کے لوگ محمد (ص) کو صادق اور امین کہتے تھے کیونکہ وہ سچ بولتے اور امانتیں لوٹاتے تھے۔",
+          "ar": "قبل النبوة سمّى أهل مكة محمداً (ص) الصادق الأمين لصدقه وحفظه الأمانات."
+        },
+        {
+          "en": "He cared for children, helped the poor and taught people to honour their parents and neighbours. His good manners brought hearts closer to Islam.",
+          "ur": "وہ بچوں کی دیکھ بھال، غریبوں کی مدد اور والدین و پڑوسیوں کے حقوق سکھاتے تھے۔ ان کے اخلاق نے دلوں کو اسلام کے قریب کیا۔",
+          "ar": "اعتنى بالأطفال وساعد الفقراء وعلّم حقوق الوالدين والجيران، وقرب أخلاقه القلوب إلى الإسلام."
+        },
+        {
+          "en": "Allah chose him as the final Prophet. He left the Qur'an and his pure Ahlul Bayt as guidance for us.",
+          "ur": "اللہ نے انہیں آخری نبی چنا۔ انہوں نے ہماری رہنمائی کے لیے قرآن اور اپنے پاک اہل بیت چھوڑے۔",
+          "ar": "اختاره الله خاتماً للأنبياء، وترك لنا القرآن وأهل بيته الطاهرين للهداية."
+        }
+      ],
+      "question": {
+        "en": "Which title means 'the Trustworthy'?",
+        "ur": "کون سا لقب 'قابلِ اعتماد' کے معنی دیتا ہے؟",
+        "ar": "أي لقب يعني «الأمين»؟"
+      },
+      "options": [
+        {
+          "en": "Al-Amin",
+          "ur": "الامین",
+          "ar": "الأمين"
+        },
+        {
+          "en": "Al-Samad",
+          "ur": "الصمد",
+          "ar": "الصمد"
+        },
+        {
+          "en": "Al-Qadir",
+          "ur": "القادر",
+          "ar": "القادر"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Trustworthy Heart",
+        "ur": "امانت دار دل",
+        "ar": "قلب أمين"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 2,
+      "title": {
+        "en": "Imam Ali (as)",
+        "ur": "امام علی (ع)",
+        "ar": "الإمام علي (ع)"
+      },
+      "description": {
+        "en": "The first Imam: courage, knowledge and justice",
+        "ur": "پہلے امام: شجاعت، علم اور عدل",
+        "ar": "الإمام الأول: الشجاعة والعلم والعدل"
+      },
+      "pages": [
+        {
+          "en": "Imam Ali (as) grew up under the care of Prophet Muhammad (s), accepted Islam at a young age and became the first Imam.",
+          "ur": "امام علی (ع) نبی (ص) کی سرپرستی میں پلے، کم عمری میں اسلام لائے اور پہلے امام بنے۔",
+          "ar": "نشأ الإمام علي (ع) في رعاية النبي (ص)، وأسلم صغيراً وصار الإمام الأول."
+        },
+        {
+          "en": "On the night of the migration to Madinah, he slept in the Prophet's bed to protect him, trusting Allah despite the danger.",
+          "ur": "مدینہ کی ہجرت والی رات انہوں نے خطرے کے باوجود اللہ پر بھروسہ کر کے نبی کے بستر پر لیٹ کر ان کی حفاظت کی۔",
+          "ar": "في ليلة الهجرة إلى المدينة نام في فراش النبي ليحميه، متوكلاً على الله رغم الخطر."
+        },
+        {
+          "en": "His words in Nahj al-Balaghah teach wisdom, generosity and justice. His courage was always joined with mercy and self-control.",
+          "ur": "نہج البلاغہ میں ان کے کلام سے حکمت، سخاوت اور انصاف ملتا ہے۔ ان کی شجاعت کے ساتھ رحم اور ضبطِ نفس تھا۔",
+          "ar": "تعلمنا كلماته في نهج البلاغة الحكمة والكرم والعدل، وكانت شجاعته مقرونة بالرحمة وضبط النفس."
+        }
+      ],
+      "question": {
+        "en": "Who is the first Imam?",
+        "ur": "پہلے امام کون ہیں؟",
+        "ar": "من هو الإمام الأول؟"
+      },
+      "options": [
+        {
+          "en": "Imam Hasan (as)",
+          "ur": "امام حسن (ع)",
+          "ar": "الإمام الحسن (ع)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Ridha (as)",
+          "ur": "امام رضا (ع)",
+          "ar": "الإمام الرضا (ع)"
+        }
+      ],
+      "correctIndex": 1,
+      "badge": {
+        "en": "Shield of Justice",
+        "ur": "سپرِ عدل",
+        "ar": "درع العدل"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 3,
+      "title": {
+        "en": "Lady Fatima (sa)",
+        "ur": "بی بی فاطمہ (س)",
+        "ar": "السيدة فاطمة (ع)"
+      },
+      "description": {
+        "en": "The Prophet's beloved daughter and an example of devotion",
+        "ur": "نبی کی پیاری بیٹی اور عبادت کا نمونہ",
+        "ar": "ابنة النبي وقدوة في العبادة"
+      },
+      "pages": [
+        {
+          "en": "Lady Fatima (sa) is the beloved daughter of Prophet Muhammad (s). She grew up in his home of revelation, patience and kindness.",
+          "ur": "بی بی فاطمہ (س) نبی محمد (ص) کی پیاری بیٹی ہیں۔ آپ وحی، صبر اور مہربانی والے گھر میں پلی بڑھیں۔",
+          "ar": "السيدة فاطمة (ع) ابنة النبي محمد (ص)، ونشأت في بيت الوحي والصبر والرحمة."
+        },
+        {
+          "en": "She helped people quietly and generously, worshipped Allah sincerely and supported the truth with patience and courage.",
+          "ur": "آپ خاموشی سے سخاوت سے لوگوں کی مدد کرتی، خلوص سے عبادت اور صبر و شجاعت سے حق کا ساتھ دیتی تھیں۔",
+          "ar": "كانت تساعد الناس بكرم وتعبد الله بإخلاص وتنصر الحق بصبر وشجاعة."
+        },
+        {
+          "en": "She is the mother of Imam Hasan (as) and Imam Hussain (as). Tasbih of Fatima teaches us to praise and thank Allah.",
+          "ur": "آپ امام حسن اور امام حسین (ع) کی والدہ ہیں۔ تسبیحِ فاطمہ ہمیں اللہ کی حمد و شکر سکھاتی ہے۔",
+          "ar": "هي أم الإمامين الحسن والحسين (ع)، وتسبيح فاطمة يعلمنا حمد الله وشكره."
+        }
+      ],
+      "question": {
+        "en": "Who was Lady Fatima's father?",
+        "ur": "بی بی فاطمہ کے والد کون تھے؟",
+        "ar": "من كان والد السيدة فاطمة؟"
+      },
+      "options": [
+        {
+          "en": "Prophet Muhammad (s)",
+          "ur": "نبی محمد (ص)",
+          "ar": "النبي محمد (ص)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Hasan (as)",
+          "ur": "امام حسن (ع)",
+          "ar": "الإمام الحسن (ع)"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Flower of Devotion",
+        "ur": "عبادت کا پھول",
+        "ar": "زهرة العبادة"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 4,
+      "title": {
+        "en": "Imam Hasan (as)",
+        "ur": "امام حسن (ع)",
+        "ar": "الإمام الحسن (ع)"
+      },
+      "description": {
+        "en": "The generous and patient second Imam",
+        "ur": "سخی اور صابر دوسرے امام",
+        "ar": "الإمام الثاني الكريم الصابر"
+      },
+      "pages": [
+        {
+          "en": "Imam Hasan (as) is the elder grandson of Prophet Muhammad (s) and the son of Imam Ali (as) and Lady Fatima (sa).",
+          "ur": "امام حسن (ع) نبی (ص) کے بڑے نواسے اور امام علی و بی بی فاطمہ (ع) کے بیٹے ہیں۔",
+          "ar": "الإمام الحسن (ع) هو الحفيد الأكبر للنبي (ص) وابن الإمام علي والسيدة فاطمة (ع)."
+        },
+        {
+          "en": "He was known for exceptional generosity. He shared what he had and treated people with gentle, respectful manners.",
+          "ur": "وہ غیر معمولی سخاوت کے لیے معروف تھے۔ اپنی چیزیں بانٹتے اور لوگوں سے نرمی و احترام سے پیش آتے تھے۔",
+          "ar": "اشتهر بكرم استثنائي، فكان يشارك ما يملك ويعامل الناس برفق واحترام."
+        },
+        {
+          "en": "As the second Imam, he protected the community with patience and wisdom. His example teaches us that strength can choose peace.",
+          "ur": "دوسرے امام کے طور پر انہوں نے صبر اور حکمت سے امت کی حفاظت کی۔ ان کا اسوہ سکھاتا ہے کہ طاقت امن کا انتخاب بھی کر سکتی ہے۔",
+          "ar": "بصفته الإمام الثاني حمى الأمة بصبر وحكمة، وقدوته تعلمنا أن القوي قد يختار السلام."
+        }
+      ],
+      "question": {
+        "en": "Which quality is Imam Hasan especially known for?",
+        "ur": "امام حسن خاص طور پر کس صفت کے لیے معروف ہیں؟",
+        "ar": "بأي صفة اشتهر الإمام الحسن؟"
+      },
+      "options": [
+        {
+          "en": "Generosity",
+          "ur": "سخاوت",
+          "ar": "الكرم"
+        },
+        {
+          "en": "Pride",
+          "ur": "تکبر",
+          "ar": "الكبر"
+        },
+        {
+          "en": "Anger",
+          "ur": "غصہ",
+          "ar": "الغضب"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Generosity Crown",
+        "ur": "تاجِ سخاوت",
+        "ar": "تاج الكرم"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 5,
+      "title": {
+        "en": "Imam Hussain (as)",
+        "ur": "امام حسین (ع)",
+        "ar": "الإمام الحسين (ع)"
+      },
+      "description": {
+        "en": "The third Imam who stood for truth and dignity",
+        "ur": "حق اور وقار کے لیے کھڑے تیسرے امام",
+        "ar": "الإمام الثالث الذي نهض للحق والكرامة"
+      },
+      "pages": [
+        {
+          "en": "Imam Hussain (as) is the younger grandson of Prophet Muhammad (s). The Prophet loved him and Imam Hasan deeply.",
+          "ur": "امام حسین (ع) نبی (ص) کے چھوٹے نواسے ہیں۔ نبی ان سے اور امام حسن سے گہرا پیار کرتے تھے۔",
+          "ar": "الإمام الحسين (ع) هو الحفيد الأصغر للنبي (ص)، وكان النبي يحبه ويحب الإمام الحسن كثيراً."
+        },
+        {
+          "en": "At Karbala he refused to accept injustice and humiliation. He stood with his family and loyal companions to defend Islam's true values.",
+          "ur": "کربلا میں انہوں نے ناانصافی اور ذلت قبول نہ کی۔ اسلام کی حقیقی اقدار بچانے کے لیے اہل بیت اور وفادار ساتھیوں کے ساتھ کھڑے ہوئے۔",
+          "ar": "في كربلاء رفض الظلم والذلة، ونهض مع أهله وأصحابه المخلصين دفاعاً عن قيم الإسلام."
+        },
+        {
+          "en": "His stand teaches us to help the oppressed, speak truthfully and never let fear make us support wrongdoing.",
+          "ur": "ان کی نهضت ہمیں مظلوم کی مدد، سچ بولنا اور خوف کے سبب برائی کا ساتھ نہ دینا سکھاتی ہے۔",
+          "ar": "تعلمنا نهضته نصرة المظلوم وقول الحق وألا يدفعنا الخوف إلى تأييد الباطل."
+        }
+      ],
+      "question": {
+        "en": "Where did Imam Hussain make his historic stand?",
+        "ur": "امام حسین نے تاریخی قیام کہاں کیا؟",
+        "ar": "أين كانت نهضة الإمام الحسين التاريخية؟"
+      },
+      "options": [
+        {
+          "en": "Karbala",
+          "ur": "کربلا",
+          "ar": "كربلاء"
+        },
+        {
+          "en": "Damascus",
+          "ur": "دمشق",
+          "ar": "دمشق"
+        },
+        {
+          "en": "Yemen",
+          "ur": "یمن",
+          "ar": "اليمن"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Light of Courage",
+        "ur": "روشنیِ شجاعت",
+        "ar": "نور الشجاعة"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 6,
+      "title": {
+        "en": "Imam Zayn al-Abidin (as)",
+        "ur": "امام زین العابدین (ع)",
+        "ar": "الإمام زين العابدين (ع)"
+      },
+      "description": {
+        "en": "The fourth Imam of worship, patience and beautiful duas",
+        "ur": "عبادت، صبر اور خوبصورت دعاؤں کے چوتھے امام",
+        "ar": "الإمام الرابع للعبادة والصبر والدعاء"
+      },
+      "pages": [
+        {
+          "en": "Imam Ali Zayn al-Abidin (as) is the son of Imam Hussain (as). He survived Karbala and continued guiding the community.",
+          "ur": "امام علی زین العابدین (ع) امام حسین کے بیٹے ہیں۔ آپ کربلا سے بچے اور امت کی رہنمائی جاری رکھی۔",
+          "ar": "الإمام علي زين العابدين (ع) هو ابن الإمام الحسين، ونجا من كربلاء وواصل هداية الأمة."
+        },
+        {
+          "en": "He was known for long, sincere worship and steady patience. Even after hardship, he turned hearts toward Allah with hope.",
+          "ur": "وہ طویل و مخلصانہ عبادت اور مستقل صبر کے لیے معروف تھے۔ مشکلات کے بعد بھی امید کے ساتھ دلوں کو اللہ کی طرف مڑتے تھے۔",
+          "ar": "اشتهر بعبادته الطويلة الخالصة وصبره الثابت، وبعد الشدائد وجه القلوب إلى الله بالرجاء."
+        },
+        {
+          "en": "His Sahifa al-Sajjadiya contains profound supplications about gratitude, good character, parents, neighbours and people in need.",
+          "ur": "صحیفہ سجادیہ میں شکر، اخلاق، والدین، پڑوسیوں اور ضرورت مندوں کے بارے میں گہری دعائیں ہیں۔",
+          "ar": "تحوي الصحيفة السجادية أدعية عميقة عن الشكر والأخلاق والوالدين والجيران والمحتاجين."
+        }
+      ],
+      "question": {
+        "en": "Which book of supplications is connected to this Imam?",
+        "ur": "اس امام سے کون سی دعاؤں کی کتاب منسوب ہے؟",
+        "ar": "ما كتاب الأدعية المنسوب لهذا الإمام؟"
+      },
+      "options": [
+        {
+          "en": "Sahifa al-Sajjadiya",
+          "ur": "صحیفہ سجادیہ",
+          "ar": "الصحيفة السجادية"
+        },
+        {
+          "en": "A travel atlas",
+          "ur": "سفر کا نقشہ",
+          "ar": "أطلس سفر"
+        },
+        {
+          "en": "A dictionary",
+          "ur": "لغت",
+          "ar": "معجم"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Dua Lantern",
+        "ur": "چراغِ دعا",
+        "ar": "فانوس الدعاء"
+      },
+      "source": "Al-Sahifa al-Sajjadiya; Al-Islam.org biographies"
+    },
+    {
+      "id": 7,
+      "title": {
+        "en": "Imam Muhammad al-Baqir (as)",
+        "ur": "امام محمد باقر (ع)",
+        "ar": "الإمام محمد الباقر (ع)"
+      },
+      "description": {
+        "en": "The fifth Imam who opened deep doors of knowledge",
+        "ur": "علم کے گہرے دروازے کھولنے والے پانچویں امام",
+        "ar": "الإمام الخامس الذي فتح أعماق العلم"
+      },
+      "pages": [
+        {
+          "en": "Imam Muhammad al-Baqir (as), the fifth Imam, was a grandson of Imam Hussain (as) and a teacher trusted for his knowledge.",
+          "ur": "امام محمد باقر (ع) پانچویں امام اور امام حسین کی نسل سے تھے، اور علم میں قابلِ اعتماد استاد تھے۔",
+          "ar": "الإمام محمد الباقر (ع) هو الإمام الخامس ومن ذرية الإمام الحسين، وكان معلماً موثوقاً في العلم."
+        },
+        {
+          "en": "His title al-Baqir is connected with opening and deeply understanding knowledge. Students learned Qur'an, hadith and faith from him.",
+          "ur": "ان کا لقب باقر علم کو کھولنے اور گہرائی سے سمجھنے سے جڑا ہے۔ شاگردوں نے قرآن، حدیث اور ایمان کی تعلیم پائی۔",
+          "ar": "يرتبط لقب الباقر بفتح العلم وفهمه بعمق، وتعلم منه الطلاب القرآن والحديث والإيمان."
+        },
+        {
+          "en": "He taught that real learning improves conduct. Knowledge should make a person more humble, truthful and useful to others.",
+          "ur": "انہوں نے سکھایا کہ حقیقی علم اخلاق بہتر کرتا ہے۔ علم انسان کو عاجز، سچا اور دوسروں کے لیے مفید بناتا ہے۔",
+          "ar": "علّم أن العلم الحقيقي يحسن السلوك ويجعل الإنسان أكثر تواضعاً وصدقاً ونفعاً للناس."
+        }
+      ],
+      "question": {
+        "en": "What should true knowledge improve?",
+        "ur": "حقیقی علم کو کیا بہتر کرنا چاہیے؟",
+        "ar": "ماذا يجب أن يحسن العلم الحقيقي؟"
+      },
+      "options": [
+        {
+          "en": "Our character",
+          "ur": "ہمارے اخلاق",
+          "ar": "أخلاقنا"
+        },
+        {
+          "en": "Our boasting",
+          "ur": "ہمارا شیخی",
+          "ar": "تفاخرنا"
+        },
+        {
+          "en": "Our selfishness",
+          "ur": "ہماری خود غرضی",
+          "ar": "أنانيتنا"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Key of Knowledge",
+        "ur": "کلیدِ علم",
+        "ar": "مفتاح العلم"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 8,
+      "title": {
+        "en": "Imam Ja'far al-Sadiq (as)",
+        "ur": "امام جعفر صادق (ع)",
+        "ar": "الإمام جعفر الصادق (ع)"
+      },
+      "description": {
+        "en": "The truthful sixth Imam and a renowned teacher",
+        "ur": "سچے چھٹے امام اور معروف استاد",
+        "ar": "الإمام السادس الصادق والمعلم"
+      },
+      "pages": [
+        {
+          "en": "Imam Ja'far al-Sadiq (as) is the sixth Imam. The Ja'fari school of Islamic law takes its name from his teaching.",
+          "ur": "امام جعفر صادق (ع) چھٹے امام ہیں۔ جعفری فقہ کا نام ان کی تدریس سے منسوب ہے۔",
+          "ar": "الإمام جعفر الصادق (ع) هو الإمام السادس، وتنسب المدرسة الجعفرية إلى تعليمه."
+        },
+        {
+          "en": "Many students learned from him. His lessons covered faith, ethics, worship and careful thinking, always connected to the Qur'an and Ahlul Bayt.",
+          "ur": "بہت سے شاگردوں نے ان سے سیکھا۔ ان کے اسباق میں ایمان، اخلاق، عبادت اور غور و فکر شامل تھے، سب قرآن و اہل بیت سے جڑے۔",
+          "ar": "تعلم منه كثير من الطلاب في الإيمان والأخلاق والعبادة والتفكير، مرتبطين بالقرآن وأهل البيت."
+        },
+        {
+          "en": "He encouraged honesty and good deeds, not just fine words. We follow his example by learning carefully and practising what is right.",
+          "ur": "انہوں نے صرف خوبصورت باتوں کے بجائے سچائی اور نیک عمل کی ترغیب دی۔ ہم غور سے سیکھ کر نیکی پر عمل کر کے ان کی پیروی کرتے ہیں۔",
+          "ar": "شجع على الصدق والعمل الصالح لا على الكلام فقط، ونقتدي به بالتعلم والعمل بالصواب."
+        }
+      ],
+      "question": {
+        "en": "Which school of law is named after Imam Ja'far al-Sadiq?",
+        "ur": "کون سی فقہ امام جعفر صادق کے نام سے منسوب ہے؟",
+        "ar": "أي مدرسة فقهية تنسب إلى الإمام جعفر الصادق؟"
+      },
+      "options": [
+        {
+          "en": "Ja'fari",
+          "ur": "جعفری",
+          "ar": "الجعفرية"
+        },
+        {
+          "en": "A school of drawing",
+          "ur": "ڈرائنگ اسکول",
+          "ar": "مدرسة رسم"
+        },
+        {
+          "en": "A sports team",
+          "ur": "کھیل کی ٹیم",
+          "ar": "فريق رياضي"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Truthful Scholar",
+        "ur": "سچا عالم",
+        "ar": "العالم الصادق"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 9,
+      "title": {
+        "en": "Imam Musa al-Kadhim (as)",
+        "ur": "امام موسیٰ کاظم (ع)",
+        "ar": "الإمام موسى الكاظم (ع)"
+      },
+      "description": {
+        "en": "The seventh Imam known for patience and self-control",
+        "ur": "صبر اور ضبطِ نفس کے ساتویں امام",
+        "ar": "الإمام السابع صاحب الصبر وكظم الغيظ"
+      },
+      "pages": [
+        {
+          "en": "Imam Musa al-Kadhim (as), the seventh Imam, was the son of Imam Ja'far al-Sadiq (as). He guided people through difficult times.",
+          "ur": "امام موسیٰ کاظم (ع) ساتویں امام اور امام جعفر صادق کے بیٹے تھے۔ مشکل دور میں لوگوں کی رہنمائی کی۔",
+          "ar": "الإمام موسى الكاظم (ع) هو الإمام السابع وابن الإمام جعفر الصادق، وهدى الناس في أزمنة صعبة."
+        },
+        {
+          "en": "His title al-Kadhim is associated with restraining anger. He answered harshness with patience and did not let anger control his actions.",
+          "ur": "ان کا لقب کاظم غصے کو قابو میں رکھنے سے جڑا ہے۔ سختی کا جواب صبر سے دیتے اور غصے کو اپنے عمل پر حاوی نہیں ہونے دیتے تھے۔",
+          "ar": "يرتبط لقب الكاظم بكظم الغيظ، فكان يقابل الشدة بصبر ولا يدع الغضب يتحكم في أفعاله."
+        },
+        {
+          "en": "He worshipped Allah with deep humility. His example teaches us to pause, breathe and choose a gentle response when upset.",
+          "ur": "وہ عاجزی سے عبادت کرتے تھے۔ ان کا اسوہ ناراضگی میں ٹھہرنا، سانس لینا اور نرم جواب چننا سکھاتا ہے۔",
+          "ar": "عبد الله بخشوع عميق، وقدوته تعلمنا أن نتوقف ونتنفس ونختار رداً لطيفاً عند الغضب."
+        }
+      ],
+      "question": {
+        "en": "What can we learn from the title al-Kadhim?",
+        "ur": "لقب کاظم سے ہم کیا سیکھتے ہیں؟",
+        "ar": "ماذا نتعلم من لقب الكاظم؟"
+      },
+      "options": [
+        {
+          "en": "Control anger patiently",
+          "ur": "صبر سے غصہ قابو کریں",
+          "ar": "كظم الغضب بصبر"
+        },
+        {
+          "en": "Shout loudly",
+          "ur": "بلند آواز سے چلائیں",
+          "ar": "الصراخ بصوت عال"
+        },
+        {
+          "en": "Never forgive",
+          "ur": "کبھی معاف نہ کریں",
+          "ar": "عدم المسامحة"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Patient Heart",
+        "ur": "صابر دل",
+        "ar": "القلب الصابر"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 10,
+      "title": {
+        "en": "Imam Ali al-Ridha (as)",
+        "ur": "امام علی رضا (ع)",
+        "ar": "الإمام علي الرضا (ع)"
+      },
+      "description": {
+        "en": "The knowledgeable and compassionate eighth Imam",
+        "ur": "عالم اور رحمدل آٹھویں امام",
+        "ar": "الإمام الثامن العالم الرحيم"
+      },
+      "pages": [
+        {
+          "en": "Imam Ali al-Ridha (as) is the eighth Imam. His knowledge and calm, kind character made him a trusted guide.",
+          "ur": "امام علی رضا (ع) آٹھویں امام ہیں۔ ان کا علم اور پُرسکون مہربان کردار انہیں قابلِ اعتماد رہنما بناتا تھا۔",
+          "ar": "الإمام علي الرضا (ع) هو الإمام الثامن، وكان علمه وخلقه الهادئ الرحيم سبباً لثقة الناس به."
+        },
+        {
+          "en": "He travelled to Khorasan and is buried in Mashhad. People from many places visit his shrine to renew their love for the Ahlul Bayt.",
+          "ur": "وہ خراسان گئے اور مشہد میں مدفون ہیں۔ لوگ دنیا بھر سے اہل بیت کی محبت کی تجدید کے لیے ان کے روضے پر آتے ہیں۔",
+          "ar": "سافر إلى خراسان ودُفن في مشهد، ويزوره الناس من أماكن كثيرة لتجديد محبة أهل البيت."
+        },
+        {
+          "en": "His teachings remind us to join knowledge with compassion. A helpful answer and a gentle tone can guide a heart.",
+          "ur": "ان کی تعلیمات علم کے ساتھ رحمت جوڑنے کی یاد دلاتی ہیں۔ مفید جواب اور نرم لہجہ دل کی رہنمائی کر سکتا ہے۔",
+          "ar": "تذكرنا تعاليمه بالجمع بين العلم والرحمة، فالجواب النافع والنبرة اللطيفة قد يهديان قلباً."
+        }
+      ],
+      "question": {
+        "en": "Where is Imam al-Ridha buried?",
+        "ur": "امام رضا کہاں مدفون ہیں؟",
+        "ar": "أين دُفن الإمام الرضا؟"
+      },
+      "options": [
+        {
+          "en": "Mashhad",
+          "ur": "مشہد",
+          "ar": "مشهد"
+        },
+        {
+          "en": "Makkah",
+          "ur": "مکہ",
+          "ar": "مكة"
+        },
+        {
+          "en": "Karbala",
+          "ur": "کربلا",
+          "ar": "كربلاء"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Kindness Star",
+        "ur": "ستارۂ مہربانی",
+        "ar": "نجمة الرحمة"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 11,
+      "title": {
+        "en": "Imam Muhammad al-Jawad (as)",
+        "ur": "امام محمد جواد (ع)",
+        "ar": "الإمام محمد الجواد (ع)"
+      },
+      "description": {
+        "en": "The generous ninth Imam whose knowledge shone from youth",
+        "ur": "سخی نویں امام جن کا علم کم عمری سے نمایاں تھا",
+        "ar": "الإمام التاسع الكريم صاحب العلم المبكر"
+      },
+      "pages": [
+        {
+          "en": "Imam Muhammad al-Jawad (as) is the ninth Imam and the son of Imam al-Ridha (as). He assumed his responsibilities while young.",
+          "ur": "امام محمد جواد (ع) نویں امام اور امام رضا کے بیٹے ہیں۔ انہوں نے کم عمری میں ذمہ داریاں سنبھالیں۔",
+          "ar": "الإمام محمد الجواد (ع) هو الإمام التاسع وابن الإمام الرضا، وتحمل مسؤوليته وهو صغير السن."
+        },
+        {
+          "en": "People were amazed by his clear answers. His knowledge was a gift from Allah and part of his divinely guided Imamah, not a reason for pride.",
+          "ur": "لوگ ان کے واضح جوابات سے حیران ہوتے۔ ان کا علم اللہ کا عطیہ اور الٰہی امامت کا حصہ تھا، فخر کی وجہ نہیں۔",
+          "ar": "أدهشت إجاباته الواضحة الناس، وكان علمه عطاءً من الله وجزءاً من إمامته لا سبباً للفخر."
+        },
+        {
+          "en": "His title al-Jawad means generous. He teaches young people to seek knowledge humbly and share blessings with others.",
+          "ur": "ان کے لقب جواد کے معنی سخی ہیں۔ وہ نوجوانوں کو عاجزی سے علم حاصل کرنا اور نعمتیں بانٹنا سکھاتے ہیں۔",
+          "ar": "معنى الجواد كثير الكرم، وهو يعلم الصغار طلب العلم بتواضع ومشاركة النعم."
+        }
+      ],
+      "question": {
+        "en": "What does al-Jawad mean?",
+        "ur": "جواد کے کیا معنی ہیں؟",
+        "ar": "ما معنى الجواد؟"
+      },
+      "options": [
+        {
+          "en": "Generous",
+          "ur": "سخی",
+          "ar": "كريم"
+        },
+        {
+          "en": "Silent",
+          "ur": "خاموش",
+          "ar": "صامت"
+        },
+        {
+          "en": "Angry",
+          "ur": "غصیلا",
+          "ar": "غاضب"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Young Knowledge Seeker",
+        "ur": "نوجوان طالبِ علم",
+        "ar": "طالب العلم اليافع"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 12,
+      "title": {
+        "en": "Imam Ali al-Hadi (as)",
+        "ur": "امام علی ہادی (ع)",
+        "ar": "الإمام علي الهادي (ع)"
+      },
+      "description": {
+        "en": "The tenth Imam who guided with wisdom",
+        "ur": "حکمت سے رہنمائی کرنے والے دسویں امام",
+        "ar": "الإمام العاشر الهادي بالحكمة"
+      },
+      "pages": [
+        {
+          "en": "Imam Ali al-Hadi (as) is the tenth Imam and the son of Imam al-Jawad (as). His title al-Hadi means the guide.",
+          "ur": "امام علی ہادی (ع) دسویں امام اور امام جواد کے بیٹے ہیں۔ ان کے لقب ہادی کے معنی رہنما ہیں۔",
+          "ar": "الإمام علي الهادي (ع) هو الإمام العاشر وابن الإمام الجواد، ومعنى الهادي الدليل والمرشد."
+        },
+        {
+          "en": "He taught through wise words, patience and worship, even when rulers restricted him and forced him to live in Samarra.",
+          "ur": "حکمرانوں کی پابندیوں اور سامرا میں مجبوراً رکھنے کے باوجود انہوں نے حکمت، صبر اور عبادت سے تعلیم دی۔",
+          "ar": "علّم بالحكمة والصبر والعبادة رغم قيود الحكام وإجباره على السكن في سامراء."
+        },
+        {
+          "en": "Ziyarat al-Jami'a al-Kabira is attributed to him and beautifully describes the Imams' qualities and their role in guiding believers.",
+          "ur": "زیارت جامعہ کبیرہ ان کی طرف منسوب ہے جس میں ائمہ کی صفات اور مومنین کی رہنمائی میں ان کے کردار کا خوبصورت بیان ہے۔",
+          "ar": "تنسب إليه الزيارة الجامعة الكبيرة التي تصف صفات الأئمة ودورهم في هداية المؤمنين."
+        }
+      ],
+      "question": {
+        "en": "What does the title al-Hadi mean?",
+        "ur": "لقب ہادی کے کیا معنی ہیں؟",
+        "ar": "ما معنى لقب الهادي؟"
+      },
+      "options": [
+        {
+          "en": "The guide",
+          "ur": "رہنما",
+          "ar": "المرشد"
+        },
+        {
+          "en": "The traveller",
+          "ur": "مسافر",
+          "ar": "المسافر"
+        },
+        {
+          "en": "The builder",
+          "ur": "تعمیر کنندہ",
+          "ar": "البناء"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Guidance Compass",
+        "ur": "قطب نمای ہدایت",
+        "ar": "بوصلة الهداية"
+      },
+      "source": "Ziyarat al-Jami'a al-Kabira; Al-Islam.org biographies"
+    },
+    {
+      "id": 13,
+      "title": {
+        "en": "Imam Hasan al-Askari (as)",
+        "ur": "امام حسن عسکری (ع)",
+        "ar": "الإمام الحسن العسكري (ع)"
+      },
+      "description": {
+        "en": "The steadfast eleventh Imam",
+        "ur": "ثابت قدم گیارہویں امام",
+        "ar": "الإمام الحادي عشر الثابت"
+      },
+      "pages": [
+        {
+          "en": "Imam Hasan al-Askari (as) is the eleventh Imam and the son of Imam al-Hadi (as). He lived in Samarra under close watch.",
+          "ur": "امام حسن عسکری (ع) گیارہویں امام اور امام ہادی کے بیٹے ہیں۔ آپ سامرا میں سخت نگرانی میں رہے۔",
+          "ar": "الإمام الحسن العسكري (ع) هو الإمام الحادي عشر وابن الإمام الهادي، وعاش في سامراء تحت مراقبة شديدة."
+        },
+        {
+          "en": "Despite restrictions, he continued guiding his followers through trusted contacts, knowledge and steadfast worship.",
+          "ur": "پابندیوں کے باوجود انہوں نے قابلِ اعتماد رابطوں، علم اور ثابت قدم عبادت کے ذریعے پیروکاروں کی رہنمائی جاری رکھی۔",
+          "ar": "رغم القيود واصل هداية أتباعه بالتواصل الموثوق والعلم والعبادة الثابتة."
+        },
+        {
+          "en": "He is the father of Imam Mahdi (aj). His life reminds families to hold firmly to faith and prepare their children to serve goodness.",
+          "ur": "وہ امام مہدی (عج) کے والد ہیں۔ ان کی زندگی خاندانوں کو ایمان مضبوطی سے تھامنے اور بچوں کو نیکی کی خدمت کے لیے تیار کرنے کی یاد دلاتی ہے۔",
+          "ar": "هو والد الإمام المهدي (عج)، وتذكرنا حياته بالتمسك بالإيمان وإعداد الأبناء لخدمة الخير."
+        }
+      ],
+      "question": {
+        "en": "Who is the son of Imam Hasan al-Askari?",
+        "ur": "امام حسن عسکری کے بیٹے کون ہیں؟",
+        "ar": "من هو ابن الإمام الحسن العسكري؟"
+      },
+      "options": [
+        {
+          "en": "Imam Mahdi (aj)",
+          "ur": "امام مہدی (عج)",
+          "ar": "الإمام المهدي (عج)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Baqir (as)",
+          "ur": "امام باقر (ع)",
+          "ar": "الإمام الباقر (ع)"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Steadfast Lantern",
+        "ur": "ثابت قدم چراغ",
+        "ar": "فانوس الثبات"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    },
+    {
+      "id": 14,
+      "title": {
+        "en": "Imam Mahdi (aj)",
+        "ur": "امام مہدی (عج)",
+        "ar": "الإمام المهدي (عج)"
+      },
+      "description": {
+        "en": "The twelfth Imam and our hope for a just world",
+        "ur": "بارہویں امام اور عادل دنیا کی ہماری امید",
+        "ar": "الإمام الثاني عشر ورجاء عالم عادل"
+      },
+      "pages": [
+        {
+          "en": "Imam Muhammad al-Mahdi (aj) is the twelfth Imam, the son of Imam Hasan al-Askari (as) and a member of the Prophet's Ahlul Bayt.",
+          "ur": "امام محمد مہدی (عج) بارہویں امام، امام حسن عسکری کے بیٹے اور نبی کے اہل بیت میں سے ہیں۔",
+          "ar": "الإمام محمد المهدي (عج) هو الإمام الثاني عشر وابن الإمام الحسن العسكري ومن أهل بيت النبي."
+        },
+        {
+          "en": "Shia Muslims believe he is alive in occultation by Allah's command. We cannot see him now, but we remain connected through prayer, learning and good conduct.",
+          "ur": "شیعہ مسلمانوں کا عقیدہ ہے کہ وہ اللہ کے حکم سے غیبت میں زندہ ہیں۔ اب ہم انہیں نہیں دیکھ سکتے، مگر دعا، علم اور اچھے اخلاق سے رشتہ قائم رکھتے ہیں۔",
+          "ar": "يؤمن الشيعة بأنه حي في الغيبة بأمر الله، ولا نراه الآن لكننا نرتبط به بالدعاء والعلم وحسن الخلق."
+        },
+        {
+          "en": "We await his reappearance, when Allah will establish justice. Hope becomes action when we pray for him and oppose injustice in our own lives.",
+          "ur": "ہم ان کے ظہور کا انتظار کرتے ہیں جب اللہ انصاف قائم کرے گا۔ ان کے لیے دعا اور اپنی زندگی میں ناانصافی کے خلاف عمل امید کو عمل بناتا ہے۔",
+          "ar": "ننتظر ظهوره حين يقيم الله العدل، وتصبح الآمال عملاً بالدعاء له ومقاومة الظلم في حياتنا."
+        }
+      ],
+      "question": {
+        "en": "How can we prepare for Imam Mahdi?",
+        "ur": "ہم امام مہدی کے لیے کیسے تیاری کر سکتے ہیں؟",
+        "ar": "كيف نستعد للإمام المهدي؟"
+      },
+      "options": [
+        {
+          "en": "Pray, learn and do good",
+          "ur": "دعا، علم اور نیک عمل",
+          "ar": "بالدعاء والعلم والعمل الصالح"
+        },
+        {
+          "en": "Support injustice",
+          "ur": "ناانصافی کا ساتھ",
+          "ar": "بتأييد الظلم"
+        },
+        {
+          "en": "Stop caring for others",
+          "ur": "دوسروں کی پرواہ چھوڑ دیں",
+          "ar": "بترك الاهتمام بالآخرين"
+        }
+      ],
+      "correctIndex": 0,
+      "badge": {
+        "en": "Hope of Justice",
+        "ur": "امیدِ عدل",
+        "ar": "رجاء العدل"
+      },
+      "source": "Al-Islam.org, Brief History of Fourteen Infallibles and related biographies"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "category": "wudu",
+      "question": {
+        "en": "In Shia wudu, which direction do we wash the arms?",
+        "ur": "شیعہ وضو میں بازو کس سمت دھوئے جاتے ہیں؟",
+        "ar": "في وضوء الشيعة، بأي اتجاه نغسل الذراعين؟"
+      },
+      "options": [
+        {
+          "en": "Elbow to fingertips",
+          "ur": "کہنی سے انگلیوں تک",
+          "ar": "من المرفق إلى الأصابع"
+        },
+        {
+          "en": "Fingertips to elbow",
+          "ur": "انگلیوں سے کہنی تک",
+          "ar": "من الأصابع إلى المرفق"
+        },
+        {
+          "en": "Any direction is the same",
+          "ur": "کوئی بھی سمت یکساں ہے",
+          "ar": "أي اتجاه يتساوى"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "category": "wudu",
+      "question": {
+        "en": "What water is used for wiping the head and feet?",
+        "ur": "سر اور پاؤں کے مسح کے لیے کون سا پانی استعمال ہوتا ہے؟",
+        "ar": "أي ماء نستعمل لمسح الرأس والقدمين؟"
+      },
+      "options": [
+        {
+          "en": "Wetness remaining on the hands",
+          "ur": "ہاتھوں کی باقی تری",
+          "ar": "البلل الباقي على اليدين"
+        },
+        {
+          "en": "A new bowl of water",
+          "ur": "نئے برتن کا پانی",
+          "ar": "ماء جديد من وعاء"
+        },
+        {
+          "en": "Perfume",
+          "ur": "خوشبو",
+          "ar": "عطر"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "category": "salah",
+      "question": {
+        "en": "How many obligatory prayers do Muslims offer each day?",
+        "ur": "روزانہ کتنی واجب نمازیں ہوتی ہیں؟",
+        "ar": "كم صلاة واجبة في اليوم؟"
+      },
+      "options": [
+        {
+          "en": "Three",
+          "ur": "تین",
+          "ar": "ثلاث"
+        },
+        {
+          "en": "Five",
+          "ur": "پانچ",
+          "ar": "خمس"
+        },
+        {
+          "en": "Seven",
+          "ur": "سات",
+          "ar": "سبع"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "category": "salah",
+      "question": {
+        "en": "How many Sujuds are performed in each rakah?",
+        "ur": "ہر رکعت میں کتنے سجدے ہوتے ہیں؟",
+        "ar": "كم سجدة في كل ركعة؟"
+      },
+      "options": [
+        {
+          "en": "One",
+          "ur": "ایک",
+          "ar": "واحدة"
+        },
+        {
+          "en": "Two",
+          "ur": "دو",
+          "ar": "سجدتان"
+        },
+        {
+          "en": "Four",
+          "ur": "چار",
+          "ar": "أربع"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "category": "salah",
+      "question": {
+        "en": "When is Qunut recommended in a two-rakah prayer?",
+        "ur": "دو رکعتی نماز میں قنوت کب مستحب ہے؟",
+        "ar": "متى يستحب القنوت في صلاة ركعتين؟"
+      },
+      "options": [
+        {
+          "en": "Second rakah before Ruku",
+          "ur": "دوسری رکعت رکوع سے پہلے",
+          "ar": "في الركعة الثانية قبل الركوع"
+        },
+        {
+          "en": "After Salam",
+          "ur": "سلام کے بعد",
+          "ar": "بعد السلام"
+        },
+        {
+          "en": "Before Takbir",
+          "ur": "تکبیر سے پہلے",
+          "ar": "قبل التكبير"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "category": "daily",
+      "question": {
+        "en": "What do we say before eating?",
+        "ur": "کھانے سے پہلے کیا کہتے ہیں؟",
+        "ar": "ماذا نقول قبل الطعام؟"
+      },
+      "options": [
+        {
+          "en": "Bismillah",
+          "ur": "بسم اللہ",
+          "ar": "بسم الله"
+        },
+        {
+          "en": "Goodbye",
+          "ur": "خدا حافظ",
+          "ar": "وداعاً"
+        },
+        {
+          "en": "Good night",
+          "ur": "شب بخیر",
+          "ar": "تصبح على خير"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "category": "daily",
+      "question": {
+        "en": "Which dua asks Allah to increase our knowledge?",
+        "ur": "کون سی دعا علم میں اضافے کے لیے ہے؟",
+        "ar": "أي دعاء يطلب زيادة العلم؟"
+      },
+      "options": [
+        {
+          "en": "Rabbi zidni 'ilma",
+          "ur": "رب زدنی علماً",
+          "ar": "ربِّ زدني علماً"
+        },
+        {
+          "en": "Allahumma sayyiban nafi'a",
+          "ur": "اللہم صیباً نافعاً",
+          "ar": "اللهم صيباً نافعاً"
+        },
+        {
+          "en": "Alhamdu lillah only",
+          "ur": "صرف الحمدللہ",
+          "ar": "الحمد لله فقط"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "category": "daily",
+      "question": {
+        "en": "What does Salawat ask Allah to do?",
+        "ur": "صلوات میں اللہ سے کیا مانگتے ہیں؟",
+        "ar": "ماذا نطلب من الله في الصلاة على النبي؟"
+      },
+      "options": [
+        {
+          "en": "Bless Muhammad and his family",
+          "ur": "محمد و آل محمد پر رحمت بھیجے",
+          "ar": "أن يصلي على محمد وآله"
+        },
+        {
+          "en": "Make it rain",
+          "ur": "بارش بھیجے",
+          "ar": "أن ينزل المطر"
+        },
+        {
+          "en": "Give us sweets",
+          "ur": "مٹھائی دے",
+          "ar": "أن يعطينا الحلوى"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "category": "calendar",
+      "question": {
+        "en": "What is the first month of the Islamic calendar?",
+        "ur": "اسلامی سال کا پہلا مہینہ کون سا ہے؟",
+        "ar": "ما أول شهور السنة الهجرية؟"
+      },
+      "options": [
+        {
+          "en": "Ramadan",
+          "ur": "رمضان",
+          "ar": "رمضان"
+        },
+        {
+          "en": "Muharram",
+          "ur": "محرم",
+          "ar": "محرم"
+        },
+        {
+          "en": "Shawwal",
+          "ur": "شوال",
+          "ar": "شوال"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "category": "calendar",
+      "question": {
+        "en": "In which month do Muslims fast from dawn to sunset?",
+        "ur": "کس مہینے میں مسلمان روزہ رکھتے ہیں؟",
+        "ar": "في أي شهر يصوم المسلمون؟"
+      },
+      "options": [
+        {
+          "en": "Ramadan",
+          "ur": "رمضان",
+          "ar": "رمضان"
+        },
+        {
+          "en": "Safar",
+          "ur": "صفر",
+          "ar": "صفر"
+        },
+        {
+          "en": "Rajab",
+          "ur": "رجب",
+          "ar": "رجب"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "category": "salah",
+      "question": {
+        "en": "Which direction do Muslims face for Salah?",
+        "ur": "نماز میں مسلمان کس سمت منہ کرتے ہیں؟",
+        "ar": "إلى أين يتجه المسلمون في الصلاة؟"
+      },
+      "options": [
+        {
+          "en": "The Qibla",
+          "ur": "قبلہ",
+          "ar": "القبلة"
+        },
+        {
+          "en": "Always east",
+          "ur": "ہمیشہ مشرق",
+          "ar": "دائماً الشرق"
+        },
+        {
+          "en": "The nearest mountain",
+          "ur": "قریبی پہاڑ",
+          "ar": "أقرب جبل"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "category": "aqaid",
+      "question": {
+        "en": "How many Gods do we worship?",
+        "ur": "ہم کتنے معبودوں کی عبادت کرتے ہیں؟",
+        "ar": "كم إلهاً نعبد؟"
+      },
+      "options": [
+        {
+          "en": "One Allah",
+          "ur": "ایک اللہ",
+          "ar": "الله واحد"
+        },
+        {
+          "en": "Two",
+          "ur": "دو",
+          "ar": "اثنان"
+        },
+        {
+          "en": "Many",
+          "ur": "بہت سے",
+          "ar": "كثيرون"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "category": "aqaid",
+      "question": {
+        "en": "What does Adalah teach us?",
+        "ur": "عدل ہمیں کیا سکھاتا ہے؟",
+        "ar": "ماذا يعلمنا العدل؟"
+      },
+      "options": [
+        {
+          "en": "Allah is always just",
+          "ur": "اللہ ہمیشہ عادل ہے",
+          "ar": "الله عادل دائماً"
+        },
+        {
+          "en": "People never make choices",
+          "ur": "لوگ کوئی انتخاب نہیں کرتے",
+          "ar": "الناس لا يختارون"
+        },
+        {
+          "en": "Fairness is unimportant",
+          "ur": "انصاف اہم نہیں",
+          "ar": "الإنصاف غير مهم"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "category": "aqaid",
+      "question": {
+        "en": "Who is the final Prophet?",
+        "ur": "آخری نبی کون ہیں؟",
+        "ar": "من هو خاتم الأنبياء؟"
+      },
+      "options": [
+        {
+          "en": "Prophet Musa (as)",
+          "ur": "حضرت موسیٰ (ع)",
+          "ar": "النبي موسى (ع)"
+        },
+        {
+          "en": "Prophet Muhammad (s)",
+          "ur": "نبی محمد (ص)",
+          "ar": "النبي محمد (ص)"
+        },
+        {
+          "en": "Prophet Isa (as)",
+          "ur": "حضرت عیسیٰ (ع)",
+          "ar": "النبي عيسى (ع)"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "category": "aqaid",
+      "question": {
+        "en": "How many Imams do Shia Muslims believe in?",
+        "ur": "شیعہ مسلمان کتنے ائمہ پر ایمان رکھتے ہیں؟",
+        "ar": "بكم إماماً يؤمن الشيعة؟"
+      },
+      "options": [
+        {
+          "en": "Five",
+          "ur": "پانچ",
+          "ar": "خمسة"
+        },
+        {
+          "en": "Twelve",
+          "ur": "بارہ",
+          "ar": "اثنا عشر"
+        },
+        {
+          "en": "Fourteen",
+          "ur": "چودہ",
+          "ar": "أربعة عشر"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "category": "aqaid",
+      "question": {
+        "en": "Why does belief in Qiyamah matter?",
+        "ur": "قیامت کا ایمان کیوں اہم ہے؟",
+        "ar": "لماذا يهم الإيمان بالقيامة؟"
+      },
+      "options": [
+        {
+          "en": "It helps us make responsible choices",
+          "ur": "یہ ذمہ دارانہ انتخاب میں مدد دیتا ہے",
+          "ar": "يساعدنا على اختيارات مسؤولة"
+        },
+        {
+          "en": "It says good deeds do not matter",
+          "ur": "یہ کہتا ہے کہ نیکی اہم نہیں",
+          "ar": "يقول إن الخير غير مهم"
+        },
+        {
+          "en": "It removes Allah's mercy",
+          "ur": "یہ اللہ کی رحمت ختم کرتا ہے",
+          "ar": "يلغي رحمة الله"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "category": "stories",
+      "question": {
+        "en": "Which title means 'the Trustworthy'?",
+        "ur": "کون سا لقب 'قابلِ اعتماد' کے معنی دیتا ہے؟",
+        "ar": "أي لقب يعني «الأمين»؟"
+      },
+      "options": [
+        {
+          "en": "Al-Amin",
+          "ur": "الامین",
+          "ar": "الأمين"
+        },
+        {
+          "en": "Al-Samad",
+          "ur": "الصمد",
+          "ar": "الصمد"
+        },
+        {
+          "en": "Al-Qadir",
+          "ur": "القادر",
+          "ar": "القادر"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "category": "stories",
+      "question": {
+        "en": "Who is the first Imam?",
+        "ur": "پہلے امام کون ہیں؟",
+        "ar": "من هو الإمام الأول؟"
+      },
+      "options": [
+        {
+          "en": "Imam Hasan (as)",
+          "ur": "امام حسن (ع)",
+          "ar": "الإمام الحسن (ع)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Ridha (as)",
+          "ur": "امام رضا (ع)",
+          "ar": "الإمام الرضا (ع)"
+        }
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "category": "stories",
+      "question": {
+        "en": "Who was Lady Fatima's father?",
+        "ur": "بی بی فاطمہ کے والد کون تھے؟",
+        "ar": "من كان والد السيدة فاطمة؟"
+      },
+      "options": [
+        {
+          "en": "Prophet Muhammad (s)",
+          "ur": "نبی محمد (ص)",
+          "ar": "النبي محمد (ص)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Hasan (as)",
+          "ur": "امام حسن (ع)",
+          "ar": "الإمام الحسن (ع)"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "category": "stories",
+      "question": {
+        "en": "Which quality is Imam Hasan especially known for?",
+        "ur": "امام حسن خاص طور پر کس صفت کے لیے معروف ہیں؟",
+        "ar": "بأي صفة اشتهر الإمام الحسن؟"
+      },
+      "options": [
+        {
+          "en": "Generosity",
+          "ur": "سخاوت",
+          "ar": "الكرم"
+        },
+        {
+          "en": "Pride",
+          "ur": "تکبر",
+          "ar": "الكبر"
+        },
+        {
+          "en": "Anger",
+          "ur": "غصہ",
+          "ar": "الغضب"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "category": "stories",
+      "question": {
+        "en": "Where did Imam Hussain make his historic stand?",
+        "ur": "امام حسین نے تاریخی قیام کہاں کیا؟",
+        "ar": "أين كانت نهضة الإمام الحسين التاريخية؟"
+      },
+      "options": [
+        {
+          "en": "Karbala",
+          "ur": "کربلا",
+          "ar": "كربلاء"
+        },
+        {
+          "en": "Damascus",
+          "ur": "دمشق",
+          "ar": "دمشق"
+        },
+        {
+          "en": "Yemen",
+          "ur": "یمن",
+          "ar": "اليمن"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "category": "stories",
+      "question": {
+        "en": "Which book of supplications is connected to this Imam?",
+        "ur": "اس امام سے کون سی دعاؤں کی کتاب منسوب ہے؟",
+        "ar": "ما كتاب الأدعية المنسوب لهذا الإمام؟"
+      },
+      "options": [
+        {
+          "en": "Sahifa al-Sajjadiya",
+          "ur": "صحیفہ سجادیہ",
+          "ar": "الصحيفة السجادية"
+        },
+        {
+          "en": "A travel atlas",
+          "ur": "سفر کا نقشہ",
+          "ar": "أطلس سفر"
+        },
+        {
+          "en": "A dictionary",
+          "ur": "لغت",
+          "ar": "معجم"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "category": "stories",
+      "question": {
+        "en": "What should true knowledge improve?",
+        "ur": "حقیقی علم کو کیا بہتر کرنا چاہیے؟",
+        "ar": "ماذا يجب أن يحسن العلم الحقيقي؟"
+      },
+      "options": [
+        {
+          "en": "Our character",
+          "ur": "ہمارے اخلاق",
+          "ar": "أخلاقنا"
+        },
+        {
+          "en": "Our boasting",
+          "ur": "ہمارا شیخی",
+          "ar": "تفاخرنا"
+        },
+        {
+          "en": "Our selfishness",
+          "ur": "ہماری خود غرضی",
+          "ar": "أنانيتنا"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "category": "stories",
+      "question": {
+        "en": "Which school of law is named after Imam Ja'far al-Sadiq?",
+        "ur": "کون سی فقہ امام جعفر صادق کے نام سے منسوب ہے؟",
+        "ar": "أي مدرسة فقهية تنسب إلى الإمام جعفر الصادق؟"
+      },
+      "options": [
+        {
+          "en": "Ja'fari",
+          "ur": "جعفری",
+          "ar": "الجعفرية"
+        },
+        {
+          "en": "A school of drawing",
+          "ur": "ڈرائنگ اسکول",
+          "ar": "مدرسة رسم"
+        },
+        {
+          "en": "A sports team",
+          "ur": "کھیل کی ٹیم",
+          "ar": "فريق رياضي"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "category": "stories",
+      "question": {
+        "en": "What can we learn from the title al-Kadhim?",
+        "ur": "لقب کاظم سے ہم کیا سیکھتے ہیں؟",
+        "ar": "ماذا نتعلم من لقب الكاظم؟"
+      },
+      "options": [
+        {
+          "en": "Control anger patiently",
+          "ur": "صبر سے غصہ قابو کریں",
+          "ar": "كظم الغضب بصبر"
+        },
+        {
+          "en": "Shout loudly",
+          "ur": "بلند آواز سے چلائیں",
+          "ar": "الصراخ بصوت عال"
+        },
+        {
+          "en": "Never forgive",
+          "ur": "کبھی معاف نہ کریں",
+          "ar": "عدم المسامحة"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "category": "stories",
+      "question": {
+        "en": "Where is Imam al-Ridha buried?",
+        "ur": "امام رضا کہاں مدفون ہیں؟",
+        "ar": "أين دُفن الإمام الرضا؟"
+      },
+      "options": [
+        {
+          "en": "Mashhad",
+          "ur": "مشہد",
+          "ar": "مشهد"
+        },
+        {
+          "en": "Makkah",
+          "ur": "مکہ",
+          "ar": "مكة"
+        },
+        {
+          "en": "Karbala",
+          "ur": "کربلا",
+          "ar": "كربلاء"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "category": "stories",
+      "question": {
+        "en": "What does al-Jawad mean?",
+        "ur": "جواد کے کیا معنی ہیں؟",
+        "ar": "ما معنى الجواد؟"
+      },
+      "options": [
+        {
+          "en": "Generous",
+          "ur": "سخی",
+          "ar": "كريم"
+        },
+        {
+          "en": "Silent",
+          "ur": "خاموش",
+          "ar": "صامت"
+        },
+        {
+          "en": "Angry",
+          "ur": "غصیلا",
+          "ar": "غاضب"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "category": "stories",
+      "question": {
+        "en": "What does the title al-Hadi mean?",
+        "ur": "لقب ہادی کے کیا معنی ہیں؟",
+        "ar": "ما معنى لقب الهادي؟"
+      },
+      "options": [
+        {
+          "en": "The guide",
+          "ur": "رہنما",
+          "ar": "المرشد"
+        },
+        {
+          "en": "The traveller",
+          "ur": "مسافر",
+          "ar": "المسافر"
+        },
+        {
+          "en": "The builder",
+          "ur": "تعمیر کنندہ",
+          "ar": "البناء"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "category": "stories",
+      "question": {
+        "en": "Who is the son of Imam Hasan al-Askari?",
+        "ur": "امام حسن عسکری کے بیٹے کون ہیں؟",
+        "ar": "من هو ابن الإمام الحسن العسكري؟"
+      },
+      "options": [
+        {
+          "en": "Imam Mahdi (aj)",
+          "ur": "امام مہدی (عج)",
+          "ar": "الإمام المهدي (عج)"
+        },
+        {
+          "en": "Imam Ali (as)",
+          "ur": "امام علی (ع)",
+          "ar": "الإمام علي (ع)"
+        },
+        {
+          "en": "Imam Baqir (as)",
+          "ur": "امام باقر (ع)",
+          "ar": "الإمام الباقر (ع)"
+        }
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "category": "stories",
+      "question": {
+        "en": "How can we prepare for Imam Mahdi?",
+        "ur": "ہم امام مہدی کے لیے کیسے تیاری کر سکتے ہیں؟",
+        "ar": "كيف نستعد للإمام المهدي؟"
+      },
+      "options": [
+        {
+          "en": "Pray, learn and do good",
+          "ur": "دعا، علم اور نیک عمل",
+          "ar": "بالدعاء والعلم والعمل الصالح"
+        },
+        {
+          "en": "Support injustice",
+          "ur": "ناانصافی کا ساتھ",
+          "ar": "بتأييد الظلم"
+        },
+        {
+          "en": "Stop caring for others",
+          "ur": "دوسروں کی پرواہ چھوڑ دیں",
+          "ar": "بترك الاهتمام بالآخرين"
+        }
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "trueFalse": [
+    {
+      "id": 1,
+      "statement": {
+        "en": "Allah is One and has no partner.",
+        "ur": "اللہ ایک ہے اور اس کا کوئی شریک نہیں۔",
+        "ar": "الله واحد ولا شريك له."
+      },
+      "answer": true
+    },
+    {
+      "id": 2,
+      "statement": {
+        "en": "In Shia wudu, arms are washed from fingertips up to the elbow.",
+        "ur": "شیعہ وضو میں بازو انگلیوں سے کہنی کی طرف دھوئے جاتے ہیں۔",
+        "ar": "في وضوء الشيعة تغسل الذراعان من الأصابع إلى المرفق."
+      },
+      "answer": false
+    },
+    {
+      "id": 3,
+      "statement": {
+        "en": "There are two Sujuds in every rakah.",
+        "ur": "ہر رکعت میں دو سجدے ہوتے ہیں۔",
+        "ar": "في كل ركعة سجدتان."
+      },
+      "answer": true
+    },
+    {
+      "id": 4,
+      "statement": {
+        "en": "Imam Ali is the first Imam.",
+        "ur": "امام علی پہلے امام ہیں۔",
+        "ar": "الإمام علي هو الإمام الأول."
+      },
+      "answer": true
+    },
+    {
+      "id": 5,
+      "statement": {
+        "en": "Lady Fatima is the daughter of Prophet Muhammad.",
+        "ur": "بی بی فاطمہ نبی محمد کی بیٹی ہیں۔",
+        "ar": "السيدة فاطمة ابنة النبي محمد."
+      },
+      "answer": true
+    },
+    {
+      "id": 6,
+      "statement": {
+        "en": "Imam Hussain's stand teaches us to accept injustice.",
+        "ur": "امام حسین کی نهضت ناانصافی قبول کرنا سکھاتی ہے۔",
+        "ar": "تعلمنا نهضة الإمام الحسين قبول الظلم."
+      },
+      "answer": false
+    },
+    {
+      "id": 7,
+      "statement": {
+        "en": "Sahifa al-Sajjadiya is a collection of supplications.",
+        "ur": "صحیفہ سجادیہ دعاؤں کا مجموعہ ہے۔",
+        "ar": "الصحيفة السجادية مجموعة أدعية."
+      },
+      "answer": true
+    },
+    {
+      "id": 8,
+      "statement": {
+        "en": "Ramadan is the month of fasting.",
+        "ur": "رمضان روزوں کا مہینہ ہے۔",
+        "ar": "رمضان شهر الصيام."
+      },
+      "answer": true
+    },
+    {
+      "id": 9,
+      "statement": {
+        "en": "A good intention means we never need to learn the prayer actions.",
+        "ur": "نیک نیت ہو تو نماز کے افعال سیکھنے کی ضرورت نہیں۔",
+        "ar": "النية الحسنة تغني عن تعلم أفعال الصلاة."
+      },
+      "answer": false
+    },
+    {
+      "id": 10,
+      "statement": {
+        "en": "Imam Mahdi is the twelfth Imam.",
+        "ur": "امام مہدی بارہویں امام ہیں۔",
+        "ar": "الإمام المهدي هو الإمام الثاني عشر."
+      },
+      "answer": true
+    },
+    {
+      "id": 11,
+      "statement": {
+        "en": "Knowledge should make us more humble and helpful.",
+        "ur": "علم ہمیں زیادہ عاجز اور مفید بناتا ہے۔",
+        "ar": "العلم يجعلنا أكثر تواضعاً ونفعاً."
+      },
+      "answer": true
+    },
+    {
+      "id": 12,
+      "statement": {
+        "en": "We only need to be kind to people we know.",
+        "ur": "ہمیں صرف جاننے والوں سے مہربانی کرنی چاہیے۔",
+        "ar": "يجب أن نكون لطفاء مع من نعرفهم فقط."
+      },
+      "answer": false
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "aamal_eid_ghadir",
+  "title": "Aamal of Eid al-Ghadir",
+  "titleUr": "عید غدیر کے اعمال",
+  "titleAr": "أعمال عيد الغدير",
+  "category": "Special Days",
+  "categoryUr": "خاص دن",
+  "categoryAr": "أيام خاصة",
+  "description": "Rituals for the greatest Eid (Eid al-Akbar), celebrating the appointment of Imam Ali (AS).",
+  "descriptionUr": "عید غدیر (سب سے بڑی عید) کی رسومات، امام علی (ع) کی ولایت کا جشن۔",
+  "descriptionAr": "أعمال عيد الله الأكبر عيد الغدير الأغر، يوم تنصيب أمير المؤمنين (ع).",
+  "relevance": "18th of Dhu al-Hijjah",
+  "relevanceUr": "18 ذوالحجہ",
+  "relevanceAr": "18 ذي الحجة",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Fasting",
+      "titleUr": "روزہ رکھنا",
+      "titleAr": "الصيام",
+      "description": "Fasting on this day is equivalent to fasting for the entire lifespan of the world.",
+      "descriptionUr": "اس دن روزہ رکھنا دنیا کی پوری زندگی کے روزوں کے برابر ہے۔",
+      "descriptionAr": "صيام هذا اليوم يعدل صيام عمر الدنيا، ويعدل مائة حجة ومائة عمرة مبرورات متقبلات."
+    },
+    {
+      "actNumber": 2,
+      "title": "Ghusl",
+      "titleUr": "غسل",
+      "titleAr": "الغسل",
+      "description": "Perform Ghusl, preferably before noon.",
+      "descriptionUr": "غسل کریں، بہتر ہے کہ دوپہر سے پہلے کیا جائے۔",
+      "descriptionAr": "الغسل، والأفضل أن يكون قبيل الزوال."
+    },
+    {
+      "actNumber": 3,
+      "title": "Ziyarat of Aminullah",
+      "titleUr": "زیارت امین اللہ",
+      "titleAr": "زيارة أمين الله",
+      "description": "Recite the Ziyarat of Aminullah for Imam Ali (AS).",
+      "descriptionUr": "امام علی (ع) کے لیے زیارت امین اللہ پڑھیں۔",
+      "descriptionAr": "زيارة أمير المؤمنين (ع) بزيارة أمين الله."
+    },
+    {
+      "actNumber": 4,
+      "title": "Saying Congratulations",
+      "titleUr": "مبارکباد دینا",
+      "titleAr": "التهنئة",
+      "description": "Congratulate believers when you meet them.",
+      "descriptionUr": "مومنین سے ملاقات کے وقت انہیں مبارکباد دیں۔",
+      "descriptionAr": "تهنئة المؤمنين عند اللقاء.",
+      "arabicRecitation": "الْحَمْدُ لِلّٰهِ الَّذِي جَعَلَنَا مِنَ الْمُتَمَسِّكِينَ بِوِلَايَةِ أَمِيرِ الْمُؤْمِنِينَ وَالْأَئِمَّةِ عَلَيْهِمُ السَّلَامُ",
+      "translation": "Praise be to Allah, who has made us among those who hold fast to the Wilayah of the Commander of the Faithful and the Imams, peace be upon them.",
+      "urduTranslation": "تمام تعریفیں اللہ کے لیے ہیں جس نے ہمیں امیر المومنین اور آئمہ (علیہم السلام) کی ولایت سے تمسک کرنے والوں میں سے قرار دیا۔",
+      "transliteration": "Alhamdu lillahil-ladhi ja'alana minal-mutamassikina bi-wilayati Amiril-mu'minina wal-a'immah 'alayhimus-salam."
+    }
+  ]
+}

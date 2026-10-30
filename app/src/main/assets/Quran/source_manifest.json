@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "generatedOn": "2026-10-27",
+  "verseCount": 6236,
+  "surahCount": 114,
+  "datasetSha256": "6550a11b81065364eb79a1e34cf432990931e145faf3d213ffe7d1ae66ed184f",
+  "arabic": {
+    "id": "quran-simple",
+    "edition": "Tanzil Simple",
+    "version": "1.1",
+    "sourceUrl": "https://tanzil.net/download/",
+    "mirrorUrl": "https://github.com/szaidi-code/quran-shia-mcp/blob/main/data/tanzil/quran-simple.sql",
+    "mirrorCommit": "a47ac55497f5c4eea0586ce33bd15d7df989ca8e",
+    "sourceSha256": "315290a5f3e161bd5e34e211b7659dcee3fe5a2ae86d90a4ee22f78425217816"
+  },
+  "translations": [
+    {
+      "id": "en.qarai",
+      "language": "English",
+      "translator": "Ali Quli Qarai",
+      "sourceUrl": "https://tanzil.net/trans/en.qarai",
+      "mirrorUrl": "https://github.com/Damarcreative/QuranAPI",
+      "mirrorCommit": "7399e3f0e1a9d2f33e3129818c2f922e9d6f0cbc",
+      "crossCheckedAgainst": "https://github.com/ajipaon/static-moslem/tree/master/quran/surah/en.qarai",
+      "crossSourceMismatches": 0
+    },
+    {
+      "id": "ur.jawadi",
+      "language": "Urdu",
+      "translator": "Syed Zeeshan Haider Jawadi",
+      "sourceUrl": "https://tanzil.net/trans/ur.jawadi",
+      "mirrorUrl": "https://github.com/szaidi-code/quran-shia-mcp/blob/main/data/tanzil/ur.jawadi.txt",
+      "mirrorCommit": "a47ac55497f5c4eea0586ce33bd15d7df989ca8e",
+      "sourceSha256": "42031b8fa0c07f8323c4c524db0f70856436ffbb13776bb05831edcbe3102149"
+    }
+  ],
+  "surahMetadata": {
+    "sourceUrl": "https://github.com/Damarcreative/QuranAPI/blob/main/surah-info.json",
+    "sourceSha256": "2da27eae57b01f7cd25b2e29ad69d83e96f325de9b9e90cc8a70bc284d2763fa"
+  }
+}

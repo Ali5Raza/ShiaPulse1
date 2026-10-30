@@ -1,0 +1,48 @@
+{
+  "id": "aamal_shaban",
+  "title": "Aamal of Sha'ban",
+  "titleUr": "ماہ شعبان کے اعمال",
+  "titleAr": "أعمال شهر شعبان",
+  "category": "Monthly",
+  "categoryUr": "ماہانہ",
+  "categoryAr": "شهري",
+  "description": "General recommended acts for the month of Sha'ban.",
+  "descriptionUr": "ماہ شعبان کے لیے عمومی مستحب اعمال۔",
+  "descriptionAr": "الأعمال العامة المستحبة في شهر شعبان.",
+  "relevance": "Month of Sha'ban",
+  "relevanceUr": "ماہ شعبان",
+  "relevanceAr": "شهر شعبان",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Salawat",
+      "titleUr": "صلوات",
+      "titleAr": "الصلوات",
+      "description": "Reciting Salawat is the best deed in this month.",
+      "descriptionUr": "اس مہینے میں صلوات پڑھنا بہترین عمل ہے۔",
+      "descriptionAr": "أفضل الأعمال في هذا الشهر الإكثار من الصلاة على محمد وآل محمد."
+    },
+    {
+      "actNumber": 2,
+      "title": "Daily Istighfar",
+      "titleUr": "روزانہ استغفار",
+      "titleAr": "الاستغفار اليومي",
+      "description": "Say 70 times daily: 'Astaghfirullahal-ladhi la ilaha illa huwar-Rahmanur-Rahim...'",
+      "descriptionUr": "روزانہ 70 مرتبہ کہیں: 'استغفراللہ الذی لا الہ الا ھو الرحمن الرحیم...'",
+      "descriptionAr": "أن يقول في كل يوم سبعين مرة: أستغفر الله الذي لا إله إلا هو الرحمن الرحيم الحي القيوم وأتوب إليه.",
+      "arabicRecitation": "أَسْتَغْفِرُ اللّٰهَ الَّذِي لَا إِلٰهَ إِلَّا هُوَ الرَّحْمٰنُ الرَّحِيمُ الْحَيُّ الْقَيُّومُ وَأَتُوبُ إِلَيْهِ",
+      "translation": "I seek forgiveness of Allah, there is no god but He, the Beneficent, the Merciful, the Ever-Living, the Self-Subsisting, and I turn to Him in repentance.",
+      "urduTranslation": "میں اللہ سے بخشش مانگتا ہوں جس کے سوا کوئی معبود نہیں، جو رحمن، رحیم، ہمیشہ زندہ اور قائم رہنے والا ہے اور اسی کی طرف توبہ کرتا ہوں۔",
+      "transliteration": "Astaghfirullahal-ladhi la ilaha illa huwar-Rahmanur-Rahimul-Hayyul-Qayyum wa atubu ilayh."
+    },
+    {
+      "actNumber": 3,
+      "title": "Salawat of Sha'ban (Shabaniyah)",
+      "titleUr": "صلوات شعبانیہ",
+      "titleAr": "الصلوات الشعبانية",
+      "description": "Recite the special Salawat taught by Imam Sajjad (AS) every day at noon.",
+      "descriptionUr": "ہر روز دوپہر کے وقت امام سجاد (ع) کی سکھائی ہوئی مخصوص صلوات پڑھیں۔",
+      "descriptionAr": "قراءة الصلوات الشعبانية المروية عن الإمام السجاد (ع) عند زوال كل يوم."
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "version": 1,
+  "surahs": [
+    {
+      "number": 1,
+      "name": "Al-Fatihah",
+      "nameAr": "الفاتحة",
+      "revelationType": "Meccan",
+      "verseCount": 7
+    },
+    {
+      "number": 2,
+      "name": "Al-Baqarah",
+      "nameAr": "البقرة",
+      "revelationType": "Medinan",
+      "verseCount": 286
+    },
+    {
+      "number": 3,
+      "name": "Ali 'Imran",
+      "nameAr": "آل عمران",
+      "revelationType": "Medinan",
+      "verseCount": 200
+    },
+    {
+      "number": 4,
+      "name": "An-Nisa'",
+      "nameAr": "النساء",
+      "revelationType": "Medinan",
+      "verseCount": 176
+    },
+    {
+      "number": 5,
+      "name": "Al-Ma'idah",
+      "nameAr": "المائدة",
+      "revelationType": "Medinan",
+      "verseCount": 120
+    },
+    {
+      "number": 6,
+      "name": "Al-An'am",
+      "nameAr": "الأنعام",
+      "revelationType": "Meccan",
+      "verseCount": 165
+    },
+    {
+      "number": 7,
+      "name": "Al-A'raf",
+      "nameAr": "الأعراف",
+      "revelationType": "Meccan",
+      "verseCount": 206
+    },
+    {
+      "number": 8,
+      "name": "Al-Anfal",
+      "nameAr": "الأنفال",
+      "revelationType": "Medinan",
+      "verseCount": 75
+    },
+    {
+      "number": 9,
+      "name": "At-Taubah",
+      "nameAr": "التوبة",
+      "revelationType": "Medinan",
+      "verseCount": 129
+    },
+    {
+      "number": 10,
+      "name": "Yunus",
+      "nameAr": "يونس",
+      "revelationType": "Meccan",
+      "verseCount": 109
+    },
+    {
+      "number": 11,
+      "name": "Hud",
+      "nameAr": "هود",
+      "revelationType": "Meccan",
+      "verseCount": 123
+    },
+    {
+      "number": 12,
+      "name": "Yusuf",
+      "nameAr": "يوسف",
+      "revelationType": "Meccan",
+      "verseCount": 111
+    },
+    {
+      "number": 13,
+      "name": "Ar-Ra'd",
+      "nameAr": "الرعد",
+      "revelationType": "Medinan",
+      "verseCount": 43
+    },
+    {
+      "number": 14,
+      "name": "Ibrahim",
+      "nameAr": "إبراهيم",
+      "revelationType": "Meccan",
+      "verseCount": 52
+    },
+    {
+      "number": 15,
+      "name": "Al-Hijr",
+      "nameAr": "الحجر",
+      "revelationType": "Meccan",
+      "verseCount": 99
+    },
+    {
+      "number": 16,
+      "name": "An-Nahl",
+      "nameAr": "النحل",
+      "revelationType": "Meccan",
+      "verseCount": 128
+    },
+    {
+      "number": 17,
+      "name": "Al-Isra'",
+      "nameAr": "الإسراء",
+      "revelationType": "Meccan",
+      "verseCount": 111
+    },
+    {
+      "number": 18,
+      "name": "Al-Kahf",
+      "nameAr": "الكهف",
+      "revelationType": "Meccan",
+      "verseCount": 110
+    },
+    {
+      "number": 19,
+      "name": "Maryam",
+      "nameAr": "مريم",
+      "revelationType": "Meccan",
+      "verseCount": 98
+    },
+    {
+      "number": 20,
+      "name": "Ta-Ha",
+      "nameAr": "طه",
+      "revelationType": "Meccan",
+      "verseCount": 135
+    },
+    {
+      "number": 21,
+      "name": "Al-Anbiya'",
+      "nameAr": "الأنبياء",
+      "revelationType": "Meccan",
+      "verseCount": 112
+    },
+    {
+      "number": 22,
+      "name": "Al-Hajj",
+      "nameAr": "الحج",
+      "revelationType": "Medinan",
+      "verseCount": 78
+    },
+    {
+      "number": 23,
+      "name": "Al-Mu'minun",
+      "nameAr": "المؤمنون",
+      "revelationType": "Meccan",
+      "verseCount": 118
+    },
+    {
+      "number": 24,
+      "name": "An-Nur",
+      "nameAr": "النور",
+      "revelationType": "Medinan",
+      "verseCount": 64
+    },
+    {
+      "number": 25,
+      "name": "Al-Furqan",
+      "nameAr": "الفرقان",
+      "revelationType": "Meccan",
+      "verseCount": 77
+    },
+    {
+      "number": 26,
+      "name": "Asy-Syu'ara'",
+      "nameAr": "الشعراء",
+      "revelationType": "Meccan",
+      "verseCount": 227
+    },
+    {
+      "number": 27,
+      "name": "An-Naml",
+      "nameAr": "النمل",
+      "revelationType": "Meccan",
+      "verseCount": 93
+    },
+    {
+      "number": 28,
+      "name": "Al-Qasas",
+      "nameAr": "القصص",
+      "revelationType": "Meccan",
+      "verseCount": 88
+    },
+    {
+      "number": 29,
+      "name": "Al-'Ankabut",
+      "nameAr": "العنكبوت",
+      "revelationType": "Meccan",
+      "verseCount": 69
+    },
+    {
+      "number": 30,
+      "name": "Ar-Rum",
+      "nameAr": "الروم",
+      "revelationType": "Meccan",
+      "verseCount": 60
+    },
+    {
+      "number": 31,
+      "name": "Luqman",
+      "nameAr": "لقمان",
+      "revelationType": "Meccan",
+      "verseCount": 34
+    },
+    {
+      "number": 32,
+      "name": "As-Sajdah",
+      "nameAr": "السجدة",
+      "revelationType": "Meccan",
+      "verseCount": 30
+    },
+    {
+      "number": 33,
+      "name": "Al-Ahzab",
+      "nameAr": "الأحزاب",
+      "revelationType": "Medinan",
+      "verseCount": 73
+    },
+    {
+      "number": 34,
+      "name": "Saba'",
+      "nameAr": "سبأ",
+      "revelationType": "Meccan",
+      "verseCount": 54
+    },
+    {
+      "number": 35,
+      "name": "Fatir",
+      "nameAr": "فاطر",
+      "revelationType": "Meccan",
+      "verseCount": 45
+    },
+    {
+      "number": 36,
+      "name": "Ya Sin",
+      "nameAr": "يس",
+      "revelationType": "Meccan",
+      "verseCount": 83
+    },
+    {
+      "number": 37,
+      "name": "As-Saffat",
+      "nameAr": "الصافات",
+      "revelationType": "Meccan",
+      "verseCount": 182
+    },
+    {
+      "number": 38,
+      "name": "Sad",
+      "nameAr": "ص",
+      "revelationType": "Meccan",
+      "verseCount": 88
+    },
+    {
+      "number": 39,
+      "name": "Az-Zumar",
+      "nameAr": "الزمر",
+      "revelationType": "Meccan",
+      "verseCount": 75
+    },
+    {
+      "number": 40,
+      "name": "Ghafir",
+      "nameAr": "غافر",
+      "revelationType": "Meccan",
+      "verseCount": 85
+    },
+    {
+      "number": 41,
+      "name": "Fussilat",
+      "nameAr": "فصلت",
+      "revelationType": "Meccan",
+      "verseCount": 54
+    },
+    {
+      "number": 42,
+      "name": "Asy-Syura",
+      "nameAr": "الشورى",
+      "revelationType": "Meccan",
+      "verseCount": 53
+    },
+    {
+      "number": 43,
+      "name": "Az-Zukhruf",
+      "nameAr": "الزخرف",
+      "revelationType": "Meccan",
+      "verseCount": 89
+    },
+    {
+      "number": 44,
+      "name": "Ad-Dukhan",
+      "nameAr": "الدخان",
+      "revelationType": "Meccan",
+      "verseCount": 59
+    },
+    {
+      "number": 45,
+      "name": "Al-Jasiyah",
+      "nameAr": "الجاثية",
+      "revelationType": "Meccan",
+      "verseCount": 37
+    },
+    {
+      "number": 46,
+      "name": "Al-Ahqaf",
+      "nameAr": "الأحقاف",
+      "revelationType": "Meccan",
+      "verseCount": 35
+    },
+    {
+      "number": 47,
+      "name": "Muhammad",
+      "nameAr": "محمد",
+      "revelationType": "Medinan",
+      "verseCount": 38
+    },
+    {
+      "number": 48,
+      "name": "Al-Fath",
+      "nameAr": "الفتح",
+      "revelationType": "Medinan",
+      "verseCount": 29
+    },
+    {
+      "number": 49,
+      "name": "Al-Hujurat",
+      "nameAr": "الحجرات",
+      "revelationType": "Medinan",
+      "verseCount": 18
+    },
+    {
+      "number": 50,
+      "name": "Qaf",
+      "nameAr": "ق",
+      "revelationType": "Meccan",
+      "verseCount": 45
+    },
+    {
+      "number": 51,
+      "name": "Az-Zariyat",
+      "nameAr": "الذاريات",
+      "revelationType": "Meccan",
+      "verseCount": 60
+    },
+    {
+      "number": 52,
+      "name": "At-Tur",
+      "nameAr": "الطور",
+      "revelationType": "Meccan",
+      "verseCount": 49
+    },
+    {
+      "number": 53,
+      "name": "An-Najm",
+      "nameAr": "النجم",
+      "revelationType": "Meccan",
+      "verseCount": 62
+    },
+    {
+      "number": 54,
+      "name": "Al-Qamar",
+      "nameAr": "القمر",
+      "revelationType": "Meccan",
+      "verseCount": 55
+    },
+    {
+      "number": 55,
+      "name": "Ar-Rahman",
+      "nameAr": "الرحمن",
+      "revelationType": "Medinan",
+      "verseCount": 78
+    },
+    {
+      "number": 56,
+      "name": "Al-Waqi'ah",
+      "nameAr": "الواقعة",
+      "revelationType": "Meccan",
+      "verseCount": 96
+    },
+    {
+      "number": 57,
+      "name": "Al-Hadid",
+      "nameAr": "الحديد",
+      "revelationType": "Medinan",
+      "verseCount": 29
+    },
+    {
+      "number": 58,
+      "name": "Al-Mujadilah",
+      "nameAr": "المجادلة",
+      "revelationType": "Medinan",
+      "verseCount": 22
+    },
+    {
+      "number": 59,
+      "name": "Al-Hasyr",
+      "nameAr": "الحشر",
+      "revelationType": "Medinan",
+      "verseCount": 24
+    },
+    {
+      "number": 60,
+      "name": "Al-Mumtahanah",
+      "nameAr": "الممتحنة",
+      "revelationType": "Medinan",
+      "verseCount": 13
+    },
+    {
+      "number": 61,
+      "name": "As-Saff",
+      "nameAr": "الصف",
+      "revelationType": "Medinan",
+      "verseCount": 14
+    },
+    {
+      "number": 62,
+      "name": "Al-Jumu'ah",
+      "nameAr": "الجمعة",
+      "revelationType": "Medinan",
+      "verseCount": 11
+    },
+    {
+      "number": 63,
+      "name": "Al-Munafiqun",
+      "nameAr": "المنافقون",
+      "revelationType": "Medinan",
+      "verseCount": 11
+    },
+    {
+      "number": 64,
+      "name": "At-Taghabun",
+      "nameAr": "التغابن",
+      "revelationType": "Medinan",
+      "verseCount": 18
+    },
+    {
+      "number": 65,
+      "name": "At-Talaq",
+      "nameAr": "الطلاق",
+      "revelationType": "Medinan",
+      "verseCount": 12
+    },
+    {
+      "number": 66,
+      "name": "At-Tahrim",
+      "nameAr": "التحريم",
+      "revelationType": "Medinan",
+      "verseCount": 12
+    },
+    {
+      "number": 67,
+      "name": "Al-Mulk",
+      "nameAr": "الملك",
+      "revelationType": "Meccan",
+      "verseCount": 30
+    },
+    {
+      "number": 68,
+      "name": "Al-Qalam",
+      "nameAr": "القلم",
+      "revelationType": "Meccan",
+      "verseCount": 52
+    },
+    {
+      "number": 69,
+      "name": "Al-Haqqah",
+      "nameAr": "الحاقة",
+      "revelationType": "Meccan",
+      "verseCount": 52
+    },
+    {
+      "number": 70,
+      "name": "Al-Ma'arij",
+      "nameAr": "المعارج",
+      "revelationType": "Meccan",
+      "verseCount": 44
+    },
+    {
+      "number": 71,
+      "name": "Nuh",
+      "nameAr": "نوح",
+      "revelationType": "Meccan",
+      "verseCount": 28
+    },
+    {
+      "number": 72,
+      "name": "Al-Jinn",
+      "nameAr": "الجن",
+      "revelationType": "Meccan",
+      "verseCount": 28
+    },
+    {
+      "number": 73,
+      "name": "Al-Muzzammil",
+      "nameAr": "المزمل",
+      "revelationType": "Meccan",
+      "verseCount": 20
+    },
+    {
+      "number": 74,
+      "name": "Al-Muddassir",
+      "nameAr": "المدثر",
+      "revelationType": "Meccan",
+      "verseCount": 56
+    },
+    {
+      "number": 75,
+      "name": "Al-Qiyamah",
+      "nameAr": "القيامة",
+      "revelationType": "Meccan",
+      "verseCount": 40
+    },
+    {
+      "number": 76,
+      "name": "Al-Insan",
+      "nameAr": "الإنسان",
+      "revelationType": "Medinan",
+      "verseCount": 31
+    },
+    {
+      "number": 77,
+      "name": "Al-Mursalat",
+      "nameAr": "المرسلات",
+      "revelationType": "Meccan",
+      "verseCount": 50
+    },
+    {
+      "number": 78,
+      "name": "An-Naba'",
+      "nameAr": "النبأ",
+      "revelationType": "Meccan",
+      "verseCount": 40
+    },
+    {
+      "number": 79,
+      "name": "An-Nazi'at",
+      "nameAr": "النازعات",
+      "revelationType": "Meccan",
+      "verseCount": 46
+    },
+    {
+      "number": 80,
+      "name": "'Abasa",
+      "nameAr": "عبس",
+      "revelationType": "Meccan",
+      "verseCount": 42
+    },
+    {
+      "number": 81,
+      "name": "At-Takwir",
+      "nameAr": "التكوير",
+      "revelationType": "Meccan",
+      "verseCount": 29
+    },
+    {
+      "number": 82,
+      "name": "Al-Infitar",
+      "nameAr": "الإنفطار",
+      "revelationType": "Meccan",
+      "verseCount": 19
+    },
+    {
+      "number": 83,
+      "name": "Al-Mutaffifin",
+      "nameAr": "المطففين",
+      "revelationType": "Meccan",
+      "verseCount": 36
+    },
+    {
+      "number": 84,
+      "name": "Al-Insyiqaq",
+      "nameAr": "الإنشقاق",
+      "revelationType": "Meccan",
+      "verseCount": 25
+    },
+    {
+      "number": 85,
+      "name": "Al-Buruj",
+      "nameAr": "البروج",
+      "revelationType": "Meccan",
+      "verseCount": 22
+    },
+    {
+      "number": 86,
+      "name": "At-Tariq",
+      "nameAr": "الطارق",
+      "revelationType": "Meccan",
+      "verseCount": 17
+    },
+    {
+      "number": 87,
+      "name": "Al-A'la",
+      "nameAr": "الأعلى",
+      "revelationType": "Meccan",
+      "verseCount": 19
+    },
+    {
+      "number": 88,
+      "name": "Al-Ghasyiyah",
+      "nameAr": "الغاشية",
+      "revelationType": "Meccan",
+      "verseCount": 26
+    },
+    {
+      "number": 89,
+      "name": "Al-Fajr",
+      "nameAr": "الفجر",
+      "revelationType": "Meccan",
+      "verseCount": 30
+    },
+    {
+      "number": 90,
+      "name": "Al-Balad",
+      "nameAr": "البلد",
+      "revelationType": "Meccan",
+      "verseCount": 20
+    },
+    {
+      "number": 91,
+      "name": "Asy-Syams",
+      "nameAr": "الشمس",
+      "revelationType": "Meccan",
+      "verseCount": 15
+    },
+    {
+      "number": 92,
+      "name": "Al-Lail",
+      "nameAr": "الليل",
+      "revelationType": "Meccan",
+      "verseCount": 21
+    },
+    {
+      "number": 93,
+      "name": "Ad-Duha",
+      "nameAr": "الضحى",
+      "revelationType": "Meccan",
+      "verseCount": 11
+    },
+    {
+      "number": 94,
+      "name": "Asy-Syarh",
+      "nameAr": "الشرح",
+      "revelationType": "Meccan",
+      "verseCount": 8
+    },
+    {
+      "number": 95,
+      "name": "At-Tin",
+      "nameAr": "التين",
+      "revelationType": "Meccan",
+      "verseCount": 8
+    },
+    {
+      "number": 96,
+      "name": "Al-'Alaq",
+      "nameAr": "العلق",
+      "revelationType": "Meccan",
+      "verseCount": 19
+    },
+    {
+      "number": 97,
+      "name": "Al-Qadr",
+      "nameAr": "القدر",
+      "revelationType": "Meccan",
+      "verseCount": 5
+    },
+    {
+      "number": 98,
+      "name": "Al-Bayyinah",
+      "nameAr": "البينة",
+      "revelationType": "Medinan",
+      "verseCount": 8
+    },
+    {
+      "number": 99,
+      "name": "Az-Zalzalah",
+      "nameAr": "الزلزلة",
+      "revelationType": "Medinan",
+      "verseCount": 8
+    },
+    {
+      "number": 100,
+      "name": "Al-'Adiyat",
+      "nameAr": "العاديات",
+      "revelationType": "Meccan",
+      "verseCount": 11
+    },
+    {
+      "number": 101,
+      "name": "Al-Qari'ah",
+      "nameAr": "القارعة",
+      "revelationType": "Meccan",
+      "verseCount": 11
+    },
+    {
+      "number": 102,
+      "name": "At-Takasur",
+      "nameAr": "التكاثر",
+      "revelationType": "Meccan",
+      "verseCount": 8
+    },
+    {
+      "number": 103,
+      "name": "Al-'Asr",
+      "nameAr": "العصر",
+      "revelationType": "Meccan",
+      "verseCount": 3
+    },
+    {
+      "number": 104,
+      "name": "Al-Humazah",
+      "nameAr": "الهمزة",
+      "revelationType": "Meccan",
+      "verseCount": 9
+    },
+    {
+      "number": 105,
+      "name": "Al-Fil",
+      "nameAr": "الفيل",
+      "revelationType": "Meccan",
+      "verseCount": 5
+    },
+    {
+      "number": 106,
+      "name": "Quraisy",
+      "nameAr": "قريش",
+      "revelationType": "Meccan",
+      "verseCount": 4
+    },
+    {
+      "number": 107,
+      "name": "Al-Ma'un",
+      "nameAr": "الماعون",
+      "revelationType": "Meccan",
+      "verseCount": 7
+    },
+    {
+      "number": 108,
+      "name": "Al-Kausar",
+      "nameAr": "الكوثر",
+      "revelationType": "Meccan",
+      "verseCount": 3
+    },
+    {
+      "number": 109,
+      "name": "Al-Kafirun",
+      "nameAr": "الكافرون",
+      "revelationType": "Meccan",
+      "verseCount": 6
+    },
+    {
+      "number": 110,
+      "name": "An-Nasr",
+      "nameAr": "النصر",
+      "revelationType": "Medinan",
+      "verseCount": 3
+    },
+    {
+      "number": 111,
+      "name": "Al-Lahab",
+      "nameAr": "المسد",
+      "revelationType": "Meccan",
+      "verseCount": 5
+    },
+    {
+      "number": 112,
+      "name": "Al-Ikhlas",
+      "nameAr": "الإخلاص",
+      "revelationType": "Meccan",
+      "verseCount": 4
+    },
+    {
+      "number": 113,
+      "name": "Al-Falaq",
+      "nameAr": "الفلق",
+      "revelationType": "Meccan",
+      "verseCount": 5
+    },
+    {
+      "number": 114,
+      "name": "An-Nas",
+      "nameAr": "الناس",
+      "revelationType": "Meccan",
+      "verseCount": 6
+    }
+  ]
+}

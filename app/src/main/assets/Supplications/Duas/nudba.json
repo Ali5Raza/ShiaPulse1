@@ -1,0 +1,1572 @@
+{
+  "id": "nudba",
+  "title": "Dua Nudba",
+  "titleUr": "دعا ندبہ",
+  "titleAr": "دعاء الندبة",
+  "category": "Weekly Supplications",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "The Supplication of Lamentation, reciting the epic history of guides, prophets, and mourning the occultation of the Savior, Imam al-Mahdi (a.t.f.s.).",
+  "descriptionUr": "ماتم و ندبہ کی دعا، جس میں انبیاء اور ہدایت یافتہ پیشواؤں کا ذکر اور امام مہدی (عج) کی غیبت پر غم کا اظہار ہے۔",
+  "descriptionAr": "دعاء الندبة، يتضمن ذكر الأنبياء والأئمة الهداة والحزن على غيبة الإمام المهدي (عج).",
+  "relevance": "Recited on Friday mornings and major Eid days.",
+  "relevanceUr": "جمعہ کی صبح اور بڑی عیدوں کے دن پڑھی جاتی ہے۔",
+  "relevanceAr": "تُقرأ صباح الجمعة وفي أيام الأعياد الكبرى.",
+  "audioUrl": "https://mp3.duas.org/Imam%20Mehdi/Nudbe%20Mir%20Damad.mp3",
+  "lines": [
+    {
+      "arabic": "بِسْمِ اللهِ الرَّحْمنِ الرَّحيمِ",
+      "translation": "O Allah, I beseech Thee with Thy Name;",
+      "transliteration": "O Allah, I beseech Thee with Thy Name;",
+      "urduTranslation": "اے اللہ، میں تیرے نام کے واسطے سے تجھ سے التجا کرتا ہوں؛",
+      "farsiTranslation": "بسم الله الرحمن الرحیم"
+    },
+    {
+      "arabic": "اَلْحَمْدُ للهِ رَبِّ الْعالَمينَ",
+      "translation": "Praise be to Allah, the Lord of the worlds.",
+      "transliteration": "Al-hamdu lillahi rabbil-'alamin wa sallallahu 'ala sayyidina Muhammadin nabiyyihi wa alihi wa sallamal taslima",
+      "urduTranslation": "سب تعریفیں اللہ کے لیے ہیں جو کائنات کا پروردگار ہے اور درود و سلام ہو ہمارے آقا محمدؐ پر جو اس کے برگزیدہ پیغمبر ہیں اور ان کی آل پر!",
+      "farsiTranslation": "الحمدلله پروردگار جهانیان است"
+    },
+    {
+      "arabic": "وَ صَلَّى اللهُ عَلى سَيِّدِنا مُحَمَّدٍ",
+      "translation": "And blessings of Allah and peace be on our Chief Muhammad,",
+      "transliteration": "And blessings of Allah and peace be on our Chief Muhammad,",
+      "urduTranslation": "اور اللہ کی رحمتیں اور سلامتی ہو ہمارے سردار محمد پر،",
+      "farsiTranslation": "درود و رحمت خداوند بر مولای ما محمد"
+    },
+    {
+      "arabic": "نَبِيِّهِ وَ آلِهِ وَ سَلَّمَ تَسْليماً",
+      "translation": "His Prophet, and on his children.",
+      "transliteration": "His Prophet, and on his children.",
+      "urduTranslation": "اس کے نبی، اور ان کی آل پر۔",
+      "farsiTranslation": "پیامبرش و اهل بیتش و درود خدا بر او باد"
+    },
+    {
+      "arabic": "اَللّـهُمَّ لَكَ الْحَمْدُ عَلى ما جَرى بِهِ قَضاؤكَ في اَوْلِيائِكَ",
+      "translation": "O my Allah! (All) praise is for Thee for that which Thou decided upon and resolved in the matter of Thy friends,",
+      "transliteration": "O my Allah! (All) praise is for Thee for that which Thou decided upon and resolved in the matter of Thy friends,",
+      "urduTranslation": "اے میرے اللہ! (تمام) تعریفیں تیرے لیے ہیں اس پر جو تو نے اپنے دوستوں کے معاملے میں فیصلہ کیا اور طے کیا،",
+      "farsiTranslation": "خدایا، ستایش تو را به خاطر آنچه بر حکمت در مورد اولیای تو آمد."
+    },
+    {
+      "arabic": "الَّذينَ اسْتَخْلَصْتَهُمْ لِنَفْسِكَ وَ دينِكَ",
+      "translation": "whom Thou purified for Thyself and Thy religion.",
+      "transliteration": "Al-ladhinastakhlastahum linafsika wa dinika idh-ikhtarta lahum jazila ma 'indaka minan-na'imil-muqim",
+      "urduTranslation": "وہ جنہیں تو نے خالص کر دیا اپنی بارگاہ کے لیے اور اپنے سچے دین کے واسطے، جبکہ تو نے ان کے لیے ابدی اور لازوال نعمتوں کو چنا،",
+      "farsiTranslation": "کسانی که برای خود و دین خود برگزیده اید"
+    },
+    {
+      "arabic": "اِذِ اخْتَرْتَ لَهُمْ جَزيلَ ما عِنْدَكَ مِنَ النَّعيمِ الْمُقيمِ",
+      "translation": "When wisdom and high rank from Thee, prostrated themselves in adoration before them (from the Bountiful Preserving Lord),",
+      "transliteration": "When wisdom and high rank from Thee, prostrated themselves in adoration before them (from the Bountiful Preserving Lord),",
+      "urduTranslation": "جب تیری طرف سے حکمت اور بلند مقام نے ان کے سامنے تعظیم میں سجدہ کیا (اس پروردگار کی طرف سے جو فضل کرنے والا اور حفاظت کرنے والا ہے)،",
+      "farsiTranslation": "هنگامى كه براى آنان آنچه را كه نزد تو از سعادت پايدار فراوان است برگزيدى."
+    },
+    {
+      "arabic": "الَّذي لا زَوالَ لَهُ وَ لاَ اضْمِحْلالَ",
+      "translation": "for whom neither there was any decreased, nor dispersion thereafter,",
+      "transliteration": "for whom neither there was any decreased, nor dispersion thereafter,",
+      "urduTranslation": "وہ ذات جس کے لیے نہ کوئی زوال ہے اور نہ ہی کوئی فنا،",
+      "farsiTranslation": "کسي که غايب و مفقودي ندارد"
+    },
+    {
+      "arabic": "بَعْدَ اَنْ شَرَطْتَ عَلَيْهِمُ الزُّهْدَ في دَرَجاتِ هذِهِ الدُّنْيَا الدَّنِيَّةِ",
+      "translation": "then Thou stipulated for them piety and righteousness. While they were in this mean and crooked world,",
+      "transliteration": "then Thou stipulated for them piety and righteousness. While they were in this mean and crooked world,",
+      "urduTranslation": "اس وقت جبکہ آپ نے ان پر اس ذلیل و پست دنیا کی نعمتوں اور اس کی سجاوٹ و آرائش سے کنارہ کشی کی شرط رکھی تھی،",
+      "farsiTranslation": "پس از آن که آنان را وادار کردی که از درجات دنیا پرهیز کنند،"
+    },
+    {
+      "arabic": "وَ زُخْرُفِها وَ زِبْرِجِها",
+      "translation": "free from its pomp, vanity and false enjoyments,",
+      "transliteration": "free from its pomp, vanity and false enjoyments,",
+      "urduTranslation": "اس کی ظاہری چمک دمک اور مصنوعی زیب و زینت سے دور رہنے کی،",
+      "farsiTranslation": "و زینت و درخشندگی آن"
+    },
+    {
+      "arabic": "فَشَرَطُوا لَكَ ذلِكَ وَ عَلِمْتَ مِنْهُمُ الْوَفاءَ بِهِ فَقَبِلْتَهُمْ وَ قَرَّبْتَهُمْ",
+      "translation": "Thy overreaching authority made known their identity; and equipped them with sincerity and perfection stood surety for them and communicated intimately with them,",
+      "transliteration": "Thy overreaching authority made known their identity; and equipped them with sincerity and perfection stood surety for them and communicated intimately with them,",
+      "urduTranslation": "پس انہوں نے اس شرط کو قبول کیا، اور آپ نے ان میں وفا کا جذبہ دیکھ لیا، تو آپ نے انہیں قبول فرمایا اور اپنا قرب عطا کیا،",
+      "farsiTranslation": "آنها این شرط را برای تو گذاشتند و تو از آنها آموختی که به آن عمل خواهی کرد، پس آنها را پذیرفتی و به آنها نزدیک شدی."
+    },
+    {
+      "arabic": "وَ قَدَّمْتَ لَهُمُ الذِّكْرَ الْعَلِيَّ وَ الثَّناءَ الْجَلِىَّ",
+      "translation": "sent the news of their auspicious arrival in advance, and praised them",
+      "transliteration": "sent the news of their auspicious arrival in advance, and praised them",
+      "urduTranslation": "آپ نے ان کا ذکر بلند فرمایا اور ان کی واضح تعریف کی،",
+      "farsiTranslation": "و آنها را یاد و ستایش آشکار کردی."
+    },
+    {
+      "arabic": "وَ اَهْبَطْتَ عَلَيْهِمْ مَلائِكَتَكَ وَ كَرَّمْتَهُمْ بِوَحْيِكَ",
+      "translation": "clear terms for the benefit of one and all. Fell down on the ground in prostration Thy Angels before them, Thou chose them to reveal Thy Words,",
+      "transliteration": "clear terms for the benefit of one and all. Fell down on the ground in prostration Thy Angels before them, Thou chose them to reveal Thy Words,",
+      "urduTranslation": "آپ نے اپنے فرشتے ان کی طرف اتارے اور اپنی وحی کے ذریعے ان کی تکریم فرمائی،",
+      "farsiTranslation": "و فرشتگانت را بر آنان نازل کردی و به وحی خود آنان را گرامی داشتی."
+    },
+    {
+      "arabic": "وَ رَفَدْتَهُمْ بِعِلْمِكَ",
+      "translation": "gave them Thy wisdom as a gift,",
+      "transliteration": "gave them Thy wisdom as a gift,",
+      "urduTranslation": "اپنے علم کے ذریعے ان کی امداد فرمائی،",
+      "farsiTranslation": "و آنها را با دانش خود غنی کردی"
+    },
+    {
+      "arabic": "وَ جَعَلْتَهُمُ الذَّريعَةَ اِلَيْكَ وَ الْوَسيلَةَ اِلى رِضْوانِكَ",
+      "translation": "set them up as the (only) medium to reach Thee, the only means to the eternal land of peace and happiness.",
+      "transliteration": "set them up as the (only) medium to reach Thee, the only means to the eternal land of peace and happiness.",
+      "urduTranslation": "اور انہیں اپنی طرف پہنچنے کا ذریعہ اور اپنی رضا تک رسائی کا وسیلہ قرار دیا،",
+      "farsiTranslation": "و آنها را دستاویز خود و وسیله ای برای رضایت خود قرار دادی."
+    },
+    {
+      "arabic": "فَبَعْضٌ اَسْكَنْتَهُ جَنَّتَكَ اِلى اَنْ اَخْرَجْتَهُ مِنْها",
+      "translation": "One dwelled in Paradise until Thou sent him on (as the first Prophet).",
+      "transliteration": "One dwelled in Paradise until Thou sent him on (as the first Prophet).",
+      "urduTranslation": "ایک نے جنت میں قیام کیا یہاں تک کہ تو نے اسے (پہلے نبی کے طور پر) بھیج دیا۔",
+      "farsiTranslation": "برخی را در بهشت ​​خود قرار دادی تا اینکه آنها را از بهشت ​​بیرون آوردی."
+    },
+    {
+      "arabic": "وَ بَعْضٌ حَمَلْتَهُ في فُلْكِكَ وَ نَجَّيْتَهُ وَ مَنْ آمَنَ مَعَهُ مِنَ الْهَلَكَةِ بِرَحْمَتِكَ",
+      "translation": "One was made to cruise the \"Ark\", and had been rescued, and kept safe from destruction through Thy mercy.",
+      "transliteration": "One was made to cruise the \"Ark\", and had been rescued, and kept safe from destruction through Thy mercy.",
+      "urduTranslation": "چنانچہ بعض کو آپ نے اپنی کشتی میں سوار کیا، اور انہیں اور ان کے ساتھ ایمان لانے والوں کو اپنی رحمت سے ہلاکت سے نجات دی،",
+      "farsiTranslation": "و برخی را در کشتی خود حمل کردی و به رحمت خود او و هر که را با او ایمان آورد از هلاکت نجات دادی."
+    },
+    {
+      "arabic": "وَ بَعْضٌ اتَّخَذْتَهُ لِنَفْسِكَ خَليلاً وَ سَأَلَكَ لِسانَ صِدْقٍ",
+      "translation": "One was chosen and prepared for Thy Mission, as (Thy) Friend, (who) made a request to Thee for a good report",
+      "transliteration": "One was chosen and prepared for Thy Mission, as (Thy) Friend, (who) made a request to Thee for a good report",
+      "urduTranslation": "اور بعض کو آپ نے اپنے لیے خلیل بنایا، اور انہوں نے آپ سے اپنے بعد آنے والوں میں نیک نامی مانگی،",
+      "farsiTranslation": "و بعضی را برای خود دوست گرفتی و او با زبانی خالص از تو خواست."
+    },
+    {
+      "arabic": "فِي الاْخِرينَ فَاَجَبْتَهُ وَ جَعَلْتَ ذلِكَ عَلِيّاً",
+      "translation": "(his) later generations, so Thou approved and complied with, exalted them and gave them authority.",
+      "transliteration": "(his) later generations, so Thou approved and complied with, exalted them and gave them authority.",
+      "urduTranslation": "تو آپ نے ان کی دعا قبول فرمائی اور ان کے ذکر کو بلند کر دیا،",
+      "farsiTranslation": "در برخی دیگر به او پاسخ دادی و آن را بالا بردی."
+    },
+    {
+      "arabic": "وَ بَعْضٌ كَلَّمْتَهُ مِنْ شَجَـرَةٍ تَكْليماً",
+      "translation": "One was spoken directly through the Tree,",
+      "transliteration": "One was spoken directly through the Tree,",
+      "urduTranslation": "اور بعض سے آپ نے درخت کے پیچھے سے کلام کیا،",
+      "farsiTranslation": "و برخی از آن را از درختی به عنوان سخنرانی با آنها صحبت کردم."
+    },
+    {
+      "arabic": "وَ جَعَلْتَ لَهُ مِنْ اَخيهِ رِدْءاً وَ وَزيراً",
+      "translation": "his brother was appointed his successor and helper.",
+      "transliteration": "his brother was appointed his successor and helper.",
+      "urduTranslation": "اور ان کے بھائی کو ان کا مددگار اور وزیر مقرر کیا،",
+      "farsiTranslation": "و برادرش را برای او سرپرست و وزیر قرار دادی."
+    },
+    {
+      "arabic": "وَ بَعْضٌ اَوْلَدْتَهُ مِنْ غَيْرِ اَبٍ",
+      "translation": "One was brought in without a father,",
+      "transliteration": "One was brought in without a father,",
+      "urduTranslation": "اور بعض کو آپ نے بغیر باپ کے پیدا کیا،",
+      "farsiTranslation": "و برخی را بدون پدر به دنیا آورد."
+    },
+    {
+      "arabic": "وَ آتَيْتَهُ الْبَيِّناتِ وَ اَيَّدْتَهُ بِرُوحِ الْقُدُسِ",
+      "translation": "was given clear proofs, and was supported with the Holy Spirit.",
+      "transliteration": "was given clear proofs, and was supported with the Holy Spirit.",
+      "urduTranslation": "اور انہیں واضح نشانیاں عطا کیں اور روح القدس کے ذریعے ان کی تائید فرمائی،",
+      "farsiTranslation": "و به او دلائل روشن دادی و با روح القدس از او حمایت کردی"
+    },
+    {
+      "arabic": "وَ كُلٌّ شَرَعْتَ لَهُ شَريعَةً",
+      "translation": "For each Thou prescribed a Divine law,",
+      "transliteration": "For each Thou prescribed a Divine law,",
+      "urduTranslation": "اور ہر ایک کے لیے آپ نے ایک شریعت مقرر کی،",
+      "farsiTranslation": "و برای هر یک از آنها قانونی مقرر کرده اید"
+    },
+    {
+      "arabic": "وَ نَهَجْتَ لَهُ مِنْهاجاً ، وَ تَخَيَّرْتَ لَهُ اَوْصِياءَ",
+      "translation": "and set up a traced out path, each was appointed a guardian-executor,",
+      "transliteration": "and set up a traced out path, each was appointed a guardian-executor,",
+      "urduTranslation": "اور ان کے لیے ایک راستہ متعین کیا، اور ان کے لیے ایسے جانشین چنے،",
+      "farsiTranslation": "راهی برای او پیش گرفتی و برای او سرپرستی انتخاب کردی."
+    },
+    {
+      "arabic": "مُسْتَحْفِظاً بَعْدَ مُسْتَحْفِظٍ مِنْ مُدَّةٍ اِلى مُدَّةٍ",
+      "translation": "(and each) fulfilled the duty after being kept safe and protected,",
+      "transliteration": "(and each) fulfilled the duty after being kept safe and protected,",
+      "urduTranslation": "جو ایک مدت کے بعد دوسری مدت تک دین کے محافظ رہے،",
+      "farsiTranslation": "گاه به گاه حفظ می شود"
+    },
+    {
+      "arabic": "اِقامَةً لِدينِكَ ، وَ حُجَّةً عَلى عِبادِكَ",
+      "translation": "in the term of establishing Thy religion, a witness and argument over Thy servants (mankind),",
+      "transliteration": "in the term of establishing Thy religion, a witness and argument over Thy servants (mankind),",
+      "urduTranslation": "تیرے دین کے قیام کی مدت میں، تیرے بندوں (انسانیت) پر ایک گواہ اور حجت،",
+      "farsiTranslation": "استواری برای دین تو و حجتی برای بندگانت."
+    },
+    {
+      "arabic": "وَ لِئَلّا يَزُولَ الْحَقُّ عَنْ مَقَرِّهِ وَ يَغْلِبَ الْباطِلُ عَلى اَهْلِهِ",
+      "translation": "Lest the truth staggered from its firm stand and foundation, and the falsehood conquered the hearts of the people,",
+      "transliteration": "Lest the truth staggered from its firm stand and foundation, and the falsehood conquered the hearts of the people,",
+      "urduTranslation": "تاکہ حق اپنے مقام سے زائل نہ ہو جائے اور باطل اہل حق پر غالب نہ آ جائے،",
+      "farsiTranslation": "و مبادا حق از سراى خود خارج شود و باطل بر اهلش غالب گردد."
+    },
+    {
+      "arabic": "وَ لا يَقُولَ اَحَدٌ لَوْلا اَرْسَلْتَ اِلَيْنا رَسُولاً مُنْذِراً",
+      "translation": "and might not say a single man: \"If only Thou had sent a Messenger unto us as a Warner,",
+      "transliteration": "and might not say a single man: \"If only Thou had sent a Messenger unto us as a Warner,",
+      "urduTranslation": "اور تاکہ کوئی ایک شخص بھی یہ نہ کہہ سکے: \"اے کاش تو نے ہماری طرف ایک رسول بھیجا ہوتا جو ڈرانے والا ہوتا،",
+      "farsiTranslation": "و هیچ کس نگوید: «اگر برای ما پیامبری برای انذار نفرستادی»."
+    },
+    {
+      "arabic": "وَ اَقَمْتَ لَنا عَلَماً هادِياً",
+      "translation": "to show us the path of wisdom and guidance,",
+      "transliteration": "to show us the path of wisdom and guidance,",
+      "urduTranslation": "اور آپ نے ہمارے لیے ایک ہدایت کرنے والا نشان قائم کیا،",
+      "farsiTranslation": "و برای ما علم هدایتی ایجاد کردی"
+    },
+    {
+      "arabic": "فَنَتَّبِـعَ آياتِكَ مِنْ قَبْلِ اَنْ نَذِلَّ وَ نَخْزى",
+      "translation": "so that we might have followed Thy revelations before we were (thus) humbled and disgraced!\"",
+      "transliteration": "so that we might have followed Thy revelations before we were (thus) humbled and disgraced!\"",
+      "urduTranslation": "تاکہ ہم ذلت اور رسوائی سے پہلے آپ کی آیات کی پیروی کر سکیں،",
+      "farsiTranslation": "پس از آیات تو پیروی می کنیم پیش از آنکه ذلیل و رسوا شویم."
+    },
+    {
+      "arabic": "اِلى اَنِ انْتَهَيْتَ بالأمْرِ اِلى حَبيبِكَ وَ نَجيبِكَ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَ آلِهِ",
+      "translation": "Thou made plans to bring out the wonderful advent of Muhammad, (Send blessing on him and on his children).",
+      "transliteration": "Thou made plans to bring out the wonderful advent of Muhammad, (Send blessing on him and on his children).",
+      "urduTranslation": "تو نے محمد (ان پر اور ان کی آل پر رحمت نازل فرما) کے شاندار ظہور کو لانے کے منصوبے بنائے،",
+      "farsiTranslation": "تا اینکه کار را به حبیب خود و نجیب محمد صلوات الله علیه و آله ختم کنید."
+    },
+    {
+      "arabic": "فَكانَ كَمَا انْتَجَبْتَهُ سَيِّدَ مَنْ خَلَقْتَهُ",
+      "translation": "So Thou just as chose him master of Whosoever Thou created,",
+      "transliteration": "So Thou just as chose him master of Whosoever Thou created,",
+      "urduTranslation": "پس وہ ایسا ہی تھا جیسا کہ آپ نے اسے اپنی تمام مخلوقات کا سردار چنا،",
+      "farsiTranslation": "پس او همان گونه بود که تو او را آفریدی، سرور آن که تو آفریدی."
+    },
+    {
+      "arabic": "وَ صَفْوَةَ مَنِ اصْطَفَيْتَهُ ، وَ اَفْضَلَ مَنِ اجْتَبَيْتَهُ",
+      "translation": "made him (whom Thou Selected), pure, clean and the best, exalted and praised him (whom Thou elected),",
+      "transliteration": "made him (whom Thou Selected), pure, clean and the best, exalted and praised him (whom Thou elected),",
+      "urduTranslation": "اور اپنے برگزیدہ بندوں میں سے منتخب اور بہترین چنا ہوا قرار دیا،",
+      "farsiTranslation": "بهترین کسانی که انتخاب کرده اید، و بهترین کسانی که انتخاب کرده اید."
+    },
+    {
+      "arabic": "وَ اَكْرَمَ مَنِ اعْتَمَدْتَهُ ، قَدَّمْتَهُ عَلى اَنْبِيائِكَ",
+      "translation": "surpassed in generosity and liberality while bestowing high-mindedness and beneficence upon him (whom Thou took in confidence and relied upon); made him leader-in-chief of (all) thy Prophets,",
+      "transliteration": "surpassed in generosity and liberality while bestowing high-mindedness and beneficence upon him (whom Thou took in confidence and relied upon); made him leader-in-chief of (all) thy Prophets,",
+      "urduTranslation": "اس کی سخاوت اور فیاضی میں سبقت لے گیا جبکہ اس پر بلند خیالی اور احسان فرمایا (جسے تو نے اعتماد میں لیا اور جس پر بھروسہ کیا)؛ اسے اپنے (تمام) نبیوں کا سردار بنایا،",
+      "farsiTranslation": "و ارجمندترین کسی است که او را پسندیده و او را برتر از پیامبران خود قرار دهی."
+    },
+    {
+      "arabic": "وَ بَعَثْتَهُ اِلَى الثَّقَلَيْنِ مِنْ عِبادِكَ",
+      "translation": "and sent him to the troubled world of men and jinn, among Thy servants,",
+      "transliteration": "and sent him to the troubled world of men and jinn, among Thy servants,",
+      "urduTranslation": "اور اسے انسانوں اور جنوں کی پریشان حال دنیا میں، اپنے بندوں کے درمیان بھیجا،",
+      "farsiTranslation": "و او را به ثقلین بندگانت فرستادی."
+    },
+    {
+      "arabic": "وَ اَوْطَأتَهُ مَشارِقَكَ وَ مَغارِبَكَ ، وَ سَخَّرْتَ لَهُ الْبُراقَ",
+      "translation": "lowered and humbled before him the Easts and the Wests, under his total control was brought all affairs,",
+      "transliteration": "lowered and humbled before him the Easts and the Wests, under his total control was brought all affairs,",
+      "urduTranslation": "اور آپ نے زمین کے مشرق و مغرب کو اس کے زیر قدم کر دیا، اور براق کو اس کے لیے مسخر کیا،",
+      "farsiTranslation": "مشرق ها و مغرب های خود را بر او لگدمال کردی و صاعقه را مسخر او کردی."
+    },
+    {
+      "arabic": "وَ عَرَجْتَ ( به ) بِرُوْحِهِ اِلى سَمائِكَ",
+      "translation": "exalted his soul in Thy heavens",
+      "transliteration": "exalted his soul in Thy heavens",
+      "urduTranslation": "اور آپ نے اس کی روح کو اپنے آسمانوں کی طرف بلایا،",
+      "farsiTranslation": "و با روح او به آسمان خود بالا رفتی"
+    },
+    {
+      "arabic": "وَ اَوْدَعْتَهُ عِلْمَ ما كانَ وَما يَكُونُ اِلَى انْقِضاءِ خَلْقِكَ",
+      "translation": "gave over to him the knowledge of what took place and what will happen, concerning facts and operation of creation.",
+      "transliteration": "gave over to him the knowledge of what took place and what will happen, concerning facts and operation of creation.",
+      "urduTranslation": "اور اسے اپنی مخلوق کے فنا ہونے تک کے ماضی اور مستقبل کے علم کا امین بنایا،",
+      "farsiTranslation": "و علم به آنچه بوده و خواهد بود تا پایان خلقتت به او سپرده ای."
+    },
+    {
+      "arabic": "ثُمَّ نَصَرْتَهُ بِالرُّعْبِ",
+      "translation": "Then invested him with awe",
+      "transliteration": "Then invested him with awe",
+      "urduTranslation": "پھر آپ نے رعب کے ذریعے اس کی نصرت فرمائی،",
+      "farsiTranslation": "سپس با وحشت از او حمایت کردی"
+    },
+    {
+      "arabic": "حَفَفْتَهُ بِجَبْرَئيلَ وَ ميكائيلَ وَ الْمُسَوِّمينَ مِنْ مَلائِكَتِكَ",
+      "translation": "and majesty, Jibraeel, Meekaaeel, and distinguished Angels stood around;",
+      "transliteration": "and majesty, Jibraeel, Meekaaeel, and distinguished Angels stood around;",
+      "urduTranslation": "آپ نے جبرائیل، میکائیل اور اپنے نشان زدہ فرشتوں کو ان کے گرد جمع کیا،",
+      "farsiTranslation": "آن را با جبرئیل و میکائیل و مساوات فرشتگانت احاطه کردی."
+    },
+    {
+      "arabic": "وَ وَعَدْتَهُ اَنْ تُظْهِرَ دينَهُ عَلَى الدّينِ كُلِّهِ وَ لَوْ كَرِهَ الْمُشْرِكُونَ",
+      "translation": "him at his beck and call, gave Thy word to him that Thou would make his religion prevail over all religions, however much the idolaters may be averse.",
+      "transliteration": "him at his beck and call, gave Thy word to him that Thou would make his religion prevail over all religions, however much the idolaters may be averse.",
+      "urduTranslation": "اور آپ نے اس سے وعدہ کیا کہ اس کے دین کو تمام ادیان پر غالب کریں گے، چاہے مشرکین کو کتنا ہی برا کیوں نہ لگے،",
+      "farsiTranslation": "تو به او وعده دادی که دین او را بر همه ادیان برتری دهی، هر چند مشرکان از آن خوششان نیاید."
+    },
+    {
+      "arabic": "وَ ذلِكَ بَعْدَ اَنْ بَوَّأتَهُ مَبَوَّأَ صِدْقٍ مِنْ اَهْلِهِ",
+      "translation": "Thereafter acknowledged his atonement and provided good and perfection for his children,",
+      "transliteration": "Thereafter acknowledged his atonement and provided good and perfection for his children,",
+      "urduTranslation": "اور یہ سب اس کے بعد ہوا جب آپ نے اسے اور اس کے اہل و عیال کو ایک سچے مقام پر آباد کیا،",
+      "farsiTranslation": "این پس از آن بود که او را در منزلی صمیمانه از خانواده اش ساکن کردم."
+    },
+    {
+      "arabic": "وَ جَعَلْتَ لَهُ وَ لَهُمْ اَوَّلَ بَيْتٍ وُضِعَ لِلنّاسِ",
+      "translation": "allotted for him and his children the first sanctuary appointed for mankind,",
+      "transliteration": "allotted for him and his children the first sanctuary appointed for mankind,",
+      "urduTranslation": "اور ان کے لیے وہ پہلا گھر مقرر کیا جو لوگوں کے لیے بنایا گیا،",
+      "farsiTranslation": "و برای او و آنها اولین خانه ای را که برای مردم ایجاد کردی قرار دادی."
+    },
+    {
+      "arabic": "لَلَّذي بِبَكَّةَ مُبارَكاً وَ هُدىً لِلْعالَمينَ",
+      "translation": "at Becca (Mecca), a blessed place, a guidance to the people",
+      "transliteration": "at Becca (Mecca), a blessed place, a guidance to the people",
+      "urduTranslation": "جو مکہ میں ہے، جو مبارک اور تمام جہانوں کے لیے ہدایت ہے،",
+      "farsiTranslation": "خوشا به حال کسی که در مکه است و مایه هدایت جهانیان."
+    },
+    {
+      "arabic": "فيهِ آياتٌ بَيِّناتٌ مَقامُ اِبْراهيمَ وَ مَنْ دَخَلَهُ كانَ آمِناً",
+      "translation": "wherein are plain and clear signs; the place where Ibraahim stood up to pray, and whosoever enters it is safe.",
+      "transliteration": "wherein are plain and clear signs; the place where Ibraahim stood up to pray, and whosoever enters it is safe.",
+      "urduTranslation": "جس میں کھلی نشانیاں ہیں، ابراہیم کے کھڑے ہونے کی جگہ ہے، اور جو اس میں داخل ہوا وہ مامون ہو گیا،",
+      "farsiTranslation": "در آن نشانه‌های روشن است: مقام ابراهیم و هر که در آن وارد شود در امان است."
+    },
+    {
+      "arabic": "وَ قُلْتَ : { اِنَّما يُريدُ اللهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ",
+      "translation": "Thou said: \"Allah’s wish is but to remove uncleanness",
+      "transliteration": "Thou said: \"Allah’s wish is but to remove uncleanness",
+      "urduTranslation": "تو نے فرمایا: \"اللہ کا ارادہ تو بس یہ ہے کہ ناپاکی کو دور کرے",
+      "farsiTranslation": "و گفتی: {خداوند فقط می‌خواهد پلیدی را از شما بزداید."
+    },
+    {
+      "arabic": "اَهْلَ الْبَيْتِ وَ يُطَهِّرَكُمْ تَطْهيراً }",
+      "translation": "far from you, O \"People of the House\", and purify you with a thorough purification.\"",
+      "transliteration": "far from you, O \"People of the House\", and purify you with a thorough purification.\"",
+      "urduTranslation": "تم سے دور رکھے، اے \"اہل بیت\"، اور تمہیں خوب پاکیزہ کر دے۔\"",
+      "farsiTranslation": "اهل بیت، و شما را با تطهیر کامل پاک سازند."
+    },
+    {
+      "arabic": "ثُمَّ جَعَلْتَ اَجْرَ مُحَمَّدٍ صَلَواتُكَ عَلَيْهِ وَ آلِهِ مَوَدَّتَهُمْ في كِتابِكَ",
+      "translation": "Thereupon Thou settled conclusively fee (recompense) of Muhammad (Thy blessings be on him and on his children) love for them, in Thy Holy Book.",
+      "transliteration": "Thereupon Thou settled conclusively fee (recompense) of Muhammad (Thy blessings be on him and on his children) love for them, in Thy Holy Book.",
+      "urduTranslation": "پھر تو نے اپنی کتاب میں محمد (ان پر اور ان کی آل پر تیری رحمتیں ہوں) کا اجر حتمی طور پر ان کی محبت قرار دیا۔",
+      "farsiTranslation": "سپس ثواب محمد صلی الله علیه و آله و سلم و محبت آنان را در کتاب خود قرار دادی."
+    },
+    {
+      "arabic": "فَقُلْتَ: { قُلْ لا اَسْاَلُكُمْ عَلَيْهِ اَجْراً اِلاَّ الْمَوَدَّةَ فِى الْقُرْبى }",
+      "translation": "So Thou said: \"Say (O Muhammad): I ask of you no fee (recompense) therefore, save love of (my) Kinsfolk.\"",
+      "transliteration": "So Thou said: \"Say (O Muhammad): I ask of you no fee (recompense) therefore, save love of (my) Kinsfolk.\"",
+      "urduTranslation": "پس تو نے فرمایا: \"کہہ دیجیے (اے محمد): میں تم سے اس پر کوئی اجر نہیں مانگتا، سوائے (میرے) قرابت داروں کی محبت کے۔\"",
+      "farsiTranslation": "پس گفتم: «بگو: من از شما پاداشی نمی‌خواهم مگر محبت به خویشاوندانم.»"
+    },
+    {
+      "arabic": "وَ قُلْتَ : { ما سَألْتُكُمْ مِنْ اَجْرٍ فَهُو َلَكُمْ }",
+      "translation": "And Thou said: \"Whatever recompense (return) I have asked for you, (it) is only for yourselves.\"",
+      "transliteration": "And Thou said: \"Whatever recompense (return) I have asked for you, (it) is only for yourselves.\"",
+      "urduTranslation": "اور آپ نے فرمایا: جو اجر میں نے تم سے مانگا وہ تمہارے ہی لیے ہے،",
+      "farsiTranslation": "و گفتی: هر اجری از تو بخواهم مال توست."
+    },
+    {
+      "arabic": "وَ قُلْتَ : { ما اَسْاَلُكُمْ عَلَيْهِ مِنْ اَجْرٍ الّا مَنْ شاءَ اَنْ يَتَّخِذَ اِلى رَبِّهِ سَبيلاً }",
+      "translation": "And Thou said: \"I ask of you no reward for this, save that, whoso will, chooses a way unto his Lord.\"",
+      "transliteration": "And Thou said: \"I ask of you no reward for this, save that, whoso will, chooses a way unto his Lord.\"",
+      "urduTranslation": "اور تو نے فرمایا: \"میں تم سے اس پر کوئی اجر نہیں مانگتا سوائے اس کے کہ جو چاہے اپنے رب کی طرف راستہ اختیار کرے۔\"",
+      "farsiTranslation": "و گفتی: من از شما پاداشی نمی‌خواهم، مگر کسی که بخواهد راهی به سوی پروردگارش در پیش گیرد."
+    },
+    {
+      "arabic": "فَكانُوا هُمُ السَّبيلَ اِلَيْكَ وَ الْمَسْلَكَ اِلى رِضْوانِكَ",
+      "translation": "Therefore they are the (only) means to (approach) Thee, the (only) medium to get Thy favours.",
+      "transliteration": "Therefore they are the (only) means to (approach) Thee, the (only) medium to get Thy favours.",
+      "urduTranslation": "پس وہی آپ کی طرف جانے کا راستہ اور آپ کی رضا تک پہنچنے کا ذریعہ ہیں،",
+      "farsiTranslation": "پس آنها راهی به سوی شما و راهی برای رضایت شما بودند."
+    },
+    {
+      "arabic": "فَلَمَّا انْقَضَتْ اَيّامُهُ اَقامَ وَلِيَّهُ عَلِيَّ بْنَ اَبي طالِب صَلَواتُكَ عَلَيْهِما وَ آلِهِما هادِياً",
+      "translation": "So Thou certainly did not let his hard work go waste, and gave authority to his successor, Ali ibne Abi Taalib, (Thy blessings be on them both, and on this children), a guide.",
+      "transliteration": "So Thou certainly did not let his hard work go waste, and gave authority to his successor, Ali ibne Abi Taalib, (Thy blessings be on them both, and on this children), a guide.",
+      "urduTranslation": "تو یقیناً تو نے ان کی محنت کو ضائع نہیں ہونے دیا، اور ان کے جانشین علی ابن ابی طالب (ان دونوں اور ان کی آل پر تیری رحمتیں ہوں) کو اختیار دیا، جو ایک ہادی ہیں۔",
+      "farsiTranslation": "چون روزگارش به پایان رسید، وصیش علی بن ابیطالب که درود بر آنان و خاندانشان باد، راهنما ماند."
+    },
+    {
+      "arabic": "اِذْ كانَ هُوَ الْمُنْذِرَ وَ لِكُلِّ قَوْمٍ هادٍ ، فَقالَ وَ الْمَلأُ اَمامَهُ :",
+      "translation": "At the time when he was made a warner and a guide for every people, said he (the Holy Prophet), their Guide, in a public meeting overflowing with people;",
+      "transliteration": "At the time when he was made a warner and a guide for every people, said he (the Holy Prophet), their Guide, in a public meeting overflowing with people;",
+      "urduTranslation": "اس وقت جب انہیں ہر قوم کے لیے ڈرانے والا اور ہادی بنایا گیا، تو ان کے ہادی (نبی کریم) نے لوگوں سے بھرے ایک عوامی اجتماع میں فرمایا؛",
+      "farsiTranslation": "چون او بيم دهنده بود و براى هر قومى هدايت كننده بود، پس در حالى كه مردم پيشاپيش بودند فرمود:"
+    },
+    {
+      "arabic": "مَنْ كُنْتُ مَوْلاهُ فَعَلِيٌّ مَوْلاهُ",
+      "translation": "\"Of Whomsoever I am the Mawlaa (Lord, Master) Ali is his Mawlaa.",
+      "transliteration": "\"Of Whomsoever I am the Mawlaa (Lord, Master) Ali is his Mawlaa.",
+      "urduTranslation": "\"جس کا میں مولا (آقا، سردار) ہوں، علی اس کے مولا ہیں۔\"",
+      "farsiTranslation": "هر که من مولای او هستم، علی مولای اوست."
+    },
+    {
+      "arabic": "اَللّـهُمَّ والِ مَنْ والاهُ وَ عادِ مَنْ عاداهُ وَ انْصُرْ مَنْ نَصَرَهُ وَ اخْذُلْ مَنْ خَذَلَهُ",
+      "translation": "O Allah! be a friend of him who is a friend of him, be an enemy of him who is an enemy of him, help that man who helps him, forsake that man who forsakes him\"",
+      "transliteration": "O Allah! be a friend of him who is a friend of him, be an enemy of him who is an enemy of him, help that man who helps him, forsake that man who forsakes him\"",
+      "urduTranslation": "اے اللہ! جو اس سے دوستی رکھے تو اس کا دوست ہو جا، جو اس سے دشمنی رکھے تو اس کا دشمن ہو جا، جو اس کی مدد کرے تو اس کی مدد کر، اور جو اسے چھوڑ دے تو اسے چھوڑ دے\"",
+      "farsiTranslation": "خدایا به هر که او را یاری می کند وفادار باش و هر که او را مخالفت می کند دشمنی کن و هر که او را حمایت کند یاری کن و هر که او را رها می کند رها کن."
+    },
+    {
+      "arabic": "وَ قالَ : مَنْ كُنْتُ اَنَا نَبِيَّهُ فَعَلِيٌّ اَميرُهُ",
+      "translation": "said: \"Of whosoever I am the Prophet Ali is his Chief.\"",
+      "transliteration": "said: \"Of whosoever I am the Prophet Ali is his Chief.\"",
+      "urduTranslation": "فرمایا: \"جس کا میں نبی ہوں، علی اس کا سردار ہے۔\"",
+      "farsiTranslation": "و گفت: هر که من پیامبر او باشم علی پیشوای اوست."
+    },
+    {
+      "arabic": "وَ قالَ : اَنَا وَ عَلِيٌّ مِنْ شَجَرَةٍ واحِدَةٍ وَ سائِرُالنَّاسِ مِنْ شَجَرٍ شَتّى",
+      "translation": "And said: \"I and Ali are (one basic root of) a tree, and the rest of mankind are like diverse plants,",
+      "transliteration": "And said: \"I and Ali are (one basic root of) a tree, and the rest of mankind are like diverse plants,",
+      "urduTranslation": "اور فرمایا: میں اور علی ایک ہی درخت سے ہیں اور باقی تمام لوگ مختلف درختوں سے ہیں،",
+      "farsiTranslation": "فرمود: من و علی از یک درخت هستیم و همه مردم از درختان مختلفند."
+    },
+    {
+      "arabic": "وَ اَحَلَّهُ مَحَلَّ هارُونَ مِنْ مُوسى",
+      "translation": "he proclaims the position (relationship) of Haaroon to Moosaa.\"",
+      "transliteration": "he proclaims the position (relationship) of Haaroon to Moosaa.\"",
+      "urduTranslation": "اور اس کا وہی مقام رکھا جو ہارون کا موسیٰ کے نزدیک تھا،",
+      "farsiTranslation": "و او را به جای هارون به جای موسی قرار داد"
+    },
+    {
+      "arabic": "فَقال لَهُ : اَنْتَ مِنّي بِمَنْزِلَةِ هارُونَ مِنْ مُوسى الّا اَنَّهُ لا نَبِيَّ بَعْدي",
+      "translation": "Therefore he told him: \"I am to you as Moosaa was to Haaroon, but certainly there is no Prophet after me.\"",
+      "transliteration": "Therefore he told him: \"I am to you as Moosaa was to Haaroon, but certainly there is no Prophet after me.\"",
+      "urduTranslation": "اس لیے آپ نے ان سے فرمایا: \"تم میرے لیے ایسے ہو جیسے موسیٰ کے لیے ہارون، لیکن میرے بعد کوئی نبی نہیں ہے۔\"",
+      "farsiTranslation": "به او گفت: تو برای من همانگونه هستی که هارون نسبت به موسی بود، جز اینکه بعد از من پیامبری نیست."
+    },
+    {
+      "arabic": "وَ زَوَّجَهُ ابْنَتَهُ سَيِّدَةَ نِساءِ الْعالَمينَ",
+      "translation": "His (Ali’s) life partner was his (Muhammad’s) daughter the chief of the women of the worlds.",
+      "transliteration": "His (Ali’s) life partner was his (Muhammad’s) daughter the chief of the women of the worlds.",
+      "urduTranslation": "اور اس کی شادی اپنی بیٹی سے کی جو تمام جہانوں کی عورتوں کی سردار ہیں،",
+      "farsiTranslation": "و او را به عقد دخترش، معشوقه زنان جهانیان، درآورد."
+    },
+    {
+      "arabic": "وَ اَحَلَّ لَهُ مِنْ مَسْجِدِهِ ما حَلَّ لَهُ ، وَ سَدَّ الاَْبْوابَ اِلاّ بابَهُ",
+      "translation": "Lawful was for him (Ali), in \"the mosque\", that which was permitted to him (Muhammad), all doors were closed, except his door.",
+      "transliteration": "Lawful was for him (Ali), in \"the mosque\", that which was permitted to him (Muhammad), all doors were closed, except his door.",
+      "urduTranslation": "اور اس کے لیے مسجد میں وہ چیزیں حلال کیں جو اپنے لیے کیں، اور علی کے دروازے کے سوا تمام دروازے بند کروا دیے،",
+      "farsiTranslation": "و در مسجدش آنچه بر او حلال بود بر او حلال کرد و درها را جز درهای خود بست."
+    },
+    {
+      "arabic": "ثُمَّ اَوْدَعَهُ عِلْمَهُ وَ حِكْمَتَهُ",
+      "translation": "He (Muhammad) gave his knowledge and wisdom into his (Ali’s) keeping.",
+      "transliteration": "He (Muhammad) gave his knowledge and wisdom into his (Ali’s) keeping.",
+      "urduTranslation": "پھر اسے اپنے علم اور حکمت کا امین بنایا۔",
+      "farsiTranslation": "سپس علم و حکمت خود را به او سپرد"
+    },
+    {
+      "arabic": "فَقالَ : اَنـَا مَدينَةُ الْعِلْمِ وَ عَلِىٌّ بابُها",
+      "translation": "He said: \"I am the city (center) of knowledge and Ali is its gate.",
+      "transliteration": "He said: \"I am the city (center) of knowledge and Ali is its gate.",
+      "urduTranslation": "پس آپ نے فرمایا: میں علم کا شہر ہوں اور علی اس کا دروازہ ہیں۔",
+      "farsiTranslation": "گفت: من شهر علم هستم و علی دروازه آن است."
+    },
+    {
+      "arabic": "فَمَنْ اَرادَ الْمَدينَةَ وَ الْحِكْمَةَ فَلْيَاْتِها مِنْ بابِها",
+      "translation": "Whoso desires to approach and dwell in the city of knowledge and wisdom should come through its door.\"",
+      "transliteration": "Whoso desires to approach and dwell in the city of knowledge and wisdom should come through its door.\"",
+      "urduTranslation": "پس جو اس شہر اور حکمت تک پہنچنا چاہتا ہے اسے اس کے دروازے سے آنا چاہیے۔",
+      "farsiTranslation": "هر که شهر و حکمت می خواهد، از دروازه آن بگذرد."
+    },
+    {
+      "arabic": "ثُمَّ قالَ : اَنْتَ اَخي وَ وَصِيّي وَ وارِثي",
+      "translation": "Thereafter he said: \"You are my brother, successor and inheritor,",
+      "transliteration": "Thereafter he said: \"You are my brother, successor and inheritor,",
+      "urduTranslation": "پھر آپ نے فرمایا: تم میرے بھائی، میرے وصی اور میرے وارث ہو۔",
+      "farsiTranslation": "سپس فرمود: تو برادر و وصی و وارث من هستی."
+    },
+    {
+      "arabic": "لَحْمُكَ مِنْ لَحْمي وَ دَمُكَ مِنْ دَمي وَ سِلْمُكَ سِلْمي وَ حَرْبُكَ حَرْبي",
+      "translation": "your flesh is my flesh, your blood is my blood, your truce is my truce, your fight is my fight,",
+      "transliteration": "your flesh is my flesh, your blood is my blood, your truce is my truce, your fight is my fight,",
+      "urduTranslation": "تمہارا گوشت میرے گوشت سے، تمہارا خون میرے خون سے ہے، تمہاری صلح میری صلح ہے اور تمہاری جنگ میری جنگ ہے۔",
+      "farsiTranslation": "گوشت شما از گوشت من و خون شما از خون من است. صلح تو صلح من و جنگ تو جنگ من است."
+    },
+    {
+      "arabic": "وَ الإيمانُ مُخالِطٌ لَحْمَكَ وَ دَمَكَ كَما خالَطَ لَحْمي وَ دَمي",
+      "translation": "faith is blended, mixed and mingled (part and parcel) in your flesh and blood, just as it is compounded in my flesh and blood,",
+      "transliteration": "faith is blended, mixed and mingled (part and parcel) in your flesh and blood, just as it is compounded in my flesh and blood,",
+      "urduTranslation": "ایمان تمہارے گوشت اور خون میں اس طرح رچ بس گیا ہے جیسے میرے گوشت اور خون میں رچ بس گیا ہے۔",
+      "farsiTranslation": "و ایمان با گوشت و خون شما آمیخته است، همچنان که با گوشت و خون من آمیخته است."
+    },
+    {
+      "arabic": "وَ اَنْتَ غَداً عَلَى الْحَوْضِ خَليفَتي",
+      "translation": "you shall take charge of the reservoir of my inheritance,",
+      "transliteration": "you shall take charge of the reservoir of my inheritance,",
+      "urduTranslation": "اور تم کل حوضِ کوثر پر میرے خلیفہ (جانشین) ہو۔",
+      "farsiTranslation": "و فردا جانشین من در حوض خواهی بود"
+    },
+    {
+      "arabic": "وَ اَنْتَ تَقْضي دَيْني وَ تُنْجِزُ عِداتي",
+      "translation": "are the fulfilment of my religion, you shall execute and keep alive my \"way of life\",",
+      "transliteration": "are the fulfilment of my religion, you shall execute and keep alive my \"way of life\",",
+      "urduTranslation": "تم ہی میرا قرض ادا کرنے والے اور میرے وعدوں کو پورا کرنے والے ہو۔",
+      "farsiTranslation": "و تو بدهی مرا بپردازی و به وعده هایم عمل کنی"
+    },
+    {
+      "arabic": "وَ شيعَتُكَ عَلى مَنابِرَ مِنْ نُورٍ مُبْيَضَّةً وُجُوهُهُمْ حَوْلي فِي الْجَنَّةِ وَ هُمْ جيراني",
+      "translation": "your friends and followers shall speak with authority, command respect and hold the torch of good manners and refinements, their faces will be all around me in the eternal land of peace and bliss (Paradise), in my close company.",
+      "transliteration": "your friends and followers shall speak with authority, command respect and hold the torch of good manners and refinements, their faces will be all around me in the eternal land of peace and bliss (Paradise), in my close company.",
+      "urduTranslation": "تمہارے شیعہ نور کے منبروں پر ہوں گے، ان کے چہرے چمکتے ہوں گے، وہ جنت میں میرے اردگرد ہوں گے اور میرے پڑوسی ہوں گے۔",
+      "farsiTranslation": "و پیروان تو در بهشت ​​بر منبرهای نور و چهره هایشان در اطراف من هستند و همسایگان من خواهند بود."
+    },
+    {
+      "arabic": "وَ لَوْلا اَنْتَ يا عَلِيُّ لَمْ يُعْرَفِ الْمُؤْمِنُونَ بَعْدي",
+      "translation": "Were it not you O Ali, the faithfuls would not know the truth after me.\"",
+      "transliteration": "Were it not you O Ali, the faithfuls would not know the truth after me.\"",
+      "urduTranslation": "اگر تم نہ ہوتے اے علی، تو میرے بعد مومن حق کو نہ پہچان پاتے۔\"",
+      "farsiTranslation": "ای علی اگر تو نبودی پس از من مؤمنان شناخته نمی شدند."
+    },
+    {
+      "arabic": "وَ كانَ بَعْدَهُ هُدىً مِنَ الضَّلالِ وَ نُوراً مِنَ الْعَمى ، وَ حَبْلَ اللهِ الْمَتينَ وَ صِراطَهُ الْمُسْتَقيمَ",
+      "translation": "After him (Muhammad) be (Ali) was the guide for the wanderers, a bright light in the blind darkness, the strong rope of Allah, and the right path,",
+      "transliteration": "After him (Muhammad) be (Ali) was the guide for the wanderers, a bright light in the blind darkness, the strong rope of Allah, and the right path,",
+      "urduTranslation": "ان (محمد) کے بعد وہ (علی) بھٹکے ہوؤں کے لیے ہادی، اندھی تاریکی میں روشن نور، اللہ کی مضبوط رسی، اور صراطِ مستقیم تھے،",
+      "farsiTranslation": "و بعد از او هدایتی از گمراهی و نوری از کوری و ریسمان محکم خدا و صراط مستقیم او بود."
+    },
+    {
+      "arabic": "لا يُسْبَقُ بِقَرابَةٍ في رَحِمٍ وَ لا بِسابِقَةٍ في دينٍ",
+      "translation": "did not ever hold back kindness and compassion from the common people, nor ever made excuses or delay to give priority to the matters of religion,",
+      "transliteration": "did not ever hold back kindness and compassion from the common people, nor ever made excuses or delay to give priority to the matters of religion,",
+      "urduTranslation": "وہ (علی علیہ السلام) رشتہ داری میں کسی سے پیچھے نہیں تھے اور نہ ہی دین میں سبقت لے جانے والوں میں ان کا کوئی ثانی تھا۔",
+      "farsiTranslation": "او در دین مقدم بر خویشاوندی و تقدم نیست."
+    },
+    {
+      "arabic": "وَ لا يُلْحَقُ في مَنْقَبَةٍ مِنْ مَناقِبِهِ",
+      "translation": "nor blew his own trumpet nor felt proud of his glory,",
+      "transliteration": "nor blew his own trumpet nor felt proud of his glory,",
+      "urduTranslation": "اور آپ کی کسی ایک خوبی کا بھی کوئی مقابلہ نہیں کر سکتا۔",
+      "farsiTranslation": "او به هیچ یک از فضایل خود دلبسته نیست."
+    },
+    {
+      "arabic": "يَحْذُو حَذْوَ الرَّسُولِ صَلَّى اللهُ عَلَيْهِما وَ آلِهِما",
+      "translation": "did the same thing the Messenger used to do, (Blessing of Allah be on them both and on their children)",
+      "transliteration": "did the same thing the Messenger used to do, (Blessing of Allah be on them both and on their children)",
+      "urduTranslation": "وہی کیا جو رسول کیا کرتے تھے، (ان دونوں پر اور ان کی آل پر اللہ کی رحمت ہو)",
+      "farsiTranslation": "او از رسول خدا صلی الله علیه و آله و سلم الگو می گیرد"
+    },
+    {
+      "arabic": "وَ يُقاتِلُ عَلَى التَّأويلِ وَ لا تَأخُذُهُ فِي اللهِ لَوْمَةُ لائِمٍ",
+      "translation": "put an end to misinterpretation, did not lose temper, for the sake of Allah, if any one turned to mud-slinging and name-calling.",
+      "transliteration": "put an end to misinterpretation, did not lose temper, for the sake of Allah, if any one turned to mud-slinging and name-calling.",
+      "urduTranslation": "غلط فہمیوں کا خاتمہ کیا، اور اگر کوئی کیچڑ اچھالنے یا برا بھلا کہنے پر اتر آیا تو اللہ کی خاطر اپنا غصہ نہیں کھویا۔",
+      "farsiTranslation": "او بر سر تأویل دعوا می کند و سرزنش ملامت کننده او را برای رضای خدا نگیر."
+    },
+    {
+      "arabic": "قَدْ وَتَرَ فيهِ صَناديدَ الْعَرَبِ وَ قَتَلَ اَبْطالَهُمْ وَ ناوَشَ ( ناهش ) ذُؤْبانَهُمْ",
+      "translation": "He had thrown the proud tribal chiefs of Arabia into a fright, destroyed their heroes, attacked and dispersed their cavalries,",
+      "transliteration": "He had thrown the proud tribal chiefs of Arabia into a fright, destroyed their heroes, attacked and dispersed their cavalries,",
+      "urduTranslation": "آپ نے عرب کے بہادروں کو خاک چٹائی، ان کے پہلوانوں کو قتل کیا اور ان کے بھیڑیوں (دشمنوں) سے نبرد آزما ہوئے۔",
+      "farsiTranslation": "او دام های اعراب را محاصره کرده، قهرمانان آنان را کشته و با گرگ های آنان به نزاع پرداخته است."
+    },
+    {
+      "arabic": "فَاَوْدَعَ قُلُوبَهُمْ اَحْقاداً بَدْرِيَّةً وَ خَيْبَرِيَّةً وَ حُنَيْنِيَّةً وَ غَيْرَهُنَّ",
+      "translation": "because of which hatred and deep grudge took root in their hearts. Badr, Khaybar, and Hunain created jealousy and envy in them,",
+      "transliteration": "because of which hatred and deep grudge took root in their hearts. Badr, Khaybar, and Hunain created jealousy and envy in them,",
+      "urduTranslation": "پس ان کے دلوں میں بدر، خیبر، حنین اور دیگر مقامات کے کینے بھر گئے۔",
+      "farsiTranslation": "پس کینه های بدریه و خیبریه و حنینیه و دیگران را در دل آنها جای داد."
+    },
+    {
+      "arabic": "فَاَضَبَّتْ عَلى عَداوَتِهِ وَ اَكَبَّتْ عَلى مُنابَذَتِهِ",
+      "translation": "therefore, united they joined hands to oppose him, and came out in great number to fight against him,",
+      "transliteration": "therefore, united they joined hands to oppose him, and came out in great number to fight against him,",
+      "urduTranslation": "چنانچہ وہ سب آپ کی دشمنی پر متحد ہو گئے اور آپ سے جنگ کرنے کے لیے پل پڑے۔",
+      "farsiTranslation": "او با او خشمگین شد و با او قهر کرد."
+    },
+    {
+      "arabic": "حَتّى قَتَلَ النّاكِثينَ وَ الْقاسِطينَ وَ الْمارِقينَ",
+      "translation": "till he destroyed all deserters, who had swerved from what was right, the shameless who deviated from true religion,",
+      "transliteration": "till he destroyed all deserters, who had swerved from what was right, the shameless who deviated from true religion,",
+      "urduTranslation": "یہاں تک کہ آپ نے ناکثین (عہد توڑنے والوں)، قاسطین (ظلم کرنے والوں) اور مارقین (دین سے نکلنے والوں) کو قتل کیا۔",
+      "farsiTranslation": "تا اینکه گنهکاران و ستمکاران و مرتدان را کشت."
+    },
+    {
+      "arabic": "وَ لَمّا قَضى نَحْبَهُ وَ قَتَلَهُ اَشْقَى الاْخِرينَ يَتْبَعُ اَشْقَى الاَْوَّلينَ",
+      "translation": "while he was carrying out the important mission. Killed him a malicious criminal, a contemporary, serving the interest and following the doctrine of earlier impudent villians.",
+      "transliteration": "while he was carrying out the important mission. Killed him a malicious criminal, a contemporary, serving the interest and following the doctrine of earlier impudent villians.",
+      "urduTranslation": "اور جب آپ کا وقت پورا ہوا اور آپ کو آخری شقی (ابن ملجم) نے شہید کیا، جو اولین شقی (پیغمبر کے قاتل) کا پیروکار تھا۔",
+      "farsiTranslation": "و چون مرگ و کشتن خود را تمام کرد، بدترین دیگران بدترین اولی را به دنبال دارد."
+    },
+    {
+      "arabic": "لَمْ يُمْتَثَلْ اَمْرُ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَ آلِهِ فِي الْهادينَ بَعْدَ الْهادينَ",
+      "translation": "An unparalleled and outlandish approach was applied to the directions of the Messenger of Allah, (Blessings of Allah be on him and on his children), concerning the \"Guides\" (Imaams), one after the other.",
+      "transliteration": "An unparalleled and outlandish approach was applied to the directions of the Messenger of Allah, (Blessings of Allah be on him and on his children), concerning the \"Guides\" (Imaams), one after the other.",
+      "urduTranslation": "اللہ کے رسول (ان پر اور ان کی آل پر اللہ کی رحمتیں ہوں) کی ہدایات، جو \"ہادیوں\" (اماموں) کے متعلق تھیں، ایک کے بعد ایک، کے ساتھ بے مثال اور عجیب و غریب سلوک کیا گیا۔",
+      "farsiTranslation": "دستور رسول خدا صلی الله علیه و آله در مورد دو راهنما پس از دو راهنما اجرا نشد."
+    },
+    {
+      "arabic": "وَ الاُْمَّةُ مُصِرَّةٌ عَلى مَقْتِهِ",
+      "translation": "The narrow-minded obstinate \"ummah\" did not care for and had ill-feelings towards him.",
+      "transliteration": "The narrow-minded obstinate \"ummah\" did not care for and had ill-feelings towards him.",
+      "urduTranslation": "اور امت آپ سے بغض رکھنے پر بضد رہی۔",
+      "farsiTranslation": "و ملت مصمم است از او متنفر باشند"
+    },
+    {
+      "arabic": "مُجْتَمِعَةٌ عَلى قَطيعَةِ رَحِمِهِ وَ اِقْصاءِ وُلْدِهِ",
+      "translation": "Flocked together to pass up and deny his connection with his family, and pushed his children out of their way,",
+      "transliteration": "Flocked together to pass up and deny his connection with his family, and pushed his children out of their way,",
+      "urduTranslation": "وہ آپ کی رشتہ داری کو قطع کرنے اور آپ کی اولاد کو دور کرنے پر اکٹھی ہو گئی۔",
+      "farsiTranslation": "متحد در قطع پیوندهای خویشاوندی و بیگانگی فرزندانش."
+    },
+    {
+      "arabic": "اِلّا الْقَليلَ مِمَّنْ وَفى لِرِعايَةِ الْحَقِّ فيهِمْ",
+      "translation": "but a handful of sincere faithfuls kept their promise and dutifully upheld the rights of his children;",
+      "transliteration": "but a handful of sincere faithfuls kept their promise and dutifully upheld the rights of his children;",
+      "urduTranslation": "سوائے ان چند لوگوں کے جنہوں نے ان (اہلبیت) کے حقوق کی پاسداری کا عہد وفا نبھایا۔",
+      "farsiTranslation": "مگر عده معدودی که به حفظ حقیقت در آنها وفادارند."
+    },
+    {
+      "arabic": "فَقُتِلَ مَنْ قُتِلَ ، وَ سُبِيَ مَنْ سُبِيَ وَ اُقْصِيَ مَنْ اُقْصِيَ",
+      "translation": "Some were slain, some were held prisoners, some were sent to distant foreign lands, and they met face to face (when came upon) their destiny (martyrdom).",
+      "transliteration": "Some were slain, some were held prisoners, some were sent to distant foreign lands, and they met face to face (when came upon) their destiny (martyrdom).",
+      "urduTranslation": "کچھ شہید ہوئے، کچھ قیدی بنائے گئے، کچھ کو دور دراز پردیس میں بھیج دیا گیا، اور وہ اپنی تقدیر (شہادت) کا سامنا کر گئے۔",
+      "farsiTranslation": "هر که کشته شد کشته شد و هر که اسیر شد اسیر شد و هر که طرد شد تکفیر شد."
+    },
+    {
+      "arabic": "وَ جَرَى الْقَضاءُ لَهُمْ بِما يُرْجى لَهُ حُسْنُ الْمَثُوبَةِ",
+      "translation": "That which is given to each (of them) as reward of good deeds is the best recompense,",
+      "transliteration": "That which is given to each (of them) as reward of good deeds is the best recompense,",
+      "urduTranslation": "ان کے حق میں خدا کا فیصلہ ہوا کہ ان کے لیے بہترین اجر کی امید رکھی جائے گی۔",
+      "farsiTranslation": "داوری برای آنها در آنچه امید به پاداش نیکو بود."
+    },
+    {
+      "arabic": "اِذْ كانَتِ الاَْرْضُ للهِ يُورِثُها مَنْ يَشاءُ مِنْ عِبادِهِ وَ الْعاقِبَةُ لِلْمُتَّقينَ",
+      "translation": "since the earth belongs to Allah, and He gives it for an inheritance to whom He wants from among His servants, and the (good) end is for the God-fearing wise;",
+      "transliteration": "since the earth belongs to Allah, and He gives it for an inheritance to whom He wants from among His servants, and the (good) end is for the God-fearing wise;",
+      "urduTranslation": "کیونکہ زمین اللہ کی ہے، اور وہ اپنے بندوں میں سے جسے چاہتا ہے اس کا وارث بناتا ہے، اور (اچھا) انجام پرہیزگاروں کے لیے ہے؛",
+      "farsiTranslation": "چون زمین از آن خداست، آن را به هر کس از بندگانش که بخواهد به ارث می‌گذارد و عاقبت آن برای پرهیزگاران است."
+    },
+    {
+      "arabic": "وَ سُبْحانَ رَبِّنا اِنْ كانَ وَعْدُ رَبِّنا لَمَفْعُولاً",
+      "translation": "glory to our Lord! Verily the promise of our Lord must be fulfilled;",
+      "transliteration": "glory to our Lord! Verily the promise of our Lord must be fulfilled;",
+      "urduTranslation": "ہمارا پروردگار پاک ہے! بے شک ہمارے پروردگار کا وعدہ ضرور پورا ہو گا؛",
+      "farsiTranslation": "منزه است پروردگار ما اگر وعده پروردگارمان محقق شود."
+    },
+    {
+      "arabic": "وَ لَنْ يُخْلِفَ اللهُ وَعْدَهُ وَ هُوَ الْعَزيزُ الْحَكيمُ",
+      "translation": "does not break His word, He is Almighty, Wise.",
+      "transliteration": "does not break His word, He is Almighty, Wise.",
+      "urduTranslation": "اور اللہ اپنے وعدے کے خلاف نہیں کرتا، وہ غالب حکمت والا ہے۔",
+      "farsiTranslation": "و خداوند هرگز از وعده خود تخلف نمی کند و او توانا و حکیم است."
+    },
+    {
+      "arabic": "فَعَلَى الاَْطائِبِ مِنْ اَهْلِ بَيْتِ مُحَمَّدٍ وَ عَلِيٍّ صَلَّى اللهُ عَلَيْهِما وَ آلِهِما",
+      "translation": "So be purified and refined by making known and remembering the choicest children of Muhammad and Ali, blessings of Allah be on them both, and on their children.",
+      "transliteration": "So be purified and refined by making known and remembering the choicest children of Muhammad and Ali, blessings of Allah be on them both, and on their children.",
+      "urduTranslation": "پس محمد اور علی کے برگزیدہ بچوں کو جاننے اور یاد کرنے سے پاک اور صاف ہو جاؤ، ان دونوں پر اور ان کی آل پر اللہ کی رحمتیں ہوں۔",
+      "farsiTranslation": "بر بهترین چیزها از آل محمد و علی که خداوند بر آنان و خاندانشان رحمت کند."
+    },
+    {
+      "arabic": "فَلْيَبْكِ الْباكُونَ ، وَ اِيّاهُمْ فَلْيَنْدُبِ النّادِبُونَ",
+      "translation": "The heartbroken, in tears, make their hearts bleed, together with them, the deeply moved perceptive men of letters describe their wisdom and liberality,",
+      "transliteration": "The heartbroken, in tears, make their hearts bleed, together with them, the deeply moved perceptive men of letters describe their wisdom and liberality,",
+      "urduTranslation": "پس رونے والوں کو چاہیے کہ روئیں، اور ماتم کرنے والوں کو چاہیے کہ ان کے لیے ماتم کریں۔",
+      "farsiTranslation": "گریه کنندگان بگریند و عزاداران عزادار شوند."
+    },
+    {
+      "arabic": "وَ لِمِثْلِهِمْ فَلْتَذْرِفِ ( فَلْتًدرِ ) الدُّمُوعُ ، وَ لْيَصْرُخِ الصّارِخُونَ ، وَ يَضِجَّ الضّاجُّونَ ، وَ يَعِـجَّ الْعاجُّوَن",
+      "translation": "as they themselves used to do, eyes of sensitive and thoughtful people are full of overflowing tears, their voices choked up with emotion; they cry out to protest against the injustice done, they call up dumb and insensate souls to stir and take notice.",
+      "transliteration": "as they themselves used to do, eyes of sensitive and thoughtful people are full of overflowing tears, their voices choked up with emotion; they cry out to protest against the injustice done, they call up dumb and insensate souls to stir and take notice.",
+      "urduTranslation": "اور ان جیسے لوگوں کے لیے آنسو بہنے چاہئیں، چیخنے والوں کو چاہیے کہ چیخیں، فریاد کرنے والوں کو چاہیے کہ فریاد کریں اور آواز بلند کرنے والوں کو چاہیے۔",
+      "farsiTranslation": "و برای امثال آنها اشک بریزد (جریان شود) و فریاد کنندگان فریاد بزنند و شکایت کنندگان طغارها شلوغ شوند."
+    },
+    {
+      "arabic": "اَيْنَ الْحَسَنُ اَيْنَ الْحُسَيْنُ اَيْنَ اَبْناءُ الْحُسَيْنِ",
+      "translation": "Where is Hasan? Where is Husayn? Where are the children of Husayn?",
+      "transliteration": "Where is Hasan? Where is Husayn? Where are the children of Husayn?",
+      "urduTranslation": "کہاں ہیں حسن؟ کہاں ہیں حسین؟ کہاں ہیں اولادِ حسین؟",
+      "farsiTranslation": "الحسن کجا، الحسین کجا، فرزندان حسین کجا هستند؟"
+    },
+    {
+      "arabic": "صالِحٌ بَعْدَ صالِـحٍ ، وَ صادِقٌ بَعْدَ صادِقٍ",
+      "translation": "whole good, one and all! The truth altogether!",
+      "transliteration": "whole good, one and all! The truth altogether!",
+      "urduTranslation": "ایک کے بعد دوسرا صالح، ایک کے بعد دوسرا صادق۔",
+      "farsiTranslation": "صالح پس از صالح و راستگو پس از راستگو."
+    },
+    {
+      "arabic": "اَيْنَ السَّبيلُ بَعْدَ السَّبيلِ",
+      "translation": "Where is the regular unbroken vital connection?",
+      "transliteration": "Where is the regular unbroken vital connection?",
+      "urduTranslation": "اس راستے کے بعد اب وہ راستہ کہاں ہے؟",
+      "farsiTranslation": "مسیر بعد از مسیر کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ الْخِيَرَةُ بَعْدَ الْخِيَرَةِ",
+      "translation": "Where is the on going sequence of desirable goodness?",
+      "transliteration": "Where is the on going sequence of desirable goodness?",
+      "urduTranslation": "اس منتخب ہستی کے بعد اب وہ انتخاب کہاں ہے؟",
+      "farsiTranslation": "خوب بعد از خوب کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ الشُّمُوسُ الطّالِعَةُ",
+      "translation": "Where are the clear source and spring of Light (vision and insight)?",
+      "transliteration": "Where are the clear source and spring of Light (vision and insight)?",
+      "urduTranslation": "کہاں ہیں وہ طلوع ہونے والے سورج؟",
+      "farsiTranslation": "خورشیدهای طلوع کجا هستند؟"
+    },
+    {
+      "arabic": "اَيْنَ الاَْقْمارُ الْمُنيرَةُ",
+      "translation": "Where are the lively vivid handsome faces?",
+      "transliteration": "Where are the lively vivid handsome faces?",
+      "urduTranslation": "کہاں ہیں وہ منور کرنے والے چاند؟",
+      "farsiTranslation": "ماه های روشن کجا هستند؟"
+    },
+    {
+      "arabic": "اَيْنَ الاَْنْجُمُ الزّاهِرَةُ",
+      "translation": "Where are the distinctly visible pioneers?",
+      "transliteration": "Where are the distinctly visible pioneers?",
+      "urduTranslation": "کہاں ہیں وہ درخشاں ستارے؟",
+      "farsiTranslation": "ستاره های درخشان کجا هستند؟"
+    },
+    {
+      "arabic": "اَيْنَ اَعْلامُ الدّينِ وَ قَواعِدُ الْعِلْمِ",
+      "translation": "Where are the \"know all the answers\" scholars who communicated and made clear the religion of Allah?",
+      "transliteration": "Where are the \"know all the answers\" scholars who communicated and made clear the religion of Allah?",
+      "urduTranslation": "کہاں ہیں وہ جواب جاننے والے علماء جنہوں نے اللہ کے دین کو پہنچایا اور واضح کیا؟",
+      "farsiTranslation": "نشانه های دین و پایه های علم کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ بَقِيَّةُ اللهِ الَّتي لا تَخْلُو مِنَ الْعِتْرَةِ الْهادِيـَةِ",
+      "translation": "The fundamentals of knowledge and wisdom! Where is the ‘Everlasting legacy of God\"? (never ever is the \"family of Guides\" without One).",
+      "transliteration": "The fundamentals of knowledge and wisdom! Where is the ‘Everlasting legacy of God\"? (never ever is the \"family of Guides\" without One).",
+      "urduTranslation": "علم اور حکمت کے اصول! اللہ کی \"لازوال میراث\" کہاں ہے؟ (\"ہادیوں کا خاندان\" کبھی اس سے خالی نہیں ہوتا)۔",
+      "farsiTranslation": "کجاست آن بقیة الله که از خاندان هدایتگر خالی نیست؟"
+    },
+    {
+      "arabic": "اَيـْنَ الـْمُعَدُّ لِـقَطْعِ دابِرِ الظَّلَمَةِ",
+      "translation": "Where is the impenetrable defense who broke the back of the oppressive tyrants?",
+      "transliteration": "Where is the impenetrable defense who broke the back of the oppressive tyrants?",
+      "urduTranslation": "کہاں ہے وہ جو ظالموں کی جڑ کاٹنے کے لیے تیار کیا گیا ہے؟",
+      "farsiTranslation": "كجا آماده است تا ظلمت را قطع كند؟"
+    },
+    {
+      "arabic": "اَيْنَ الْمُنْتَظَرُ لاِِقامَةِ الاَْمْتِ وَ اْلعِوَجِ",
+      "translation": "Where is the \"awaited saviour\" who will set the have-nots and the depressed on their feet?",
+      "transliteration": "Where is the \"awaited saviour\" who will set the have-nots and the depressed on their feet?",
+      "urduTranslation": "کہاں ہے وہ منتظر جو ٹیڑھے پن اور کجی کو سیدھا کرے گا؟",
+      "farsiTranslation": "كجاست كجاست كجاست كجاست كه از او انتظار مي رود ملت و كجي را بالا ببرد؟"
+    },
+    {
+      "arabic": "اَيْنَ الْمُرْتَجى لاِزالَةِ الْجَوْرِ وَ الْعُدْوانِ",
+      "translation": "Where is the \"The Hope\" who will put and end to tyranny and oppression?",
+      "transliteration": "Where is the \"The Hope\" who will put and end to tyranny and oppression?",
+      "urduTranslation": "کہاں ہے وہ جس سے جور و ستم کو مٹانے کی امید ہے؟",
+      "farsiTranslation": "امید به رفع بی عدالتی و تجاوز کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ الْمُدَّخَرُ لِتَجْديدِ الْفَرآئِضِ و َالسُّنَنِ",
+      "translation": "Where is the \"preserved guaranty\" who shall give new life to rule of law and refined way of life?",
+      "transliteration": "Where is the \"preserved guaranty\" who shall give new life to rule of law and refined way of life?",
+      "urduTranslation": "کہاں ہے وہ جسے فرائض اور سنتوں کو زندہ کرنے کے لیے ذخیرہ کیا گیا ہے؟",
+      "farsiTranslation": "پس انداز تجدید واجبات و سنت ها کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ الْمُتَخَيَّرُ لاِِعادَةِ الْمِلَّةِ وَ الشَّريعَةِ",
+      "translation": "Where is the \"Chosen in preference good\" who shall raise the spirits of the people and give currency to justice and fairplay?",
+      "transliteration": "Where is the \"Chosen in preference good\" who shall raise the spirits of the people and give currency to justice and fairplay?",
+      "urduTranslation": "کہاں ہے وہ جسے ملت اور شریعت کو دوبارہ بحال کرنے کے لیے منتخب کیا گیا ہے؟",
+      "farsiTranslation": "انتخاب احیای دین و شریعت کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ الْمُؤَمَّلُ لاِِحْياءِ الْكِتابِ وَ حُدُودِهِ",
+      "translation": "Where is the \"hope-giving confidante\" who shall make full use of the \"Book\" and define the sphere of action?",
+      "transliteration": "Where is the \"hope-giving confidante\" who shall make full use of the \"Book\" and define the sphere of action?",
+      "urduTranslation": "کہاں ہے وہ جس سے کتابِ خدا اور اس کے حدود کو زندہ کرنے کی امید رکھی گئی ہے؟",
+      "farsiTranslation": "امید به احیای کتاب و حدود آن کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ مُحْيي مَعالِمِ الدّينِ وَ اَهْلِهِ",
+      "translation": "Where is he who shall blot out dogma in the matter of religion and his (Muhammad’s) children?",
+      "transliteration": "Where is he who shall blot out dogma in the matter of religion and his (Muhammad’s) children?",
+      "urduTranslation": "کہاں ہے دین کی نشانیوں اور اس کے اہل کو زندہ کرنے والا؟",
+      "farsiTranslation": "کجاست زنده کننده آیات دین و اهل آن؟"
+    },
+    {
+      "arabic": "اَيْنَ قاصِمُ شَوْكَةِ الْمُعْتَدينَ",
+      "translation": "Where is he who shall break up meddlesome trouble and tampering?",
+      "transliteration": "Where is he who shall break up meddlesome trouble and tampering?",
+      "urduTranslation": "کہاں ہے زیادتی کرنے والوں کی طاقت کو توڑنے والا؟",
+      "farsiTranslation": "کجاست آن که خار متجاوزان را می شکند؟"
+    },
+    {
+      "arabic": "اَيْنَ هادِمُ اَبْنِيَةِ الشِّرْكِ وَ النِّفاقِ",
+      "translation": "Where is he who shall pull down the foundations of confusion (polytheists) and hypocrisy?",
+      "transliteration": "Where is he who shall pull down the foundations of confusion (polytheists) and hypocrisy?",
+      "urduTranslation": "کہاں ہے شرک اور نفاق کی عمارتوں کو ڈھانے والا؟",
+      "farsiTranslation": "کجاست ویران کننده بناهای شرک و نفاق؟"
+    },
+    {
+      "arabic": "اَيْنَ مُبيدُ اَهْلِ الْفُسُوقِ وَ الْعِصْيانِ وَ الطُّغْيانِ",
+      "translation": "Where is he who shall stamp out corruption, vice, reaction and injustice?",
+      "transliteration": "Where is he who shall stamp out corruption, vice, reaction and injustice?",
+      "urduTranslation": "کہاں ہے فسق، گناہ اور سرکشی کرنے والوں کو تباہ کرنے والا؟",
+      "farsiTranslation": "کجاست نابودی اهل فسق و نافرمانی و ظلم؟"
+    },
+    {
+      "arabic": "اَيْنَ حاصِدُ فُرُوعِ الْغَيِّ وَ الشِّقاقِ ( النِفاقِ )",
+      "translation": "Where is he who shall trim the outgrowth of despair, longing and hardships?",
+      "transliteration": "Where is he who shall trim the outgrowth of despair, longing and hardships?",
+      "urduTranslation": "کہاں ہے گمراہی اور اختلاف کی شاخوں کو کاٹنے والا؟",
+      "farsiTranslation": "کجاست دروگر شاخه های باطل و اختلاف (نفاق)؟"
+    },
+    {
+      "arabic": "اَيْنَ طامِسُ آثارِ الزَّيْغِ وَ الاَْهْواء",
+      "translation": "Where is he who shall erase the traces of unfairness and self-seeking conceit?",
+      "transliteration": "Where is he who shall erase the traces of unfairness and self-seeking conceit?",
+      "urduTranslation": "وہ کہاں ہے جو ظلم اور نفس پرستی کے آثار کو مٹا دے گا؟",
+      "farsiTranslation": "محو آثار انحراف و هوی و هوس کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ قاطِعُ حَبائِلِ الْكِذْبِ ( الكَذِبِ ) وَ الاِْفْتِراءِ",
+      "translation": "Where is he who shall untie the twisted knotes of falsehood and disruption?",
+      "transliteration": "Where is he who shall untie the twisted knotes of falsehood and disruption?",
+      "urduTranslation": "وہ کہاں ہے جو جھوٹ اور بہتان کے الجھے ہوئے تاروں کو کاٹ دے گا؟",
+      "farsiTranslation": "کجاست آن که ریسمان دروغ (دروغ) و تهمت را قطع می کند؟"
+    },
+    {
+      "arabic": "اَيْنَ مُبيدُ الْعُتاةِ وَ الْمَرَدَةِ",
+      "translation": "Where is he who shall separate senselessness and insolence from the people?",
+      "transliteration": "Where is he who shall separate senselessness and insolence from the people?",
+      "urduTranslation": "وہ کہاں ہے جو سرکشوں اور ظالموں کو نیست و نابود کرنے والا ہے؟",
+      "farsiTranslation": "کجاست ویرانگر نیرومند و یاغی؟"
+    },
+    {
+      "arabic": "اَيْنَ مُسْتَأصِلُ اَهْلِ الْعِنادِ وَ التَّضْليلِ وَ الاِْلْحادِ",
+      "translation": "Where is he who shall tear up by the roots obstinacy, corruption and apostasy?",
+      "transliteration": "Where is he who shall tear up by the roots obstinacy, corruption and apostasy?",
+      "urduTranslation": "وہ کہاں ہے جو ہٹ دھرمی، گمراہی اور الحاد کو جڑ سے اکھاڑ پھینکے گا؟",
+      "farsiTranslation": "ریشه اهل لجاج و فریب و بی دینی کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ مُـعِزُّ الاَْوْلِياءِ وَ مُذِلُّ الاَْعْداءِ",
+      "translation": "Where is he who shall love dearly the favourites of Allah and take pains to tame and train the trangressors?",
+      "transliteration": "Where is he who shall love dearly the favourites of Allah and take pains to tame and train the trangressors?",
+      "urduTranslation": "کہاں ہے وہ جو اللہ کے مقربین سے شدید محبت کرے گا اور نافرمانوں کو سدھارنے اور تربیت دینے کی زحمت اٹھائے گا؟",
+      "farsiTranslation": "تسلی دهنده اولیا و خوار کننده دشمنان کجاست؟"
+    },
+    {
+      "arabic": "اَيْنَ جامِعُ الْكَلِمَةِ ( الكَلِمِ ) عَلَى التَّقْوى",
+      "translation": "Where is he who shall make people familiar with \"words of wisdom\"?",
+      "transliteration": "Where is he who shall make people familiar with \"words of wisdom\"?",
+      "urduTranslation": "وہ کہاں ہے جو کلمہ حق کو تقویٰ پر اکٹھا کرنے والا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ بابُ اللهِ الَّذى مِنْهُ يُؤْتى",
+      "translation": "Where is the ultimate (Divine) source of plenty and prosperity?",
+      "transliteration": "Where is the ultimate (Divine) source of plenty and prosperity?",
+      "urduTranslation": "وہ کہاں ہے اللہ کا وہ دروازہ جہاں سے ہر خیر تک رسائی حاصل کی جاتی ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ وَجْهُ اللهِ الَّذى اِلَيْهِ يَتَوَجَّهُ الاَْوْلِياءُ",
+      "translation": "Where is the \"Divine aspect\" the God-fearing may look up to? Where is the link that connects the cosmic complex?",
+      "transliteration": "Where is the \"Divine aspect\" the God-fearing may look up to? Where is the link that connects the cosmic complex?",
+      "urduTranslation": "کہاں ہے وہ \"مظہرِ الٰہی\" جس کی طرف خدا ترس لوگ دیکھ سکیں؟ وہ تعلق کہاں ہے جو کائناتی نظام کو جوڑتا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ السَّبَبُ الْمُتَّصِلُ بَيْنَ الاَْرْضِ وَ السَّماءِ",
+      "translation": "Where is the authority who shall communicate and make known the true point of view?",
+      "transliteration": "Where is the authority who shall communicate and make known the true point of view?",
+      "urduTranslation": "وہ کہاں ہے وہ وسیلہ جو زمین اور آسمان کے درمیان رابطہ کا ذریعہ ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ صاحِبُ يَوْمِ الْفَتْحِ وَ ناشِرُ رايَةِ الْهُدى",
+      "translation": "Where is the author of the conception of peace, fairplay and welfare?",
+      "transliteration": "Where is the author of the conception of peace, fairplay and welfare?",
+      "urduTranslation": "وہ کہاں ہے فتح کے دن کا مالک اور ہدایت کا پرچم لہرانے والا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ مُؤَلِّفُ شَمْلِ الصَّلاحِ وَ الرِّضا",
+      "translation": "Where is the author of the conception of peace, fairplay and welfare?",
+      "transliteration": "Where is the author of the conception of peace, fairplay and welfare?",
+      "urduTranslation": "وہ کہاں ہے جو اصلاح اور رضا کے پراگندہ شیرازے کو جوڑنے والا ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ الطّالِبُ بِذُحُولِ الاَْنْبِياءِ وَ اَبْناءِ الاَْنْبِياءِ",
+      "translation": "Where is the defender of the traditions of the Prophets and their children?",
+      "transliteration": "Where is the defender of the traditions of the Prophets and their children?",
+      "urduTranslation": "کہاں ہے نبیوں اور ان کی آل کی سنتوں کا دفاع کرنے والا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ الطّالِبُ ( المُطالِبُ ) بِدَمِ الْمَقْتُولِ بِكَرْبَلاءَ",
+      "translation": "Where is the investigator of the blood of the Martyrs of Karbalaa?",
+      "transliteration": "Where is the investigator of the blood of the Martyrs of Karbalaa?",
+      "urduTranslation": "کہاں ہے شہدائے کربلا کے خون کا انتقام لینے والا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ الْمَنْصُورُ عَلى مَنِ اعْتَدى عَلَيْهِ وَ افْتَرى",
+      "translation": "Where is he who shall get the upper hand over the perpetrators of crime and greed?",
+      "transliteration": "Where is he who shall get the upper hand over the perpetrators of crime and greed?",
+      "urduTranslation": "وہ کہاں ہے جو اپنے اوپر ظلم کرنے والوں اور بہتان تراشنے والوں پر غالب آئے گا؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ الْمُضْطَرُّ الَّذي يُجابُ اِذا دَعا",
+      "translation": "Where is he who shall not rest until he answers the cries of help when called upon?",
+      "transliteration": "Where is he who shall not rest until he answers the cries of help when called upon?",
+      "urduTranslation": "وہ کہاں ہے وہ مضطر جس کی پکار پر اسے اجابت ملتی ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ صَدْرُ الْخَلائِقِ ذُوالْبِرِّ وَ التَّقْوى",
+      "translation": "Where is the foremost leader of the people – the just, the truthful and the wise?",
+      "transliteration": "Where is the foremost leader of the people – the just, the truthful and the wise?",
+      "urduTranslation": "وہ کہاں ہے تمام مخلوقات کا سردار، نیکی اور تقویٰ کا پیکر؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَيْنَ ابْنُ النَّبِىِّ الْمُصْطَفى ، وَ ابْنُ عَلِيٍّ الْمُرْتَضى",
+      "translation": "Where is the son of the chosen Prophet? The son of Ali Al-Murtaza!",
+      "transliteration": "Where is the son of the chosen Prophet? The son of Ali Al-Murtaza!",
+      "urduTranslation": "کہاں ہے منتخب نبی کا فرزند؟ علی المرتضیٰ کا فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ ابْنُ خَديجَةَ الْغَرّآءِ ، وَ ابْنُ فاطِمَةَ الْكُبْرى",
+      "translation": "The son of Khadeejah, the resplendent! The son of Faatimah, the great!",
+      "transliteration": "The son of Khadeejah, the resplendent! The son of Faatimah, the great!",
+      "urduTranslation": "اور وہ خدیجہ کبریٰ کا فرزند، اور فاطمہ زہرا کا لعل ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِاَبي اَنْتَ وَ اُمّي وَ نَفْسي لَكَ الْوِقاءُ وَ الْحِمى",
+      "translation": "My father, my mother, and I turn to you for protection and sanctuary.",
+      "transliteration": "My father, my mother, and I turn to you for protection and sanctuary.",
+      "urduTranslation": "میرے ماں باپ اور جان آپ پر قربان ہوں، آپ ہی پناہ گاہ اور محافظ ہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ السّادَةِ الْمُقَرَّبينَ",
+      "translation": "O son of the favourite Leaders!",
+      "transliteration": "O son of the favourite Leaders!",
+      "urduTranslation": "اے پسندیدہ پیشواؤں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ النُّجَباءِ الاَْكْرَمينَ",
+      "translation": "O Son of the distinguished nobles!",
+      "transliteration": "O Son of the distinguished nobles!",
+      "urduTranslation": "اے ممتاز اور معزز سرداروں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْهُداةِ الْمَهْدِيّينَ ( المُهْتَدينَ )",
+      "translation": "O son of the rightly guided Guides!",
+      "transliteration": "O son of the rightly guided Guides!",
+      "urduTranslation": "اے ہدایت یافتہ ہادیوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْخِيَرَةِ الْمُهَذَّبينَ",
+      "translation": "O Son of the most refined high-minded liberals!",
+      "transliteration": "O Son of the most refined high-minded liberals!",
+      "urduTranslation": "اے نہایت شائستہ اور بلند خیال آزاد مردوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْغَطارِفَةِ الاَْنْجَبينَ",
+      "translation": "O Son of the select generous Guardians!",
+      "transliteration": "O Son of the select generous Guardians!",
+      "urduTranslation": "اے چنے ہوئے سخی سرپرستوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الاَْطائِبِ الْمُطَهَّرينَ ( المُتَطَهْريِِنَ )",
+      "translation": "O son of the polite and pure purifiers!",
+      "transliteration": "O son of the polite and pure purifiers!",
+      "urduTranslation": "اے شائستہ، پاک اور پاکیزہ کرنے والوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْخَضارِمَةِ الْمُنْتَجَبينَ",
+      "translation": "O Son of the impartial judges!",
+      "transliteration": "O Son of the impartial judges!",
+      "urduTranslation": "اے منصف مزاج قاضیوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْقَماقِمَةِ الاَْكْرَمينَ (الأكْبَرينَ )",
+      "translation": "O Son of the openhanded hosts!",
+      "transliteration": "O Son of the openhanded hosts!",
+      "urduTranslation": "اے سخی اور کشادہ دل میزبانوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْبُدُورِ الْمُنيرَةِ",
+      "translation": "O Son of the mature teachers!",
+      "transliteration": "O Son of the mature teachers!",
+      "urduTranslation": "اے بالغ نظر اساتذہ کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ السُّرُجِ الْمُضيئَةِ",
+      "translation": "O Son of the brilliant fulfillers!",
+      "transliteration": "O Son of the brilliant fulfillers!",
+      "urduTranslation": "اے شاندار وفا کرنے والوں کے فرزند!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الشُّهُبِ الثّاقِبَةِ",
+      "translation": "O Son of the clear and precise arguments who penetrated deep (into the domain of mind)!",
+      "transliteration": "O Son of the clear and precise arguments who penetrated deep (into the domain of mind)!",
+      "urduTranslation": "اے ان واضح اور ٹھوس دلیلوں کے فرزند جو عقلوں میں گہرائی تک اتر گئیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الاَْنْجُمِ الزّاهِرَةِ",
+      "translation": "O inheritor of the made known prophesy!",
+      "transliteration": "O inheritor of the made known prophesy!",
+      "urduTranslation": "اے بیان کردہ پیشین گوئیوں کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ السُّبُلِ الْواضِحَةِ",
+      "translation": "O inheritor of the clear preaching!",
+      "transliteration": "O inheritor of the clear preaching!",
+      "urduTranslation": "اے واضح تبلیغ کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الاَْعْلامِ الّلائِحَةِ",
+      "translation": "O inheritor of the evident signs!",
+      "transliteration": "O inheritor of the evident signs!",
+      "urduTranslation": "اے کھلی ہوئی نشانیوں کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْعُلُومِ الْكامِلَةِ",
+      "translation": "O inheritor of the exact science!",
+      "transliteration": "O inheritor of the exact science!",
+      "urduTranslation": "اے علمِ یقین کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ السُّنَنِ الْمَشْهُورَةِ",
+      "translation": "O inheritor of the widely sought after culture and customs!",
+      "transliteration": "O inheritor of the widely sought after culture and customs!",
+      "urduTranslation": "اے ان روایات اور آداب کے وارث جن کی دنیا طلبگار ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْمَعالِمِ الْمَأثُورَةِ",
+      "translation": "O inheritor of the milestones of glory and greatness!",
+      "transliteration": "O inheritor of the milestones of glory and greatness!",
+      "urduTranslation": "اے عظمت اور بڑائی کے نشانات کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْمُعْجِزاتِ الْمَوْجُودَةِ",
+      "translation": "O inheritor of the extraordinary events!",
+      "transliteration": "O inheritor of the extraordinary events!",
+      "urduTranslation": "اے غیر معمولی معجزات کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الدَّلائِلِ الْمَشْهُودَةِ ( المَشْهُورَةِ )",
+      "translation": "O inheritor of the reason that had been put to experiment!",
+      "transliteration": "O inheritor of the reason that had been put to experiment!",
+      "urduTranslation": "اے ان عقلوں کے وارث جنہیں آزمایا جا چکا ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الصـِّراطِ الْمُسْتَقيمِ",
+      "translation": "O inheritor of the Right Path!",
+      "transliteration": "O inheritor of the Right Path!",
+      "urduTranslation": "اے صراطِ مستقیم کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ النَّبَأِ الْعَظيمِ",
+      "translation": "O inheritor of the Message that made deep impression on mankind!",
+      "transliteration": "O inheritor of the Message that made deep impression on mankind!",
+      "urduTranslation": "اے اس پیغام کے وارث جس نے انسانیت پر گہرا اثر چھوڑا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ مَنْ هُوَ في اُمِّ الْكِتابِ لَدَى اللهِ عَلِيٌّ حَكيمٌ",
+      "translation": "O Son of him who is in the \"Mother of the Book\" kept with Allah, the Highest High, the All-wise.",
+      "transliteration": "O Son of him who is in the \"Mother of the Book\" kept with Allah, the Highest High, the All-wise.",
+      "urduTranslation": "اے اس کے فرزند جو \"ام الکتاب\" میں اللہ، بلند و برتر، حکمت والے کے پاس محفوظ ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الآياتِ وَ الْبَيِّناتِ",
+      "translation": "O inheritor of the convincing proofs!",
+      "transliteration": "O inheritor of the convincing proofs!",
+      "urduTranslation": "اے قائل کر دینے والی دلیلوں کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الدَّلائِلِ الظّاهِراتِ",
+      "translation": "O inheritor of the genuine evidence!",
+      "transliteration": "O inheritor of the genuine evidence!",
+      "urduTranslation": "اے سچی شہادتوں کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْبَراهينِ الْواضِحاتِ الْباهِراتِ",
+      "translation": "O inheritor of the distinctly visible demonstration!",
+      "transliteration": "O inheritor of the distinctly visible demonstration!",
+      "urduTranslation": "اے بالکل واضح دلائل کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الْحُجَجِ الْبالِغاتِ",
+      "translation": "O inheritor of the decisive information!",
+      "transliteration": "O inheritor of the decisive information!",
+      "urduTranslation": "اے فیصلہ کن معلومات کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ النِّعَمِ السّابِغاتِ",
+      "translation": "O inheritor of the absolute joy and happiness!",
+      "transliteration": "O inheritor of the absolute joy and happiness!",
+      "urduTranslation": "اے مکمل خوشی اور مسرت کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ طه وَ الْـمُحْكَماتِ",
+      "translation": "O inheritor of \"T’aa-haa\" and clear wisdom!",
+      "transliteration": "O inheritor of \"T’aa-haa\" and clear wisdom!",
+      "urduTranslation": "اے \"طٰہٰ\" اور واضح حکمت کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ يس وَ الذّارِياتِ",
+      "translation": "O inheritor of \"Yaa seen\" and \"Zaariyaat\"",
+      "transliteration": "O inheritor of \"Yaa seen\" and \"Zaariyaat\"",
+      "urduTranslation": "اے \"یٰس\" اور \"ذاریات\" کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ الطُّورِ وَ الْعادِياتِ",
+      "translation": "O inheritor of \"T’oor\" and \"A’adiyaat\"",
+      "transliteration": "O inheritor of \"T’oor\" and \"A’adiyaat\"",
+      "urduTranslation": "اے \"طور\" اور \"عادیات\" کے وارث!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بْنَ مَنْ دَنا فَتَدَلّى فَكانَ قابَ قَوْسَيْنِ اَوْ اَدْنى دُنُوّاً وَ اقْتِراباً مِنَ الْعَلِيِّ الاَْعْلى",
+      "translation": "O Son of him who \"drew near and came down till he was two bows’ length or nearer.\" (The Highest High came near and received him gladly).",
+      "transliteration": "O Son of him who \"drew near and came down till he was two bows’ length or nearer.\" (The Highest High came near and received him gladly).",
+      "urduTranslation": "اے اس کے فرزند جو \"قریب ہوا اور نیچے آیا یہاں تک کہ دو کمانوں کے فاصلے پر یا اس سے بھی قریب ہو گیا۔\" (اللہ تعالیٰ قریب ہوا اور اسے خوشی سے قبول کیا)۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لَيْتَ شِعْري اَيْنَ اسْتَقَرَّتْ بِكَ النَّوى",
+      "translation": "If I but knew the destination of your purposeful journey!",
+      "transliteration": "If I but knew the destination of your purposeful journey!",
+      "urduTranslation": "کاش میں جان سکتا کہ آپ کا ٹھکانہ کہاں ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بَلْ اَيُّ اَرْضٍ تُقِلُّكَ اَوْ ثَرى ، اَبِرَضْوى اَوْ غَيْرِها اَمْ ذي طُوى",
+      "translation": "To which isolated land did you go? Good, pleasant and satisfying? Or otherwise? Or in well guarded concealment?",
+      "transliteration": "To which isolated land did you go? Good, pleasant and satisfying? Or otherwise? Or in well guarded concealment?",
+      "urduTranslation": "کون سی زمین آپ کو تھامے ہوئے ہے، رضویٰ یا کوئی اور مقام، یا ذی طویٰ؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَزيزٌ عَلَيَّ اَنْ اَرَى الْخَلْقَ وَ لا تُرى",
+      "translation": "It breaks my heart (when) I look at all that has been created, but cannot see you,",
+      "transliteration": "It breaks my heart (when) I look at all that has been created, but cannot see you,",
+      "urduTranslation": "مجھ پر یہ بہت شاق ہے کہ ساری کائنات کو تو دیکھوں مگر آپ کو نہ دیکھ سکوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ لا اَسْمَعُ لَكَ حَسيساً وَ لا نَجْوى",
+      "translation": "nor hear a whisper about your whereabouts, nor any secret communication!",
+      "transliteration": "nor hear a whisper about your whereabouts, nor any secret communication!",
+      "urduTranslation": "اور نہ آپ کی کوئی آہٹ سن سکوں اور نہ ہی کوئی سرگوشی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَزيزٌ عَلَيَّ اَنْ ( لا تُحِيطَ بِِيَ دُونكَ ) تُحيطَ بِكَ دُونِيَ الْبَلْوى وَ لا يَنالُكَ مِنّي ضَجيجٌ وَ لا شَكْوى",
+      "translation": "It is disheartening to know that you are attending to and watching over the disorder and confusion, and I, in the thick of violent turmoil, am far away, unable to give report of injustice.",
+      "transliteration": "It is disheartening to know that you are attending to and watching over the disorder and confusion, and I, in the thick of violent turmoil, am far away, unable to give report of injustice.",
+      "urduTranslation": "مجھ پر یہ بہت شاق ہے کہ آپ کے علاوہ مجھ پر مصیبتیں ٹوٹ پڑیں اور میں آپ تک فریاد نہ پہنچا سکوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ مُغَيَّبٍ لَمْ يَخْلُ مِنّا",
+      "translation": "I eagerly long for you who is out of sight, but has not forsaken us.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ نازِحٍ ما نَزَحَ ( يَنْزِحُ ) عَنّا",
+      "translation": "I eagerly long for you who has departed and is invisible, but is not far from us.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ اُمْنِيَّةُ شائِقٍ يَتَمَنّى ، مِنْ مُؤْمِن وَ مُؤْمِنَةٍ ذَكَرا فَحَنّا",
+      "translation": "I eagerly long for you who inspires love and deep affection, and the faithful men and women take delight in your memorable glory. So we are excited with a longing desire.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ عَقيدِ عِزٍّ لايُسامى",
+      "translation": "I eagerly long for you who is worthy of acceptance and lawful driving force of belief and conviction, never weary or annoyed.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ اَثيلِ مَجْدٍ لا يُجارى",
+      "translation": "I eagerly long for you who is the root of praise and distinction, never can be uprooted.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ تِلادِ نِعَمٍ لا تُضاهى",
+      "translation": "I eagerly long for you who is always tender, gentle and comforting, never makes one’s affairs worse instead of better.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِنَفْسي اَنْتَ مِنْ نَصيفِ شَرَفٍ لا يُساوى",
+      "translation": "I eagerly long for you who is just and equitable beyond a trace of doubt, does not take severe action until misbehaviour trespasses the limit.",
+      "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+      "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اِلى مَتى اَحارُ فيكَ يا مَوْلايَ وَ اِلى مَتي ، وَ اَىَّ خِطابٍ اَصِفُ فيكَ وَ اَيَّ نَجْوى",
+      "translation": "O Master! How long and unto what is to be directed (my) request for friendly attention concerning you? And what is the message?",
+      "transliteration": "O Master! How long and unto what is to be directed (my) request for friendly attention concerning you? And what is the message?",
+      "urduTranslation": "اے آقا! کب تک اور کس حد تک میں آپ کے بارے میں اپنی فریادیں کروں؟ اور میری کیا التجا ہو سکتی ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَزيزٌ عَلَيَّ اَنْ اُجابَ دُونَكَ وَ اُناغى",
+      "translation": "It makes me sad to get favourable reply from anyone other than you, but to be duped and cheated in the end.",
+      "transliteration": "It makes me sad to get favourable reply from anyone other than you, but to be duped and cheated in the end.",
+      "urduTranslation": "مجھ پر یہ بہت شاق ہے کہ آپ کے بغیر مجھے جواب دیا جائے اور فریب دیا جائے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَزيزٌ عَلَيَّ اَنْ اَبْكِيَكَ وَ يَخْذُلَكَ الْوَرى",
+      "translation": "It casts a gloom upon me that you suffered hardships and the chicken hearted deserters left you alone.",
+      "transliteration": "It casts a gloom upon me that you suffered hardships and the chicken hearted deserters left you alone.",
+      "urduTranslation": "مجھ پر یہ بہت شاق ہے کہ میں آپ کے لیے روؤں اور لوگ آپ کو تنہا چھوڑ دیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "عَزيزٌ عَلَيَّ اَنْ يَجْرِيَ عَلَيْكَ دُونَهُمْ ما جَرى",
+      "translation": "It is painful for me what took place for you from them and that which had happened.",
+      "transliteration": "It is painful for me what took place for you from them and that which had happened.",
+      "urduTranslation": "مجھ پر یہ بہت شاق ہے کہ آپ پر وہ سب کچھ گزر جائے جو دوسروں پر نہیں گزرا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هَلْ مِنْ مُعينٍ فَاُطيلَ مَعَهُ الْعَويلَ وَ الْبُكاءَ",
+      "translation": "Is there a helper with whom I may cooperate and take pains?",
+      "transliteration": "Is there a helper with whom I may cooperate and take pains?",
+      "urduTranslation": "کیا کوئی مددگار ہے کہ میں اس کے ساتھ مل کر طویل آہ و زاری کر سکوں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هَلْ مِنْ جَزُوعٍ فَاُساعِدَ جَزَعَهُ اِذا خَلا",
+      "translation": "Is there a restless with whom I may share when action is taken?",
+      "transliteration": "Is there a restless with whom I may share when action is taken?",
+      "urduTranslation": "کیا کوئی دردمند ہے کہ جب وہ تنہائی میں روئے تو میں اس کا ساتھ دوں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هَلْ قَذِيَتْ عَيْنٌ فَساعَدَتْها عَيْني عَلَى الْقَذى",
+      "translation": "Is there a faint twinkle of evidence to make me willingly take up the trouble?",
+      "transliteration": "Is there a faint twinkle of evidence to make me willingly take up the trouble?",
+      "urduTranslation": "کیا کوئی آنکھ ہے جو غمگین ہو کہ میں بھی اس کے ساتھ رو سکوں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هَلْ اِلَيْكَ يَا بْنَ اَحْمَدَ سَبيلٌ فَتُلْقى",
+      "translation": "Do you O Son of Ahmed have means and ways to arrange our meeting?",
+      "transliteration": "Do you O Son of Ahmed have means and ways to arrange our meeting?",
+      "urduTranslation": "کیا اے احمد کے فرزند! ہمارے ملنے کی کوئی صورت اور کوئی راستہ ہے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "هَلْ يَتَّصِلُ يَوْمُنا مِنْكَ بِعِدَةٍ فَنَحْظى",
+      "translation": "Can you once cleverly guide the course of time, so that we may obtain our wish?",
+      "transliteration": "Can you once cleverly guide the course of time, so that we may obtain our wish?",
+      "urduTranslation": "کیا ہمارا دن آپ کی طرف پلٹے گا تاکہ ہم کامیاب ہو سکیں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَتى نَرِدُ مَناهِلَكَ الرَّوِيَّةَ فَنَرْوى",
+      "translation": "When shall we abridge the gap that separate us from the vision so that we may refer to the authority?",
+      "transliteration": "When shall we abridge the gap that separate us from the vision so that we may refer to the authority?",
+      "urduTranslation": "ہم آپ کے چشمہ فیض پر کب پہنچیں گے کہ سیراب ہو سکیں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَتى نَنْتَقِعُ مِنْ عَذْبِ مائِكَ فَقَدْ طالَ الصَّدى",
+      "translation": "How long shall we keep waiting for your pleasing satisfying essence and quality?",
+      "transliteration": "How long shall we keep waiting for your pleasing satisfying essence and quality?",
+      "urduTranslation": "ہم کب آپ کے میٹھے پانی سے مستفید ہوں گے کہ ہماری پیاس طویل ہو چکی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَتى نُغاديكَ وَ نُراوِحُكَ فَنُقِرَّ عَيْناً ( فَتَقُرُ عًُيًُوننا )",
+      "translation": "Already the period of expectation has lasted too long! When shall we receive our share from you and have our minds set at rest?",
+      "transliteration": "Already the period of expectation has lasted too long! When shall we receive our share from you and have our minds set at rest?",
+      "urduTranslation": "ہم کب صبح و شام آپ کے پاس آئیں گے تاکہ ہماری آنکھیں ٹھنڈی ہو سکیں؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَتى تَرانا وَ نَراكَ وَ قَدْ نَشَرْتَ لِواءَ النَّصْرِ تُرى",
+      "translation": "For we have fixed our eyes upon you and strive with perseverance. When shall we be happy, and see your beautiful form and fine aspect?",
+      "transliteration": "For we have fixed our eyes upon you and strive with perseverance. When shall we be happy, and see your beautiful form and fine aspect?",
+      "urduTranslation": "آپ ہمیں کب دیکھیں گے اور ہم آپ کو، جب آپ فتح کا پرچم لہرا چکے ہوں گے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَتَرانا نَحُفُّ بِكَ وَ اَنْتَ تَاُمُّ الْمَلاََ وَ",
+      "translation": "Groups of cheerful willing disciplined helpers, in great numbers, gathering around you to carry out one work after the other! You fulfilling (every promise) and giving joy, heart and confidence (to the faithfuls);",
+      "transliteration": "Groups of cheerful willing disciplined helpers, in great numbers, gathering around you to carry out one work after the other! You fulfilling (every promise) and giving joy, heart and confidence (to the faithfuls);",
+      "urduTranslation": "کیا آپ ہمیں اپنے گرد جمع دیکھیں گے جب آپ مخلوق کی قیادت کر رہے ہوں گے؟",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "قَدْ مَلأْتَ الاَْرْضَ عَدْلاً وَ اَذَقْتَ اَعْداءَكَ هَواناً وَ عِقاباً",
+      "translation": "filling the earth with justice; making your enemies follow the law and accept the revolution;",
+      "transliteration": "filling the earth with justice; making your enemies follow the law and accept the revolution;",
+      "urduTranslation": "اور آپ زمین کو عدل سے بھر دیں گے اور اپنے دشمنوں کو ذلت اور سزا کا مزہ چکھائیں گے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَبَرْتَ الْعُتاةَ وَ جَحَدَةَ الْحَقِّ",
+      "translation": "taking the wind out of the haughty and the boastful, and those who knew but denied the truth;",
+      "transliteration": "taking the wind out of the haughty and the boastful, and those who knew but denied the truth;",
+      "urduTranslation": "اور سرکشوں اور حق کا انکار کرنے والوں کو نابود کر دیں گے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ قَطَعْتَ دابِرَ الْمُتَكَبِّرينَ ، وَ اجْتَثَثْتَ اُصُولَ الظّالِمينَ",
+      "translation": "breaking the back of the proud and the arrogant; uprooting the roots of the unjust;",
+      "transliteration": "breaking the back of the proud and the arrogant; uprooting the roots of the unjust;",
+      "urduTranslation": "اور متکبرین کی جڑیں کاٹ دیں گے اور ظالموں کو جڑ سے اکھاڑ دیں گے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ نَحْنُ نَقُولُ الْحَمْدُ للهِ رَبِّ الْعالَمينَ",
+      "translation": "and we-singing the praise of Allah, the Lord of the worlds.",
+      "transliteration": "and we-singing the praise of Allah, the Lord of the worlds.",
+      "urduTranslation": "اور ہم اللہ، جہانوں کے پالنے والے کی حمد گا رہے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللّـهُمَّ اَنْتَ كَشّافُ ْالكُرَبِ وَ الْبَلْوى ، وَ اِلَيْكَ اَسْتَعْدى فَعِنْدَكَ الْعَدْوى",
+      "translation": "O my Allah! Thou disperses the clouds of sorrows and hardships. Unto Thee we turn to ask for help against the enemy; for Thou (alone) helps and guides.",
+      "transliteration": "O my Allah! Thou disperses the clouds of sorrows and hardships. Unto Thee we turn to ask for help against the enemy; for Thou (alone) helps and guides.",
+      "urduTranslation": "اے میرے اللہ! تو غموں اور مصیبتوں کے بادلوں کو بکھیر دیتا ہے۔ دشمن کے خلاف مدد مانگنے کے لیے ہم تیری طرف رجوع کرتے ہیں؛ کیونکہ تو (ہی) مدد کرتا اور رہنمائی کرتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَنْتَ رَبُّ الاْخِرَةِ وَ الدُّنْيا ( الاُولي ) ، فَاَغِثْ يا غِياثَ الْمُسْتَغيثينَ عُبَيْدَكَ الْمُبْتَلى",
+      "translation": "Thou (alone) puts into good order affairs of this world and shall make better the Hereafter. So come to help! O He Who is called to help the helpless, Thy servants, surrounded by calamities.",
+      "transliteration": "Thou (alone) puts into good order affairs of this world and shall make better the Hereafter. So come to help! O He Who is called to help the helpless, Thy servants, surrounded by calamities.",
+      "urduTranslation": "تو (ہی) اس دنیا کے معاملات کو درست کرتا ہے اور آخرت کو بہتر بنائے گا۔ پس مدد کے لیے آ! اے وہ جسے بے بسوں کی مدد کے لیے پکارا جاتا ہے، تیرے بندے، جو مصیبتوں میں گھرے ہوئے ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَرِهِ سَيِّدَهُ يا شَديدَ الْقُوى ، وَ اَزِلْ عَنْهُ بِهِ الاَْسى وَ الْجَوى",
+      "translation": "Show them the face of their Leader. O the Mightiest Almighty. Allow him to put an end to evil and corruption,",
+      "transliteration": "Show them the face of their Leader. O the Mightiest Almighty. Allow him to put an end to evil and corruption,",
+      "urduTranslation": "انہیں ان کے پیشوا کا چہرہ دکھا۔ اے سب سے طاقتور، غالب۔ اسے برائی اور فساد کو ختم کرنے کی اجازت دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ بَرِّدْ غَليلَهُ يا مَنْ عَلَى الْعَرْشِ اسْتَوى ، وَ مَنْ اِلَيْهِ الرُّجْعى وَ الْمُنْتَهى",
+      "translation": "and satisfy his Love (for the faithfuls) and dislike (for the sinners). O He Who, from the \"Arsh directs and controls all creation, and unto Him is the return, final and ultimate.",
+      "transliteration": "and satisfy his Love (for the faithfuls) and dislike (for the sinners). O He Who, from the \"Arsh directs and controls all creation, and unto Him is the return, final and ultimate.",
+      "urduTranslation": "اور اس کی محبت (مومنوں کے لیے) اور ناپسندیدگی (گنہگاروں کے لیے) کو مطمئن کر۔ اے وہ جو عرش سے تمام مخلوق کو چلاتا اور کنٹرول کرتا ہے، اور اسی کی طرف آخری اور حتمی واپسی ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللّـهُمَّ وَ نَحْنُ عَبيدُكَ التّائِقُونَ ( الشائقون ) اِلى وَلِيِّكَ الْمُذَكِّرِ بِكَ وَ بِنَبِيِّكَ",
+      "translation": "O my Allah! We are Thy servants, longing for Thy friend (appointed authority), who reminds us of Thee, and Thy Prophet,",
+      "transliteration": "O my Allah! We are Thy servants, longing for Thy friend (appointed authority), who reminds us of Thee, and Thy Prophet,",
+      "urduTranslation": "اے میرے اللہ! ہم تیرے بندے ہیں، تیرے دوست (مقرر کردہ حجت) کے مشتاق ہیں، جو ہمیں تیری اور تیرے نبی کی یاد دلاتا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَقَمْتَهُ لَنا قِواماً وَ مَعاذاً ، وَ جَعَلْتَهُ لِلْمُؤْمِنينَ مِنّا اِماماً",
+      "translation": "who was created as a refuge and asylum for us, established as a foundation and spring of truthfulness for us, and was made the Leader-Guide of the faithfuls.",
+      "transliteration": "who was created as a refuge and asylum for us, established as a foundation and spring of truthfulness for us, and was made the Leader-Guide of the faithfuls.",
+      "urduTranslation": "اور اس ہستی کو ہمارے لیے قائم مقام، پناہ گاہ اور مومنین کا امام بنائیں گے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَبَلِّغْهُ مِنّا تَحِيَّةً وَ سَلاماً ، وَ زِدْنا بِذلِكَ يارَبِّ اِكْراماً",
+      "translation": "Convey to him our heartfelt congratulations and welcome. Make us feel more deeply for him.",
+      "transliteration": "Convey to him our heartfelt congratulations and welcome. Make us feel more deeply for him.",
+      "urduTranslation": "پس ہماری طرف سے انہیں تحیت اور سلام پہنچا، اور اے رب اس کے ذریعے ہمیں مزید کرامت عطا فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اجْعَلْ مُسْتَقَرَّهُ لَنا مُسْتَقَرّاً وَ مُقاماً ، وَ اَتْمِمْ نِعْمَتَكَ بِتَقْديمِكَ اِيّاهُ اَمامَنا",
+      "translation": "O Lord! Very Kindly, make his headquarters our place of domicile and dwelling abode, and fulfill Thy promise by returning him to us as our Leader Guide, so that he takes us to the eternal land of peace and bliss,",
+      "transliteration": "O Lord! Very Kindly, make his headquarters our place of domicile and dwelling abode, and fulfill Thy promise by returning him to us as our Leader Guide, so that he takes us to the eternal land of peace and bliss,",
+      "urduTranslation": "اے پروردگار! بڑی مہربانی سے ان کے مستقر کو ہماری قیام گاہ اور رہائش گاہ بنا دے، اور انہیں ہمارے ہادی پیشوا کے طور پر واپس لا کر اپنا وعدہ پورا کر، تاکہ وہ ہمیں سلامتی اور خوشی کے ابدی مقام تک لے جائیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "حَتّى تُورِدَنا جِنانَكَ ( جَنّاتِكَ ) وَ مُرافَقَةَ الشُّهَداءِ مِنْ خُلَصائِكَ",
+      "translation": "where we shall rub elbows with Thy sincere servants who shed blood to pronounce the Faith.",
+      "transliteration": "where we shall rub elbows with Thy sincere servants who shed blood to pronounce the Faith.",
+      "urduTranslation": "جہاں ہم تیرے ان مخلص بندوں کے ساتھ کھڑے ہوں گے جنہوں نے ایمان کے اعلان کے لیے اپنا خون بہایا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللّـهُمَّ صَلِّ عَلى مُحَمَّدٍ وَ آلِ مُحَمَّدٍ",
+      "translation": "O Allah send Thy blessings on Muhammad and on the children of Muhammad.",
+      "transliteration": "O Allah send Thy blessings on Muhammad and on the children of Muhammad.",
+      "urduTranslation": "اے اللہ محمد اور آل محمد پر اپنی رحمتیں نازل فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ صَلِّ عَلى مُحَمَّدٍ جَدِّهِ وَ رَسُولِكَ السَّيِّدِ الاَكْبَرِ ، وَ عَلى اَبيهِ السَّيِّدِ الاَصْغَرِ",
+      "translation": "Bless his ancestor Muhammad, the Messenger, the foremost Leader, and bless his progenitor, the succeeding Leader,",
+      "transliteration": "Bless his ancestor Muhammad, the Messenger, the foremost Leader, and bless his progenitor, the succeeding Leader,",
+      "urduTranslation": "ان کے جد امجد محمد رسول اور اولین پیشوا پر درود بھیج، اور ان کے آباء و اجداد، جانشین پیشواؤں پر درود بھیج،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ جَدَّتِهِ الصِّدّيقَةِ الْكُبْرى فاطِمَةَ بِنْتِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَ آلِهِ ، وَ عَلى مَنِ اصْطَفَيْتَ مِنْ آبائِهِ الْبَرَرَةِ",
+      "translation": "and his great grandmother, the ever truthful, Faatimah daughter of Muhammad, and his chosen virtuous forefathers, and send blessings on him,",
+      "transliteration": "and his great grandmother, the ever truthful, Faatimah daughter of Muhammad, and his chosen virtuous forefathers, and send blessings on him,",
+      "urduTranslation": "اور اس کی پردادی، ہمیشہ سچ بولنے والی، فاطمہ بنت محمد، اور اس کے برگزیدہ نیک آباء و اجداد پر، اور اس پر درود بھیج،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ عَلَيْهِ اَفْضَلَ وَ اَكْمَلَ وَ اَتَمَّ وَ اَدْوَمَ وَ اَكْثَرَ وَ اَوْفَرَ",
+      "translation": "superior, whole, conclusive, staying, numerous, and full,",
+      "transliteration": "superior, whole, conclusive, staying, numerous, and full,",
+      "urduTranslation": "اور ان پر بہترین، مکمل، اتم، دائمی، کثیر اور وافر درود بھیج",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ما صَلَّيْتَ عَلى اَحَدٍ مِنْ اَصْفِيائِكَ وَ خِيَرَتِكَ مِنْ خَلْقِكَ",
+      "translation": "not ever bestowed (even) on any of Thy sincerely attached and pious friends from among Thy creation.",
+      "transliteration": "not ever bestowed (even) on any of Thy sincerely attached and pious friends from among Thy creation.",
+      "urduTranslation": "جیسا کہ تو نے اپنے برگزیدہ اور چنے ہوئے بندوں پر کبھی نہیں بھیجا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ صَلِّ عَلَيْهِ صَلاةً لا غايَةَ لِعَدَدِها وَ لا نِهايَةَ لِمَدَدِها وَ لا نَفادَ لاَِمَدِها",
+      "translation": "Bless him with blessings, (that) cannot be counted in numbers, cannot be \"proximated\" in space of time, cannot be consumed in terms of having nothing remaining.",
+      "transliteration": "Bless him with blessings, (that) cannot be counted in numbers, cannot be \"proximated\" in space of time, cannot be consumed in terms of having nothing remaining.",
+      "urduTranslation": "اس پر ایسی رحمتیں نازل فرما، جنہیں گنا نہ جا سکے، جن کا وقت میں اندازہ نہ لگایا جا سکے، اور جن کی انتہا نہ ہو سکے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللّـهُمَّ وَ اَقِمْ بِهِ الْحَقَّ وَ اَدْحِضْ بِهِ الْباطِلَ وَ اَدِلْ بِهِ اَوْلِياءَكَ وَ اَذْلِلْ بِهِ اَعْداءَكَ",
+      "translation": "Let us be friends with his ancestors. Give us courage to disperse those who oppose and try to prevent him, and make them stay in their shame and disgrace for ever.",
+      "transliteration": "Let us be friends with his ancestors. Give us courage to disperse those who oppose and try to prevent him, and make them stay in their shame and disgrace for ever.",
+      "urduTranslation": "اے اللہ، ان کے ذریعے حق کو قائم کر، باطل کو مٹا دے، اپنے اولیاء کو غلبہ عطا کر اور اپنے دشمنوں کو ذلیل کر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ صِلِ اللّهُمَّ بَيْنَنا وَ بَيْنَهُ وُصْلَةً تُؤَدّى اِلى مُرافَقَةِ سَلَفِهِ",
+      "translation": "Help us to discharge the duties made incumbent upon us by him, and make every effort to obey him,",
+      "transliteration": "Help us to discharge the duties made incumbent upon us by him, and make every effort to obey him,",
+      "urduTranslation": "اور اے اللہ، ہمارے اور ان کے درمیان ایسا تعلق قائم کر دے جو ہمیں ان کے آباء کی رفاقت تک پہنچا دے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اجْعَلْنا مِمَّنْ يَأخُذُ بِحُجْزَتِهِمْ ، وَ يَمْكُثُ في ظِلِّهِمْ",
+      "translation": "keep from that which is declared unlawful by him, rely upon him to get his approval.",
+      "transliteration": "keep from that which is declared unlawful by him, rely upon him to get his approval.",
+      "urduTranslation": "اور ہمیں ان میں سے قرار دے جو ان کا دامن تھامے ہوئے ہیں اور ان کے سائے میں قیام پذیر ہیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَعِنّا عَلى تَأدِيَةِ حُقُوقِهِ اِلَيْهِ ، وَ الاْجْتِهادِ في طاعَتِهِ ، وَ اجْتِنابِ مَعْصِيَتِهِ",
+      "translation": "Help us to discharge the duties made incumbent upon us by him, and make every effort to obey him, keep from that which is declared unlawful by him, rely upon him to get his approval.",
+      "transliteration": "Help us to discharge the duties made incumbent upon us by him, and make every effort to obey him, keep from that which is declared unlawful by him, rely upon him to get his approval.",
+      "urduTranslation": "اور ان کے حقوق کی ادائیگی میں ہماری مدد فرما، اور ان کی اطاعت میں پوری کوشش کرنے اور ان کی نافرمانی سے بچنے کی توفیق عطا کر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ امْنُنْ عَلَيْنا بِرِضاهُ ، وَهَبْ لَنا رَأَفَتَهُ وَ رَحْمَتَهُ وَ دُعاءَهُ وَ خَيْرَهُ",
+      "translation": "Let us be with him when he makes peace, and frees mankind from fear, gives currency to love are kindness, brings bliss and happiness, spreads good and virtue,",
+      "transliteration": "Let us be with him when he makes peace, and frees mankind from fear, gives currency to love are kindness, brings bliss and happiness, spreads good and virtue,",
+      "urduTranslation": "اور اپنی رضا کے ذریعے ہم پر احسان فرما، اور ہمیں ان کی شفقت، رحمت، دعا اور خیر و برکت عنایت کر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مانَنالُ بِهِ سَعَةً مِنْ رَحْمَتِكَ وَ فَوْزاً عِنْدَكَ",
+      "translation": "so that we may do our best to promote his cause through Thy mercy, and win victory for Thee.",
+      "transliteration": "so that we may do our best to promote his cause through Thy mercy, and win victory for Thee.",
+      "urduTranslation": "تاکہ اس کے ذریعے ہم تیری رحمت کی وسعت اور تیری بارگاہ میں کامیابی حاصل کر سکیں۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اجْعَلْ صَلاتَنا بِهِ مَقبُولَةً ، وَ ذُنُوبَنا بِهِ مَغْفُورَةً ، وَ دُعاءَنا بِهِ مُسْتَجاباً",
+      "translation": "Accept our prayers, forgive our sins, fulfil our desires,",
+      "transliteration": "Accept our prayers, forgive our sins, fulfil our desires,",
+      "urduTranslation": "اور ہماری نمازوں کو ان کے وسیلے سے قبول فرما، ہمارے گناہوں کو بخش دے، اور ہماری دعاؤں کو مستجاب کر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَرْزاقَنا بِهِ مَبْسُوطَةً ، وَ هُمُومَنا بِهِ مَكْفِيَّةً ، وَ حَوآئِجَنا بِهِ مَقْضِيَّةً",
+      "translation": "give us means of livelihood, unrestricted, make less our hardships, meet our demands in full (through him).",
+      "transliteration": "give us means of livelihood, unrestricted, make less our hardships, meet our demands in full (through him).",
+      "urduTranslation": "ان کے ذریعے ہمارے رزق میں کشادگی فرما، ہمارے غموں کو دور کر، اور ہماری حاجتیں پوری فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اَقْبِلْ اِلَيْنا بِوَجْهِكَ الْكَريمِ وَ اقْبَلْ تَقَرُّبَنا اِلَيْكَ",
+      "translation": "Turn towards us Thy kindness and loving aspects, and bring us close to Thee.",
+      "transliteration": "Turn towards us Thy kindness and loving aspects, and bring us close to Thee.",
+      "urduTranslation": "اور اپنی کریم ذات کے ساتھ ہماری طرف متوجہ ہو اور ہماری تیری بارگاہ میں تقرب کی کوششوں کو قبول فرما۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ انْظُرْ اِلَيْنا نَظْرَةً رَحيمَةً نَسْتَكْمِلُ بِهَا الْكَرامَةَ عِنْدَكَ ، ثُمَّ لا تَصْرِفْها عَنّا بِجُودِكَ",
+      "translation": "Turn the eyes of Thy mercy upon us, to bring to fullness Thy kind favours, and after that do not ever let them disappear in the name of Thy generosity,",
+      "transliteration": "Turn the eyes of Thy mercy upon us, to bring to fullness Thy kind favours, and after that do not ever let them disappear in the name of Thy generosity,",
+      "urduTranslation": "اور ہم پر اپنی رحمت کی نظر فرما جس سے ہم تیرے نزدیک کرامت کی تکمیل کر سکیں، پھر اپنی سخاوت کے صدقے اس نظرِ رحمت کو ہم سے کبھی نہ پھیر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَ اسْقِنا مِنْ حَوْضِ جَدِّهِ صَلَّى اللهُ عَلَيْهِ وَ آلِهِ بِكَأسِهِ وَ بِيَدِهِ",
+      "translation": "and give us the opportunity to quench our thirst from the spring of his great grandfather (Kawsar), (blessing of Allah be on him and on his children),",
+      "transliteration": "and give us the opportunity to quench our thirst from the spring of his great grandfather (Kawsar), (blessing of Allah be on him and on his children),",
+      "urduTranslation": "اور ہمیں ان کے جد امجد کے چشمے (کوثر) سے اپنی پیاس بجھانے کا موقع دے، (ان پر اور ان کی آل پر اللہ کی رحمت ہو)،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "رَيّاً رَوِيّاً هَنيئاً سائِغاً لا ظَمَاَ بَعْدَهُ يا اَرْحَمَ الرّاحِمين",
+      "translation": "using his cup, filled by him, fresh and pure, sufficient, wholesome, clear and cool, not leaving any desire thereafter, O the Most Merciful.",
+      "transliteration": "using his cup, filled by him, fresh and pure, sufficient, wholesome, clear and cool, not leaving any desire thereafter, O the Most Merciful.",
+      "urduTranslation": "اس کا پیالہ استعمال کرتے ہوئے، جو اس نے بھرا ہے، تازہ اور خالص، کافی، صحت بخش، صاف اور ٹھنڈا، جس کے بعد کوئی خواہش باقی نہ رہے، اے سب سے زیادہ رحم کرنے والے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

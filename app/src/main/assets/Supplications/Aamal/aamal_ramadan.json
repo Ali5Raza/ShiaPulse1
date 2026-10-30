@@ -1,0 +1,48 @@
+{
+  "id": "aamal_ramadan",
+  "title": "Aamal of Ramadan (General)",
+  "titleUr": "ماہ رمضان کے اعمال",
+  "titleAr": "أعمال شهر رمضان",
+  "category": "Monthly",
+  "categoryUr": "ماہانہ",
+  "categoryAr": "شهري",
+  "description": "Daily recommended acts for the Holy month of Ramadan.",
+  "descriptionUr": "ماہ رمضان کے مقدس مہینے کے لیے روزانہ کے مستحب اعمال۔",
+  "descriptionAr": "الأعمال اليومية المستحبة في شهر رمضان المبارك.",
+  "relevance": "Month of Ramadan",
+  "relevanceUr": "ماہ رمضان",
+  "relevanceAr": "شهر رمضان",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "Recitation of the Quran",
+      "titleUr": "تلاوت قرآن",
+      "titleAr": "تلاوة القرآن",
+      "description": "Ramadan is the spring of the Quran. Recite at least one Juz' daily.",
+      "descriptionUr": "رمضان قرآن کی بہار ہے۔ روزانہ کم از کم ایک پارہ تلاوت کریں۔",
+      "descriptionAr": "رمضان ربيع القرآن، يستحب تلاوة جزء واحد يومياً على الأقل."
+    },
+    {
+      "actNumber": 2,
+      "title": "Dua Iftitah",
+      "titleUr": "دعا افتتاح",
+      "titleAr": "دعاء الافتتاح",
+      "description": "Recite Dua Iftitah every night of Ramadan.",
+      "descriptionUr": "رمضان کی ہر رات دعا افتتاح پڑھیں۔",
+      "descriptionAr": "قراءة دعاء الافتتاح في كل ليلة من ليالي شهر رمضان."
+    },
+    {
+      "actNumber": 3,
+      "title": "Dua Ya Aliyyu Ya Azeem",
+      "titleUr": "دعا یا علی یا عظیم",
+      "titleAr": "دعاء يا علي يا عظيم",
+      "description": "Recite after every obligatory prayer.",
+      "descriptionUr": "ہر واجب نماز کے بعد پڑھیں۔",
+      "descriptionAr": "يُقرأ بعد كل فريضة.",
+      "arabicRecitation": "يَا عَلِيُّ يَا عَظِيمُ، يَا غَفُورُ يَا رَحِيمُ...",
+      "translation": "O High, O Great, O Forgiving, O Merciful...",
+      "urduTranslation": "اے بلند، اے عظیم، اے بخشنے والے، اے رحم کرنے والے...",
+      "transliteration": "Ya Aliyyu ya Azeem, ya Ghafooru ya Raheem..."
+    }
+  ]
+}

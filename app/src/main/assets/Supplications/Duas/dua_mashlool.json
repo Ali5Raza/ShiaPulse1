@@ -1,0 +1,1831 @@
+{
+  "id": "dua_mashlool",
+  "title": "Dua Mashlool",
+  "titleUr": "دعا مشلول",
+  "titleAr": "دعاء المشلول",
+  "category": "Dua",
+  "categoryUr": "دعائیں",
+  "categoryAr": "الأدعية",
+  "description": "Also known as the supplication of the youth stricken for his sin. Recommended for relief from difficulties.",
+  "descriptionUr": "گناہ کی وجہ سے مشلول ہوئے نوجوان کی دعا کے نام سے معروف۔ مشکلات سے نجات کے لیے پڑھنا مستحب ہے۔",
+  "descriptionAr": "يُعرف أيضاً بدعاء الشاب الذي أصابه الشلل بسبب ذنبه، ويستحب لطلب الفرج من الصعاب.",
+  "relevance": "Imam Ali (as) taught this dua to a youth whose hand had been paralyzed (mashlool).",
+  "relevanceUr": "امام علی (ع) نے یہ دعا اس نوجوان کو سکھائی جس کا ہاتھ مشلول ہو گیا تھا۔",
+  "relevanceAr": "علّم الإمام علي (ع) هذا الدعاء لشاب أصيبت يده بالشلل.",
+  "audioUrl": "",
+  "lines": [
+    {
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+      "transliteration": "bismi allahi alrrahmani alrrahimi",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "urduTranslation": "شروع اللہ کے نام سے جو بہت مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اَللَّهُمَّ إِنِّي اسْالُكَ بِٱسْمِكَ",
+      "transliteration": "allahumma inni as'aluka bismika",
+      "translation": "O Allah, verily I beseech You by Your Name:",
+      "urduTranslation": "اے اللہ! بے شک میں تجھ سے تیرے نام کا واسطہ دے کر سوال کرتا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ",
+      "transliteration": "bismi allahi alrrahmani alrrahimi",
+      "translation": "In the Name of Allah, the All-beneficent, the All-merciful.",
+      "urduTranslation": "شروع اللہ کے نام سے جو بہت مہربان اور نہایت رحم کرنے والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجَلاَلِ وَٱلإِكْرَامِ",
+      "transliteration": "ya dhaljalali wal-ikrami",
+      "translation": "O Lord of majesty and honor!",
+      "urduTranslation": "اے جلال اور بزرگی والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَيُّ يَا قَيُّومُ",
+      "transliteration": "ya hayyu ya qayyumu",
+      "translation": "O Ever-living! O Self-subsistent!",
+      "urduTranslation": "اے ہمیشہ زندہ رہنے والے! اے سب کو قائم رکھنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَيُّ لاَ إِلٰهَ إِلاَّ انتَ",
+      "transliteration": "ya hayyu la ilaha illa anta",
+      "translation": "O Ever-Living! There is no god but You!",
+      "urduTranslation": "اے ہمیشہ زندہ! تیرے سوا کوئی معبود نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا هُوَ يَا مَنْ لاَ يَعْلَمُ مَا هُوَ",
+      "transliteration": "ya huwa ya man la ya`lamu ma huwa",
+      "translation": "O He Whom none knows what He is,",
+      "urduTranslation": "اے وہ ذات! اے وہ جس کے بارے میں کوئی نہیں جانتا کہ وہ کیا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ كَيْفَ هُوَ",
+      "transliteration": "wa la kayfa huwa",
+      "translation": "nor how He is,",
+      "urduTranslation": "اور نہ یہ کہ وہ کیسا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ ايْنَ هُوَ",
+      "transliteration": "wa la ayna huwa",
+      "translation": "nor where He is,",
+      "urduTranslation": "اور نہ یہ کہ وہ کہاں ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ حَيْثُ هُوَ إِلاَّ هُوَ",
+      "transliteration": "wa la haythu huwa illa huwa",
+      "translation": "nor in what respect He is, but He!",
+      "urduTranslation": "اور نہ یہ کہ وہ کس جہت میں ہے سوائے اس کے کہ وہی ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْمُلْكِ وَٱلْمَلَكُوتِ",
+      "transliteration": "ya dhalmulki walmalakuti",
+      "translation": "O Possessor of dominion and kingdom!",
+      "urduTranslation": "اے بادشاہی اور ملکوت کے مالک!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلعِزَّةِ وَٱلْجَبرُوتِ",
+      "transliteration": "ya dhal`izzati waljabaruti",
+      "translation": "O Possessor of might and invincibility!",
+      "urduTranslation": "اے عزت اور جبروت کے مالک!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَلِكُ يَا قُدُّوسُ يَا سَلاَمُ",
+      "transliteration": "ya maliku ya quddusu ya salamu",
+      "translation": "O King! O All-holy! O Giver of peace!",
+      "urduTranslation": "اے بادشاہ! اے پاک ذات! اے سلامتی دینے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُؤْمِنُ يَا مُهَيْمِنُ",
+      "transliteration": "ya mu'minu ya muhayminu",
+      "translation": "O Granter of security! O All-preserver!",
+      "urduTranslation": "اے امن دینے والے! اے نگہبان!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَزِيزُ يَا جَبَّارُ يَا مُتَكَبِّرُ",
+      "transliteration": "ya `azizu ya jabbaru ya mutakabbiru",
+      "translation": "O Almighty! O All-compeller! O All-sublime!",
+      "urduTranslation": "اے غالب! اے زبردست! اے بڑائی والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا خَاِلقُ يَا بَارِئُ يَا مُصَوِّرُ",
+      "transliteration": "ya khaliqu yabari'u ya musawwiru",
+      "translation": "O Creator! O Maker! O Shaper!",
+      "urduTranslation": "اے پیدا کرنے والے! اے وجود بخشنے والے! اے صورت بنانے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُفِيدُ يَا مُدَبِّرُ",
+      "transliteration": "ya mufidu ya mudabbiru",
+      "translation": "O grantor of Benefits! O Director!",
+      "urduTranslation": "اے فائدہ پہنچانے والے! اے انتظام کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا شَدِيدُ يَا مُبْدِئُ",
+      "transliteration": "ya shadidu ya mubdi'u",
+      "translation": "O Severe (in punishing the evildoers)! O Originator!",
+      "urduTranslation": "اے سخت عذاب دینے والے! اے ایجاد کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُعِيدُ يَا مُبِيدُ",
+      "transliteration": "ya mu`idu yamubidu",
+      "translation": "O Returner! O Destroyer!",
+      "urduTranslation": "اے دوبارہ پیدا کرنے والے! اے فنا کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَدُودُ يَا مَحْمُودُ يَا مَعْبُودُ",
+      "transliteration": "ya wadudu ya mahmudu ya ma`budu",
+      "translation": "O All-loving! O All-praiseworthy! O All-worshipped!",
+      "urduTranslation": "اے محبت کرنے والے! اے تعریف کے لائق! اے عبادت کے لائق!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَعِيدُ يَا قَرِيبُ",
+      "transliteration": "ya ba`idu ya qaribu",
+      "translation": "O Far! O Nigh!",
+      "urduTranslation": "اے دور (اپنی حقیقت میں)! اے قریب (اپنی قدرت میں)!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُجِيبُ يَا رَقِيبُ يَا حَسِيبُ",
+      "transliteration": "ya mujibu yaraqibu ya hasibu",
+      "translation": "O Responder! O Watcher! O Reckoner!",
+      "urduTranslation": "اے دعا قبول کرنے والے! اے نگران! اے حساب لینے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَدِيعُ يَا رَفِيعُ",
+      "transliteration": "ya badi`u ya rafi`u",
+      "translation": "O Innovator! O Exalter!",
+      "urduTranslation": "اے نئی چیزیں پیدا کرنے والے! اے بلندی والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنِيعُ يَا سَمِيعُ",
+      "transliteration": "ya mani`u ya sami`u",
+      "translation": "O Inaccessible! O All-hearing!",
+      "urduTranslation": "اے ناقابل تسخیر! اے سب کچھ سننے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَلِيمُ يَا حَلِيمُ يَا كَرِيمُ",
+      "transliteration": "ya `alimu ya halimu ya karimu",
+      "translation": "O All-knowing! O All-clement! O All-generous!",
+      "urduTranslation": "اے سب کچھ جاننے والے! اے بردبار! اے کرم کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَكِيمُ يَا قَدِيمُ",
+      "transliteration": "ya hakimu ya qadimu",
+      "translation": "O All-wise! O Eternal!",
+      "urduTranslation": "اے حکمت والے! اے قدیم (ازلی)!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَلِيُّ يَا عَظِيمُ",
+      "transliteration": "ya `aliyyu ya `azimu",
+      "translation": "O All-high! O All-tremendous!",
+      "urduTranslation": "اے بلند مرتبہ! اے عظمت والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَنَّانُ يَا مَنَّانُ",
+      "transliteration": "ya hannanu ya mannanu",
+      "translation": "O All-commiserating! O All-gracious!",
+      "urduTranslation": "اے بہت شفقت کرنے والے! اے بہت احسان کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا دَيَّانُ يَا مُسْتَعَانُ",
+      "transliteration": "ya dayyanu ya musta`anu",
+      "translation": "O Condemner! O Recourse!",
+      "urduTranslation": "اے جزا و سزا دینے والے! اے وہ جس سے مدد مانگی جاتی ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَلِيلُ يَا جَمِيلُ",
+      "transliteration": "ya jalilu ya jamilu",
+      "translation": "O All-majestic! O All-handsome!",
+      "urduTranslation": "اے جلال والے! اے حسین!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَكِيلُ يَا كَفِيلُ",
+      "transliteration": "ya wakilu ya kafilu",
+      "translation": "O Guardian! O Surety!",
+      "urduTranslation": "اے کارساز! اے کفیل!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُقِيلُ يَا مُنِيلُ",
+      "transliteration": "ya muqilu ya munilu",
+      "translation": "O Annuller! O Bestower!",
+      "urduTranslation": "اے معاف کرنے والے! اے نوازنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا نَبِيلُ يَا دَلِيلُ",
+      "transliteration": "ya nabilu ya dalilu",
+      "translation": "O All-noble! O Leader!",
+      "urduTranslation": "اے شریف! اے رہنمائی کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا هَادِي يَا بَادِي",
+      "transliteration": "ya hadiyu ya badi",
+      "translation": "O Guide! O All-Apparent!",
+      "urduTranslation": "اے ہدایت دینے والے! اے ظاہر ہونے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اوَّلُ يَا آخِرُ",
+      "transliteration": "ya awwalu ya akhiru",
+      "translation": "O First! O Last!",
+      "urduTranslation": "اے اول! اے آخر!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ظَاهِرُ يَا بَاطِنُ",
+      "transliteration": "ya zahiru ya batinu",
+      "translation": "O Outward! O Inward!",
+      "urduTranslation": "اے ظاہر! اے باطن!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا قَائِمُ يَا دَائِمُ",
+      "transliteration": "ya qa'imu ya da'imu",
+      "translation": "O All-steadfast! O Everlasting!",
+      "urduTranslation": "اے قائم رہنے والے! اے ہمیشہ رہنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَالِمُ يَا حَاكِمُ",
+      "transliteration": "ya `alimu ya hakimu",
+      "translation": "O Knower! O Decider!",
+      "urduTranslation": "اے علم رکھنے والے! اے حکم دینے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا قَاضِي يَا عَادِلُ",
+      "transliteration": "ya qadiyu ya `adilu",
+      "translation": "O Judge! O Just!",
+      "urduTranslation": "اے فیصلہ کرنے والے! اے انصاف کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا فَاصِلُ يَا وَاصِلُ",
+      "transliteration": "ya fasilu ya wasilu",
+      "translation": "O Separator! O Joiner!",
+      "urduTranslation": "اے جدا کرنے والے! اے ملانے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا طَاهِرُ يَا مُطَهِّرُ",
+      "transliteration": "ya tahiru ya mutahhiru",
+      "translation": "O Pure! O Purifier!",
+      "urduTranslation": "اے پاک ذات، اے پاک کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا قَادِرُ يَا مُقْتَدِرُ",
+      "transliteration": "ya qadiru ya muqtadiru",
+      "translation": "O All-powerful! O All-able!",
+      "urduTranslation": "اے قدرت والے، اے اقتدار والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَبِيرُ يَا مُتَكَبِّرُ",
+      "transliteration": "ya kabiru ya mutakabbiru",
+      "translation": "O All-great! O All-sublime!",
+      "urduTranslation": "اے عظمت والے، اے کبریائی والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَاحِدُ يَا احَدُ يَا صَمَدُ",
+      "transliteration": "ya wahidu ya ahadu ya samadu",
+      "translation": "O One! O Unique! O eternally Besought of all!",
+      "urduTranslation": "اے ایک، اے یکتا، اے بے نیاز",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "transliteration": "ya man lam yalid wa lam yulad",
+      "translation": "O He Who begets not and was not begotten,",
+      "urduTranslation": "اے وہ جس کی نہ کوئی اولاد ہے اور نہ وہ کسی کی اولاد ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلَمْ يَكُن لَهُ كُفُواً احَدٌ",
+      "transliteration": "wa lam yakun lahu kufwan ahadun",
+      "translation": "equal to Whom is none,",
+      "urduTranslation": "اور اس کا کوئی ہمسر نہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلَمْ يَكُن لَهُ صَاحِبَةً",
+      "transliteration": "wa lam yakun lahu sahibatun",
+      "translation": "Who has no consort,",
+      "urduTranslation": "اور نہ ہی اس کی کوئی بیوی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ كَانَ مَعَهُ وَزِيرٌ",
+      "transliteration": "wa la kana ma`ahu wazirun",
+      "translation": "with Him is no aide",
+      "urduTranslation": "اور نہ ہی اس کے ساتھ کوئی وزیر ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ ٱتَّخَذَ مَعَهُ مُشِيراً",
+      "transliteration": "wa la ittakhadha ma`ahu mushiran",
+      "translation": "nor has He taken any adviser,",
+      "urduTranslation": "اور نہ ہی اس نے کسی کو مشیر بنایا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ ٱحْتَاجَ إِلَىٰ ظَهِيرٍ",
+      "transliteration": "wa la ihtaja ila zahirin",
+      "translation": "nor needs He any assistant,",
+      "urduTranslation": "اور نہ ہی اسے کسی مددگار کی ضرورت ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ كَانَ مَعَهُ مِنَ إِلٰهٍ غَيْرُهُ",
+      "transliteration": "wa la kana ma`ahu min ilahin ghayruhu",
+      "translation": "nor with Him is any god but He—",
+      "urduTranslation": "اور نہ ہی اس کے سوا کوئی معبود ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لاَ إِلٰهَ إِلاَّ انتَ",
+      "transliteration": "la ilaha illa anta",
+      "translation": "there is no god but You.",
+      "urduTranslation": "تیرے سوا کوئی معبود نہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَتَعَالَيْتَ عَمَّا يَقُولُ ٱلظَّالِمُونَ عُلُوّاً كَبِيراً",
+      "transliteration": "fata`alayta `amma yaqulu alzzalimuna `uluwwan kabiran",
+      "translation": "So exalted are You above what the evildoers say, a great exaltation!",
+      "urduTranslation": "پس تو بہت بلند ہے اس سے جو ظالم کہتے ہیں، نہایت بلندی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَلِيُّ يَا شَامِخُ يَا بَاِذخُ",
+      "transliteration": "ya `aliyyu ya shamikhu ya badhikhu",
+      "translation": "O All-high! O All-lofty! O All-towering!",
+      "urduTranslation": "اے بلند مرتبہ، اے عالی شان، اے رفعت والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا فَتَّاحُ يَا نَفَّاحُ يَا مُرْتَاحُ",
+      "transliteration": "ya fattahu ya naffahu ya murtahu",
+      "translation": "O All-opener! O All-diffuser! O All-restful!",
+      "urduTranslation": "اے کھولنے والے، اے فیض رساں، اے راحت بخشنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُفَرِّجُ يَا نَاصِرُ يَا مُنْتَصِرُ",
+      "transliteration": "ya mufarriju ya nasiru ya muntasiru",
+      "translation": "O Bestower of relief! O Helper! O Giver of victory!",
+      "urduTranslation": "اے کشادگی پیدا کرنے والے، اے مددگار، اے فتح دینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُدْرِكُ يَا مُهْلِكُ يَا مُنْتَقِمُ",
+      "transliteration": "ya mudriku ya muhliku ya muntaqimu",
+      "translation": "O Comprehender! O Destroyer! O Avenger!",
+      "urduTranslation": "اے پانے والے، اے ہلاک کرنے والے، اے انتقام لینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَاعِثُ يَا وَارِثُ",
+      "transliteration": "ya ba`ithu ya warithu",
+      "translation": "O Upraiser! O Inheritor!",
+      "urduTranslation": "اے اٹھانے والے، اے وارث",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا طَاِلبُ يَا غَاِلبُ",
+      "transliteration": "ya talibu ya ghalibu",
+      "translation": "O Seeker! O Vanquisher!",
+      "urduTranslation": "اے طلب کرنے والے، اے غالب آنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ يَفُوتُهُ هَارِبٌ",
+      "transliteration": "ya man la yafutuhu haribun",
+      "translation": "O He from Whom no fugitive can escape!",
+      "urduTranslation": "اے وہ جس سے کوئی بھاگنے والا بچ نہیں سکتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا تَوَّابُ يَا اوَّابُ يَا وَهَّابُ",
+      "transliteration": "ya tawwabu ya awwabu ya wahhabu",
+      "translation": "O All-relenting! O All-forbearing! O All-bestower!",
+      "urduTranslation": "اے توبہ قبول کرنے والے، اے پلٹنے والے، اے بخشنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُسَبِّبَ ٱلاسْبَابِ",
+      "transliteration": "ya musabbiba al-asbabi",
+      "translation": "O Originator of all means!",
+      "urduTranslation": "اے اسباب کے پیدا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُفَتِّحَ ٱلابْوَابِ",
+      "transliteration": "ya mufattiha al-abwabi",
+      "translation": "O Opener of all doors!",
+      "urduTranslation": "اے دروازے کھولنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ حَيْثُ مَا دُعِي اجَابَ",
+      "transliteration": "ya man haythu ma du`iya ajaba",
+      "translation": "O He Who answers wherever He is called upon!",
+      "urduTranslation": "اے وہ جس کو جہاں سے بھی پکارا جائے وہ جواب دیتا ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا طَهُورُ يَا شَكُورَ",
+      "transliteration": "ya tahuru ya shakuru",
+      "translation": "O All-Pure! O All-thankful!",
+      "urduTranslation": "اے پاک کرنے والے، اے قدر دان",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَفُوُّ يَا غَفُورُ",
+      "transliteration": "ya `afuwwu ya ghafuru",
+      "translation": "O Exempter! O Forgiver!",
+      "urduTranslation": "اے درگزر کرنے والے، اے بخشنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا نُورَ ٱلنُّورِ",
+      "transliteration": "ya nura alnnuri",
+      "translation": "O Light of light!",
+      "urduTranslation": "اے نوروں کے نور",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُدَبِّرَ ٱلامُورِ",
+      "transliteration": "ya mudabbira al-umuri",
+      "translation": "O Director of all affairs!",
+      "urduTranslation": "اے تمام کاموں کے تدبیر کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا لَطِيفُ يَا خَبِيرُ",
+      "transliteration": "ya latifu ya khabiru",
+      "translation": "O All-subtle! O All-aware!",
+      "urduTranslation": "اے لطیف، اے باخبر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُجِيرُ يَا مُنِيرُ",
+      "transliteration": "ya mujiru ya muniru",
+      "translation": "O Protector! O Illuminator!",
+      "urduTranslation": "اے پناہ دینے والے، اے روشن کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَصِيرُ يَا ظَهِيرُ يَا كَبِيرُ",
+      "transliteration": "ya basiru ya zahiru ya kabiru",
+      "translation": "O All-seeing! O All-aiding! O All-great!",
+      "urduTranslation": "اے بصیر، اے مددگار، اے عظمت والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وِتْرُ يَا فَرْدُ",
+      "transliteration": "ya witru ya fardu",
+      "translation": "O Alone! O Solitary!",
+      "urduTranslation": "اے تنہا، اے یکتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ابَدُ يَا سَنَدُ يَا صَمَدُ",
+      "transliteration": "ya abadu ya sanadu ya samadu",
+      "translation": "O Eternity without end! O Support! O Everlasting Refuge!",
+      "urduTranslation": "اے ابدی، اے سہارا، اے بے نیاز",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَافِي يَا شَافِي",
+      "transliteration": "ya kafi ya shafi",
+      "translation": "O All-sufficient! O All-healing!",
+      "urduTranslation": "اے کافی ہونے والے، اے شفا دینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَافِي يَا مُعَافِي",
+      "transliteration": "ya wafi ya mu`afi",
+      "translation": "O All-fulfilling! O All-relieving!",
+      "urduTranslation": "اے وفا کرنے والے، اے عافیت دینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُحْسِنُ يَا مُجْمِلُ",
+      "transliteration": "ya muhsinu ya mujmilu",
+      "translation": "O All-kind! O All-gracious!",
+      "urduTranslation": "اے احسان کرنے والے، اے خوبی پیدا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُنْعِمُ يَا مُفْضِلُ",
+      "transliteration": "ya mun`imu ya mufdilu",
+      "translation": "O All-benevolent! O All-bountiful!",
+      "urduTranslation": "اے نعمت دینے والے، اے فضل کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُتَكَرِّمُ يَا مُتَفَرِّدُ",
+      "transliteration": "ya mutakarrimu ya mutafarridu",
+      "translation": "O All-beneficent! O All-solitary!",
+      "urduTranslation": "اے کرم کرنے والے، اے تنہا ہونے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ عَلاَ فَقَهَرَ",
+      "transliteration": "ya man `ala faqahara",
+      "translation": "O He Who is exalted and dominates!",
+      "urduTranslation": "اے وہ جو بلند ہوا تو غلبہ پا لیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ مَلَكَ فَقَدَرَ",
+      "transliteration": "ya man malaka faqadara",
+      "translation": "O He Who is master and exercises power!",
+      "urduTranslation": "اے وہ جس نے بادشاہی کی تو قدرت پا لی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ بَطَنَ فَخَبَرَ",
+      "transliteration": "ya man batana fakhabara",
+      "translation": "O He Who is inward and aware!",
+      "urduTranslation": "اے وہ جو باطن ہے اور باخبر ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ عُبِدَ فَشَكَرَ",
+      "transliteration": "ya man `ubida fashakara",
+      "translation": "O He Who is worshipped and thankful!",
+      "urduTranslation": "اے وہ جس کی عبادت کی گئی تو اس نے قدردانی کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ عُصِي فَغَفَرَ",
+      "transliteration": "ya man `usiya faghafara",
+      "translation": "O He Who is disobeyed and forgives!",
+      "urduTranslation": "اے وہ جس کی نافرمانی کی گئی تو اس نے معاف کر دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ تَحْوِيهِ ٱلْفِكَرُ",
+      "transliteration": "ya man la tahwihi alfikaru",
+      "translation": "O He Who is not encompassed by thoughts,",
+      "urduTranslation": "اے وہ جسے خیالات احاطہ نہیں کر سکتے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ يُدْرِكُهُ بَصَرٌ",
+      "transliteration": "wa la yudrikuhu basarun",
+      "translation": "nor perceived by vision,",
+      "urduTranslation": "اور نہ ہی نظر اس کا ادراک کر سکتی ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ يَخْفَىٰ عَلَيْهِ اثَرٌ",
+      "transliteration": "wa la yakhfa `alayhi atharun",
+      "translation": "and from Whom no trace remains hidden!",
+      "urduTranslation": "اور جس سے کوئی بھی اثر مخفی نہیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَازِقَ ٱلْبَشَرِ",
+      "transliteration": "ya raziqa albashari",
+      "translation": "O Provider of mankind!",
+      "urduTranslation": "اے انسانوں کو رزق دینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُقَدِّرَ كُلِّ قَدَرٍ",
+      "transliteration": "ya muqaddira kulli qadarin",
+      "translation": "O Determiner of every lot!",
+      "urduTranslation": "اے ہر تقدیر کو مقرر کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَالِي ٱلْمَكَانِ",
+      "transliteration": "ya `aliya almakani",
+      "translation": "O Lofty in place!",
+      "urduTranslation": "اے بلند مرتبہ والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا شَدِيدَ ٱلارْكَانِ",
+      "transliteration": "ya shadida al-arkani",
+      "translation": "O Firm in supports!",
+      "urduTranslation": "اے مضبوط ستونوں والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُبَدِّلَ ٱلزَّمَانِ",
+      "transliteration": "ya mubaddila alzzamani",
+      "translation": "O Transformer of times!",
+      "urduTranslation": "اے زمانوں کو بدلنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا قَابِلَ ٱلقُرْبَانِ",
+      "transliteration": "ya qabila alqurbani",
+      "translation": "O Accepter of sacrifices!",
+      "urduTranslation": "اے قربانی قبول کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْمَنِّ وَٱلإِحْسَانِ",
+      "transliteration": "ya dhalmanni wal-ihsani",
+      "translation": "O Lord of graciousness and benevolence!",
+      "urduTranslation": "اے احسان اور بخشش والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْعِزَّةِ وَٱلسُّلْطَانِ",
+      "transliteration": "ya dhal`izzati walssultani",
+      "translation": "O Lord of might and force!",
+      "urduTranslation": "اے عزت اور سلطنت کے مالک",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَحِيمُ يَا رَحْمٰنُ",
+      "transliteration": "ya rahimu ya rahmanu",
+      "translation": "O All-compassionate! O All-merciful!",
+      "urduTranslation": "اے رحیم اور اے رحمان",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ هُوَ كُلَّ يَوْمٍ فِي شَانٍ",
+      "transliteration": "ya man huwa kulla yawmin fi sha'nin",
+      "translation": "O He Who is every day upon some labor!",
+      "urduTranslation": "اے وہ جو ہر روز ایک نئی شان میں ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ يَشْغَلُهُ شَانٌ عَنْ شَانٍ",
+      "transliteration": "ya man la yashghaluhu sha'nun `an sha'nin",
+      "translation": "O He Who is not distracted from one labor by another!",
+      "urduTranslation": "اے وہ جسے ایک کام دوسرے کام سے مشغول نہیں کرتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عَظِيمَ ٱلشَّانِ",
+      "transliteration": "ya `azima alshsha'ni",
+      "translation": "O Tremendous in rank!",
+      "urduTranslation": "اے عظیم الشان",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ هُوَ بِكُلِّ مَكَانٍ",
+      "transliteration": "ya man huwa bikulli makanin",
+      "translation": "O He Who is in every place!",
+      "urduTranslation": "اے وہ جو ہر جگہ موجود ہے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا سَامِعَ ٱلاصْوَاتِ",
+      "transliteration": "ya sami`a al-aswati",
+      "translation": "O He Who hears all sounds!",
+      "urduTranslation": "اے تمام آوازوں کے سننے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُجِيبَ ٱلدَّعَوَاتِ",
+      "transliteration": "ya mujiba aldda`awati",
+      "translation": "O He Who answers all supplications!",
+      "urduTranslation": "اے دعاؤں کو قبول کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُنجِحَ ٱلطَّلِبَاتِ",
+      "transliteration": "ya munjiha alttalibati",
+      "translation": "O He Who fulfils all entreaties!",
+      "urduTranslation": "اے مرادوں کو پورا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا قَاضِي ٱلْحَاجَاتِ",
+      "transliteration": "ya qadiya alhajati",
+      "translation": "O He Who provides all needs!",
+      "urduTranslation": "اے حاجتوں کو پورا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُنْزِلَ ٱلْبَرَكَاتِ",
+      "transliteration": "ya munzila albarakati",
+      "translation": "O He Who sends down blessings!",
+      "urduTranslation": "اے برکتیں نازل کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَاحِمَ ٱلْعَبَرَاتِ",
+      "transliteration": "ya rahima al`abarati",
+      "translation": "O He Who has mercy upon tears!",
+      "urduTranslation": "اے آنسوؤں پر رحم کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُقِيلَ ٱلْعَثَرَاتِ",
+      "transliteration": "ya muqila al`atharati",
+      "translation": "O He Who annuls slips!",
+      "urduTranslation": "اے لغزشوں کو معاف کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَاشِفَ ٱلْكُرُبَاتِ",
+      "transliteration": "ya kashifa alkurubati",
+      "translation": "O He Who removes troubles!",
+      "urduTranslation": "اے مصیبتوں کو دور کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَلِيَّ ٱلْحَسَنَاتِ",
+      "transliteration": "ya waliyya alhasanati",
+      "translation": "O He Who sponsors good things!",
+      "urduTranslation": "اے نیکیوں کے سرپرست",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَافِعَ ٱلدَّرَجَاتِ",
+      "transliteration": "ya rafi`a alddarajati",
+      "translation": "O He Who exalts in rank!",
+      "urduTranslation": "اے درجات کو بلند کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُؤْتِي ٱلسُّؤْلاَتِ",
+      "transliteration": "ya mu'tiya alssu'lati",
+      "translation": "O He Who bestows requests!",
+      "urduTranslation": "اے مانگی ہوئی مرادوں کو عطا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُحْيِي ٱلامْوَاتِ",
+      "transliteration": "ya muhyiya al-amwati",
+      "translation": "O He Who gives life to the dead!",
+      "urduTranslation": "اے مردوں کو زندہ کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَامِعَ ٱلشَّتَاتِ",
+      "transliteration": "ya jami`a alshshatati",
+      "translation": "O He Who gathers all scattered things!",
+      "urduTranslation": "اے بکھری ہوئی چیزوں کو جمع کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُطَّلِعاً عَلىٰ ٱلنِّيَاتِ",
+      "transliteration": "ya muttali`an `ala alnniyyati",
+      "translation": "O He Who is aware of all intentions!",
+      "urduTranslation": "اے نیتوں سے باخبر",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَادَّ مَا قَدْ فَاتَ",
+      "transliteration": "ya radda ma qad fata",
+      "translation": "O He Who brings back what has passed away!",
+      "urduTranslation": "اے گزرے ہوئے کو لوٹانے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ تَشْتَبِهُ عَلَيْهِ ٱلاصْوَاتُ",
+      "transliteration": "ya man la tashtabihu `alayhi al-aswatu",
+      "translation": "O He for Whom sounds are never indistinct!",
+      "urduTranslation": "اے وہ جس پر آوازیں مشتبہ نہیں ہوتیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ تُضْجِرُهُ ٱلْمَسْالاَتُ",
+      "transliteration": "ya man la tudjiruhu almas'alatu",
+      "translation": "O He Who never becomes annoyed at requests",
+      "urduTranslation": "اے وہ جو سوالات سے اکتا نہیں جاتا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَلاَ تَغْشَاهُ ٱلظُّلُمَاتُ",
+      "transliteration": "wa la taghshahu alzzulumatu",
+      "translation": "nor covered by shadows!",
+      "urduTranslation": "اور جسے تاریکیاں چھپا نہیں سکتیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا نُورَ ٱلارْضِ وَٱلسَّمَاوَاتِ",
+      "transliteration": "ya nura al-ardi walssamawati",
+      "translation": "O Light of the earth and the heavens!",
+      "urduTranslation": "اے زمین و آسمان کے نور",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا سَاِبغَ ٱلنِّعَمِ",
+      "transliteration": "ya sabigha alnni`ami",
+      "translation": "O Ample in blessings!",
+      "urduTranslation": "اے نعمتوں کو مکمل کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا دَافِعَ ٱلنِّقمِ",
+      "transliteration": "ya dafi`a alnniqami",
+      "translation": "O Repeller of adversities!",
+      "urduTranslation": "اے مصیبتوں کو ٹالنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَارِئَ ٱلنَّسَمِ",
+      "transliteration": "ya bari'a alnnasami",
+      "translation": "O Maker of the breaths of life!",
+      "urduTranslation": "اے روحوں کو پیدا کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَامِعَ ٱلامَمِ",
+      "transliteration": "ya jami`a al-umami",
+      "translation": "O He Who gathers together the nations!",
+      "urduTranslation": "اے امتوں کو اکٹھا کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا شَافِي ٱلسَّقَمِ",
+      "transliteration": "ya shafiya alssaqami",
+      "translation": "O Healer of illnesses!",
+      "urduTranslation": "اے بیماریوں کو شفا دینے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا خَاِلقَ ٱلنُّورِ وَٱلظُّلَمِ",
+      "transliteration": "ya khaliqa alnnuri walzzulami",
+      "translation": "O Creator of light and darkness!",
+      "urduTranslation": "اے نور اور تاریکیوں کے خالق!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجُودِ وَٱلْكَرَمِ",
+      "transliteration": "ya dhaljudi walkarami",
+      "translation": "O Lord of munificence and generosity!",
+      "urduTranslation": "اے جود و کرم کے مالک!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ يَطَا عَرْشَهُ قَدَمٌ",
+      "transliteration": "ya man la yata'u `arshahu qadamun",
+      "translation": "O He upon Whose Throne no foot treads!",
+      "urduTranslation": "اے وہ جس کے عرش پر کوئی قدم نہیں رکھ سکتا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اجْوَدَ ٱلاجْوَدِينَ",
+      "transliteration": "ya ajwada al-ajwadina",
+      "translation": "O Most Munificent of the most munificent!",
+      "urduTranslation": "اے سب سے زیادہ سخیوں میں سخی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اكْرَمَ ٱلاكْرَمِينَ",
+      "transliteration": "ya akrama al-akramina",
+      "translation": "O Most Generous of the most generous!",
+      "urduTranslation": "اے سب سے زیادہ کرم کرنے والوں میں کریم!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اسْمَعَ ٱلسَّامِعِينَ",
+      "transliteration": "ya asma`a alssami`ina",
+      "translation": "O Most Hearing of the hearers!",
+      "urduTranslation": "اے سب سے زیادہ سننے والوں میں سننے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ابْصَرَ ٱلنَّاظِرِينَ",
+      "transliteration": "ya absara alnnazirina",
+      "translation": "O Most Seeing of the viewers!",
+      "urduTranslation": "اے سب سے زیادہ دیکھنے والوں میں دیکھنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَارَ ٱلْمُسْتَجِيرِينَ",
+      "transliteration": "ya jara almustajirina",
+      "translation": "O Protector of those who seek protection!",
+      "urduTranslation": "اے پناہ مانگنے والوں کے پناہ دہندہ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا امَانَ ٱلْخَائِفِينَ",
+      "transliteration": "ya amana alkha'ifina",
+      "translation": "O Sanctuary of the fearful!",
+      "urduTranslation": "اے ڈرنے والوں کے امن!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ظَهْرَ ٱللاَّجِينَ",
+      "transliteration": "ya zahra allaji'ina",
+      "translation": "O Asylum of the refugees!",
+      "urduTranslation": "اے بھاگ کر آنے والوں کی آماجگاہ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَلِيَّ ٱلْمُؤْمِنِينَ",
+      "transliteration": "ya waliyya almu'minina",
+      "translation": "O Patron of the believers!",
+      "urduTranslation": "اے مومنوں کے ولی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا غِيَاثَ ٱلْمَسْتَغِيثِينَ",
+      "transliteration": "ya ghiyatha almustaghithina",
+      "translation": "O Helper of those who seek aid!",
+      "urduTranslation": "اے فریاد کرنے والوں کے فریاد رس!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا غَايَةَ ٱلطَّاِلبِينَ",
+      "transliteration": "ya ghayata alttalibina",
+      "translation": "O Goal of the seekers!",
+      "urduTranslation": "اے طلب کرنے والوں کی آخری منزل!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا صَاحِبَ كُلِّ غَرِيبٍ",
+      "transliteration": "ya sahiba kulli gharibin",
+      "translation": "O Companion of every stranger!",
+      "urduTranslation": "اے ہر پردیسی کے ساتھی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُؤْنِسَ كُلِّ وَحِيدٍ",
+      "transliteration": "ya mu'nisa kulli wahidin",
+      "translation": "O Intimate of everyone alone!",
+      "urduTranslation": "اے ہر تنہا کے مونس و غمگسار!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَلْجَا كُلِّ طَرِيدٍ",
+      "transliteration": "ya malja'a kulli taridin",
+      "translation": "O Refuge of every outcast!",
+      "urduTranslation": "اے ہر نکالے گئے کے ٹھکانے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَاوَىٰ كُلِّ شَرِيدٍ",
+      "transliteration": "ya ma'wa kulli sharidin",
+      "translation": "O Shelter of every wanderer!",
+      "urduTranslation": "اے ہر بھٹکے ہوئے کے ملجا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَافِظَ كُلِّ ضَالَّةٍ",
+      "transliteration": "ya hafiza kulli dallatin",
+      "translation": "O Custodian of everyone astray!",
+      "urduTranslation": "اے ہر گمشدہ کے محافظ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَاحِمَ ٱلشَّيْخِ ٱلْكَبِيرِ",
+      "transliteration": "ya rahima alshshaykhi alkabiri",
+      "translation": "O He Who is merciful to old men!",
+      "urduTranslation": "اے بوڑھے شخص پر رحم کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَازِقَ ٱلطِّفْلِ ٱلصَّغِيرِ",
+      "transliteration": "ya raziqa alttifli alssaghiri",
+      "translation": "O He Who provides for small infants!",
+      "urduTranslation": "اے چھوٹے بچے کو رزق دینے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَابِرَ ٱلْعَظْمِ ٱلْكَسِيرِ",
+      "transliteration": "ya jabira al`azmi alkasiri",
+      "translation": "O He Who sets broken bones!",
+      "urduTranslation": "اے ٹوٹی ہڈی کو جوڑنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا فَاكَّ كُلِّ اسِيرٍ",
+      "transliteration": "ya fakka kulli asirin",
+      "translation": "O He Who releases every prisoner!",
+      "urduTranslation": "اے ہر قیدی کو آزاد کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُغْنِي ٱلْبَائِسِ ٱلْفَقِيرِ",
+      "transliteration": "ya mughniya alba'isi alfaqiri",
+      "translation": "O He Who enriches the miserable pauper!",
+      "urduTranslation": "اے بدحال فقیر کو غنی کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عِصْمَةَ ٱلْخَائِفِ ٱلْمُسْتَجِيرِ",
+      "transliteration": "ya `ismata alkha'ifi almustajiri",
+      "translation": "O He Who safeguards the fearful seeker of protection!",
+      "urduTranslation": "اے ڈر کر پناہ مانگنے والے کی عصمت!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لَهُ ٱلتَّدْبِيرُ وَٱلتَّقْدِيرُ",
+      "transliteration": "ya man lahu alttadbiru walttaqdiru",
+      "translation": "O He Who governs and determines!",
+      "urduTranslation": "اے وہ جس کے ہاتھ میں تدبیر اور تقدیر ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنِ ٱلْعَسِيرُ عَلَيْهِ سَهْلٌ يَسِيرٌ",
+      "transliteration": "ya mani al`asiru `alayhi sahlun yasirun",
+      "translation": "O He for Whom the difficult is simple and easy!",
+      "urduTranslation": "اے وہ جس کے لیے مشکل بھی آسان اور سہل ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ لاَ يَحْتَاجُ إِلَىٰ تَفْسِيرٍ",
+      "transliteration": "ya man la yahtaju ila tafsirin",
+      "translation": "O He Who never needs an explanation!",
+      "urduTranslation": "اے وہ جسے کسی وضاحت کی ضرورت نہیں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ هُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "ya man huwa `ala kulli shay'in qadirun",
+      "translation": "O He Who is powerful over everything!'",
+      "urduTranslation": "اے وہ جو ہر چیز پر قادر ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ هُوَ بِكُلِّ شَيْءٍ خَبِيرٌ",
+      "transliteration": "ya man huwa bikulli shay'in khabirun",
+      "translation": "O He Who is aware of everything!",
+      "urduTranslation": "اے وہ جو ہر چیز سے باخبر ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ هُوَ بِكُلِّ شَيءٍ بَصِيرٌ",
+      "transliteration": "ya man huwa bikulli shay'in basirun",
+      "translation": "O He Who sees everything!",
+      "urduTranslation": "اے وہ جو ہر چیز کو دیکھنے والا ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُرْسِلَ ٱلرِّيَاحِ",
+      "transliteration": "ya mursila alrriyahi",
+      "translation": "O Sender of the winds!",
+      "urduTranslation": "اے ہواؤں کو بھیجنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا فَاِلقَ ٱلإِصْبَاحِ",
+      "transliteration": "ya faliqa al-isbahi",
+      "translation": "O Cleaver of the dawn!",
+      "urduTranslation": "اے صبح کو روشن کرنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا بَاعِثَ ٱلارْوَاحِ",
+      "transliteration": "ya ba`itha al-arwahi",
+      "translation": "O Dispatcher of the spirits!",
+      "urduTranslation": "اے روحوں کو اٹھانے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجُودِ وَٱلسَّمَاحِ",
+      "transliteration": "ya dhaljudi walssamahi",
+      "translation": "O Lord of munificence and forbearance!",
+      "urduTranslation": "اے جود و سخاوت کے مالک!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ بِيَدِهِ كُلُّ مِفْتَاحٍ",
+      "transliteration": "ya man biyadihi kullu miftahin",
+      "translation": "O He in Whose Hand is every key!",
+      "urduTranslation": "اے وہ جس کے ہاتھ میں ہر کنجی ہے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا سَامِعَ كُلِّ صَوْتٍ",
+      "transliteration": "ya sami`a kulli sawtin",
+      "translation": "O He Who hears every sound!",
+      "urduTranslation": "اے ہر آواز کو سننے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا سَابِقَ كُلِّ فَوْتٍ",
+      "transliteration": "ya sabiqa kulli fawtin",
+      "translation": "O He Who takes precedence over everything that passes away!",
+      "urduTranslation": "اے ہر گزر جانے والی چیز سے سبقت لے جانے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُحْيِي كُلِّ نَفْسٍ بَعْدَ ٱلْمَوْتِ",
+      "transliteration": "ya muhyiya kulli nafsin ba`da almawti",
+      "translation": "O He Who gives life to every soul after death!",
+      "urduTranslation": "اے ہر جان کو موت کے بعد زندگی بخشنے والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عُدَّتِي فِي شِدَّتِي",
+      "transliteration": "ya `uddati fi shiddti",
+      "translation": "O my Provision in my hardship!",
+      "urduTranslation": "اے میری سختی میں میرے ذخیرہ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حَافِظِي فِي غُرْبَتِي",
+      "transliteration": "ya hafizi fi ghurbati",
+      "translation": "O my Maintainer in my exile!",
+      "urduTranslation": "اے میری غربت و تنہائی میں میرے نگہبان!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُؤْنِسِي فِي وَحْدَتِي",
+      "transliteration": "ya mu'nisi fi wahdati",
+      "translation": "O my Intimate in my lonesomeness!",
+      "urduTranslation": "اے میری وحشت میں میرے مونس!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا وَلِيِّي فِي نِعْمَتِي",
+      "transliteration": "ya waliyyi fi ni`mati",
+      "translation": "O my Sponsor in my blessings!",
+      "urduTranslation": "اے میری نعمتوں میں میرے ولی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَهْفِي حِينَ تُعْيِينِيِ ٱلْمَذَاهِبُ",
+      "transliteration": "ya kahfi hina tu`yini almadhahibu",
+      "translation": "O my haven when the ways make me weary,",
+      "urduTranslation": "اے میری پناہ گاہ جب راستے مجھے تھکا دیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَتُسْلِّمُنِي ٱلاقَارِبُ",
+      "transliteration": "wa tusallimuni al-aqaribu",
+      "translation": "when relatives give me up",
+      "urduTranslation": "جب رشتہ دار مجھے چھوڑ دیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَيَخْذُلُنِي كُلُّ صَاحِبٍ",
+      "transliteration": "wa yakhdhuluni kullu sahibin",
+      "translation": "and when every companion forsakes me!",
+      "urduTranslation": "اور جب ہر ساتھی میرا ساتھ چھوڑ دے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا عِمَادَ مَنْ لاَ عِمَادَ لَهُ",
+      "transliteration": "ya `imada man la `imada lahu",
+      "translation": "O Backing of him who has no backing!",
+      "urduTranslation": "اے اس کا سہارا جس کا کوئی سہارا نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا سَنَدَ مَنْ لاَ سَنَدَ لَهُ",
+      "transliteration": "ya sanada man la sanada lahu",
+      "translation": "O Support of him who has no support!",
+      "urduTranslation": "اے اس کی مدد جس کی کوئی مدد نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذُخْرَ مَنْ لاَ ذُخْرَ لَهُ",
+      "transliteration": "ya dhukhra man la dhukhra lahu",
+      "translation": "O Store of him who has no store!",
+      "urduTranslation": "اے اس کا ذخیرہ جس کا کوئی ذخیرہ نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا حِرْزَ مَنْ لاَ حِرْزَ لَهُ",
+      "transliteration": "ya hirza man la hirza lahu",
+      "translation": "O Sanctuary of him who has no sanctuary!",
+      "urduTranslation": "اے اس کی پناہ جس کی کوئی پناہ نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَهْفَ مَنْ لاَ كَهْفَ لَهُ",
+      "transliteration": "ya kahfa man la kahfa lahu",
+      "translation": "O Cave of him who has no cave!",
+      "urduTranslation": "اے اس کی پناہ گاہ جس کی کوئی پناہ گاہ نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَنْزَ مَنْ لاَ كَنْزَ لَهُ",
+      "transliteration": "ya kanza man la kanza lahu",
+      "translation": "O Treasure of him who has no treasure!",
+      "urduTranslation": "اے اس کا خزانہ جس کا کوئی خزانہ نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رُكْنَ مَنْ لاَ رُكْنَ لَهُ",
+      "transliteration": "ya rukna man la rukna lahu",
+      "translation": "O castle of him who has no castle!",
+      "urduTranslation": "اے اس کا رکن جس کا کوئی رکن نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا غِيَاثَ مَنْ لاَ غِيَاثَ لَهُ",
+      "transliteration": "ya ghiyatha man la ghiyatha lahu",
+      "translation": "O Help of him who has no help!",
+      "urduTranslation": "اے اس کی فریاد رسی جس کی کوئی فریاد رسی نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَارَ مَنْ لاَ جَارَ لَهُ",
+      "transliteration": "ya jara man la jara lahu",
+      "translation": "O backer of him who has no backer!",
+      "urduTranslation": "اے اس کا پڑوسی جس کا کوئی پڑوسی نہیں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا جَارِي ٱللَّصِيقَ",
+      "transliteration": "ya jariya allasiqa",
+      "translation": "O my Adjacent Neighbor!",
+      "urduTranslation": "اے میرے قریبی پڑوسی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رُكْنِي ٱلْوَثِيقَ",
+      "transliteration": "ya rukniya alwathiqa",
+      "translation": "O my Sturdy Pillar!",
+      "urduTranslation": "اے میرے مضبوط ستون!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا إِلٰهِي بَٱلتَّحْقِيقِ",
+      "transliteration": "ya ilahi bilttahqiqi",
+      "translation": "O My God in truth!",
+      "urduTranslation": "اے میرے حقیقی معبود!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَبَّ ٱلْبَيْتِ ٱلْعَتِيقِ",
+      "transliteration": "ya rabba albayti al`atiqi",
+      "translation": "O Lord of the Ancient House!",
+      "urduTranslation": "اے قدیم گھر (کعبہ) کے رب!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا شَفِيقُ يَا رَفِيقُ",
+      "transliteration": "ya shafiqu ya rafiqu",
+      "translation": "O All-affectionate! O Friend!",
+      "urduTranslation": "اے شفیق! اے رفیق!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فُكَّنِي مِنْ حَلَقِ ٱلْمَضِيقِ",
+      "transliteration": "fukkani min halaqi almadiqi",
+      "translation": "Deliver me from the chains of strictures,",
+      "urduTranslation": "مجھے تنگی کے حلقوں سے رہائی عطا فرما،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱصْرِفْ عَنِّي كُلَّ هَمٍّ وَغَمٍّ وَضِيقٍ",
+      "transliteration": "wasrif `anni kulla hammin wa ghammin wa diqin",
+      "translation": "turn away from me every care, grief and distress,",
+      "urduTranslation": "اور مجھ سے ہر غم، فکر اور پریشانی کو دور کر دے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱكْفِنِي شَرَّ مَا لاَ اطِيقُ",
+      "transliteration": "wakfini sharra ma la utiqu",
+      "translation": "protect me from the evil of that which I cannot bear,",
+      "urduTranslation": "اور مجھے اس کے شر سے محفوظ رکھ جو میں برداشت نہیں کر سکتا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاعِنِّي عَلَىٰ مَا اطِيقُ",
+      "transliteration": "wa a`inni `ala ma utiqu",
+      "translation": "and help me in that which I am able to bear!",
+      "urduTranslation": "اور اس کام میں میری مدد فرما جسے میں کرنے کی طاقت رکھتا ہوں!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَادَّ يُوسُفَ عَلَىٰ يَعْقُوبَ",
+      "transliteration": "ya radda yusufa `ala ya`quba",
+      "translation": "O He Who returned Joseph to Jacob!",
+      "urduTranslation": "اے وہ ذات جس نے یوسف کو یعقوب سے ملایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا كَاشِفَ ضُرَّ ايُّوبَ",
+      "transliteration": "ya kashifa durri ayyuba",
+      "translation": "O He Who removed the affliction of Job!",
+      "urduTranslation": "اے وہ ذات جس نے ایوب کی تکلیف کو دور کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا غَافِرَ ذَنْبِ دَاوُودَ",
+      "transliteration": "ya ghafira dhanbi dawuda",
+      "translation": "O He Who forgave the sin of David!",
+      "urduTranslation": "اے وہ ذات جس نے داؤد کے گناہ کو معاف کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَافِعَ عِيسَىٰ بْنِ مَرْيَمَ وَمُنجِيهِ مِنْ ايْدِي ٱلْيَهُودِ",
+      "transliteration": "ya rafi`a `isa ibni maryama wa munjiyahu min a y di alyahudi",
+      "translation": "O He Who caused Jesus, the son of Mary, to ascend and delivered him from the hands of the Jews!",
+      "urduTranslation": "اے وہ ذات جس نے عیسیٰ بن مریم کو بلند کیا اور انہیں یہودیوں کے ہاتھوں سے نجات دی،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُجِيبَ نِدَاءِ يُونُسَ فِي ٱلظُّلُمَاتِ",
+      "transliteration": "ya mujiba nida'i yunusa fi alzzulumati",
+      "translation": "O He Who answered Jonah's call in the darkness!",
+      "urduTranslation": "اے وہ ذات جس نے تاریکیوں میں یونس کی پکار کا جواب دیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُصْطُفِي مُوسَىٰ بِٱلْكَلِمَاتِ",
+      "transliteration": "ya mustafiya musa bilkalimati",
+      "translation": "O He Who chose Moses by spoken words!",
+      "urduTranslation": "اے وہ ذات جس نے موسیٰ کو اپنے کلام کے لیے چنا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ غَفَرَ لآِدَمَ خَطِيئَتَهُ",
+      "transliteration": "ya man ghafara li-adama khati'atahu",
+      "translation": "O He Who forgave Adam his slip",
+      "urduTranslation": "اے وہ ذات جس نے آدم کی خطا کو معاف کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَرَفَعَ إِدْرِيسَ مَكَاناً عَلِيّاً بِرَحْمَتِهِ",
+      "transliteration": "wa rafa`a idrisa makanan `aliyyan birahmatihi",
+      "translation": "and raised Idris to a high place through his mercy!",
+      "urduTranslation": "اور اپنی رحمت سے ادریس کو بلند مقام عطا فرمایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ نَجَّىٰ نُوحاً مِنَ ٱلغَرَقِ",
+      "transliteration": "ya man najja nuhan mina algharaqi",
+      "translation": "O He Who saved Noah from drowning!",
+      "urduTranslation": "اے وہ ذات جس نے نوح کو غرق ہونے سے بچایا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ اهْلَكَ عَاداً ٱلاولَىٰ",
+      "transliteration": "ya man ahlaka `adan al-ula",
+      "translation": "O He Who destroyed `ªd, the ancient,",
+      "urduTranslation": "اے وہ ذات جس نے قومِ عادِ اولیٰ کو ہلاک کیا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَثَمُودَ فَمَا ابْقَىٰ",
+      "transliteration": "wa thamuda fama abqa",
+      "translation": "and Thamud, and did not spare them,",
+      "urduTranslation": "اور قومِ ثمود کو کہ کسی کو باقی نہ چھوڑا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَوْمَ نُوحٍ مِنْ قَبْلُ",
+      "transliteration": "wa qawma nuhin min qablu",
+      "translation": "and the people of Noah before;",
+      "urduTranslation": "اور اس سے پہلے قومِ نوح کو،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّهُمْ كَانُوا هُمْ اظْلَمَ وَاطْغَىٰ",
+      "transliteration": "innahum kanu hum azlama wa atgha",
+      "translation": "certainly, they were most unjust and more rebellious,",
+      "urduTranslation": "بے شک وہ بہت ہی ظالم اور سرکش تھے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱلْمُؤْتَفِكَةَ اهْوَىٰ",
+      "transliteration": "walmu'tafikata ahwa",
+      "translation": "and al-Mu'tafikah, He also overthrew.",
+      "urduTranslation": "اور مؤتفکہ (لوط کی بستیوں) کو الٹ دیا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ دَمَّرَ عَلَىٰ قَوْمِ لُوطٍ",
+      "transliteration": "ya man dammra `ala qawmi lutin",
+      "translation": "O He Who destroyed the people of Lot",
+      "urduTranslation": "اے وہ ذات جس نے قومِ لوط کو ہلاک کر دیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَدَمْدَمَ عَلَىٰ قَوْمِ شُعَيْبٍ",
+      "transliteration": "wa damdama `ala qawmi shu`aybin",
+      "translation": "and crushed the people of Shu`ayb!",
+      "urduTranslation": "اور قومِ شعیب کو تہس نہس کر ڈالا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنِ ٱتَّخَذَ إِبْرَاهِيمَ خَلِيلاً",
+      "transliteration": "ya man ittakhadha ibrahima khalilan",
+      "translation": "O He Who took Abraham for a friend!",
+      "urduTranslation": "اے وہ جس نے ابراہیم کو اپنا خلیل (دوست) بنایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنِ ٱتَّخَذَ مُوسَىٰ كَلِيماً",
+      "transliteration": "ya man ittakhadha musa kaliman",
+      "translation": "O You Who took Moses for an object of His words,",
+      "urduTranslation": "اے وہ جس نے موسیٰ کو اپنا کلیم (ہم کلام) بنایا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱتَّخَذَ مُحَمَّداً صَلَّىٰ اللَّهُ عَلَيْهِ وَآلِهِ وَعَلَيْهِمْ اجْمَعِينَ حَبِيباً",
+      "transliteration": "wattkhadha muhammadan salla allahu `alayhi wa alihi wa `alayhim ajma`ina habiban",
+      "translation": "and took Muhammad, may Allah bless him and his Household, for a beloved!",
+      "urduTranslation": "اور محمد (صلی اللہ علیہ وآلہ وسلم) کو اپنا حبیب بنایا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مُؤْتِي لُقْمَانَ ٱلْحِكْمَةَ",
+      "transliteration": "ya mu'tiya luqmana alhikmata",
+      "translation": "O He Who gave Luqman wisdom,",
+      "urduTranslation": "اے لقمان کو حکمت عطا کرنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱلْوَاهِبَ لِسُلَيْمَانَ مُلْكاً",
+      "transliteration": "walwahiba lisulaymana mulkan",
+      "translation": "and bestowed upon Solomon a kingdom",
+      "urduTranslation": "اور سلیمان کو ایسی بادشاہی بخشنے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لاَ يَنْبَغِي لاحَدٍ مِنْ بَعْدِهِ",
+      "transliteration": "la yanbaghi li'ahadin min ba`dihi",
+      "translation": "such as may not befit anyone after him!",
+      "urduTranslation": "جو ان کے بعد کسی کے لائق نہ ہو!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ نَصَرَ ذَا ٱلْقَرْنَيْنِ عَلىٰ ٱلْمُلُوكِ ٱلْجَبَابِرَةِ",
+      "transliteration": "ya man nasara dhalqarnayni `ala almuluki aljababirati",
+      "translation": "O He Who gave Dhul-Qarnayn victory over the tyrannical kings!",
+      "urduTranslation": "اے وہ جس نے ذوالقرنین کو سرکش بادشاہوں پر فتح دی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ اعْطَىٰ ٱلْخِضْرَ ٱلْحَيَاةَ",
+      "transliteration": "ya man a`ta alkhidra alhayata",
+      "translation": "O He Who gave al-Khadir (eternal) life",
+      "urduTranslation": "اے وہ جس نے خضر کو حیات (جاویدانی) عطا کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَرَدَّ لِيُوشَعَ بْنِ نُونٍ ٱلشَّمْسَ بَعْدَ غُرُوبِهَا",
+      "transliteration": "wa radda liyusha`a bni nunin alshshamsa ba`da ghurubiha",
+      "translation": "and returned the sun to Joshua, the son of Nun, after its setting!",
+      "urduTranslation": "اور یوشع بن نون کے لیے ڈوبنے کے بعد سورج کو واپس پلٹا دیا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ رَبَطَ عَلَىٰ قَلْبِ امِّ مُوسَىٰ",
+      "transliteration": "ya man rabata `ala qalbi ummi musa",
+      "translation": "O He Who strengthened the heart of Moses' mother,",
+      "urduTranslation": "اے وہ جس نے مادرِ موسیٰ کے دل کو مضبوط کیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاحْصَنَ فَرْجَ مَرْيَمَ ٱبْنَةِ عِمْرَانَ",
+      "transliteration": "wa ahsana farja maryama ibnati `imrana",
+      "translation": "and guarded the virginity of Mary, the daughter of `Imran!",
+      "urduTranslation": "اور مریم بنتِ عمران کی پاکدامنی کی حفاظت فرمائی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ حَصَّنَ يَحْيَىٰ بْنَ زَكَرِيَّا مِنَ ٱلذَّنْبِ",
+      "transliteration": "ya man hassana yahya ibna zakariyya mina aldhdhanbi",
+      "translation": "O He Who fortified John, the son of Zachariah, against sins",
+      "urduTranslation": "اے وہ جس نے یحییٰ بن زکریا کو گناہوں سے محفوظ رکھا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَسَكَّنَ عَنْ مُوسَىٰ ٱلْغَضَبَ",
+      "transliteration": "wa sakkana `an musa alghadaba",
+      "translation": "and calmed the anger of Moses!",
+      "urduTranslation": "اور موسیٰ کے غصے کو ٹھنڈا کیا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ بَشَّرَ زَكَرِيَا بِيَحْيَىٰ",
+      "transliteration": "ya man bashshara zakariyya biyahya",
+      "translation": "O He Who gave Zachariah the good news of the birth of John!",
+      "urduTranslation": "اے وہ جس نے زکریا کو یحییٰ کی خوشخبری سنائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ فَدَىٰ إِسْمَاعِيلَ مِنَ ٱلذَّبْحِ بِذِبْحٍ عَظِيمٍ",
+      "transliteration": "ya man fada isma`ila mina aldhdhabhi bidhibhin `azimin",
+      "translation": "O He Who ransomed Ishmael from the sacrifice with a mighty sacrifice!",
+      "urduTranslation": "اے وہ جس نے اسماعیل کو ذبح ہونے سے ایک عظیم قربانی کے بدلے چھڑا لیا!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا مَنْ قَبِلَ قُرْبَانَ هَابِيلَ",
+      "transliteration": "ya man qabila qurbana habila",
+      "translation": "O He Who accepted the sacrifice of Abel",
+      "urduTranslation": "اے وہ جس نے ہابیل کی قربانی قبول فرمائی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَجَعَلَ ٱللَّعْنَةَ عَلَىٰ قَابِيلَ",
+      "transliteration": "wa ja`ala alla`nata `ala qabila",
+      "translation": "and placed a curse upon Cain!",
+      "urduTranslation": "اور قابیل پر لعنت کی!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا هَازِمَ ٱلاحْزَابَ لِمُحَمَّدٍ صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "ya hazima al-ahzabi limuhammadin salla allahu `alayhi wa alihi",
+      "translation": "O He Who routed the parties for Muhammad, may Allah bless him and his Household!",
+      "urduTranslation": "اے محمد (صلی اللہ علیہ وآلہ وسلم) کے لیے لشکروں کو شکست دینے والے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "salli `ala muhammadin wa ali muhammadin",
+      "translation": "(please do) Bless Muhammad, the household of Muhammad,",
+      "urduTranslation": "محمد اور آلِ محمد پر رحمت نازل فرما",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَعَلَىٰ جَمِيعِ ٱلْمُرْسَلِينَ وَمَلائِكَتِكَ ٱلْمُقَرَّبِينَ",
+      "transliteration": "wa `ala jami`i almursalina wa mala'ikatika almuqarrabina",
+      "translation": "all the messengers, Your archangels,",
+      "urduTranslation": "اور تمام رسولوں، تیرے مقرب فرشتوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاهْلِ طَاعَتِكَ اجْمَعِينَ",
+      "transliteration": "wa ahli ta`atika ajma`ina",
+      "translation": "and all those who obey You!",
+      "urduTranslation": "اور تیرے تمام اطاعت گزار بندوں پر!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاسْالُكَ بِكُلِّ مَسْالَةٍ سَالَكَ بِهَا احَدٌ",
+      "transliteration": "wa as'aluka bikulli mas'alatin sa'alaka biha ahadun",
+      "translation": "I beseech You the supplication of every one who has besought you",
+      "urduTranslation": "اور میں تجھ سے سوال کرتا ہوں اس ہر دعا کے وسیلے سے جو کسی نے بھی تجھ سے کی",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مِمَنْ رَضِيتَ عَنْهُ فَحَتَمْتَ لَهُ عَلىٰ ٱلإِجَابَةِ",
+      "transliteration": "mimman radita `anhu fahatamta lahu `ala al-ijabati",
+      "translation": "and with whom You have been pleased and thus decided to grant his request.",
+      "urduTranslation": "جس سے تو راضی ہوا اور اس کی دعا کو قبول کرنا اپنے ذمہ کر لیا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا اَللَّهُ يَا اَللَّهُ يَا اَللَّهُ",
+      "transliteration": "ya allahu ya allahu ya allahu",
+      "translation": "O Allah! O Allah! O Allah!",
+      "urduTranslation": "اے اللہ! اے اللہ! اے اللہ!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَحْمٰنُ يَا رَحْمٰنُ يَا رَحْمٰنُ",
+      "transliteration": "ya rahmanu ya rahmanu ya rahmanu",
+      "translation": "O All-merciful! O All-merciful! O All-merciful!",
+      "urduTranslation": "اے رحمن! اے رحمن! اے رحمن!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا رَحِيمُ يَا رَحِيمُ يَا رَحِيمُ",
+      "transliteration": "ya rahimu ya rahimu ya rahimu",
+      "translation": "O All-compassionate! O All-compassionate! O All-compassionate!",
+      "urduTranslation": "اے رحیم! اے رحیم! اے رحیم!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجَلاَ لِ وَٱلإِكْرَامِ",
+      "transliteration": "ya dhaljalali wal-ikrami",
+      "translation": "O Lord of majesty and honor!",
+      "urduTranslation": "اے جلال و اکرام والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجَلاَ لِ وَٱلإِكْرَامِ",
+      "transliteration": "ya dhaljalali wal-ikrami",
+      "translation": "O Lord of majesty and honor!",
+      "urduTranslation": "اے جلال و اکرام والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "يَا ذَا ٱلْجَلاَلِ وَٱلإِكْرَامِ",
+      "transliteration": "ya dhaljalali wal-ikrami",
+      "translation": "O Lord of majesty and honor!",
+      "urduTranslation": "اے جلال و اکرام والے!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "بِهِ بِهِ بِهِ بِهِ بِهِ بِهِ بِهِ",
+      "transliteration": "bihi bihi bihi bihi bihi bihi bihi",
+      "translation": "By Him! By Him! By Him! By Him! By Him! By Him! By Him!",
+      "urduTranslation": "اس کے وسیلے سے، اس کے وسیلے سے، اس کے وسیلے سے، اس کے وسیلے سے، اس کے وسیلے سے، اس کے وسیلے سے، اس کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اسْالُكَ بِكُلِّ ٱسْمٍ سَمَّيْتَ بِهِ نَفْسَكَ",
+      "transliteration": "as'aluka bikulli ismin sammayta bihi nafsaka",
+      "translation": "I beseech You by every Name with which You have named Yourself",
+      "urduTranslation": "میں تجھ سے سوال کرتا ہوں اس ہر نام کے وسیلے سے جس سے تو نے اپنا نام رکھا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اوْ انْزَلْتَهُ فِي شَيْءٍ مِنْ كُتُبِكَ",
+      "transliteration": "aw anzaltahu fi shay'in min kutubika",
+      "translation": "or which You have sent down in one of Your scriptures",
+      "urduTranslation": "یا جسے تو نے اپنی کتابوں میں سے کسی میں اتارا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اوِ ٱسْتَاثَرْتَ بِهِ فِي عِلْمِ ٱلْغَيْبِ ٱلَّذِي عِنْدَكَ",
+      "transliteration": "aw ista'tharta bihi fi `ilmi alghaybi `indaka",
+      "translation": "or kept for Yourself in the knowledge of the Unseen with You,",
+      "urduTranslation": "یا جسے تو نے اپنے علمِ غیب میں اپنے لیے مخصوص رکھا",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَعَاِقدِ ٱلْعِزِّ مِنْ عَرْشِكَ",
+      "transliteration": "wa bima`aqidi al`izzi min `arshika",
+      "translation": "by the junctures of might for Your Throne,",
+      "urduTranslation": "اور تیرے عرش کے عزت والے مقامات کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمُنْتَهَىٰ ٱلرَّحْمَةِ مِنْ كِتَابِكَ",
+      "transliteration": "wa bimuntaha alrrahmati min kitabika",
+      "translation": "by the utmost limit of mercy from Your Book,",
+      "urduTranslation": "اور تیری کتاب میں رحمت کی انتہائی حد کے وسیلے سے",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَبِمَا ﴿وَلَوْ انّ َمَا فِي ٱلارْضِ مِنْ شَجَرَةٍ اقْلاَمٌ",
+      "transliteration": "wa bima wa law anna ma fi al-ardi min shajaratin aqlamun",
+      "translation": "by the fact that, “though all the trees in the earth were pens",
+      "urduTranslation": "اور اس کے وسیلے سے کہ، \"اگر زمین کے تمام درخت قلم بن جائیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱلْبَحْرُ يَمُدُّهُ مِنْ بَعْدِهِ سَبْعَةُ ابْحُرٍ",
+      "transliteration": "walbahru yamudduhu min ba`dihi sab`atu abhurin",
+      "translation": "and the sea - seven seas after it to replenish it,",
+      "urduTranslation": "اور سمندر، جس کے بعد سات سمندر مزید ہوں اسے مدد دیں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "مَا نَفِدَتْ كَلِمَاتُ ٱللَّهِ",
+      "transliteration": "ma nafidat kalimatu allahi",
+      "translation": "yet the words of Allah not be spent.",
+      "urduTranslation": "تب بھی اللہ کے کلمات ختم نہ ہوں گے\"",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ﴾",
+      "transliteration": "inna allaha `azizun hakimun",
+      "translation": "Allah is All-mighty, All-wise.”",
+      "urduTranslation": "بیشک اللہ سب پر غالب، حکمت والا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاسْالُكَ بِاسْمَائِكَ ٱلْحُسْنَىٰ",
+      "transliteration": "wa as'aluka bi-asma'ika alhusna",
+      "translation": "And I beseech You by Your Most Excellent Names",
+      "urduTranslation": "اور میں تجھ سے تیرے اُن بہترین ناموں کا واسطہ دے کر سوال کرتا ہوں",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "ٱلَّتِي نَعَتَّهَا فِي كِتَابِكَ فَقُلْتَ:",
+      "transliteration": "allati na`attaha fi kitabika faqulta",
+      "translation": "that You have described in Your book thus saying,",
+      "urduTranslation": "جن کا تو نے اپنی کتاب میں ذکر کیا اور فرمایا:",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "﴿وَلِلَّهِ ٱلاسْمَاءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا﴾",
+      "transliteration": "wa lillahi al-asma'u alhusna fad`uhu biha",
+      "translation": "“To Allah belong the Most Excellent Names, so call Him by them!”",
+      "urduTranslation": "اور اللہ کے لیے بہترین نام ہیں، پس اُسے اُن ناموں سے پکارو۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقُلْتَ: ﴿ادْعُونِي اسْتَجِبْ لَكُمْ﴾",
+      "transliteration": "wa qulta ud`uni astajib lakum",
+      "translation": "And You said: “Call upon Me and I will answer you.”",
+      "urduTranslation": "اور تُو نے فرمایا: مجھے پکارو، میں تمہاری دعا قبول کروں گا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقُلْتَ: ﴿وَإِذَا سَالَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌ",
+      "transliteration": "wa qulta wa idha sa'alaka `ibadi `anni fa'inni qaribun",
+      "translation": "And You said: “And when My servants ask you concerning Me, then surely I am very near;",
+      "urduTranslation": "اور تُو نے فرمایا: اور جب میرے بندے آپ سے میرے بارے میں سوال کریں تو میں بہت قریب ہوں،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "اجِيبُ دَعْوَةَ ٱلدَّاعِي إِذَا دَعَانِي﴾",
+      "transliteration": "ujibu da`wata aldda`i idha da`ani",
+      "translation": "I answer the prayer of the suppliant when he calls on Me.”",
+      "urduTranslation": "میں پکارنے والے کی دعا کو قبول کرتا ہوں جب وہ مجھے پکارتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقُلْتَ: ﴿قُلْ يَا عِبَادِي ٱلَّذِينَ اسْرَفُوا عَلَىٰ انْفُسِهِمْ",
+      "transliteration": "wa qulta qul ya `ibadiya alladhina asrafu `ala anfusihim",
+      "translation": "And You said: “Say: O My servants who have been prodigal against yourselves;",
+      "urduTranslation": "اور تُو نے فرمایا: کہہ دیجیے کہ اے میرے بندو جنہوں نے اپنی جانوں پر زیادتی کی ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "لاَ تَقْنَطُوا مِنْ رَحْمَةِ ٱللَّهِ",
+      "transliteration": "la taqnatu min rahmati allahi",
+      "translation": "do not despair of Allah's mercy.",
+      "urduTranslation": "اللہ کی رحمت سے نا امید نہ ہو جاؤ۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعاً",
+      "transliteration": "inna allaha yaghfiru aldhdhunuba jami`an",
+      "translation": "Surely, Allah forgives all sins.",
+      "urduTranslation": "بیشک اللہ تمام گناہوں کو بخش دیتا ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "إِنَّهُ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ﴾",
+      "transliteration": "innahu huwa alghafuru alrrahimu",
+      "translation": "Surely, He is the All-forgiving, the All-compassionate.”",
+      "urduTranslation": "بیشک وہی بہت بخشنے والا، نہایت مہربان ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَانَا اسْالُكَ يَا إِلٰهِي",
+      "transliteration": "wa ana as'aluka ya ilahi",
+      "translation": "And I ask You, O my God,",
+      "urduTranslation": "اور میں تجھ سے سوال کرتا ہوں اے میرے معبود،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَادْعُوكَ يَا رَبِّ",
+      "transliteration": "wa ad`uka ya rabbi",
+      "translation": "I call You, O my Lord,",
+      "urduTranslation": "اور تجھے پکارتا ہوں اے میرے رب،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَارْجَوكَ يَا سَيِّدِي",
+      "transliteration": "wa arjuka ya sayyidi",
+      "translation": "I please You, O my Master,",
+      "urduTranslation": "اور تجھ سے امید رکھتا ہوں اے میرے آقا،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَاطْمَعُ فِي إِجَابَتِي يَا مَوْلايَ كَمَا وَعَدتَّنِي",
+      "transliteration": "wa atma`u fi ijabati ya mawlaya kama wa`adtani",
+      "translation": "and I desire for You to respond to me, O my Protector, just as You have promised me—",
+      "urduTranslation": "اور میں تجھ سے دعا کرتا ہوں کہ میری دعا قبول فرما اے میرے مولا، جیسا کہ تو نے مجھ سے وعدہ کیا ہے،",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَقَدْ دَعَوْتُكَ كَمَا امَرْتَنِي",
+      "transliteration": "wa qad da`awtuka kama amartani",
+      "translation": "for I have called You just as You have commanded me.",
+      "urduTranslation": "پس میں نے تجھے پکارا ہے جیسا کہ تو نے مجھے حکم دیا تھا۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "فَٱفْعَلْ بِي مَا انتَ اهْلُهُ يَا كَرِيمُ",
+      "transliteration": "faf`al bi ma anta ahluhu ya karimu",
+      "translation": "So, do to me what is worthy of You, O All-generous!",
+      "urduTranslation": "پس میرے ساتھ وہ معاملہ کر جس کے تُو اہل ہے، اے کریم!",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَالَمِينَ",
+      "transliteration": "walhamdu lillahi rabbi al`alamina",
+      "translation": "All praise be to Allah, the Lord of the Worlds.",
+      "urduTranslation": "اور تمام تعریفیں اللہ کے لیے ہیں جو تمام جہانوں کا رب ہے۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    },
+    {
+      "arabic": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّدٍ وَآلِهِ اجْمَعِينَ",
+      "transliteration": "wa salla allahu `ala muhammadin wa alihi ajma`ina",
+      "translation": "May Allah bless Muhammad and his entire Household.",
+      "urduTranslation": "اور اللہ کی رحمتیں نازل ہوں محمد اور اُن کی تمام آل پر۔",
+      "farsiTranslation": "ترجمه فارسی در دسترس نیست"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "namaz_wahshat",
+  "title": "Namaz-e-Wahshat-e-Qabr",
+  "titleUr": "نماز وحشت قبر",
+  "titleAr": "صلاة ليلة الدفن",
+  "category": "Occasions",
+  "categoryUr": "مواقع",
+  "categoryAr": "المناسبات",
+  "description": "A prayer offered for a deceased person on the first night of their burial to ease the difficulties of the grave.",
+  "descriptionUr": "میت کو دفن کرنے کی پہلی رات اس کی قبر کی وحشت دور کرنے کے لیے پڑھی جانے والی نماز۔",
+  "descriptionAr": "صلاة تُصلى للميت في أول ليلة من دفنه لرفع وحشة القبر عنه.",
+  "relevance": "First night of burial",
+  "relevanceUr": "دفن کی پہلی رات",
+  "relevanceAr": "الليلة الأولى بعد الدفن",
+  "acts": [
+    {
+      "actNumber": 1,
+      "title": "First Rak'at",
+      "titleUr": "پہلی رکعت",
+      "titleAr": "الركعة الأولى",
+      "description": "In the first Rak'at, after Surah al-Fatihah, recite Ayatul Kursi once.",
+      "descriptionUr": "پہلی رکعت میں سورہ فاتحہ کے بعد ایک بار آیت الکرسی پڑھیں۔",
+      "descriptionAr": "يقرأ في الركعة الأولى سورة الفاتحة مرة وآية الكرسي مرة."
+    },
+    {
+      "actNumber": 2,
+      "title": "Second Rak'at",
+      "titleUr": "دوسری رکعت",
+      "titleAr": "الركعة الثانية",
+      "description": "In the second Rak'at, after Surah al-Fatihah, recite Surah al-Qadr 10 times.",
+      "descriptionUr": "دوسری رکعت میں سورہ فاتحہ کے بعد 10 بار سورہ قدر پڑھیں۔",
+      "descriptionAr": "يقرأ في الركعة الثانية سورة الفاتحة مرة وسورة القدر عشر مرات."
+    },
+    {
+      "actNumber": 3,
+      "title": "Dua After Prayer",
+      "titleUr": "نماز کے بعد دعا",
+      "titleAr": "الدعاء بعد الصلاة",
+      "description": "After finishing the prayer, send blessings on Muhammad (PBUH) and his progeny, and send the reward of the prayer to the grave of the deceased.",
+      "descriptionUr": "نماز کے بعد محمد اور آل محمد پر درود بھیجیں، اور نماز کا ثواب میت کی قبر کو ہدیہ کریں۔",
+      "descriptionAr": "بعد الصلاة يسلم ويقول: اللّهم صل على محمد وآل محمد وابعث ثوابها إلى قبر فلان (ويذكر اسم الميت).",
+      "arabicRecitation": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَابْعَثْ ثَوَابَهَا إِلَى قَبْرِ فُلَانٍ",
+      "translation": "O Allah, send blessings on Muhammad and the progeny of Muhammad, and send its reward to the grave of [Name of deceased].",
+      "urduTranslation": "اے اللہ، محمد اور آل محمد پر درود نازل فرما اور اس کا ثواب فلاں (میت کا نام) کی قبر میں بھیج دے۔",
+      "transliteration": "Allahumma salli 'ala Muhammadin wa Aali Muhammad wab'ath thawabaha ila qabri [Name of deceased]."
+    }
+  ]
+}
